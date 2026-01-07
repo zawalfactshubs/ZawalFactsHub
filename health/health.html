@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zawal Facts Hub - Health Tips</title>
+<meta name="description" content="Stay healthy with Zawal Facts Hub! Explore daily health tips on fitness, nutrition, mental wellness, sleep, hydration, weight management, and healthy habits.">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>
+      <img src="/logo.png" alt="Zawal Facts Hub Logo">
+      Zawal Facts Hub
+    </h1>
+
+    <!-- Hamburger Menu -->
+    <div class="hamburger" id="hamburger">☰</div>
+    <nav class="nav-menu" id="nav-menu">
+      <a href="../index.html">Home</a>
+      <a href="../facts/facts.html">Facts</a>
+      <a href="../motivation/motivation.html">Motivation</a>
+      <a href="health.html" class="active">Health Tips</a>
+      <a href="../tech/tech.html">Tech Tips</a>
+   
+      <a href="../tutorials.html">Life Hacks</a>
+      <a href="../about.html">About</a>
+      <a href="../privacy.html">Privacy Policy</a>
+      <a href="../contact.html">Contact Us</a>
+      <a href="../premium-facts.html">Premium Facts</a>
+    </nav>
+  </header>
+
+  <!-- Tip of the Day -->
+  <section class="fact-of-day">
+    <h2>Health Tip of the Day</h2>
+    <p id="tip-text">Loading...</p>
+    <button id="generate-tip" class="generate-fact">Generate Tip</button>
+  </section>
+
+  <!-- Category Links -->
+  <div class="categories">
+    <a class="category" href="../index.html">Home</a>
+    <a class="category" href="../facts/facts.html">Facts</a>
+    <a class="category" href="../motivation/motivation.html">Motivation</a>
+    <a class="category" href="../tech/tech.html">Tech Tips</a>
+    <a class="category active" href="health.html">Health Tips</a>
+    <a class="category" href="../tutorials.html">Life Hacks</a>
+  </div>
+
+  <!-- Health Categories -->
+  <section class="posts">
+    <div class="card">
+  <img src="women.jpg" alt="Women's Health">
+  <div class="card-content">
+    <h3>Women's Health</h3>
+    <p>Menstrual cycle, pregnancy, and general female wellness.</p>
+    <a href="womens/womens.html">View Tips</a>
+  </div>
+</div>
+
+<div class="card">
+  <img src="men.jpg" alt="Men's Health">
+  <div class="card-content">
+    <h3>Men's Health</h3>
+    <p>Fitness, testosterone, prostate, and general male wellness.</p>
+    <a href="men/men.html">View Tips</a>
+  </div>
+</div>
+    <div class="card">
+      <img src="nutrition.jpg" alt="Nutrition">
+      <div class="card-content">
+        <h3>Nutrition</h3>
+        <p>Healthy eating tips, superfoods, and balanced diet advice.</p>
+        <a href="nutrition/nutrition.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="fitness.jpg" alt="Fitness">
+      <div class="card-content">
+        <h3>Fitness</h3>
+        <p>Exercise routines, workouts, and staying physically active.</p>
+        <a href="fitness/fitness.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="mental.jpg" alt="Mental Health">
+      <div class="card-content">
+        <h3>Mental Health</h3>
+        <p>Stress management, mindfulness, and emotional well-being.</p>
+        <a href="mental/mental.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="sleep.jpg" alt="Sleep">
+      <div class="card-content">
+        <h3>Sleep</h3>
+        <p>Tips for better sleep and sleep hygiene for a healthy life.</p>
+        <a href="sleep/sleep.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="hydration.jpg" alt="Hydration">
+      <div class="card-content">
+        <h3>Hydration</h3>
+        <p>Importance of water and healthy drink habits.</p>
+        <a href="hydration/hydration.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="weight.jpg" alt="Weight Management">
+      <div class="card-content">
+        <h3>Weight Management</h3>
+        <p>Tips for maintaining, losing, or gaining weight healthily.</p>
+        <a href="weigth/weight.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="immune.jpg" alt="Immune Health">
+      <div class="card-content">
+        <h3>Immune Health</h3>
+        <p>Boosting your immunity naturally through lifestyle and diet.</p>
+        <a href="immune/immune.html">View Tips</a>
+      </div>
+    </div>
+
+   
+    <div class="card">
+      <img src="habits.jpg" alt="Healthy Habits">
+      <div class="card-content">
+        <h3>Healthy Habits</h3>
+        <p>Daily routines and lifestyle habits for better health.</p>
+        <a href="healthyhabits/healthyhabits.html">View Tips</a>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- JS -->
+  <script>
+    // Hamburger menu toggle
+    const hamburger = document.getElementById('hamburger');
+    const navMenu = document.getElementById('nav-menu');
+    hamburger.addEventListener('click', () => navMenu.classList.toggle('open'));
+
+    // Health Tip of the Day Generator
+    const tips = [
+      "Drink at least 8 glasses of water daily.",
+      "Take a 30-minute walk every day.",
+      "Eat more fruits and vegetables.",
+      "Get 7–9 hours of sleep each night.",
+      "Practice deep breathing or meditation.",
+      "Limit sugar and processed foods.",
+      "Strengthen your muscles with regular exercise.",
+      "Take short breaks to reduce stress at work.",
+      "Maintain a consistent daily routine.",
+      "Include fiber in your diet for better digestion."
+    ];
+
+    const tipText = document.getElementById('tip-text');
+    const generateBtn = document.getElementById('generate-tip');
+
+    function showTip() {
+      const randomIndex = Math.floor(Math.random() * tips.length);
+      tipText.textContent = tips[randomIndex];
+    }
+
+    generateBtn.addEventListener('click', showTip);
+    showTip();
+  </script>
+  <!-- Include the menu JS & CSS -->
+<link rel="stylesheet" href="../menu.css">
+<script src="../menu.js"></script>
+<script src="../lazyload.js" defer></script>
+</body>
+</html>

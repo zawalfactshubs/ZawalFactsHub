@@ -1,0 +1,100 @@
+/* =======================================
+   PRIVACY PAGE ONLY — SAFE SEPARATE CSS
+==========================================*/
+
+/* PAGE BACKGROUND & BASE TEXT */
+.privacy-page {
+  font-family: "Roboto", sans-serif;
+  background: #1C2B2D;       /* dark */
+  color: #F5F5F5;            /* light text */
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
+}
+
+/* MAIN CONTAINER */
+.privacy-container {
+  width: 90%;
+  max-width: 900px;
+  margin: 2rem auto;
+  line-height: 1.7;
+}
+
+/* HEADER */
+.privacy-header {
+  background: #CD7F32; /* accent */
+  padding: 1.2rem;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 6px;
+}
+
+.privacy-header h1 {
+  margin: 0;
+  font-size: 1.9rem;
+  font-weight: 700;
+}
+
+/* SECTION TITLES */
+.privacy-container h2,
+.privacy-container h3 {
+  color: #CD7F32;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+}
+
+/* PARAGRAPHS */
+.privacy-container p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* LISTS */
+.privacy-container ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.privacy-container ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* DIVIDER LINE */
+.privacy-divider {
+  border: none;
+  border-bottom: 1px solid #444;
+  margin: 1.5rem 0;
+}
+
+/* TERMS BUTTON */
+.terms-button {
+  display: inline-block;
+  padding: 0.8rem 1.4rem;
+  background: #CD7F32;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 1rem 0 2rem 0;
+  transition: 0.3s ease;
+}
+
+.terms-button:hover {
+  background: #b56f29;
+  transform: translateY(-2px);
+}
+
+/* RESPONSIVENESS */
+@media (max-width: 600px) {
+  .privacy-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .privacy-container {
+    width: 92%;
+  }
+}
+  .p{
+    color: #CD7F32;
+  }

@@ -1,0 +1,810 @@
+/* === Colors === */
+:root {
+  --dark-bg: #1C2B2D;
+  --accent: #CD7F32;
+  --light-text: #F5F5F5;
+  --card-bg: #283a3c;
+  --card-hover-shadow: rgba(205, 127, 50, 0.5);
+}
+
+/* === Global === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: var(--dark-bg);
+  color: var(--light-text);
+  line-height: 1.6;
+}
+/* ===============================
+   HEADER & LOGO (Sticky)
+=============================== */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 30px;               /* banner padding */
+  gap: 10px;
+  background-color: var(--dark-bg); /* dark background */
+  position: sticky;                  /* stick to top */
+  top: 0;                            /* stick at top */
+  width: 100%;
+  z-index: 1000;                     /* stay above other content */
+  border-bottom: 4px solid var(--accent); /* bronze line under header */
+}
+
+/* Header Title / Logo */
+header h1 {
+  display: flex;
+  align-items: center;
+  gap: 15px;               /* spacing between logo and text */
+  font-size: 2rem;         /* bigger site name */
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  white-space: nowrap;
+  position: relative;
+}
+
+/* Logo Image */
+header h1 img {
+  width: 70px;
+  height: 70px;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 0 15px var(--accent); /* glowing effect */
+  transition: transform 0.3s ease;
+}
+
+header h1 img:hover {
+  transform: rotate(10deg) scale(1.1); /* hover animation */
+}
+
+/* Decorative Bronze Line under site name */
+header h1::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  background-color: var(--accent);
+  margin-top: 6px;      /* spacing below title */
+  border-radius: 2px;
+}
+
+/* Optional: body top padding to avoid content hiding under sticky header */
+
+/* ===============================
+   NAVIGATION
+=============================== */
+nav {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+nav a {
+  color: var(--light-text);
+  text-decoration: none;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+nav a::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), #FFD700);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+nav a:hover::after,
+nav a.active::after {
+  width: 100%;
+}
+
+/* ===============================
+   HAMBURGER ICON
+=============================== */
+.hamburger {
+  display: none;
+  font-size: 2.5rem;           /* slightly bigger hamburger */
+  cursor: pointer;
+  color: var(--accent);
+  transition: transform 0.3s, color 0.3s;
+}
+
+.hamburger:hover {
+  transform: scale(1.2);
+  color: #FFD700;
+}
+
+/* ===============================
+   MOBILE SLIDE-IN MENU
+=============================== */
+.nav-menu {
+  position: fixed;
+  top: 0;
+  right: -300px;
+  width: 280px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2rem 1.5rem;
+  background: rgba(28, 43, 45, 0.98);
+  backdrop-filter: blur(5px);
+  box-shadow: -4px 0 20px rgba(205,127,50,0.4);
+  border-radius: 12px 0 0 12px;
+  transition: right 0.4s ease;
+  overflow-y: auto;
+  z-index: 2000;
+}
+
+.nav-menu.open {
+  right: 0;
+}
+
+.nav-menu a {
+  font-size: 1.2rem;
+  color: var(--light-text);
+  text-decoration: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.nav-menu a:hover {
+  background: rgba(205, 127, 50, 0.2);
+  transform: translateX(-5px);
+}
+
+.close-menu {
+  align-self: flex-end;
+  font-size: 3rem;           /* bigger and more visible */
+  font-weight: bold;          /* strong presence */
+  cursor: pointer;
+  color: #FFFFFF;             /* pure white for max contrast */
+  background: rgba(0, 0, 0, 0.5); /* subtle dark background to make it stand out */
+  padding: 12px 14px;         
+  border-radius: 50%;
+  line-height: 1;
+  z-index: 2100;
+  transition: transform 0.25s ease, color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.6); /* soft glow for visibility */
+}
+
+.close-menu:hover {
+  color: #FFD700;                /* gold on hover for feedback */
+  background: rgba(255, 215, 0, 0.25);
+  transform: rotate(90deg) scale(1.2); /* noticeable hover effect */
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.8); /* glowing hover */
+}
+
+/* Mobile tweaks */
+@media (max-width: 480px) {
+  .close-menu {
+    font-size: 3.2rem;  /* slightly bigger on small screens */
+    padding: 14px 16px;
+  }
+}
+/* ===============================
+   RESPONSIVE
+=============================== */
+@media (max-width: 768px) {
+  nav {
+    display: none; /* Desktop links hidden */
+  }
+  .hamburger {
+    display: block;
+  }
+}
+
+@media (min-width: 769px) {
+  .nav-menu {
+    position: static;
+    right: 0;
+    height: auto;
+    width: auto;
+    flex-direction: row;
+    padding: 0;
+    gap: 2rem;
+    background: none;
+    box-shadow: none;
+    border-radius: 0;
+    overflow: visible;
+  }
+
+  .nav-menu a {
+    font-size: 1rem;
+    padding: 0;
+  }
+
+  .close-menu {
+    display: none;
+  }
+}
+
+/* ===============================
+   MOBILE HEADER FIX (small screens)
+=============================== */
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.6rem;
+  }
+
+  header h1 img {
+    width: 50px;
+    height: 50px;
+  }
+}
+/* === Fact of the Day === */
+.fact-of-day {
+  background-color: var(--card-bg);
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 1000px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.4);
+  animation: fadeIn 1s ease-in;
+}
+
+.fact-of-day h2 {
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.generate-fact {
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--accent);
+  color: var(--light-text);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.generate-fact:hover {
+  box-shadow: 0 0 10px var(--accent);
+}
+/* === Button / Link Clicked State === */
+.clicked {
+  background-color: var(--accent) !important;
+  color: var(--dark-bg) !important;
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.7);
+  transition: all 0.2s;
+}
+/* === Search Bar === */
+.search-bar {
+  max-width: 1000px;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar input {
+  width: 100%;
+  max-width: 500px;
+  padding: 0.7rem 1rem;
+  border-radius: 8px 0 0 8px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+
+.search-bar button {
+  padding: 0.7rem 1rem;
+  border: none;
+  border-radius: 0 8px 8px 0;
+  background-color: var(--accent);
+  color: var(--light-text);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.search-bar button:hover {
+  box-shadow: 0 0 10px var(--accent);
+}
+
+/* === Posts === */
+.posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.card {
+  background-color: var(--card-bg);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  position: relative;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px var(--card-hover-shadow);
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 1rem;
+}
+
+.card-content h3 {
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.card-content p {
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.card-content a {
+  display: inline-block;
+  color: var(--light-text);
+  background-color: var(--accent);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.card-content a:hover {
+  box-shadow: 0 0 10px var(--accent);
+}
+
+/* === Categories === */
+.categories {
+  max-width: 1000px;
+  margin: 2rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.category {
+  padding: 0.8rem 1.5rem;
+  background-color: #3a4d4f;
+  border-radius: 50px;
+  color: var(--accent);
+  font-weight: 500;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.category:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(205,127,50,0.5);
+}
+
+/* === Footer === */
+/* === Modern Footer === */
+.modern-footer {
+  background: #1C2B2D;
+  padding: 2rem 1rem;
+  color: #F5F5F5;
+  text-align: center;
+  margin-top: 2rem;
+  border-top: 3px solid #CD7F32;
+}
+
+.modern-footer h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #CD7F32;
+}
+
+/* Newsletter */
+.modern-footer form {
+  display: flex;
+  justify-content: center;
+  gap: .5rem;
+  margin-bottom: 1.5rem;
+}
+
+.modern-footer input {
+  padding: .7rem;
+  width: 60%;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+.modern-footer button {
+  background: #CD7F32;
+  border: none;
+  padding: .7rem 1rem;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.footer-links {
+  margin: 1.5rem 0;
+}
+
+.footer-links a {
+  margin: 0 .8rem;
+  color: #F5F5F5;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #CD7F32;
+}
+
+/* Copyright text */
+.copy {
+  font-size: .9rem;
+  opacity: .7;
+  margin-top: 1rem;
+}
+
+/* === Stats Section === */
+.stats {
+  margin: 2rem auto;
+  max-width: 420px;
+  background: #1C2B2D;
+  padding: 1.5rem;
+  border-radius: 12px;
+  color: white;
+  box-shadow: 0 0 12px rgba(205, 127, 50, 0.5);
+  border: 1px solid #CD7F32;
+}
+
+.stat-box {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.stat-box button {
+  background: #CD7F32;
+  border: none;
+  padding: .4rem .8rem;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+
+.stat-box button:active {
+  transform: scale(.95);
+}
+/* === Dark/Light Mode Toggle Button === */
+.dark-mode-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: var(--accent);
+  color: var(--light-text);
+  border: none;
+  border-radius: 50px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 1000;
+  transition: 0.3s;
+}
+
+.dark-mode-toggle:hover {
+  box-shadow: 0 0 10px var(--accent);
+}
+
+/* === Animations === */
+@keyframes fadeIn {
+  from {opacity: 0; transform: translateY(20px);}
+  to {opacity: 1; transform: translateY(0);}
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+  nav {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+  .nav-menu {
+    display: none;
+  }
+  .nav-menu.open {
+    display: flex;
+  }
+  #share-modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+}
+
+#share-modal .modal-content {
+  background: #1C2B2D;
+  width: 90%;
+  max-width: 500px;
+  padding: 30px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+}
+
+.share-icon {
+  display: block;
+  padding: 12px;
+  background: #CD7F32;
+  color: #F5F5F5;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+  transition: transform 0.2s;
+}
+.share-icon:hover {
+  transform: scale(1.05);
+  background: #B5672B;
+}
+.did-you-know {
+  display: inline-block;
+  background-color: #CD7F32; /* Your accent color */
+  color: #F5F5F5;           /* Text color */
+  font-weight: 700;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  margin-bottom: 5px;
+  pointer-events: none; /* Makes it non-clickable */
+  user-select: none;    /* Prevents text selection */
+}
+/* === About Us Page === */
+
+/* Hero Section */
+.hero-about {
+  border-radius: 12px;
+  padding: 4rem 2rem;
+  text-align: center;
+  background-color: var(--card-bg);
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.4);
+  animation: fadeIn 1s ease-in;
+}
+
+.hero-about h1 {
+  font-size: 2.5rem;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.hero-about p {
+  font-size: 1.2rem;
+  color: var(--light-text);
+  margin-bottom: 2rem;
+}
+
+.hero-about img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 12px;
+  margin: auto;
+  display: block;
+}
+
+/* Mission & Vision Section */
+.mission-vision {
+  border-radius: 12px;
+  padding: 2rem;
+  background-color: var(--card-bg);
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.4);
+  animation: fadeIn 1s ease-in;
+}
+
+.mission-vision h2 {
+  color: var(--accent);
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.mission-vision p {
+  color: var(--light-text);
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+/* Features & Values Section */
+.features-values {
+  display: grid;
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.feature-card {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(205, 127, 50, 0.4);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.feature-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 18px rgba(205, 127, 50, 0.5);
+}
+
+.feature-card h3 {
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.feature-card p {
+  color: var(--light-text);
+}
+
+/* Team / Founder Section */
+.team {
+  text-align: center;
+  border-radius: 12px;
+  padding: 2rem;
+  background-color: var(--card-bg);
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.4);
+}
+
+.team h2 {
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.team p {
+  color: var(--light-text);
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.team .category {
+  margin-top: 1rem;
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* Call to Action */
+.cta {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.cta .generate-fact {
+  background-color: var(--accent);
+  color: var(--light-text);
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: transform 0.2s, box-shadow 0.3s;
+}
+
+.cta .generate-fact:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px var(--accent);
+}
+
+/* === Responsive Adjustments === */
+@media (max-width: 768px) {
+  .hero-about h1 {
+    font-size: 2rem;
+  }
+  
+  .hero-about p {
+    font-size: 1rem;
+  }
+  
+  .features-values {
+    grid-template-columns: 1fr;
+  }
+  
+  .mission-vision p,
+  .team p {
+    font-size: 0.95rem;
+  }
+}
+/* 🔒 Disable legacy share modal completely */
+#share-modal {
+  display: none !important;
+  pointer-events: none !important;
+  visibility: hidden !important;
+}
+.card-hidden {
+  display: none !important;
+}
+}
+/* =============================== */
+/* Horizontal Scroll Container */
+/* =============================== */
+.quiz-tabs-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 1.5rem;
+}
+
+/* Tabs Row */
+.quiz-tabs {
+  display: flex;
+  flex-wrap: nowrap;       /* keep tabs in a single row */
+  overflow-x: auto;        /* scroll horizontally if too many tabs */
+  gap: 6px;                /* space between tabs */
+  margin-bottom: 1.5rem;
+  padding-bottom: 4px;
+  -webkit-overflow-scrolling: touch; /* smooth scrolling on mobile */
+}
+
+/* Individual Tab */
+.quiz-tabs .tab {
+  padding: 8px 16px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--accent);
+  color: var(--light-text);
+  font-weight: 700;
+  border-radius: 8px;
+  cursor: pointer;
+  white-space: nowrap;     /* prevent text wrapping */
+  transition: all 0.2s;
+  flex-shrink: 0;          /* prevent shrinking in flex row */
+  text-decoration: none;   /* for <a> tabs */
+  font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Active Tab */
+.quiz-tabs .tab.active {
+  background-color: var(--accent);
+  color: var(--dark-bg);
+  box-shadow: 0 4px 12px rgba(205,127,50,0.5);
+  pointer-events: none; /* optional: prevent hover/click styling on active */
+}
+
+/* Hover effect only for non-active tabs */
+.quiz-tabs .tab:not(.active):hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(205,127,50,0.3);
+}
+
+/* Optional: smooth scrolling for container */
+.quiz-tabs {
+  scroll-behavior: smooth;
+}
+/* Hide Life Hacks links */
+.nav-menu a[href="../tutorials.html"],
+.categories a[href="../tutorials.html"] {
+  display: none !important;
+}

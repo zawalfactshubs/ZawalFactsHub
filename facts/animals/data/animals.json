@@ -1,0 +1,1810 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Elephants are the largest land animals and can weigh up to 12,000 pounds.",
+    "category": "mammal",
+    "image": "images/elephant.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Dolphins sleep with one eye open to stay alert for predators.",
+    "category": "marine",
+    "image": "images/dolphin.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Hummingbirds can fly backwards due to their unique wing structure.",
+    "category": "bird",
+    "image": "images/hummingbird.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? A group of crows is called a murder because of folklore stories.",
+    "category": "bird",
+    "image": "images/crows.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? Sharks have existed for over 400 million years, long before trees appeared.",
+    "category": "marine",
+    "image": "images/shark.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? Giraffes have the same number of neck vertebrae as humans, just longer.",
+    "category": "mammal",
+    "image": "images/giraffe.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Octopuses have three hearts and blue blood to survive in cold oceans.",
+    "category": "marine",
+    "image": "images/octopus.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Penguins can drink seawater thanks to a gland that filters salt.",
+    "category": "bird",
+    "image": "images/penguin.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? Sloths can hold their breath longer than dolphins by slowing their heart rate.",
+    "category": "mammal",
+    "image": "images/sloth.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? Tigers are the largest cats, weighing over 600 pounds.",
+    "category": "mammal",
+    "image": "images/tiger.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Koalas sleep up to 20 hours a day to conserve energy.",
+    "category": "mammal",
+    "image": "images/koala.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Butterflies taste with their feet to find the right plants for laying eggs.",
+    "category": "insect",
+    "image": "images/butterfly.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? A group of flamingos is called a flamboyance because of their bright colors.",
+    "category": "bird",
+    "image": "images/flamingo.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Cows have best friends and get stressed when separated.",
+    "category": "mammal",
+    "image": "images/cow.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Owls can rotate their necks up to 270 degrees without injury.",
+    "category": "bird",
+    "image": "images/owl.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Octopuses can change both color and texture to hide from predators.",
+    "category": "marine",
+    "image": "images/octopus2.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? Frogs can survive freezing temperatures by temporarily stopping their hearts.",
+    "category": "amphibian",
+    "image": "images/frog.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Bees communicate by dancing to show others where flowers are.",
+    "category": "insect",
+    "image": "images/bee.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Camels can survive weeks without water thanks to fat-storing humps.",
+    "category": "mammal",
+    "image": "images/camel.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Sea otters hold hands while sleeping to prevent drifting apart.",
+    "category": "marine",
+    "image": "images/seaotter.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? A group of lions is called a pride, reflecting their social nature.",
+    "category": "mammal",
+    "image": "images/lion.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Rats laugh when tickled, showing they have emotions.",
+    "category": "mammal",
+    "image": "images/rat.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Sharks can detect a single drop of blood in 25 gallons of water.",
+    "category": "marine",
+    "image": "images/shark2.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Owls have special feathers that let them fly silently.",
+    "category": "bird",
+    "image": "images/owl2.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Chameleons can move their eyes independently to watch for predators.",
+    "category": "reptile",
+    "image": "images/chameleon.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Dolphins have unique names to identify each other.",
+    "category": "marine",
+    "image": "images/dolphin2.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Snakes can sense earthquakes using vibrations in the ground.",
+    "category": "reptile",
+    "image": "images/snake.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Elephants can hear with their feet by sensing ground vibrations.",
+    "category": "mammal",
+    "image": "images/elephant2.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Rabbits can see behind them without turning their heads.",
+    "category": "mammal",
+    "image": "images/rabbit.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Ants can carry objects 50 times their body weight.",
+    "category": "insect",
+    "image": "images/ant.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Penguins propose with pebbles to attract mates.",
+    "category": "bird",
+    "image": "images/penguin2.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? A group of jellyfish is called a smack.",
+    "category": "marine",
+    "image": "images/jellyfish.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Turtles can breathe through their butts underwater.",
+    "category": "reptile",
+    "image": "images/turtle.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Crows can recognize human faces and remember them for years.",
+    "category": "bird",
+    "image": "images/crow2.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Sloths can rotate their necks almost 270 degrees.",
+    "category": "mammal",
+    "image": "images/sloth2.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Kangaroos cannot walk backward due to their leg structure.",
+    "category": "mammal",
+    "image": "images/kangaroo.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Sea turtles migrate thousands of miles to lay eggs.",
+    "category": "marine",
+    "image": "images/seaturtle.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Butterflies can see ultraviolet light, which humans cannot.",
+    "category": "insect",
+    "image": "images/butterfly2.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Hippos secrete red-colored natural sunscreen to protect their skin.",
+    "category": "mammal",
+    "image": "images/hippo.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Cheetahs are the fastest land animals, reaching speeds up to 70 mph.",
+    "category": "mammal",
+    "image": "images/cheetah.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Sea horses are monogamous and often mate for life.",
+    "category": "marine",
+    "image": "images/seahorse.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Owls can see in near-total darkness using their large eyes.",
+    "category": "bird",
+    "image": "images/owl3.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Lobsters can live over 50 years and continue growing throughout their life.",
+    "category": "marine",
+    "image": "images/lobster.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? Dogs can hear frequencies up to 45,000 Hz, far beyond humans.",
+    "category": "mammal",
+    "image": "images/dog.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Cats have whiskers on their legs in addition to their face to sense space.",
+    "category": "mammal",
+    "image": "images/cat.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Fireflies produce light through a chemical reaction called bioluminescence.",
+    "category": "insect",
+    "image": "images/firefly.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Frogs absorb water through their skin instead of drinking it.",
+    "category": "amphibian",
+    "image": "images/frog2.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Elephants use their trunks to smell, breathe, trumpet, drink, and grab things.",
+    "category": "mammal",
+    "image": "images/elephant3.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Owls have asymmetrical ears that help them locate prey by sound.",
+    "category": "bird",
+    "image": "images/owl4.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Starfish can regenerate lost arms and even an entire body from one arm.",
+    "category": "marine",
+    "image": "images/starfish.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Pigs are highly intelligent and can learn complex tasks.",
+    "category": "mammal",
+    "image": "images/pig.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Parrots can mimic human speech and understand context.",
+    "category": "bird",
+    "image": "images/parrot.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Toads secrete toxins through their skin as a defense mechanism.",
+    "category": "amphibian",
+    "image": "images/toad.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Crabs walk sideways due to the structure of their legs.",
+    "category": "marine",
+    "image": "images/crab.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Ants create supercolonies that can stretch thousands of miles.",
+    "category": "insect",
+    "image": "images/ant2.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Dolphins use echolocation to find food and navigate the ocean.",
+    "category": "marine",
+    "image": "images/dolphin3.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Snails can sleep for up to three years under harsh conditions.",
+    "category": "reptile",
+    "image": "images/snail.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Owls can hunt silently thanks to their soft feather edges.",
+    "category": "bird",
+    "image": "images/owl5.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Bats are the only mammals capable of true flight.",
+    "category": "mammal",
+    "image": "images/bat.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Dragonflies can fly in six directions including backward.",
+    "category": "insect",
+    "image": "images/dragonfly.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Sea urchins have spines for protection and to move along the seabed.",
+    "category": "marine",
+    "image": "images/seaurchin.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Crocodiles can go through long periods without food thanks to slow metabolism.",
+    "category": "reptile",
+    "image": "images/crocodile.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Ladybugs secrete a yellow fluid to deter predators.",
+    "category": "insect",
+    "image": "images/ladybug.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Whales communicate using low-frequency sounds that travel long distances.",
+    "category": "marine",
+    "image": "images/whale.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? Hedgehogs roll into a ball for protection using their spines.",
+    "category": "mammal",
+    "image": "images/hedgehog.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Flamingos get their pink color from carotenoid pigments in their diet.",
+    "category": "bird",
+    "image": "images/flamingo2.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Sea lions can sleep in water by keeping one side of their brain awake.",
+    "category": "marine",
+    "image": "images/sealion.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Grasshoppers hear through tiny membranes on their abdomens called tympana.",
+    "category": "insect",
+    "image": "images/grasshopper.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Komodo dragons can detect prey from miles away using their forked tongue.",
+    "category": "reptile",
+    "image": "images/komodo.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Sea cucumbers eject internal organs to escape predators, which later regenerate.",
+    "category": "marine",
+    "image": "images/seacucumber.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Wolves live and hunt in packs to improve survival and cooperation.",
+    "category": "mammal",
+    "image": "images/wolf.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Orcas, or killer whales, are apex predators and hunt in coordinated pods.",
+    "category": "marine",
+    "image": "images/orca.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Parrots can learn over 100 words and mimic human sounds accurately.",
+    "category": "bird",
+    "image": "images/parrot2.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? Tortoises can live over 100 years due to slow metabolism and hardy physiology.",
+    "category": "reptile",
+    "image": "images/tortoise.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Star-nosed moles can detect and eat food faster than humans can blink.",
+    "category": "mammal",
+    "image": "images/mole.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Squids have three hearts and blue blood to adapt to deep-sea life.",
+    "category": "marine",
+    "image": "images/squid.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Robins use their keen eyesight to detect worms under the soil.",
+    "category": "bird",
+    "image": "images/robin.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Alligators can survive in freezing water by slowing their heart rate.",
+    "category": "reptile",
+    "image": "images/alligator.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Platypuses are one of the few mammals that lay eggs.",
+    "category": "mammal",
+    "image": "images/platypus.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Sea anemones have stinging tentacles to capture prey.",
+    "category": "marine",
+    "image": "images/seaanemone.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Puffins can fly underwater using their wings as flippers.",
+    "category": "bird",
+    "image": "images/puffin.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Turtles have been around for over 200 million years, since dinosaurs.",
+    "category": "reptile",
+    "image": "images/turtle2.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Bears hibernate in winter to conserve energy when food is scarce.",
+    "category": "mammal",
+    "image": "images/bear.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Clownfish have a symbiotic relationship with sea anemones for protection.",
+    "category": "marine",
+    "image": "images/clownfish.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? Falcons are the fastest birds, reaching over 240 mph during dives.",
+    "category": "bird",
+    "image": "images/falcon.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? Komodo dragons have venom glands that help subdue prey.",
+    "category": "reptile",
+    "image": "images/komododragon.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Meerkats live in groups called mobs to protect against predators.",
+    "category": "mammal",
+    "image": "images/meerkat.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Jellyfish are over 95% water and can glow through bioluminescence.",
+    "category": "marine",
+    "image": "images/jellyfish2.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? Cardinals use bright red feathers to attract mates.",
+    "category": "bird",
+    "image": "images/cardinal.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? Iguanas can detach their tails to escape predators.",
+    "category": "reptile",
+    "image": "images/iguana.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? Monkeys use grooming to strengthen social bonds.",
+    "category": "mammal",
+    "image": "images/monkey.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? Lobsters can regrow lost claws over time.",
+    "category": "marine",
+    "image": "images/lobster2.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Swans mate for life and show strong pair bonding.",
+    "category": "bird",
+    "image": "images/swan.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? Geckos have adhesive feet that allow them to walk on walls and ceilings.",
+    "category": "reptile",
+    "image": "images/gecko.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Otters use tools like rocks to open shellfish.",
+    "category": "mammal",
+    "image": "images/otter.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? Seahorses’ males give birth and carry the eggs in a pouch.",
+    "category": "marine",
+    "image": "images/seahorse2.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Woodpeckers peck at trees to find insects and create nesting sites.",
+    "category": "bird",
+    "image": "images/woodpecker.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Snakes can unhinge their jaws to swallow large prey whole.",
+    "category": "reptile",
+    "image": "images/snake2.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? Squirrels can remember thousands of hiding spots for nuts.",
+    "category": "mammal",
+    "image": "images/squirrel.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? Starfish have no brains, but their nerve ring controls movement.",
+    "category": "marine",
+    "image": "images/starfish2.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? Blue Jays can mimic hawk calls to scare other birds.",
+    "category": "bird",
+    "image": "images/bluejay.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Crocodiles have the strongest bite force of any living animal.",
+    "category": "reptile",
+    "image": "images/crocodile2.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Raccoons use their hands like humans to open containers and find food.",
+    "category": "mammal",
+    "image": "images/raccoon.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Crabs can regenerate lost legs and claws over time.",
+    "category": "marine",
+    "image": "images/crab2.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Peacocks’ feathers can grow up to 6 feet long for mating displays.",
+    "category": "bird",
+    "image": "images/peacock.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Komodo dragons have forked tongues that sense chemical cues in the air.",
+    "category": "reptile",
+    "image": "images/komododragon2.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Hedgehogs can hibernate in cold weather and curl into tight balls for protection.",
+    "category": "mammal",
+    "image": "images/hedgehog2.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Starfish can push their stomachs out to digest food externally.",
+    "category": "marine",
+    "image": "images/starfish3.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Chickadees store food in hundreds of hidden locations and remember them.",
+    "category": "bird",
+    "image": "images/chickadee.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Iguanas can regenerate tails if they are injured by predators.",
+    "category": "reptile",
+    "image": "images/iguana2.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Elephants use mud as sunscreen to protect their skin from sunburn.",
+    "category": "mammal",
+    "image": "images/elephant4.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Octopuses can squeeze through tiny openings because they have no bones.",
+    "category": "marine",
+    "image": "images/octopus3.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Robins migrate thousands of miles every year to find food and breed.",
+    "category": "bird",
+    "image": "images/robin2.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Salamanders can regrow entire limbs if lost to predators.",
+    "category": "amphibian",
+    "image": "images/salamander.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Dolphins can jump over 20 feet in the air for fun or hunting.",
+    "category": "marine",
+    "image": "images/dolphin4.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Chickens have excellent memories and can recognize over 100 faces.",
+    "category": "bird",
+    "image": "images/chicken.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? Snakes smell with their tongues and have no external ears.",
+    "category": "reptile",
+    "image": "images/snake3.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Sloths move so slowly that algae can grow on their fur for camouflage.",
+    "category": "mammal",
+    "image": "images/sloth3.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Crabs can walk forwards, sideways, and even backwards to escape threats.",
+    "category": "marine",
+    "image": "images/crab3.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Sparrows can recognize their owners and other individual birds.",
+    "category": "bird",
+    "image": "images/sparrow.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Chameleons change color based on temperature, mood, and social signaling.",
+    "category": "reptile",
+    "image": "images/chameleon2.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Armadillos can hold their breath and walk underwater to escape predators.",
+    "category": "mammal",
+    "image": "images/armadillo.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Lobsters can detect predators using sensitive antennae.",
+    "category": "marine",
+    "image": "images/lobster3.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Robins can sing up to 100 different melodies to attract mates.",
+    "category": "bird",
+    "image": "images/robin3.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Komodo dragons can eat up to 80% of their body weight in one meal.",
+    "category": "reptile",
+    "image": "images/komododragon3.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Raccoons are excellent climbers and can open doors and containers.",
+    "category": "mammal",
+    "image": "images/raccoon2.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Jellyfish have existed for over 500 million years and predate dinosaurs.",
+    "category": "marine",
+    "image": "images/jellyfish3.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Owls can rotate their heads 270 degrees without cutting off blood flow.",
+    "category": "bird",
+    "image": "images/owl6.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Turtles can live over 150 years in the wild under the right conditions.",
+    "category": "reptile",
+    "image": "images/turtle3.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Elephants communicate using infrasound to talk over long distances.",
+    "category": "mammal",
+    "image": "images/elephant5.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Dolphins display altruistic behavior, helping injured members or humans.",
+    "category": "marine",
+    "image": "images/dolphin5.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Woodpeckers have shock-absorbing skulls to prevent brain injury while pecking.",
+    "category": "bird",
+    "image": "images/woodpecker2.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Snakes shed their skin several times a year to grow and remove parasites.",
+    "category": "reptile",
+    "image": "images/snake4.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Otters hold hands while floating to keep the family together.",
+    "category": "mammal",
+    "image": "images/otter2.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Seahorses can change color to blend with surroundings for protection.",
+    "category": "marine",
+    "image": "images/seahorse3.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Bluebirds are known to sing in the early morning to mark territory.",
+    "category": "bird",
+    "image": "images/bluebird.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Chameleons use their long sticky tongues to catch insects quickly.",
+    "category": "reptile",
+    "image": "images/chameleon3.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? Foxes have excellent hearing and can detect prey underground.",
+    "category": "mammal",
+    "image": "images/fox.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Starfish can move using tiny tube feet powered by water pressure.",
+    "category": "marine",
+    "image": "images/starfish4.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Robins and other songbirds learn their songs from older birds.",
+    "category": "bird",
+    "image": "images/robin4.jpg"
+  },
+
+  {
+    "id": 141,
+    "fact": "Did you know? Bats are the only mammals capable of true flight.",
+    "category": "mammal",
+    "image": "images/bat.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Whales communicate using complex songs that can travel hundreds of miles underwater.",
+    "category": "marine",
+    "image": "images/whale2.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Macaws are among the longest-living parrots, often reaching 50 years in captivity.",
+    "category": "bird",
+    "image": "images/macaw.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Salamanders can regenerate lost tails and limbs, making them masters of recovery.",
+    "category": "amphibian",
+    "image": "images/salamander2.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Hedgehogs roll into tight balls to protect themselves from predators.",
+    "category": "mammal",
+    "image": "images/hedgehog4.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Moray eels have a second set of jaws called pharyngeal jaws to catch prey.",
+    "category": "marine",
+    "image": "images/morayeel.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Finches can adapt their beaks over generations to fit their food sources.",
+    "category": "bird",
+    "image": "images/finch.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Frogs absorb water through their skin instead of drinking.",
+    "category": "amphibian",
+    "image": "images/frog2.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Bison can run up to 35 mph despite their massive size.",
+    "category": "mammal",
+    "image": "images/bison.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Starfish have the ability to regenerate their arms if lost.",
+    "category": "marine",
+    "image": "images/starfish5.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Robins build nests using mud, grass, and moss to protect their eggs.",
+    "category": "bird",
+    "image": "images/robin5.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? Toads can live both on land and in water, adapting easily to environments.",
+    "category": "amphibian",
+    "image": "images/toad.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Lions roar to communicate and establish territory, audible up to 5 miles away.",
+    "category": "mammal",
+    "image": "images/lion2.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Octopuses have amazing problem-solving skills and can escape enclosures.",
+    "category": "marine",
+    "image": "images/octopus4.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? Flamingos get their pink color from the carotenoid pigments in their diet.",
+    "category": "bird",
+    "image": "images/flamingo2.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? Chameleons’ eyes move independently to watch for predators and prey.",
+    "category": "reptile",
+    "image": "images/chameleon4.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Koalas have fingerprints so similar to humans that they can confuse crime scene investigators.",
+    "category": "mammal",
+    "image": "images/koala2.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Starfish use a water vascular system to move and capture food.",
+    "category": "marine",
+    "image": "images/starfish6.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? Eagles have eyesight 4–5 times sharper than humans, perfect for hunting.",
+    "category": "bird",
+    "image": "images/eagle.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Iguanas can stay underwater for up to 28 minutes to evade predators.",
+    "category": "reptile",
+    "image": "images/iguana3.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? Wombats produce cube-shaped poop to mark their territory and avoid rolling.",
+    "category": "mammal",
+    "image": "images/wombat.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Sea urchins move using tube feet powered by hydraulic pressure.",
+    "category": "marine",
+    "image": "images/seaurchin.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Woodpeckers use their tongues to extract insects from tree bark.",
+    "category": "bird",
+    "image": "images/woodpecker3.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Frogs’ tongues are sticky and can shoot out in milliseconds to catch insects.",
+    "category": "amphibian",
+    "image": "images/frog3.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? Elephants can sense rainstorms from miles away using low-frequency vibrations.",
+    "category": "mammal",
+    "image": "images/elephant6.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Seahorses are monogamous and often mate for life.",
+    "category": "marine",
+    "image": "images/seahorse4.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? Robins use worms to feed their young during the spring season.",
+    "category": "bird",
+    "image": "images/robin6.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Salamanders can breathe through both skin and lungs depending on species.",
+    "category": "amphibian",
+    "image": "images/salamander3.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? Foxes mark their territory with scent glands to communicate with others.",
+    "category": "mammal",
+    "image": "images/fox2.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Lobsters grow new claws if one is lost, regenerating over time.",
+    "category": "marine",
+    "image": "images/lobster4.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Parakeets are social birds that can recognize and respond to their owners.",
+    "category": "bird",
+    "image": "images/parakeet.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Crocodiles can hold their breath for up to two hours underwater.",
+    "category": "reptile",
+    "image": "images/crocodile3.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? Squirrels can leap 10 times their body length to escape predators.",
+    "category": "mammal",
+    "image": "images/squirrel2.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Starfish can regenerate their entire body from a single arm in some species.",
+    "category": "marine",
+    "image": "images/starfish7.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? Cardinals sing to establish territory and attract mates every morning.",
+    "category": "bird",
+    "image": "images/cardinal2.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? Komodo dragons use venom to subdue prey and prevent blood clotting.",
+    "category": "reptile",
+    "image": "images/komododragon4.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Hedgehogs have thousands of spines for defense, each around 2 cm long.",
+    "category": "mammal",
+    "image": "images/hedgehog3.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? Jellyfish can clone themselves by splitting into genetically identical copies.",
+    "category": "marine",
+    "image": "images/jellyfish4.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Owls have asymmetrical ears to help pinpoint prey in complete darkness.",
+    "category": "bird",
+    "image": "images/owl7.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Iguanas can stay perfectly still for hours to avoid being detected by predators.",
+    "category": "reptile",
+    "image": "images/iguana4.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Elephants can remember water sources and migration routes for decades.",
+    "category": "mammal",
+    "image": "images/elephant7.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Dolphins can recognize themselves in mirrors, showing self-awareness.",
+    "category": "marine",
+    "image": "images/dolphin6.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Woodpeckers’ tongues wrap around their skull to cushion impact while pecking.",
+    "category": "bird",
+    "image": "images/woodpecker4.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Salamanders can survive being frozen and thawed, thanks to antifreeze proteins.",
+    "category": "amphibian",
+    "image": "images/salamander4.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? Foxes can hear small animals moving underground using keen auditory senses.",
+    "category": "mammal",
+    "image": "images/fox3.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Lobsters can live for over 50 years and continue to grow throughout their lives.",
+    "category": "marine",
+    "image": "images/lobster5.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Sparrows adapt quickly to urban environments using available resources.",
+    "category": "bird",
+    "image": "images/sparrow2.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? Chameleons have microscopic structures in their skin to create vivid color changes.",
+    "category": "reptile",
+    "image": "images/chameleon5.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Wombats use their powerful claws to dig extensive burrow systems.",
+    "category": "mammal",
+    "image": "images/wombat2.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Sea urchins move using tiny tube feet powered by a water vascular system.",
+    "category": "marine",
+    "image": "images/seaurchin2.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Bluebirds feed their chicks insects to ensure they grow strong and healthy.",
+    "category": "bird",
+    "image": "images/bluebird2.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Frogs can see in color and detect motion very quickly to catch prey.",
+    "category": "amphibian",
+    "image": "images/frog4.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? Elephants have trunk muscles that allow them to lift objects as heavy as 700 pounds.",
+    "category": "mammal",
+    "image": "images/elephant8.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Seahorses can anchor themselves to seaweed using their prehensile tails.",
+    "category": "marine",
+    "image": "images/seahorse5.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Robins can adjust their nesting sites based on predator activity.",
+    "category": "bird",
+    "image": "images/robin7.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Salamanders’ skin must stay moist to breathe effectively.",
+    "category": "amphibian",
+    "image": "images/salamander5.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Foxes mark hunting paths and dens using scent trails to communicate.",
+    "category": "mammal",
+    "image": "images/fox4.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Lobsters’ shells harden after molting to protect their new bodies.",
+    "category": "marine",
+    "image": "images/lobster6.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Parakeets enjoy social play and can form strong bonds with other birds.",
+    "category": "bird",
+    "image": "images/parakeet2.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Crocodiles’ eyes have a special membrane to see underwater clearly.",
+    "category": "reptile",
+    "image": "images/crocodile4.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Squirrels can use their tails to balance while jumping between branches.",
+    "category": "mammal",
+    "image": "images/squirrel3.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Starfish can detect light using eyespots at the tip of each arm.",
+    "category": "marine",
+    "image": "images/starfish8.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Cardinals’ bright plumage signals health and fitness to potential mates.",
+    "category": "bird",
+    "image": "images/cardinal3.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Komodo dragons’ skin contains bacteria that can help weaken prey after a bite.",
+    "category": "reptile",
+    "image": "images/komododragon5.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Hedgehogs can run surprisingly fast despite their spiny defenses.",
+    "category": "mammal",
+    "image": "images/hedgehog4.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Jellyfish rely on currents to move, conserving energy while hunting.",
+    "category": "marine",
+    "image": "images/jellyfish5.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Owls’ forward-facing eyes provide binocular vision for accurate depth perception.",
+    "category": "bird",
+    "image": "images/owl8.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Iguanas can regulate their body temperature by basking in the sun or moving into shade.",
+    "category": "reptile",
+    "image": "images/iguana5.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Elephants have strong social bonds and show empathy to distressed members.",
+    "category": "mammal",
+    "image": "images/elephant9.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Dolphins can use echolocation to locate fish and navigate murky waters.",
+    "category": "marine",
+    "image": "images/dolphin7.jpg"
+  },
+
+  {
+    "id": 211,
+    "fact": "Did you know? Pigeons can recognize themselves in mirrors, showing self-awareness.",
+    "category": "bird",
+    "image": "images/pigeon2.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Armadillos can hold their breath for up to six minutes by slowing their heart rate.",
+    "category": "mammal",
+    "image": "images/armadillo.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Clownfish change their sex based on social hierarchy in their group.",
+    "category": "marine",
+    "image": "images/clownfish.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Ravens are capable of planning for the future, a rare intelligence trait.",
+    "category": "bird",
+    "image": "images/raven.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Newts can survive being frozen and then thawed in the spring.",
+    "category": "amphibian",
+    "image": "images/newt.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Meerkats stand on their hind legs to watch for predators and alert the group.",
+    "category": "mammal",
+    "image": "images/meerkat.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Squids have three hearts and can change color instantly for camouflage.",
+    "category": "marine",
+    "image": "images/squid.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Swans mate for life and often perform synchronized swimming rituals.",
+    "category": "bird",
+    "image": "images/swan.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Salamanders can regrow their tails if lost, thanks to specialized cells.",
+    "category": "amphibian",
+    "image": "images/salamander6.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Wolves communicate using howls that can be heard up to 10 miles away.",
+    "category": "mammal",
+    "image": "images/wolf.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Crabs can walk sideways thanks to the structure of their legs.",
+    "category": "marine",
+    "image": "images/crab.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Woodpeckers’ beaks absorb shock so they can peck without injuring their brains.",
+    "category": "bird",
+    "image": "images/woodpecker5.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Turtles can retract their heads and legs into their shells for protection.",
+    "category": "reptile",
+    "image": "images/turtle2.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Elephants communicate using infrasound, which humans cannot hear.",
+    "category": "mammal",
+    "image": "images/elephant10.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Starfish have no brain but use a nerve net to sense their environment.",
+    "category": "marine",
+    "image": "images/starfish9.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Cardinals can sing different tunes based on their region and environment.",
+    "category": "bird",
+    "image": "images/cardinal4.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Komodo dragons’ tongues detect chemical signals in the air to track prey.",
+    "category": "reptile",
+    "image": "images/komododragon6.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? Hedgehogs can hibernate in cold weather to conserve energy.",
+    "category": "mammal",
+    "image": "images/hedgehog5.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? Jellyfish have been around for over 500 million years, long before dinosaurs.",
+    "category": "marine",
+    "image": "images/jellyfish6.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Owls can hear even the faintest sounds thanks to asymmetrical ears.",
+    "category": "bird",
+    "image": "images/owl9.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Iguanas use their dewlap (skin flap) to communicate and regulate temperature.",
+    "category": "reptile",
+    "image": "images/iguana6.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Elephants show empathy by comforting distressed members of their herd.",
+    "category": "mammal",
+    "image": "images/elephant11.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Dolphins can mimic human sounds and learn new vocalizations.",
+    "category": "marine",
+    "image": "images/dolphin8.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Robins feed on worms and insects to provide protein for their growing chicks.",
+    "category": "bird",
+    "image": "images/robin8.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Salamanders rely on a moist environment to survive and reproduce.",
+    "category": "amphibian",
+    "image": "images/salamander7.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? Foxes use their bushy tails for balance and warmth during cold nights.",
+    "category": "mammal",
+    "image": "images/fox5.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Lobsters have blue blood due to copper in their hemolymph.",
+    "category": "marine",
+    "image": "images/lobster7.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Sparrows communicate using chirps and body movements.",
+    "category": "bird",
+    "image": "images/sparrow3.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Chameleons can detect polarized light and use it for navigation.",
+    "category": "reptile",
+    "image": "images/chameleon6.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? Wombats dig burrows that can extend over 100 feet long.",
+    "category": "mammal",
+    "image": "images/wombat3.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Sea urchins feed using a structure called Aristotle’s lantern to scrape algae.",
+    "category": "marine",
+    "image": "images/seaurchin3.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Bluebirds feed primarily on insects and berries depending on season.",
+    "category": "bird",
+    "image": "images/bluebird3.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Frogs’ vocal sacs amplify their mating calls to attract partners.",
+    "category": "amphibian",
+    "image": "images/frog5.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Elephants can use tools like sticks to scratch themselves or swat flies.",
+    "category": "mammal",
+    "image": "images/elephant12.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Seahorses’ males carry the fertilized eggs in a pouch until hatching.",
+    "category": "marine",
+    "image": "images/seahorse6.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Robins adjust their diet based on insect availability in different seasons.",
+    "category": "bird",
+    "image": "images/robin9.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Salamanders can secrete toxins from their skin to deter predators.",
+    "category": "amphibian",
+    "image": "images/salamander8.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? Foxes are mainly nocturnal and use stealth to hunt small mammals.",
+    "category": "mammal",
+    "image": "images/fox6.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Lobsters’ antennae help them sense their surroundings and communicate.",
+    "category": "marine",
+    "image": "images/lobster8.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Parakeets can learn to mimic words and sounds from humans.",
+    "category": "bird",
+    "image": "images/parakeet3.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Crocodiles can go months without food thanks to slow metabolism.",
+    "category": "reptile",
+    "image": "images/crocodile5.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Squirrels store nuts in hundreds of different locations and remember them.",
+    "category": "mammal",
+    "image": "images/squirrel4.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Starfish can detect light using tiny eyespots at the tips of their arms.",
+    "category": "marine",
+    "image": "images/starfish10.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Cardinals’ songs vary with age and environment, influencing mate selection.",
+    "category": "bird",
+    "image": "images/cardinal5.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Komodo dragons can run up to 12 mph despite their large size.",
+    "category": "reptile",
+    "image": "images/komododragon7.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Hedgehogs curl into a tight ball using their muscles for protection.",
+    "category": "mammal",
+    "image": "images/hedgehog6.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Jellyfish sting their prey using specialized cells called cnidocytes.",
+    "category": "marine",
+    "image": "images/jellyfish7.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Owls can turn their heads almost completely around to see in all directions.",
+    "category": "bird",
+    "image": "images/owl10.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Iguanas have claws and strong tails for climbing and defense.",
+    "category": "reptile",
+    "image": "images/iguana7.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Elephants’ tusks continue growing throughout their lives.",
+    "category": "mammal",
+    "image": "images/elephant13.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Dolphins can form alliances and work together to hunt for food.",
+    "category": "marine",
+    "image": "images/dolphin9.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Robins eat mostly insects in spring and summer but switch to berries in winter.",
+    "category": "bird",
+    "image": "images/robin10.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Salamanders’ regenerating abilities extend to heart and spinal tissue in some species.",
+    "category": "amphibian",
+    "image": "images/salamander9.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Foxes communicate with a range of sounds including barks, screams, and howls.",
+    "category": "mammal",
+    "image": "images/fox7.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Lobsters’ compound eyes detect motion and help them navigate underwater.",
+    "category": "marine",
+    "image": "images/lobster9.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Parakeets are highly social and thrive in groups, often vocalizing together.",
+    "category": "bird",
+    "image": "images/parakeet4.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Crocodiles’ jaws exert a force stronger than any other animal alive.",
+    "category": "reptile",
+    "image": "images/crocodile6.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Squirrels’ teeth never stop growing, so they gnaw to keep them trimmed.",
+    "category": "mammal",
+    "image": "images/squirrel5.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Starfish move slowly using a hydraulic water vascular system.",
+    "category": "marine",
+    "image": "images/starfish11.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Cardinals’ bright red feathers are a signal of health and vitality.",
+    "category": "bird",
+    "image": "images/cardinal6.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Komodo dragons have forked tongues to smell their environment.",
+    "category": "reptile",
+    "image": "images/komododragon8.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Hedgehogs’ spines are hollow and used for protection against predators.",
+    "category": "mammal",
+    "image": "images/hedgehog7.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Jellyfish can pulsate their bodies to propel through water.",
+    "category": "marine",
+    "image": "images/jellyfish8.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Owls’ eyes are fixed in their sockets, which is why they rotate their heads.",
+    "category": "bird",
+    "image": "images/owl11.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Iguanas use their tail as a whip to defend against predators.",
+    "category": "reptile",
+    "image": "images/iguana8.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Elephants’ memory is so strong that they remember water holes for decades.",
+    "category": "mammal",
+    "image": "images/elephant14.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Dolphins can detect fish hiding in sand using echolocation clicks.",
+    "category": "marine",
+    "image": "images/dolphin10.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Robins migrate thousands of miles during seasonal changes.",
+    "category": "bird",
+    "image": "images/robin11.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Salamanders’ skin contains toxins that can deter most predators.",
+    "category": "amphibian",
+    "image": "images/salamander10.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Foxes use their whiskers to detect movements and navigate in darkness.",
+    "category": "mammal",
+    "image": "images/fox8.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Lobsters have an excellent sense of smell to locate food underwater.",
+    "category": "marine",
+    "image": "images/lobster10.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Parakeets can mimic other birds and environmental sounds naturally.",
+    "category": "bird",
+    "image": "images/parakeet5.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Crocodiles can survive in both freshwater and saltwater environments.",
+    "category": "reptile",
+    "image": "images/crocodile7.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Squirrels use their tails as umbrellas during rain and to communicate.",
+    "category": "mammal",
+    "image": "images/squirrel6.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Starfish do not have brains but can sense light and touch.",
+    "category": "marine",
+    "image": "images/starfish12.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Starfish do not have brains but can sense light and touch.",
+    "category": "marine",
+    "image": "images/starfish12.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Cardinals’ mating success is often linked to the brightness of their plumage.",
+    "category": "bird",
+    "image": "images/cardinal7.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Komodo dragons hunt in groups when necessary to take down larger prey.",
+    "category": "reptile",
+    "image": "images/komododragon9.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Hedgehogs can climb fences and small walls despite their short legs.",
+    "category": "mammal",
+    "image": "images/hedgehog8.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Jellyfish can glow in the dark using bioluminescence for defense or mating.",
+    "category": "marine",
+    "image": "images/jellyfish9.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Owls can hunt silently because their feathers reduce sound from flapping wings.",
+    "category": "bird",
+    "image": "images/owl12.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Iguanas can detach their tail to escape predators and grow it back later.",
+    "category": "reptile",
+    "image": "images/iguana9.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Elephants form strong family bonds and help care for orphaned calves.",
+    "category": "mammal",
+    "image": "images/elephant15.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Dolphins sleep with half of their brain awake to watch for danger.",
+    "category": "marine",
+    "image": "images/dolphin11.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Robins use landmarks to navigate their migration paths each year.",
+    "category": "bird",
+    "image": "images/robin12.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Salamanders can use their tails as fat storage for times of scarcity.",
+    "category": "amphibian",
+    "image": "images/salamander11.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Foxes are capable of adapting their hunting techniques based on prey availability.",
+    "category": "mammal",
+    "image": "images/fox9.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Lobsters can detect chemical signals from prey up to hundreds of meters away.",
+    "category": "marine",
+    "image": "images/lobster11.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Parakeets enjoy interacting with toys and mirrors to stay mentally stimulated.",
+    "category": "bird",
+    "image": "images/parakeet6.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Crocodiles can replace teeth throughout their lives as older teeth wear down.",
+    "category": "reptile",
+    "image": "images/crocodile8.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Squirrels’ memory for hidden nuts is so good that even humans have trouble finding them.",
+    "category": "mammal",
+    "image": "images/squirrel7.jpg"
+  }
+]

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Future Tech | Zawal Facts Hub</title>
+  <meta name="description" content="Explore future technology trends, innovations, and ideas shaping tomorrow.">
+
+  <!-- Shared Styles -->
+  <link rel="stylesheet" href="../tech.css">
+  <link rel="stylesheet" href="/style.css">
+
+  <!-- Card Export -->
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+
+<body data-category="future">
+
+<header>
+  <h1>
+    <img src="/logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+  <nav class="nav-menu" id="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="/facts/facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech/tech.html">Tech Tips</a>
+    <a href="/tutorials.html">Life Hacks</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html">Contact Us</a>
+    <a href="/premium-facts.html">Premium Facts</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+
+
+<!-- FUTURE TECH TIP OF THE DAY -->
+<section class="fact-of-day">
+  <h2>🚀 Future Tech Tip of the Day</h2>
+
+<div class="card tech-card tip-of-day-card" id="tip-card">
+    <div class="card-content">
+      <p class="tip-text">Loading...</p>
+    </div>
+  </div>
+
+  <button class="generate-tip">New Tip</button>
+</section>
+
+<!-- SEARCH -->
+<div class="search-bar">
+  <input
+    type="text"
+    class="search-input"
+    placeholder="Search future tech..."
+  >
+  <button onclick="searchTips()">Search</button>
+</div>
+
+<p class="no-results" style="display:none;text-align:center;margin-top:1rem;">
+  No results found.
+</p>
+<!-- Categories -->
+<div class="categories">
+  <a class="category" href="../index.html">Home</a>
+  <a class="category" href="../facts.html">Facts</a>
+  <a class="category" href="/motivation/motivation.html">Motivation</a>
+  <a class="category" href="../tech.html">Tech Tips</a>
+  <a class="category" href="../health.html">Health Tips</a>
+  <a class="category" href="../tutorials.html">Life Hacks</a>
+</div>
+<!-- GRID -->
+<section class="posts" id="tips-grid"></section>
+
+<!-- Shared JS -->
+<script src="../tech.js"></script>
+<script src="../../main.js" defer></script>
+  <!-- Include the menu JS & CSS -->
+  <link rel="stylesheet" href="../../menu.css">
+  <script src="../../menu.js"></script>
+  <script src="/stats.js"></script>
+  <script src="/lazyload.js" defer></script>
+</body>
+</html>

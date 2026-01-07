@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Short-term memory can hold about 7 items for around 20 seconds.",
+    "category": "cognitive",
+    "image": "images/memory1.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? People tend to mimic the body language of those they like or trust.",
+    "category": "behavioral",
+    "image": "images/mimicry.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Smiling can actually improve your mood by releasing endorphins.",
+    "category": "emotions",
+    "image": "images/smile.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Children learn languages faster during early development due to brain plasticity.",
+    "category": "development",
+    "image": "images/child_learning.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? Chronic stress can shrink the hippocampus, affecting memory and learning.",
+    "category": "mental_health",
+    "image": "images/stress.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? The human brain uses around 20% of your total energy even at rest.",
+    "category": "brain",
+    "image": "images/brain_energy.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? People are more likely to conform to group opinions even if they’re wrong.",
+    "category": "social",
+    "image": "images/conformity.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Personality traits like openness and conscientiousness are stable across life.",
+    "category": "personality",
+    "image": "images/personality.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The confirmation bias makes people favor information that matches their beliefs.",
+    "category": "cognitive_biases",
+    "image": "images/confirmation_bias.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? People are more likely to remember unusual or funny facts.",
+    "category": "fun",
+    "image": "images/funny_fact.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Visual memory is often stronger than auditory memory in most people.",
+    "category": "cognitive",
+    "image": "images/visual_memory.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Habits form through repetition, taking an average of 66 days to become automatic.",
+    "category": "behavioral",
+    "image": "images/habits.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Listening to music can trigger the release of dopamine, the 'feel-good' hormone.",
+    "category": "emotions",
+    "image": "images/music_mood.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Adolescents experience heightened emotional sensitivity due to brain development.",
+    "category": "development",
+    "image": "images/adolescents.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Poor sleep can increase the risk of depression and anxiety.",
+    "category": "mental_health",
+    "image": "images/sleep.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Neuroplasticity allows the brain to rewire itself after injury or new learning.",
+    "category": "brain",
+    "image": "images/neuroplasticity.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? People tend to overestimate how much others notice their mistakes, a phenomenon called the spotlight effect.",
+    "category": "social",
+    "image": "images/spotlight_effect.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Introverts may feel drained by social interactions, while extroverts gain energy.",
+    "category": "personality",
+    "image": "images/introvert_extrovert.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Anchoring bias makes people rely too heavily on the first piece of information they receive.",
+    "category": "cognitive_biases",
+    "image": "images/anchoring_bias.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Laughter improves immunity and reduces stress hormones in the body.",
+    "category": "fun",
+    "image": "images/laughter.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? Multitasking reduces efficiency because the brain can only focus deeply on one task at a time.",
+    "category": "cognitive",
+    "image": "images/multitasking.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? People are more likely to remember emotionally charged events over neutral ones.",
+    "category": "behavioral",
+    "image": "images/emotional_memory.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Oxytocin, called the 'love hormone', strengthens social bonds and trust.",
+    "category": "emotions",
+    "image": "images/oxytocin.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Early childhood experiences shape personality and coping skills throughout life.",
+    "category": "development",
+    "image": "images/childhood.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Meditation can reduce activity in the amygdala, helping manage anxiety.",
+    "category": "mental_health",
+    "image": "images/meditation.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? The prefrontal cortex is responsible for decision-making and planning.",
+    "category": "brain",
+    "image": "images/prefrontal_cortex.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Peer pressure can strongly influence behavior, especially in teenagers.",
+    "category": "social",
+    "image": "images/peer_pressure.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? People with high conscientiousness are more organized and reliable.",
+    "category": "personality",
+    "image": "images/conscientiousness.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? The hindsight bias makes events seem more predictable after they happen.",
+    "category": "cognitive_biases",
+    "image": "images/hindsight_bias.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? People remember emotionally unusual events better, which is why urban legends spread quickly.",
+    "category": "fun",
+    "image": "images/urban_legends.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Working memory is limited to around 4 chunks of information in most adults.",
+    "category": "cognitive",
+    "image": "images/working_memory.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Positive reinforcement encourages repetition of desirable behaviors.",
+    "category": "behavioral",
+    "image": "images/positive_reinforcement.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Crying can release stress hormones and improve mood afterward.",
+    "category": "emotions",
+    "image": "images/crying.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Adolescents develop impulse control as the prefrontal cortex matures.",
+    "category": "development",
+    "image": "images/impulse_control.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Cognitive-behavioral therapy (CBT) is highly effective for treating anxiety and depression.",
+    "category": "mental_health",
+    "image": "images/cbt.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? The hippocampus plays a key role in forming new memories.",
+    "category": "brain",
+    "image": "images/hippocampus.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Social facilitation occurs when people perform better on tasks in front of others.",
+    "category": "social",
+    "image": "images/social_facilitation.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Extraversion is associated with higher energy and sociability.",
+    "category": "personality",
+    "image": "images/extraversion.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? The availability heuristic makes people judge events based on recent examples.",
+    "category": "cognitive_biases",
+    "image": "images/availability_heuristic.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? People are more likely to remember bizarre or surprising facts.",
+    "category": "fun",
+    "image": "images/surprising_fact.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Mental imagery can improve learning by visualizing information.",
+    "category": "cognitive",
+    "image": "images/mental_imagery.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Negative reinforcement can increase avoidance behaviors in people.",
+    "category": "behavioral",
+    "image": "images/negative_reinforcement.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Gratitude practices can boost emotional well-being and happiness.",
+    "category": "emotions",
+    "image": "images/gratitude.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? Early motor development affects cognitive skills later in life.",
+    "category": "development",
+    "image": "images/motor_development.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Exercise can improve mood and reduce symptoms of depression.",
+    "category": "mental_health",
+    "image": "images/exercise.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? The amygdala is responsible for processing fear and emotional responses.",
+    "category": "brain",
+    "image": "images/amygdala.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Social loafing occurs when individuals put in less effort in a group task.",
+    "category": "social",
+    "image": "images/social_loafing.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? People high in agreeableness tend to be cooperative and compassionate.",
+    "category": "personality",
+    "image": "images/agreeableness.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? The self-serving bias leads people to attribute successes to themselves and failures to others.",
+    "category": "cognitive_biases",
+    "image": "images/self_serving_bias.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Surprising or shocking facts are more likely to be shared on social media.",
+    "category": "fun",
+    "image": "images/shocking_fact.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Chunking information helps improve memory by grouping related items together.",
+    "category": "cognitive",
+    "image": "images/chunking.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Observational learning occurs when people learn by watching others’ actions.",
+    "category": "behavioral",
+    "image": "images/observational_learning.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Listening to uplifting music can increase levels of serotonin, boosting mood.",
+    "category": "emotions",
+    "image": "images/serotonin_music.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Language acquisition in children is influenced by exposure and interaction with caregivers.",
+    "category": "development",
+    "image": "images/language_development.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Mindfulness meditation reduces cortisol, a stress hormone, in the body.",
+    "category": "mental_health",
+    "image": "images/mindfulness.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? The cerebellum not only controls motor skills but also contributes to cognitive functions.",
+    "category": "brain",
+    "image": "images/cerebellum.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? People are more likely to help others when they see someone else doing it first, known as the bystander effect.",
+    "category": "social",
+    "image": "images/bystander_effect.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? People high in neuroticism are more prone to stress and negative emotions.",
+    "category": "personality",
+    "image": "images/neuroticism.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? The availability heuristic makes us judge likelihood based on easily recalled examples.",
+    "category": "cognitive_biases",
+    "image": "images/availability_heuristic2.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Watching funny videos can temporarily boost immune function by reducing stress.",
+    "category": "fun",
+    "image": "images/funny_video.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Problem-solving skills improve when people mentally visualize the steps before acting.",
+    "category": "cognitive",
+    "image": "images/problem_solving.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Reinforcement schedules, like fixed or variable rewards, influence how habits form.",
+    "category": "behavioral",
+    "image": "images/reinforcement_schedule.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Emotional contagion allows moods and emotions to spread between people unconsciously.",
+    "category": "emotions",
+    "image": "images/emotional_contagion.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Motor skill development in toddlers can influence cognitive growth, like problem-solving.",
+    "category": "development",
+    "image": "images/toddler_motor.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? Therapy animals can reduce anxiety and improve mental health outcomes.",
+    "category": "mental_health",
+    "image": "images/therapy_animals.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? The corpus callosum connects the left and right hemispheres, enabling communication between them.",
+    "category": "brain",
+    "image": "images/corpus_callosum.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? People are more likely to conform when in groups, even if the group is wrong, known as groupthink.",
+    "category": "social",
+    "image": "images/groupthink.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Openness to experience correlates with creativity and curiosity.",
+    "category": "personality",
+    "image": "images/openness.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? The gambler’s fallacy makes people think past random events affect future outcomes.",
+    "category": "cognitive_biases",
+    "image": "images/gamblers_fallacy.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Reading unusual trivia can increase curiosity and engagement with learning.",
+    "category": "fun",
+    "image": "images/curiosity.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Mental rehearsal of tasks improves performance by strengthening neural pathways.",
+    "category": "cognitive",
+    "image": "images/mental_rehearsal.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Classical conditioning explains why we can develop phobias to previously neutral stimuli.",
+    "category": "behavioral",
+    "image": "images/classical_conditioning.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Gratitude journals can enhance emotional well-being and reduce depressive symptoms.",
+    "category": "emotions",
+    "image": "images/gratitude_journal.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? Adolescents experience a growth spurt in the prefrontal cortex, improving reasoning and planning.",
+    "category": "development",
+    "image": "images/adolescent_brain.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Social anxiety can be mitigated through exposure therapy, gradually facing feared situations.",
+    "category": "mental_health",
+    "image": "images/social_anxiety.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Mirror neurons fire both when we perform an action and when we observe someone else performing it.",
+    "category": "brain",
+    "image": "images/mirror_neurons.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? People are more cooperative when they perceive fairness in group settings.",
+    "category": "social",
+    "image": "images/fairness.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Conscientious people are less likely to engage in risky behaviors and more organized.",
+    "category": "personality",
+    "image": "images/conscientiousness2.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? The Dunning-Kruger effect causes people with low ability to overestimate their skills.",
+    "category": "cognitive_biases",
+    "image": "images/dunning_kruger.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Interesting psychology facts are more likely to be shared on social media.",
+    "category": "fun",
+    "image": "images/share_fact.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Cognitive maps help people navigate environments by creating mental representations.",
+    "category": "cognitive",
+    "image": "images/cognitive_map.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Operant conditioning shapes behavior through rewards and punishments.",
+    "category": "behavioral",
+    "image": "images/operant_conditioning.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Experiencing awe can increase generosity and improve mood.",
+    "category": "emotions",
+    "image": "images/awe.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Early exposure to language diversity enhances cognitive flexibility in children.",
+    "category": "development",
+    "image": "images/language_flexibility.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? Cognitive behavioral therapy can reframe negative thought patterns to improve mental health.",
+    "category": "mental_health",
+    "image": "images/cbt2.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? The amygdala and hippocampus work together to store emotionally significant memories.",
+    "category": "brain",
+    "image": "images/amygdala_hippocampus.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? People are more likely to conform in ambiguous situations, relying on social cues.",
+    "category": "social",
+    "image": "images/ambiguity.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? People high in extraversion are more likely to seek social engagement and stimulation.",
+    "category": "personality",
+    "image": "images/extraversion2.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The halo effect leads people to assume attractive individuals have other positive traits.",
+    "category": "cognitive_biases",
+    "image": "images/halo_effect.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? Fun psychological experiments can reveal surprising insights into human behavior.",
+    "category": "fun",
+    "image": "images/psych_experiment.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? People process visual information faster than text, making images powerful memory aids.",
+    "category": "cognitive",
+    "image": "images/visual_processing.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? Token economies are used in behavioral therapy to reinforce positive actions.",
+    "category": "behavioral",
+    "image": "images/token_economy.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Practicing mindfulness improves emotional regulation and reduces reactivity.",
+    "category": "emotions",
+    "image": "images/mindfulness2.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? Play in early childhood promotes problem-solving, creativity, and social skills.",
+    "category": "development",
+    "image": "images/play_development.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Journaling can improve mental health by allowing expression of thoughts and feelings.",
+    "category": "mental_health",
+    "image": "images/journaling.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? The prefrontal cortex continues developing into the mid-20s, affecting decision-making.",
+    "category": "brain",
+    "image": "images/prefrontal_cortex2.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? People are more likely to cooperate when they feel observed, a social accountability effect.",
+    "category": "social",
+    "image": "images/social_accountability.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? People high in openness tend to enjoy learning new things and exploring ideas.",
+    "category": "personality",
+    "image": "images/openness2.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The placebo effect shows how belief alone can influence perception and physical health.",
+    "category": "cognitive_biases",
+    "image": "images/placebo_effect.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? Surprising psychological facts often stick in memory better than ordinary facts.",
+    "category": "fun",
+    "image": "images/surprising_psych.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? Spaced repetition improves long-term memory by reviewing information at increasing intervals.",
+    "category": "cognitive",
+    "image": "images/spaced_repetition.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Positive reinforcement is more effective than punishment for long-term behavioral change.",
+    "category": "behavioral",
+    "image": "images/positive_reinforcement.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Emotional regulation can be strengthened through practicing deep breathing techniques.",
+    "category": "emotions",
+    "image": "images/deep_breathing.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Theory of mind develops in children around age 4–5, allowing them to understand others’ perspectives.",
+    "category": "development",
+    "image": "images/theory_of_mind.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Cognitive behavioral therapy helps reframe distorted thinking patterns to reduce stress and anxiety.",
+    "category": "mental_health",
+    "image": "images/cbt3.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? The hippocampus plays a key role in forming new memories and spatial navigation.",
+    "category": "brain",
+    "image": "images/hippocampus2.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Social facilitation occurs when people perform better on simple tasks in the presence of others.",
+    "category": "social",
+    "image": "images/social_facilitation.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Introverts often recharge by spending time alone, while extraverts gain energy from social interactions.",
+    "category": "personality",
+    "image": "images/introvert_extravert.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Confirmation bias makes people seek information that confirms their pre-existing beliefs.",
+    "category": "cognitive_biases",
+    "image": "images/confirmation_bias.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Fun psychological tricks, like optical illusions, reveal how the brain interprets reality.",
+    "category": "fun",
+    "image": "images/optical_illusion.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? The serial position effect means people remember items at the beginning and end of a list better.",
+    "category": "cognitive",
+    "image": "images/serial_position.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Shaping behavior involves rewarding successive approximations to achieve a desired action.",
+    "category": "behavioral",
+    "image": "images/shaping.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Expressing gratitude can enhance positive emotions and increase life satisfaction.",
+    "category": "emotions",
+    "image": "images/gratitude2.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Attachment styles formed in infancy influence relationships throughout life.",
+    "category": "development",
+    "image": "images/attachment.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Mindfulness practices can reduce rumination and improve attention span.",
+    "category": "mental_health",
+    "image": "images/mindfulness3.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Neuroplasticity allows the brain to reorganize itself by forming new neural connections.",
+    "category": "brain",
+    "image": "images/neuroplasticity2.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? Social loafing happens when individuals exert less effort in a group than when alone.",
+    "category": "social",
+    "image": "images/social_loafing.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? People high in agreeableness are often cooperative, empathetic, and kind.",
+    "category": "personality",
+    "image": "images/agreeableness.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Anchoring bias occurs when initial information overly influences decisions.",
+    "category": "cognitive_biases",
+    "image": "images/anchoring_bias.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Fun memory games can improve recall and make learning enjoyable.",
+    "category": "fun",
+    "image": "images/memory_game.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Metacognition is thinking about one’s own thinking, helping improve learning strategies.",
+    "category": "cognitive",
+    "image": "images/metacognition.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Negative reinforcement strengthens behavior by removing an unpleasant stimulus.",
+    "category": "behavioral",
+    "image": "images/negative_reinforcement.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? People who practice emotional expression regularly have lower stress levels.",
+    "category": "emotions",
+    "image": "images/emotional_expression.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Piaget’s stages of cognitive development describe how children think at different ages.",
+    "category": "development",
+    "image": "images/piaget_stages.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Relaxation techniques like progressive muscle relaxation reduce anxiety and tension.",
+    "category": "mental_health",
+    "image": "images/progressive_relaxation.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? The limbic system regulates emotions, motivation, and long-term memory.",
+    "category": "brain",
+    "image": "images/limbic_system2.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Peer pressure can strongly influence behavior, especially in adolescents.",
+    "category": "social",
+    "image": "images/peer_pressure.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? People high in conscientiousness tend to be organized, responsible, and goal-oriented.",
+    "category": "personality",
+    "image": "images/conscientiousness3.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Hindsight bias makes people believe past events were more predictable than they really were.",
+    "category": "cognitive_biases",
+    "image": "images/hindsight_bias.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Fun interactive psychology quizzes help strengthen memory and learning.",
+    "category": "fun",
+    "image": "images/interactive_quiz.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Dual coding theory states that combining verbal and visual information improves learning.",
+    "category": "cognitive",
+    "image": "images/dual_coding.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Shaping complex behavior involves reinforcing small steps progressively toward the goal.",
+    "category": "behavioral",
+    "image": "images/shaping2.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Emotional resilience can be built by facing challenges and learning coping strategies.",
+    "category": "emotions",
+    "image": "images/emotional_resilience.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Adolescents experience identity formation as a key developmental task.",
+    "category": "development",
+    "image": "images/identity_formation.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Cognitive therapy focuses on changing distorted thought patterns to improve mood.",
+    "category": "mental_health",
+    "image": "images/cognitive_therapy.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? The basal ganglia is important for habit formation and motor control.",
+    "category": "brain",
+    "image": "images/basal_ganglia2.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Social comparison affects self-esteem when people evaluate themselves against others.",
+    "category": "social",
+    "image": "images/social_comparison.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? People high in emotional stability tend to remain calm under stress.",
+    "category": "personality",
+    "image": "images/emotional_stability.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? The spotlight effect makes people overestimate how much others notice their behavior.",
+    "category": "cognitive_biases",
+    "image": "images/spotlight_effect.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Fun brain teasers challenge problem-solving skills and improve mental agility.",
+    "category": "fun",
+    "image": "images/brain_teaser.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Working memory allows temporary storage of information for reasoning and guidance of action.",
+    "category": "cognitive",
+    "image": "images/working_memory.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Punishment is less effective than positive reinforcement in shaping long-term behavior.",
+    "category": "behavioral",
+    "image": "images/punishment.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Practicing emotional labeling can increase emotional awareness and regulation.",
+    "category": "emotions",
+    "image": "images/emotional_labeling.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Scaffolding in education supports learners by providing guidance that is gradually removed.",
+    "category": "development",
+    "image": "images/scaffolding.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Stress management techniques, like exercise, meditation, and sleep, improve mental health.",
+    "category": "mental_health",
+    "image": "images/stress_management.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? The occipital lobe is responsible for processing visual information in the brain.",
+    "category": "brain",
+    "image": "images/occipital_lobe.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Social identity theory explains how group membership influences behavior and self-perception.",
+    "category": "social",
+    "image": "images/social_identity.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? People high in extraversion experience more positive emotions and enjoy social interactions.",
+    "category": "personality",
+    "image": "images/extraversion3.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? The false consensus effect leads people to overestimate how much others share their beliefs.",
+    "category": "cognitive_biases",
+    "image": "images/false_consensus.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Fun mental puzzles stimulate critical thinking and memory while keeping the brain active.",
+    "category": "fun",
+    "image": "images/mental_puzzles.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Chunking helps memory by grouping information into meaningful units, like phone numbers.",
+    "category": "cognitive",
+    "image": "images/chunking.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? Observational learning occurs when people learn by watching others’ behaviors.",
+    "category": "behavioral",
+    "image": "images/observational_learning.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Emotional contagion is when emotions spread from one person to another unconsciously.",
+    "category": "emotions",
+    "image": "images/emotional_contagion.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Erikson’s stages of psychosocial development outline key challenges across the lifespan.",
+    "category": "development",
+    "image": "images/erikson_stages.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? Exposure therapy is used in mental health to reduce fear by gradual exposure to the feared object.",
+    "category": "mental_health",
+    "image": "images/exposure_therapy.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? The prefrontal cortex is essential for decision-making, planning, and self-control.",
+    "category": "brain",
+    "image": "images/prefrontal_cortex.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Groupthink can lead groups to make poor decisions to maintain harmony.",
+    "category": "social",
+    "image": "images/groupthink.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? People high in openness are imaginative, curious, and open to new experiences.",
+    "category": "personality",
+    "image": "images/openness.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? The availability heuristic causes people to overestimate the likelihood of events that are easily remembered.",
+    "category": "cognitive_biases",
+    "image": "images/availability_heuristic.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Fun psychological experiments, like the Stroop effect, reveal how attention works.",
+    "category": "fun",
+    "image": "images/stroop_effect.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? Mental imagery improves cognitive performance by activating similar brain areas as actual practice.",
+    "category": "cognitive",
+    "image": "images/mental_imagery.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Token economies reward desired behaviors to shape habits and improve compliance.",
+    "category": "behavioral",
+    "image": "images/token_economy.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Practicing mindfulness can improve emotional regulation and reduce stress reactions.",
+    "category": "emotions",
+    "image": "images/mindfulness4.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Vygotsky’s zone of proximal development identifies tasks children can perform with guidance.",
+    "category": "development",
+    "image": "images/zone_of_proximal_development.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? Cognitive restructuring helps people identify and challenge negative thought patterns.",
+    "category": "mental_health",
+    "image": "images/cognitive_restructuring.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? The amygdala processes fear and emotional reactions, influencing behavior and memory.",
+    "category": "brain",
+    "image": "images/amygdala2.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? Social norms influence behavior by defining acceptable and expected actions in a group.",
+    "category": "social",
+    "image": "images/social_norms.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? People high in neuroticism are more prone to stress, anxiety, and mood swings.",
+    "category": "personality",
+    "image": "images/neuroticism.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? The gambler’s fallacy makes people think past random events affect future outcomes.",
+    "category": "cognitive_biases",
+    "image": "images/gamblers_fallacy.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Fun brain challenges, like memory card games, enhance retention and focus.",
+    "category": "fun",
+    "image": "images/memory_card_game.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Problem-solving strategies, like analogies, improve reasoning and creativity.",
+    "category": "cognitive",
+    "image": "images/problem_solving.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Intermittent reinforcement schedules can create strong and persistent behavior patterns.",
+    "category": "behavioral",
+    "image": "images/intermittent_reinforcement.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? Journaling emotions can improve self-awareness and reduce stress levels.",
+    "category": "emotions",
+    "image": "images/journaling.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Kohlberg’s stages of moral development explain how ethical reasoning evolves with age.",
+    "category": "development",
+    "image": "images/moral_development.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? Relaxation response techniques reduce physiological stress responses and enhance mental health.",
+    "category": "mental_health",
+    "image": "images/relaxation_response.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? The cerebellum coordinates voluntary movements and contributes to motor learning.",
+    "category": "brain",
+    "image": "images/cerebellum2.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Social perception influences how we interpret others’ intentions and emotions.",
+    "category": "social",
+    "image": "images/social_perception.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? People high in agreeableness are more likely to help others and avoid conflict.",
+    "category": "personality",
+    "image": "images/agreeableness2.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Illusory correlation occurs when people perceive a relationship between unrelated events.",
+    "category": "cognitive_biases",
+    "image": "images/illusory_correlation.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Fun mental challenges, like Sudoku, enhance pattern recognition and logical thinking.",
+    "category": "fun",
+    "image": "images/sudoku.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Cognitive load theory explains how working memory capacity affects learning efficiency.",
+    "category": "cognitive",
+    "image": "images/cognitive_load.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Behavioral rehearsal helps practice and reinforce desired behaviors in real-life situations.",
+    "category": "behavioral",
+    "image": "images/behavioral_rehearsal.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Labeling emotions accurately helps reduce emotional intensity and improve self-regulation.",
+    "category": "emotions",
+    "image": "images/emotion_labeling2.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Play in childhood promotes cognitive, social, and emotional development.",
+    "category": "development",
+    "image": "images/child_play.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? Guided imagery can reduce anxiety and improve relaxation in therapy sessions.",
+    "category": "mental_health",
+    "image": "images/guided_imagery.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? The parietal lobe processes sensory information and spatial awareness.",
+    "category": "brain",
+    "image": "images/parietal_lobe2.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Social learning theory explains how people learn behaviors through observation and imitation.",
+    "category": "social",
+    "image": "images/social_learning.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? People high in conscientiousness tend to follow rules and meet deadlines reliably.",
+    "category": "personality",
+    "image": "images/conscientiousness4.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Self-serving bias causes people to attribute successes to themselves and failures to others.",
+    "category": "cognitive_biases",
+    "image": "images/self_serving_bias.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Fun brain exercises, like crosswords, improve vocabulary and cognitive flexibility.",
+    "category": "fun",
+    "image": "images/crossword.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? The spacing effect shows that spreading study sessions improves retention compared to cramming.",
+    "category": "cognitive",
+    "image": "images/spacing_effect.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Modeling is when a person learns by imitating a role model’s behavior.",
+    "category": "behavioral",
+    "image": "images/modeling.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? Mindful breathing can regulate the autonomic nervous system and enhance emotional balance.",
+    "category": "emotions",
+    "image": "images/mindful_breathing2.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Critical periods in development are times when specific learning is easiest and most effective.",
+    "category": "development",
+    "image": "images/critical_period.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Behavioral activation encourages engagement in rewarding activities to improve mood.",
+    "category": "mental_health",
+    "image": "images/behavioral_activation.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? The temporal lobe is involved in auditory processing, memory, and language comprehension.",
+    "category": "brain",
+    "image": "images/temporal_lobe2.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Social exchange theory posits that relationships are maintained based on perceived benefits and costs.",
+    "category": "social",
+    "image": "images/social_exchange.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? People high in extraversion enjoy social gatherings and are energized by interaction.",
+    "category": "personality",
+    "image": "images/extraversion4.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Planning fallacy causes people to underestimate the time needed to complete tasks.",
+    "category": "cognitive_biases",
+    "image": "images/planning_fallacy.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Fun psychology apps offer interactive exercises to improve memory, attention, and logic skills.",
+    "category": "fun",
+    "image": "images/psychology_app.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? The method of loci, or memory palace, helps people remember information by visualizing locations.",
+    "category": "cognitive",
+    "image": "images/memory_palace.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Positive reinforcement strengthens behavior by providing a rewarding consequence.",
+    "category": "behavioral",
+    "image": "images/positive_reinforcement.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Emotional granularity is the ability to describe emotions with precision, improving regulation.",
+    "category": "emotions",
+    "image": "images/emotional_granularity.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Piaget’s stages of cognitive development describe how thinking evolves from infancy to adulthood.",
+    "category": "development",
+    "image": "images/piaget_stages.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Cognitive-behavioral therapy helps modify dysfunctional thoughts to improve mental health.",
+    "category": "mental_health",
+    "image": "images/cbt.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? The hippocampus plays a crucial role in forming new memories and spatial navigation.",
+    "category": "brain",
+    "image": "images/hippocampus2.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Conformity is the tendency to align behaviors and beliefs with a group, even against personal views.",
+    "category": "social",
+    "image": "images/conformity.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? People high in openness tend to seek out novel experiences and creative activities.",
+    "category": "personality",
+    "image": "images/openness2.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Anchoring bias occurs when people rely too heavily on the first piece of information encountered.",
+    "category": "cognitive_biases",
+    "image": "images/anchoring_bias.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Brain teasers, like riddles, can stimulate problem-solving and improve mental agility.",
+    "category": "fun",
+    "image": "images/brain_teasers.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Dual coding theory suggests that combining visual and verbal information improves learning.",
+    "category": "cognitive",
+    "image": "images/dual_coding.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Shaping involves gradually reinforcing closer approximations of a desired behavior.",
+    "category": "behavioral",
+    "image": "images/shaping.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Affect labeling, naming your emotions, reduces their intensity and improves self-control.",
+    "category": "emotions",
+    "image": "images/affect_labeling.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Object permanence is the understanding that objects exist even when not visible, developed in infancy.",
+    "category": "development",
+    "image": "images/object_permanence.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Mindfulness-based stress reduction reduces anxiety, improves attention, and enhances well-being.",
+    "category": "mental_health",
+    "image": "images/mindfulness_mbsr.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? The occipital lobe is primarily responsible for visual processing and interpretation.",
+    "category": "brain",
+    "image": "images/occipital_lobe2.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Reciprocity in social psychology refers to responding to positive actions with positive actions.",
+    "category": "social",
+    "image": "images/reciprocity.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? People high in extraversion enjoy group activities and are energized by social interaction.",
+    "category": "personality",
+    "image": "images/extraversion5.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Confirmation bias leads people to favor information that confirms their pre-existing beliefs.",
+    "category": "cognitive_biases",
+    "image": "images/confirmation_bias.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Fun cognitive games, like matching puzzles, improve attention and memory skills.",
+    "category": "fun",
+    "image": "images/matching_puzzle.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Spaced repetition strengthens long-term memory by reviewing material at increasing intervals.",
+    "category": "cognitive",
+    "image": "images/spaced_repetition.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Extinction occurs when a learned behavior decreases after reinforcement stops.",
+    "category": "behavioral",
+    "image": "images/extinction.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Emotional resilience helps individuals recover from stressful situations effectively.",
+    "category": "emotions",
+    "image": "images/emotional_resilience.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Theory of mind is the ability to understand that others have different beliefs and perspectives.",
+    "category": "development",
+    "image": "images/theory_of_mind.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Acceptance and commitment therapy helps people accept thoughts and commit to meaningful actions.",
+    "category": "mental_health",
+    "image": "images/act_therapy.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? The hypothalamus regulates hunger, thirst, sleep, and emotional responses.",
+    "category": "brain",
+    "image": "images/hypothalamus2.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Social loafing occurs when individuals exert less effort in a group than when working alone.",
+    "category": "social",
+    "image": "images/social_loafing.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? People high in agreeableness are empathetic, cooperative, and seek to maintain harmony.",
+    "category": "personality",
+    "image": "images/agreeableness3.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The halo effect makes us assume positive traits in a person based on a single favorable impression.",
+    "category": "cognitive_biases",
+    "image": "images/halo_effect.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Fun psychology experiments, like the marshmallow test, show how self-control develops in children.",
+    "category": "fun",
+    "image": "images/marshmallow_test.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Metacognition is the awareness and understanding of one’s own thinking processes.",
+    "category": "cognitive",
+    "image": "images/metacognition.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Avoidance conditioning reduces unwanted behavior by withdrawing a negative stimulus.",
+    "category": "behavioral",
+    "image": "images/avoidance_conditioning.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Emotional intelligence includes perceiving, understanding, and managing emotions effectively.",
+    "category": "emotions",
+    "image": "images/emotional_intelligence2.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Scaffolding is a teaching method where support is gradually removed as a learner gains skill.",
+    "category": "development",
+    "image": "images/scaffolding.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Dialectical behavior therapy combines mindfulness and behavior strategies to treat emotional dysregulation.",
+    "category": "mental_health",
+    "image": "images/dbt.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The brainstem controls vital functions like heartbeat, breathing, and arousal.",
+    "category": "brain",
+    "image": "images/brainstem2.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Social facilitation occurs when the presence of others improves performance on simple tasks.",
+    "category": "social",
+    "image": "images/social_facilitation.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? People high in conscientiousness are organized, reliable, and goal-oriented.",
+    "category": "personality",
+    "image": "images/conscientiousness5.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Negativity bias causes people to give more weight to negative experiences than positive ones.",
+    "category": "cognitive_biases",
+    "image": "images/negativity_bias.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? Fun memory games, like Simon Says, help improve attention, recall, and reaction time.",
+    "category": "fun",
+    "image": "images/simon_says.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Cognitive restructuring can replace negative thought patterns with more positive ones.",
+    "category": "cognitive",
+    "image": "images/cognitive_restructuring2.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Punishment in behavioral psychology decreases unwanted behavior by introducing a negative consequence.",
+    "category": "behavioral",
+    "image": "images/punishment_behavioral.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? The broaden-and-build theory suggests positive emotions broaden thinking and build resilience.",
+    "category": "emotions",
+    "image": "images/broaden_build.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Adolescence is a critical period for identity formation and cognitive growth.",
+    "category": "development",
+    "image": "images/adolescence.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Biofeedback therapy uses real-time physiological data to teach self-regulation for stress and anxiety.",
+    "category": "mental_health",
+    "image": "images/biofeedback.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? The limbic system regulates emotions, memory, and arousal responses.",
+    "category": "brain",
+    "image": "images/limbic_system2.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Group polarization occurs when discussions lead members to adopt more extreme positions.",
+    "category": "social",
+    "image": "images/group_polarization.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? People high in openness are more creative and willing to try new ideas.",
+    "category": "personality",
+    "image": "images/openness3.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Hindsight bias causes people to see past events as predictable after they happen.",
+    "category": "cognitive_biases",
+    "image": "images/hindsight_bias.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Fun psychological apps use gamification to improve learning and memory retention.",
+    "category": "fun",
+    "image": "images/psych_apps2.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Chunking is a memory strategy where information is grouped into meaningful units for easier recall.",
+    "category": "cognitive",
+    "image": "images/chunking.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Habit formation involves repeated behavior in a stable context until it becomes automatic.",
+    "category": "behavioral",
+    "image": "images/habit_formation.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? The facial feedback hypothesis suggests that facial expressions can influence emotional experiences.",
+    "category": "emotions",
+    "image": "images/facial_feedback.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Erikson’s psychosocial stages describe challenges from infancy to old age that shape personality.",
+    "category": "development",
+    "image": "images/erikson_stages.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Cognitive-behavioral journaling can reduce negative thought patterns and improve emotional regulation.",
+    "category": "mental_health",
+    "image": "images/journaling.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? The prefrontal cortex is essential for decision-making, planning, and moderating social behavior.",
+    "category": "brain",
+    "image": "images/prefrontal_cortex2.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Social identity theory explains how people derive part of their self-concept from group membership.",
+    "category": "social",
+    "image": "images/social_identity.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? People high in neuroticism tend to experience emotional instability and anxiety.",
+    "category": "personality",
+    "image": "images/neuroticism3.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Availability heuristic causes people to judge probabilities based on how easily examples come to mind.",
+    "category": "cognitive_biases",
+    "image": "images/availability_heuristic.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Fun problem-solving games, like Sudoku, stimulate logic, memory, and pattern recognition.",
+    "category": "fun",
+    "image": "images/sudoku.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? The testing effect shows that recalling information improves memory more than re-reading alone.",
+    "category": "cognitive",
+    "image": "images/testing_effect.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Intermittent reinforcement produces stronger behavioral persistence than continuous reinforcement.",
+    "category": "behavioral",
+    "image": "images/intermittent_reinforcement.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Gratitude journaling enhances emotional well-being and increases positive feelings.",
+    "category": "emotions",
+    "image": "images/gratitude_journaling.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Vygotsky’s zone of proximal development is the gap between what a learner can do alone and with help.",
+    "category": "development",
+    "image": "images/zpd.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Exposure therapy gradually reduces fear by safely exposing individuals to the feared stimulus.",
+    "category": "mental_health",
+    "image": "images/exposure_therapy.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? The amygdala is involved in processing emotions, especially fear and threat detection.",
+    "category": "brain",
+    "image": "images/amygdala2.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Bystander effect occurs when individuals are less likely to help a victim when others are present.",
+    "category": "social",
+    "image": "images/bystander_effect.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? People high in openness and conscientiousness tend to excel in creative problem-solving tasks.",
+    "category": "personality",
+    "image": "images/openness_conscientiousness.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Optimism bias leads people to believe they are less likely to experience negative events than others.",
+    "category": "cognitive_biases",
+    "image": "images/optimism_bias.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Fun neuropsychology experiments, like Stroop tests, show the brain’s processing limits and attention control.",
+    "category": "fun",
+    "image": "images/stroop_test.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Encoding specificity principle states that memory is improved when retrieval context matches the learning context.",
+    "category": "cognitive",
+    "image": "images/encoding_specificity.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Token economies reward desired behaviors with tokens that can be exchanged for privileges or treats.",
+    "category": "behavioral",
+    "image": "images/token_economy.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Emotional contagion is the phenomenon where emotions can spread from person to person.",
+    "category": "emotions",
+    "image": "images/emotional_contagion.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Language acquisition in children develops in predictable stages, influenced by interaction and environment.",
+    "category": "development",
+    "image": "images/language_acquisition.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Mindfulness meditation can rewire neural pathways to improve attention and emotional regulation.",
+    "category": "mental_health",
+    "image": "images/mindfulness2.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? The cerebellum coordinates voluntary movements and plays a role in motor learning and balance.",
+    "category": "brain",
+    "image": "images/cerebellum2.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Groupthink can cause poor decision-making due to a desire for consensus over critical evaluation.",
+    "category": "social",
+    "image": "images/groupthink.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? People high in extraversion are often assertive and enjoy leadership roles in social settings.",
+    "category": "personality",
+    "image": "images/extraversion6.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Representativeness heuristic causes people to judge probabilities based on similarity to stereotypes.",
+    "category": "cognitive_biases",
+    "image": "images/representativeness_heuristic.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Fun psychological trivia quizzes can improve memory retention and increase engagement with learning.",
+    "category": "fun",
+    "image": "images/psych_quiz.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Imagery encoding enhances memory by associating information with vivid mental images.",
+    "category": "cognitive",
+    "image": "images/imagery_encoding.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Observational learning occurs when individuals learn behaviors by watching others.",
+    "category": "behavioral",
+    "image": "images/observational_learning.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? The broaden-and-build model emphasizes how positive emotions expand cognition and skills.",
+    "category": "emotions",
+    "image": "images/broaden_build2.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Early attachment styles influence social relationships and emotional development throughout life.",
+    "category": "development",
+    "image": "images/attachment_styles.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Psychodynamic therapy explores unconscious conflicts to improve self-awareness and behavior.",
+    "category": "mental_health",
+    "image": "images/psychodynamic_therapy.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? The parietal lobe integrates sensory information and helps coordinate spatial awareness.",
+    "category": "brain",
+    "image": "images/parietal_lobe2.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Social comparison theory explains how individuals evaluate themselves based on others’ achievements.",
+    "category": "social",
+    "image": "images/social_comparison.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? People high in agreeableness tend to avoid conflict and value cooperation.",
+    "category": "personality",
+    "image": "images/agreeableness4.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Self-serving bias leads people to attribute successes to themselves and failures to external factors.",
+    "category": "cognitive_biases",
+    "image": "images/self_serving_bias.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Fun brain games, like memory card matches, strengthen working memory and attention skills.",
+    "category": "fun",
+    "image": "images/memory_cards.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Elaborative rehearsal improves memory by linking new information to existing knowledge.",
+    "category": "cognitive",
+    "image": "images/elaborative_rehearsal.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Positive punishment reduces undesirable behaviors by introducing an aversive stimulus.",
+    "category": "behavioral",
+    "image": "images/positive_punishment.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Emotional regulation involves strategies to influence the intensity, duration, and expression of emotions.",
+    "category": "emotions",
+    "image": "images/emotional_regulation2.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Adolescents’ executive functions mature late, affecting planning, impulse control, and decision-making.",
+    "category": "development",
+    "image": "images/executive_functions.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Acceptance therapy encourages embracing experiences rather than avoiding them to improve mental well-being.",
+    "category": "mental_health",
+    "image": "images/acceptance_therapy.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? The temporal lobe processes auditory information and is involved in language comprehension.",
+    "category": "brain",
+    "image": "images/temporal_lobe2.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Social norms influence behavior by creating expectations for appropriate conduct in groups.",
+    "category": "social",
+    "image": "images/social_norms.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? People high in conscientiousness are careful, reliable, and good at self-discipline.",
+    "category": "personality",
+    "image": "images/conscientiousness6.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Planning fallacy is the tendency to underestimate the time needed to complete tasks.",
+    "category": "cognitive_biases",
+    "image": "images/planning_fallacy.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Fun social psychology games, like Prisoner’s Dilemma, explore cooperation and decision-making.",
+    "category": "fun",
+    "image": "images/prisoners_dilemma.jpg"
+  }
+]

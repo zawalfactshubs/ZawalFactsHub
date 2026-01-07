@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Consistency",
+    "short": "Consistency beats intensity.",
+    "long": "Regular exercise performed consistently over time delivers far better results than occasional intense workouts. Consistency allows the body to adapt gradually, strengthens muscles and joints safely, improves cardiovascular health, and reduces the risk of injury. Even moderate daily movement builds momentum, discipline, and long-term physical resilience."
+  },
+  {
+    "category": "Strength Training",
+    "short": "Strength training builds more than muscle.",
+    "long": "Strength training improves muscle mass, bone density, posture, metabolism, and joint stability. It also enhances insulin sensitivity and supports long-term weight management. Training with proper form and progressive overload helps prevent injuries while improving functional strength for daily activities."
+  },
+  {
+    "category": "Cardio Health",
+    "short": "Cardio keeps your heart strong.",
+    "long": "Cardiovascular exercise improves heart and lung efficiency, boosts circulation, lowers blood pressure, and increases endurance. Activities like walking, jogging, cycling, or swimming help reduce the risk of heart disease while improving energy levels and mental clarity."
+  },
+  {
+    "category": "Recovery",
+    "short": "Recovery is part of training.",
+    "long": "Muscles grow and adapt during recovery, not during exercise itself. Proper rest days, quality sleep, hydration, and light mobility work help prevent overtraining, reduce soreness, and allow the body to rebuild stronger and more resilient."
+  },
+  {
+    "category": "Flexibility & Mobility",
+    "short": "Stay flexible to stay active.",
+    "long": "Flexibility and mobility exercises improve joint range of motion, posture, and movement efficiency. Stretching and mobility training reduce stiffness, lower injury risk, and help maintain long-term physical independence as you age."
+  },
+  {
+    "category": "Warm-Up",
+    "short": "Never skip your warm-up.",
+    "long": "A proper warm-up prepares muscles, joints, and the nervous system for exercise. It increases blood flow, improves coordination, and reduces the risk of strains or sudden injuries during workouts."
+  },
+  {
+    "category": "Progression",
+    "short": "Progress gradually.",
+    "long": "Gradual progression allows your body to adapt safely to increasing demands. Adding weight, intensity, or duration slowly prevents burnout and injuries while ensuring steady improvements in strength and endurance."
+  },
+  {
+    "category": "Balance",
+    "short": "Train your balance.",
+    "long": "Balance training improves coordination, stability, and body control. It strengthens stabilizing muscles, reduces fall risk, and enhances athletic performance as well as daily movement efficiency."
+  },
+  {
+    "category": "Mind-Muscle Connection",
+    "short": "Focus during your workouts.",
+    "long": "Being mentally engaged during exercise improves movement quality, muscle activation, and workout effectiveness. Concentrating on form and breathing enhances results and reduces the likelihood of injury."
+  },
+  {
+    "category": "Lifestyle Fitness",
+    "short": "Movement is a lifestyle.",
+    "long": "Fitness is not limited to gym sessions. Daily movement such as walking, stretching, taking stairs, and staying active throughout the day contributes significantly to long-term health, mobility, and quality of life."
+  },
+  {
+    "category": "Hydration",
+    "short": "Drink water consistently.",
+    "long": "Staying hydrated supports every bodily function, including muscle contraction, joint lubrication, and temperature regulation. Drinking water before, during, and after exercise enhances performance, prevents cramps, and aids recovery."
+  },
+  {
+    "category": "Nutrition",
+    "short": "Fuel your workouts wisely.",
+    "long": "Eating a balanced diet with enough protein, healthy fats, and complex carbohydrates ensures your body has the energy to perform and recover. Proper nutrition supports muscle growth, energy levels, and long-term health."
+  },
+  {
+    "category": "Sleep",
+    "short": "Prioritize quality sleep.",
+    "long": "Sleep is essential for muscle recovery, hormone balance, and mental clarity. Aim for 7-9 hours per night to optimize performance, reduce fatigue, and improve overall fitness results."
+  },
+  {
+    "category": "Core Training",
+    "short": "Strengthen your core.",
+    "long": "A strong core stabilizes the spine, improves posture, and enhances performance in almost every exercise. Planks, bridges, and rotational movements build core strength and reduce the risk of back injuries."
+  },
+  {
+    "category": "High-Intensity Training",
+    "short": "Incorporate HIIT sessions.",
+    "long": "High-intensity interval training alternates short bursts of intense exercise with recovery periods. HIIT improves cardiovascular fitness, burns calories efficiently, and boosts metabolism in less time than traditional cardio."
+  },
+  {
+    "category": "Posture",
+    "short": "Maintain good posture.",
+    "long": "Proper posture during workouts and daily activities reduces injury risk, improves breathing efficiency, and enhances overall body alignment. Strengthening back and shoulder muscles helps maintain upright posture."
+  },
+  {
+    "category": "Functional Fitness",
+    "short": "Train movements, not just muscles.",
+    "long": "Functional fitness focuses on exercises that mimic everyday activities. Squats, lunges, and push-pulls improve coordination, strength, and mobility, making daily tasks easier and safer."
+  },
+  {
+    "category": "Consistency in Cardio",
+    "short": "Schedule regular cardio.",
+    "long": "Consistent cardiovascular training, whether walking, cycling, or swimming, strengthens your heart and lungs. Regular cardio sessions improve endurance, mental clarity, and overall energy levels."
+  },
+  {
+    "category": "Flexibility Routine",
+    "short": "Stretch after workouts.",
+    "long": "Stretching helps muscles recover, maintains mobility, and reduces soreness. Incorporate dynamic stretches before workouts and static stretches afterward to improve flexibility and reduce injury risk."
+  },
+  {
+    "category": "Warm-Down",
+    "short": "Cool down properly.",
+    "long": "Cooling down after exercise gradually lowers heart rate, prevents dizziness, and aids recovery. Light jogging, walking, and stretching help flush out lactic acid and reduce stiffness."
+  },
+  {
+    "category": "Breathing",
+    "short": "Breathe correctly during exercise.",
+    "long": "Proper breathing enhances oxygen delivery to muscles, stabilizes your core, and improves exercise efficiency. Inhale during easier phases and exhale during exertion for optimal performance."
+  },
+  {
+    "category": "Body Awareness",
+    "short": "Listen to your body.",
+    "long": "Pay attention to fatigue, soreness, and discomfort. Adjust intensity, rest, or exercise selection to prevent injury and promote long-term progress."
+  },
+  {
+    "category": "Variety",
+    "short": "Change your routine regularly.",
+    "long": "Incorporating different exercises, equipment, and modalities challenges your body, prevents plateaus, and keeps training interesting. Variety promotes overall fitness and reduces injury risk."
+  },
+  {
+    "category": "Warm-Up Variety",
+    "short": "Dynamic warm-ups improve performance.",
+    "long": "Dynamic movements like leg swings, arm circles, and light jogging activate muscles, improve range of motion, and prepare the nervous system for more intense exercise."
+  },
+  {
+    "category": "Mindset",
+    "short": "Train your mind alongside your body.",
+    "long": "A positive mindset boosts consistency, effort, and focus. Visualization, goal setting, and affirmations improve motivation and help you overcome challenges in your fitness journey."
+  },
+  {
+    "category": "Post-Workout Nutrition",
+    "short": "Refuel after training.",
+    "long": "Consuming protein and carbohydrates after exercise aids muscle recovery, replenishes glycogen stores, and reduces soreness. A balanced post-workout meal supports growth and energy."
+  },
+  {
+    "category": "Progress Tracking",
+    "short": "Track your workouts.",
+    "long": "Keeping a record of exercises, sets, reps, and weights helps measure progress, stay motivated, and adjust training plans. Data-driven training improves results and accountability."
+  },
+  {
+    "category": "Bodyweight Training",
+    "short": "Use your body as resistance.",
+    "long": "Bodyweight exercises like push-ups, squats, and planks are versatile, effective, and accessible anywhere. They improve strength, balance, and endurance without equipment."
+  },
+  {
+    "category": "Exercise Form",
+    "short": "Perfect your technique.",
+    "long": "Good form prevents injuries, maximizes results, and ensures the right muscles are being targeted. Focus on controlled movements rather than lifting heavier weights incorrectly."
+  },
+  {
+    "category": "Strength-Endurance Balance",
+    "short": "Combine strength and endurance.",
+    "long": "Alternating between strength training and endurance work enhances overall fitness, boosts calorie burn, and improves cardiovascular health while building lean muscle."
+  },
+  {
+    "category": "Habit Formation",
+    "short": "Make fitness a habit.",
+    "long": "Consistency is easier when exercise becomes routine. Schedule workouts, set reminders, and build small, achievable goals to create lifelong healthy habits."
+  },
+  {
+    "category": "Joint Health",
+    "short": "Protect your joints.",
+    "long": "Strengthening surrounding muscles, using proper form, and incorporating low-impact exercises reduces joint stress and injury risk. Mobility work keeps joints healthy and pain-free."
+  },
+  {
+    "category": "Core Breathing",
+    "short": "Engage your core when breathing.",
+    "long": "Deep diaphragmatic breathing during core exercises enhances stability, strengthens abs, and protects the spine. Coordinating breath with movement improves performance and posture."
+  },
+  {
+    "category": "Plyometrics",
+    "short": "Add explosive movements.",
+    "long": "Plyometric exercises like jump squats and box jumps increase power, agility, and muscle activation. Use proper landing techniques to protect joints while improving athletic performance."
+  },
+  {
+    "category": "Tempo Training",
+    "short": "Control the speed of your reps.",
+    "long": "Slowing down repetitions during strength exercises increases muscle time under tension, enhances growth, and improves control. Tempo training adds variety and intensity to your workouts."
+  },
+  {
+    "category": "HIIT Recovery",
+    "short": "Rest after high-intensity sessions.",
+    "long": "High-intensity workouts require adequate recovery to prevent overtraining. Schedule low-intensity days or active recovery to allow muscles and energy systems to replenish."
+  },
+  {
+    "category": "Mindful Movement",
+    "short": "Focus on each movement.",
+    "long": "Being aware of your body’s position, movement, and effort improves technique, prevents injury, and enhances workout effectiveness. Mindful movement strengthens the mind-muscle connection."
+  },
+  {
+    "category": "Posture Breaks",
+    "short": "Move regularly during the day.",
+    "long": "Sitting for long periods can harm posture and flexibility. Taking short breaks to stretch or walk keeps muscles engaged and reduces stiffness."
+  },
+  {
+    "category": "Foam Rolling",
+    "short": "Release muscle tension.",
+    "long": "Foam rolling or self-myofascial release improves blood flow, reduces soreness, and enhances mobility. Incorporate it into warm-ups and recovery routines for optimal performance."
+  },
+  {
+    "category": "Workout Environment",
+    "short": "Create a motivating space.",
+    "long": "A clean, organized, and inspiring environment increases focus and enjoyment during workouts. Music, lighting, and equipment arrangement all contribute to better performance."
+  },
+  {
+    "category": "Consistency Over Perfection",
+    "short": "Show up even when unmotivated.",
+    "long": "Doing a workout, even at lower intensity, maintains habit and momentum. Consistent action beats waiting for perfect conditions, keeping progress steady over time."
+  },
+  {
+    "category": "Tempo Runs",
+    "short": "Incorporate moderate-paced runs.",
+    "long": "Tempo runs challenge your cardiovascular system at a sustainable but demanding pace. They improve lactate threshold, endurance, and overall running performance."
+  },
+  {
+    "category": "Track Steps",
+    "short": "Keep moving daily.",
+    "long": "Monitoring steps encourages daily movement outside formal workouts. Walking, taking stairs, or short activity breaks accumulate to significant health and calorie benefits."
+  },
+  {
+    "category": "Outdoor Training",
+    "short": "Exercise in nature.",
+    "long": "Outdoor workouts improve mental well-being, expose you to sunlight for vitamin D, and add variety to training. Running, hiking, or calisthenics outdoors enhance fitness and mood."
+  },
+  {
+    "category": "Active Recovery",
+    "short": "Move lightly on rest days.",
+    "long": "Gentle activity like walking, yoga, or stretching promotes blood flow, reduces soreness, and maintains mobility while allowing the body to recover between intense sessions."
+  },
+  {
+    "category": "Interval Training",
+    "short": "Alternate intensity levels.",
+    "long": "Using intervals in cardio or strength workouts boosts calorie burn, improves endurance, and makes training more efficient. Mix high and low-intensity periods strategically."
+  },
+  {
+    "category": "Strength Variety",
+    "short": "Change your lifts regularly.",
+    "long": "Altering exercises, rep ranges, and angles prevents plateaus, challenges muscles differently, and enhances strength gains. Variety keeps workouts engaging and effective."
+  },
+  {
+    "category": "Mind-Body Exercises",
+    "short": "Try yoga or Pilates.",
+    "long": "Yoga and Pilates improve flexibility, core strength, balance, and body awareness. They complement traditional workouts and reduce stress, enhancing overall fitness and recovery."
+  },
+  {
+    "category": "Joint Warm-Up",
+    "short": "Mobilize joints before lifting.",
+    "long": "Joint circles, light movement, and dynamic stretching activate joints and muscles, reducing injury risk and improving movement efficiency during strength training."
+  },
+  {
+    "category": "Form Before Weight",
+    "short": "Prioritize technique.",
+    "long": "Lifting too heavy with poor form increases injury risk. Focus on controlled movements and proper alignment before increasing weight or intensity."
+  },
+  {
+    "category": "Workout Variety",
+    "short": "Alternate exercise types.",
+    "long": "Switching between cardio, strength, mobility, and skill work ensures balanced development, prevents boredom, and improves overall fitness and function."
+  },
+  {
+    "category": "Breath Control",
+    "short": "Use proper breathing patterns.",
+    "long": "Exhaling during exertion and inhaling during relaxation stabilizes core muscles, enhances strength, and supports efficient oxygen delivery during exercise."
+  },
+  {
+    "category": "Resistance Bands",
+    "short": "Add bands to your routine.",
+    "long": "Resistance bands improve strength, mobility, and stability. They provide variable tension, reduce joint stress, and allow versatile training anywhere."
+  },
+  {
+    "category": "Mindset Shift",
+    "short": "Focus on progress, not perfection.",
+    "long": "Celebrating small wins, tracking improvements, and staying consistent fosters motivation. A positive mindset reduces frustration and encourages long-term adherence to fitness goals."
+  },
+  {
+    "category": "Active Lifestyle",
+    "short": "Move outside the gym.",
+    "long": "Daily activities like walking, cycling, gardening, or taking stairs contribute to overall health, burn calories, and reinforce consistency beyond formal workouts."
+  },
+  {
+    "category": "Core Engagement",
+    "short": "Activate core in all exercises.",
+    "long": "Engaging the core during lifting, running, or bodyweight movements protects the spine, enhances strength transfer, and improves balance and posture."
+  },
+  {
+    "category": "Warm-Up Consistency",
+    "short": "Always prep your body.",
+    "long": "Skipping warm-ups increases injury risk and reduces performance. Dynamic stretches and light cardio prime muscles, joints, and the nervous system for optimal activity."
+  },
+  {
+    "category": "Set Realistic Goals",
+    "short": "Define achievable milestones.",
+    "long": "Setting realistic short-term and long-term fitness goals keeps motivation high and provides a roadmap for progress. Measurable goals prevent discouragement and track success effectively."
+  },
+  {
+    "category": "Track Nutrition",
+    "short": "Monitor what you eat.",
+    "long": "Keeping a food journal or using an app helps ensure you meet protein, carbohydrate, and micronutrient needs. Proper nutrition supports energy, recovery, and long-term health."
+  },
+  {
+    "category": "Posture Awareness",
+    "short": "Correct posture prevents injuries.",
+    "long": "Maintaining proper posture during daily activities and workouts reduces joint stress, improves breathing efficiency, and enhances movement quality. Awareness of alignment keeps the body safe and functional."
+  },
+  {
+    "category": "Tempo Variation",
+    "short": "Change the speed of your reps.",
+    "long": "Varying rep speed challenges muscles differently, increases time under tension, and enhances strength and endurance. Slow reps improve control, while faster reps improve power and explosiveness."
+  },
+  {
+    "category": "Hydration Timing",
+    "short": "Hydrate strategically.",
+    "long": "Drinking water before, during, and after exercise ensures optimal performance. Proper timing prevents dehydration, maintains energy levels, and supports recovery."
+  },
+  {
+    "category": "Calisthenics",
+    "short": "Master bodyweight exercises.",
+    "long": "Push-ups, pull-ups, squats, and dips build functional strength and endurance. Calisthenics enhance mobility, coordination, and muscle control without needing gym equipment."
+  },
+  {
+    "category": "Active Stretching",
+    "short": "Move while you stretch.",
+    "long": "Dynamic stretching, such as leg swings or arm circles, increases blood flow, warms muscles, and prepares joints for activity. Active stretching improves flexibility and reduces injury risk."
+  },
+  {
+    "category": "Resistance Progression",
+    "short": "Increase resistance gradually.",
+    "long": "Progressively overloading your muscles with heavier weights or resistance challenges them to grow stronger safely. Gradual increments prevent injury and promote consistent gains."
+  },
+  {
+    "category": "Exercise Variety",
+    "short": "Switch up your workouts.",
+    "long": "Trying different exercises prevents boredom, challenges muscles differently, and enhances overall fitness. Mixing strength, cardio, and mobility training ensures balanced development."
+  },
+  {
+    "category": "Core Stability",
+    "short": "Stabilize your torso.",
+    "long": "Engaging deep core muscles improves posture, protects the spine, and increases strength transfer to other movements. Stability work enhances balance and reduces injury risk."
+  },
+  {
+    "category": "Mindful Recovery",
+    "short": "Listen to recovery cues.",
+    "long": "Muscle soreness, fatigue, and joint pain signal your body’s need for rest. Using recovery strategies like light movement, foam rolling, and stretching ensures sustainable progress."
+  },
+  {
+    "category": "Prehab Exercises",
+    "short": "Prevent injuries before they occur.",
+    "long": "Incorporating prehab exercises strengthens vulnerable areas, improves mobility, and reinforces movement patterns. Prevention reduces downtime and improves long-term performance."
+  },
+  {
+    "category": "Endurance Training",
+    "short": "Build stamina over time.",
+    "long": "Consistent aerobic activity enhances cardiovascular efficiency, lung capacity, and muscular endurance. Gradual increases in intensity or duration support long-term fitness improvements."
+  },
+  {
+    "category": "Explosive Power",
+    "short": "Train for speed and strength.",
+    "long": "Plyometric and fast-twitch exercises develop explosive power, improving athletic performance and functional movement. Controlled technique ensures safe execution."
+  },
+  {
+    "category": "Recovery Nutrition",
+    "short": "Eat to repair muscles.",
+    "long": "Protein-rich meals and carbohydrate replenishment post-workout support muscle repair, reduce soreness, and restore energy. Balanced recovery nutrition maximizes gains and performance."
+  },
+  {
+    "category": "Strength Ratios",
+    "short": "Balance muscle groups.",
+    "long": "Training opposing muscles evenly prevents imbalances, improves posture, and reduces injury risk. For example, balance chest and back, quads and hamstrings, or biceps and triceps."
+  },
+  {
+    "category": "Outdoor Cardio",
+    "short": "Run, bike, or hike outside.",
+    "long": "Exercising outdoors increases vitamin D, mental well-being, and adds variety to training. Natural terrain challenges muscles and coordination differently than indoor workouts."
+  },
+  {
+    "category": "Mindset Challenge",
+    "short": "Push your limits safely.",
+    "long": "Challenging your mental boundaries helps overcome plateaus and increases resilience. Set achievable yet challenging goals to maintain motivation and growth."
+  },
+  {
+    "category": "Breathing Awareness",
+    "short": "Coordinate breath with movement.",
+    "long": "Inhale during easier phases and exhale during exertion to maintain rhythm, reduce strain, and improve oxygen delivery. Proper breathing stabilizes core and enhances performance."
+  },
+  {
+    "category": "Strength-Endurance Fusion",
+    "short": "Combine lifting and cardio.",
+    "long": "Integrating strength and cardiovascular work improves muscular endurance, calorie burn, and cardiovascular health. Circuit or interval formats maintain intensity and engagement."
+  },
+  {
+    "category": "Mobility Drills",
+    "short": "Move joints through full range.",
+    "long": "Targeted mobility exercises enhance joint flexibility, reduce stiffness, and support proper movement patterns. Regular mobility work keeps your body resilient and adaptable."
+  },
+  {
+    "category": "Consistency Mindset",
+    "short": "Small daily wins matter.",
+    "long": "Even short or moderate workouts build habit, reinforce discipline, and improve long-term fitness. Progress comes from showing up consistently, not occasional extreme efforts."
+  },
+  {
+    "category": "Cross-Training",
+    "short": "Mix sports and activities.",
+    "long": "Trying different sports or exercises reduces repetitive stress, improves overall fitness, and prevents boredom. Cross-training enhances balance, agility, and overall athleticism."
+  },
+  {
+    "category": "Heart Rate Monitoring",
+    "short": "Track intensity.",
+    "long": "Monitoring your heart rate ensures you're training at the right intensity for cardiovascular or fat-burning goals. It prevents overtraining and optimizes efficiency in workouts."
+  },
+  {
+    "category": "Recovery Sleep",
+    "short": "Prioritize post-workout rest.",
+    "long": "Sleep after exercise is critical for muscle repair, growth, and hormone regulation. Adequate rest accelerates recovery and prepares the body for subsequent training sessions."
+  },
+  {
+    "category": "Strength Endurance",
+    "short": "Combine reps and weights smartly.",
+    "long": "Mixing higher-rep, lower-weight sets with lower-rep, heavier-weight sets builds both muscular endurance and strength. This approach supports overall functional fitness and performance."
+  },
+  {
+    "category": "Mobility Flow",
+    "short": "Sequence movements for flexibility.",
+    "long": "Flowing through mobility sequences like yoga or dynamic stretching improves range of motion, coordination, and joint health. Consistent practice enhances movement efficiency."
+  },
+  {
+    "category": "Mind-Muscle Activation",
+    "short": "Focus on the working muscle.",
+    "long": "Mentally concentrating on the muscle being worked improves activation, reduces compensation, and enhances results. Mind-muscle connection ensures quality over quantity in training."
+  },
+  {
+    "category": "Low-Impact Options",
+    "short": "Protect joints while training.",
+    "long": "Exercises like swimming, cycling, and elliptical reduce stress on joints while maintaining cardiovascular and muscular fitness. Ideal for injury prevention or recovery periods."
+  },
+  {
+    "category": "Functional Strength",
+    "short": "Train for real-life tasks.",
+    "long": "Exercises that mimic daily movements like lifting, pushing, pulling, and carrying improve practical strength, coordination, and reduce the risk of injury in everyday life."
+  },
+  {
+    "category": "Workout Timing",
+    "short": "Find your optimal time.",
+    "long": "Exercising at times when you have the most energy improves performance, focus, and consistency. Some benefit from morning workouts, others from afternoon or evening sessions."
+  },
+  {
+    "category": "Mindful Eating",
+    "short": "Nutrition matters beyond calories.",
+    "long": "Eating mindfully ensures you fuel workouts effectively, control portion sizes, and improve digestion. Balanced meals support energy levels, recovery, and long-term health."
+  },
+  {
+    "category": "Strength Frequency",
+    "short": "Train muscles multiple times.",
+    "long": "Training a muscle group 2-3 times per week with appropriate recovery boosts growth and strength. Frequency matters more than occasional heavy sessions."
+  },
+  {
+    "category": "Interval Cardio",
+    "short": "Alternate hard and easy effort.",
+    "long": "Interval cardio improves cardiovascular efficiency, burns calories, and boosts metabolism. Alternating high and low intensity keeps workouts effective and engaging."
+  },
+  {
+    "category": "Mindset Recovery",
+    "short": "Rest your mind as well as body.",
+    "long": "Mental recovery through meditation, relaxation, or hobbies reduces stress, improves focus, and enhances workout quality. Mind and body rest are both essential for progress."
+  },
+  {
+    "category": "Speed Work",
+    "short": "Practice faster movements.",
+    "long": "Adding sprints or fast lifts increases power, reaction time, and athletic performance. Controlled speed work must maintain proper form to prevent injury."
+  },
+  {
+    "category": "Active Commuting",
+    "short": "Walk or bike to destinations.",
+    "long": "Integrating movement into daily routines, like commuting by walking or cycling, increases daily activity, improves fitness, and supports cardiovascular health without structured workouts."
+  },
+  {
+    "category": "Workout Community",
+    "short": "Train with others.",
+    "long": "Exercising with friends or in a group increases motivation, accountability, and enjoyment. Social support fosters consistency and can push performance safely."
+  },
+  {
+    "category": "Mindful Warm-Up",
+    "short": "Focus on readiness.",
+    "long": "Paying attention during warm-up primes muscles, joints, and the nervous system. Mindful preparation reduces injury risk and enhances overall performance."
+  },
+  {
+    "category": "Tracking Progress",
+    "short": "Document improvements.",
+    "long": "Recording workouts, measurements, or achievements motivates and guides adjustments. Seeing progress reinforces consistency and encourages long-term commitment."
+  },
+  {
+    "category": "Equipment Variety",
+    "short": "Use different tools wisely.",
+    "long": "Incorporating dumbbells, kettlebells, bands, or machines adds variety, challenges muscles in new ways, and prevents plateaus while improving functional strength."
+  },
+  {
+    "category": "Functional Training",
+    "short": "Train for everyday movements.",
+    "long": "Functional training focuses on movements that mimic daily activities, improving strength, coordination, balance, and mobility. Exercises like squats, lunges, push-ups, and kettlebell swings enhance real-life performance and reduce injury risk."
+  },
+  {
+    "category": "Hydration During Exercise",
+    "short": "Stay hydrated while working out.",
+    "long": "Drinking water before, during, and after exercise maintains performance, prevents dehydration, regulates body temperature, and supports recovery. Proper hydration also helps reduce muscle cramps and fatigue."
+  }
+]

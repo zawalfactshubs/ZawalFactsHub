@@ -1,0 +1,152 @@
+/* =============================
+   MOTIVATION PAGE CARDS
+==============================*/
+
+/* Container for all cards */
+.motivation-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+
+/* Individual card */
+.motivation-posts .card {
+  background: var(--dark-bg, #1C2B2D);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Hover effect */
+.motivation-posts .card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.4);
+}
+
+/* Card image */
+.motivation-posts .card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.motivation-posts .card:hover img {
+  transform: scale(1.05);
+}
+
+/* Card content */
+.motivation-posts .card .card-content {
+  padding: 1rem 1.2rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.motivation-posts .card h3 {
+  font-size: 1.15rem;
+  color: var(--light-text, #F5F5F5);
+  margin-bottom: 0.6rem;
+}
+
+.motivation-posts .card p {
+  font-size: 0.9rem;
+  color: #dcdcdc;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+/* Card link/button */
+.motivation-posts .card a {
+  text-decoration: none;
+  color: var(--accent, #CD7F32);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.motivation-posts .card a:hover {
+  color: #f0b46e;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .motivation-posts {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem auto;
+  }
+  
+  .motivation-posts .card img {
+    height: 130px;
+  }
+  
+  .motivation-posts .card h3 {
+    font-size: 1.05rem;
+  }
+  
+  .motivation-posts .card p {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .motivation-posts {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin: 1rem auto;
+  }
+  
+  .motivation-posts .card img {
+    height: 120px;
+  }
+  
+  .motivation-posts .card h3 {
+    font-size: 1rem;
+  }
+  
+  .motivation-posts .card p {
+    font-size: 0.8rem;
+  }
+}
+/* ============================= */
+/* GLOBAL LOAD MORE BUTTON */
+/* ============================= */
+
+.load-more {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #CD7F32;
+  color: #1C2B2D;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.load-more:hover {
+  opacity: 0.9;
+}
+.ad-slot {
+  background-color: #1C2B2D;
+  border-radius: 16px;
+  min-height: 100px;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFD066;
+  font-weight: 700;
+  font-size: 1rem;
+}

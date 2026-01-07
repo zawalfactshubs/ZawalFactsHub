@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zawal Facts Hub</title>
+  <meta name="description" content="Discover fascinating facts, daily motivation, health tips, life hack, technology updates, and fun quizzes. Learn something new every day with helpful and engaging content.">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="meu.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style2.css">
+
+  <!-- LOADING SCREEN STYLES -->
+  <link rel="stylesheet" href="loading.css">
+</head>
+
+<body>
+<!-- =======================
+     LOADING SCREEN
+======================= -->
+<div id="loader">
+  <div class="ring">
+    <img id="loader-logo" src="loading.jpg" alt="Loading Logo">
+  </div>
+  <div class="loading-text">Loading…</div>
+</div>
+
+
+<!-- =======================
+      REAL CONTENT
+======================= -->
+<div id="real-content" style="display:none;">
+<!-- HEADER -->
+<header>
+  <h1>
+    <img src="logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+
+  <nav id="nav-menu" class="nav-menu">
+    
+    <a href="/index.html">Home</a>
+    <a href="/facts/facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech.html">Tech Tips</a>
+ 
+    <a href="/tutorials.html">Life Hacks</a>
+    <a href="premium.html">Premium Facts</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html">Contact</a>
+  </nav>
+</header>
+
+<!-- FACT OF DAY -->
+<section class="fact-of-day">
+  <h2>Fact of the Day</h2>
+  <p id="fact-text">Loading...</p>
+  <button id="generate-fact" class="generate-fact">Generate Random Fact</button>
+</section>
+<!-- AdSense Banner -->
+<div class="adsense-top" style="text-align:center; margin:10px 0;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-XXXXXXXXXXXXXXX"
+       data-ad-slot="1111111111"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+<!-- SEARCH -->
+
+
+<!-- CATEGORIES -->
+<div class="categories">
+  <a class="category" href="/index.html">Home</a>
+  <a class="category" href="/facts/facts.html">Facts</a>
+  <a class="category" href="/motivation/motivation.html">Motivation</a>
+  <a class="category" href="/health/health.html">health tips</a>
+  <a class="category" href="/tech/tech.html">tech tips</a>
+  <a class="category" href="/tutorials.html">Life Hacks</a>
+</div>
+
+<!-- POSTS -->
+<section class="posts">
+  <div class="card">
+    <img src="facts.jpg" alt="Interesting facts and fun knowledge">
+    <div class="card-content">
+      <h3>Discover Fascinating Facts from Around the World</h3>
+      <p>
+        Explore amazing, surprising, and mind-blowing facts about science, history,
+        humans, animals, space, and everyday life. Learn something new every day
+        with fun and interesting facts.
+      </p>
+      <a href="/facts/facts.html">Explore facts category</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <img src="motivation.jpg" alt="Daily motivation and success tips">
+    <div class="card-content">
+      <h3>Daily Motivation and Positive Life Tips</h3>
+      <p>
+        Stay inspired with powerful motivational tips, positive quotes,
+        success advice, and mindset ideas to help you stay focused, confident,
+        and productive every day.
+      </p>
+      <a href="/motivation/motivation.html">Explore motivation category</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <img src="health.jpg" alt="Health tips and wellness advice">
+    <div class="card-content">
+      <h3>Health Tips for a Better and Balanced Life</h3>
+      <p>
+        Discover practical health tips, wellness advice, fitness habits,
+        mental health guidance, and simple lifestyle changes that help you
+        live a healthier and happier life.
+      </p>
+      <a href="/health/health.html">Explore health category</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <img src="tech.jpg" alt="Latest technology news and innovations">
+    <div class="card-content">
+      <h3>Latest Technology News and Innovations</h3>
+      <p>
+        Stay updated with the newest technology trends, digital tools,
+        smartphone tips, internet updates, and modern tech innovations
+        shaping the future.
+      </p>
+      <a href="/tech/tech.html">Explore tech category</a>
+    </div>
+  </div>
+  
+<div class="card card-hidden">
+  <img src="lifehack.jpg" alt="Smart life hacks and daily tips">
+  <div class="card-content">
+    <h3>Smart Life Hacks for Everyday Problems</h3>
+    <p>
+      Learn simple and clever life hacks, productivity tips,
+      money-saving ideas, and daily tricks that make your life easier,
+      faster, and more efficient.
+    </p>
+    <a href="/lifehack/lifehack.html">Explore life hacks category</a>
+  </div>
+</div>
+  <div class="card" id="quiz-card">
+    <img src="quiz.jpg" alt="Fun quiz and knowledge test">
+    <div class="card-content">
+      <h3>Fun Quizzes to Test Your Knowledge</h3>
+      <p>
+        Challenge yourself with fun and interactive quizzes.
+        Test your knowledge, learn new facts, and see how smart you really are
+        across different topics.
+      </p>
+      <a href="coming-soon.html">Start quiz</a>
+    </div>
+  </div>
+  <!-- Category Break Ad -->
+<div class="adsense-category" style="text-align:center; margin:25px 0;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-XXXXXXXXXXXXXXX"
+       data-ad-slot="3333333333"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+</section>
+<!-- FOOTER -->
+<footer class="modern-footer">
+
+<!-- FUTURISTIC SOCIAL COMBO -->
+<section class="social-combo">
+  <h2>Connect With Us</h2>
+  <p class="combo-text">
+    Join our channels for daily facts, tips, and motivation:
+  </p>
+  
+<div class="social-logos">
+  <a href="https://www.tiktok.com/@zawal.facts.hub"
+     target="_blank"
+     class="social-icon tiktok">
+    <img src="images/tiktok-logo.png" alt="Zawal Facts Hub on TikTok">
+  </a>
+
+   <a href="https://www.facebook.com/share/17wGHjgNps/?mibextid=wwXIfr"
+   target="_blank"
+   class="social-icon facebook">
+  <img src="images/facebooklogo.png" alt="Zawal Facts Hub on Facebook">
+</a>
+
+     <a href="https://pin.it/5H5wylnsD" target="_blank" class="social-icon pinterest">
+     <img src="images/pinterest-logo.png" alt="Pinterest">
+   </a>
+   <a href="https://whatsapp.com/channel/0029Vb7c5c63rZZg6lenhs3m"
+   target="_blank"
+   class="social-icon whatsapp">
+  <img src="images/whatsapp-logo.png" alt="WhatsApp Channel">
+</a>
+  </div>
+</section>
+
+  <!-- STATS (NOW LOCALSTORAGE) -->
+  <div class="stats">
+    <div class="stat-box">
+      ❤️ Likes: <span id="likes-count">0</span>
+      <button id="like-btn">Like ❤️</button>
+    </div>
+
+    <div class="stat-box">
+      ⭐ Ratings: <span id="rating-count">0</span>
+      <button id="rate-btn">Rate ⭐</button>
+    </div>
+
+    <div class="stat-box">
+      👁️ Visitors: <span id="visit-count">0</span>
+    </div>
+
+    <div class="stat-box">
+      🔄 Fact Opens: <span id="fact-count">0</span>
+    </div>
+  </div>
+
+  <!-- FOOTER LINKS -->
+  <div class="footer-links">
+    <a href="about.html">About</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="contact.html">Contact</a>
+  
+  <p class="copy">© 2025 Zawal Facts Hub • All rights reserved.</p>
+</footer>
+
+<script>
+  // ------------------------------
+  // LOADING SCREEN WITH SESSION STORAGE
+  // ------------------------------
+  const loader = document.getElementById("loader");
+  const realContent = document.getElementById("real-content");
+  const isHomePage = window.location.pathname.endsWith("index.html") || window.location.pathname === "/";
+  const loaderShownKey = "loaderShown";
+
+  if (isHomePage && !sessionStorage.getItem(loaderShownKey)) {
+    window.addEventListener("load", () => {
+      setTimeout(() => {
+        if (loader) loader.style.display = "none";
+        if (realContent) realContent.style.display = "block";
+        sessionStorage.setItem(loaderShownKey, "true");
+      }, 1000);
+    });
+  } else {
+    if (loader) loader.style.display = "none";
+    if (realContent) realContent.style.display = "block";
+  }
+
+  function countVisit() {
+    const now = Date.now();
+    const lastVisit = localStorage.getItem("lastVisitTime");
+    const twentyMin = 20 * 60 * 1000;
+
+    if (!lastVisit || now - lastVisit > twentyMin) {
+      increment("visits");
+      localStorage.setItem("lastVisitTime", now);
+    }
+  }
+
+  // Call this on every page load
+  countVisit();
+
+  // ------------------------------
+  // FACT LIST
+  // ------------------------------
+const facts = [
+  "Honey never spoils.",
+  "Octopuses have three hearts.",
+  "Jellyfish have existed for 500 million years.",
+  "Wombats have cube-shaped poop.",
+  "Penguins can drink seawater.",
+  "Sea otters hold hands while sleeping.",
+  "Bananas are berries; strawberries aren't.",
+  "Lightning strikes Earth 100 times every second.",
+  "There’s a jellyfish that can live forever.",
+  "Africa is the only continent in all four hemispheres.",
+  
+  // 20 more weird facts
+  "Sharks existed before trees.",
+  "Sloths can hold their breath longer than dolphins.",
+  "There’s a species of fungus that turns ants into zombies.",
+  "Scotland has 421 words for 'snow'.",
+  "There’s a town in Norway where the sun doesn’t rise for 2 months.",
+  "Otters have a favorite rock they use to crack shells.",
+  "Butterflies can taste with their feet.",
+  "Some turtles can breathe through their butts.",
+  "Sea cucumbers fight by shooting their own internal organs out.",
+  "Cows have best friends and get stressed when separated.",
+  "A day on Venus is longer than a year on Venus.",
+  "Some mushrooms can glow in the dark.",
+  "Sharks can live for over 500 years.",
+  "The fingerprints of a koala are almost identical to humans.",
+  "There’s a species of jellyfish that is biologically immortal.",
+  "Rats laugh when tickled.",
+  "There’s a lake in Australia that’s naturally bright pink.",
+  "Pineapples take about two years to grow.",
+  "Some frogs can freeze completely and come back to life.",
+  "Humans share 60% of their DNA with bananas."
+];
+// ------------------------------
+// RANDOM FACT GENERATOR (FIXED)
+// ------------------------------
+const factText = document.getElementById("fact-text");
+const generateBtn = document.getElementById("generate-fact");
+
+function showRandomFact() {
+  if (!factText) return;
+  const index = Math.floor(Math.random() * facts.length);
+  factText.textContent = facts[index];
+}
+
+// ------------------------------
+// FACT GENERATOR (after loader)
+// ------------------------------
+function showFactAfterLoader() {
+  const factText = document.getElementById("fact-text");
+  if (!factText) return;
+  
+  // Show initial random fact
+  const index = Math.floor(Math.random() * facts.length);
+  factText.textContent = facts[index];
+  
+  // Button click for new fact
+  const generateBtn = document.getElementById("generate-fact");
+  if (generateBtn) {
+    generateBtn.addEventListener("click", () => {
+      const index = Math.floor(Math.random() * facts.length);
+      factText.textContent = facts[index];
+    });
+  }
+}
+
+// Modify your loader logic to call the fact function after showing content
+const loaderDelay = 1000; // same as before
+
+if (isHomePage && !sessionStorage.getItem(loaderShownKey)) {
+  window.addEventListener("load", () => {
+    setTimeout(() => {
+      if (loader) loader.style.display = "none";
+      if (realContent) {
+        realContent.style.display = "block";
+        showFactAfterLoader(); // <-- FACT is generated here
+      }
+      sessionStorage.setItem(loaderShownKey, "true");
+    }, loaderDelay);
+  });
+} else {
+  if (loader) loader.style.display = "none";
+  if (realContent) {
+    realContent.style.display = "block";
+    showFactAfterLoader(); // <-- FACT is generated here on subsequent visits
+  }
+}
+
+
+
+  // LIKE / RATE BUTTONS
+  const likeBtn = document.getElementById("like-btn");
+  const rateBtn = document.getElementById("rate-btn");
+  if (likeBtn) likeBtn.onclick = () => increment("likes");
+  if (rateBtn) rateBtn.onclick = () => increment("ratings");
+
+  // Load stats on page load
+  updateStats();
+</script>
+<!-- Include the menu JS & CSS -->
+
+<script src="menu.js"></script>
+<script src="lazyload.js" defer></script>
+<script src="stats.js"></script>
+</body>
+</html>

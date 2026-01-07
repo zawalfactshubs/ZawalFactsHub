@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zawal Facts Hub - Motivation</title>
+<meta name="description" content="Get inspired with Zawal Facts Hub Motivation! Explore daily motivation, success, mindset, confidence, study tips, and more to stay focused and achieve your goals.">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>
+      <img src="/logo.png" alt="Zawal Facts Hub Logo">
+      Zawal Facts Hub
+    </h1>
+
+    <!-- Hamburger Menu -->
+    <div class="hamburger" id="hamburger">☰</div>
+    <nav class="nav-menu" id="nav-menu">
+      <a href="../index.html">Home</a>
+      <a href="../facts/facts.html">Facts</a>
+      <a href="motivation.html" class="active">Motivation</a>
+      <a href="../health/health.html">Health Tips</a>
+      <a href="../tech/tech.html">Tech Tips</a>
+   
+      <a href="../tutorials.html">Life Hacks</a>
+      <a href="../about.html">About</a>
+      <a href="../privacy.html">Privacy Policy</a>
+      <a href="../contact.html">Contact Us</a>
+      <a href="../premium-facts.html">Premium Facts</a>
+    </nav>
+  </header>
+
+  <!-- Motivation of the Day -->
+  <section class="fact-of-day">
+    <h2>Motivation of the Day</h2>
+    <p id="fact-text">Loading...</p>
+    <button id="generate-fact" class="generate-fact">Generate Motivation</button>
+  </section>
+
+
+  <!-- Category Links -->
+  <div class="categories">
+    <a class="category" href="../index.html">Home</a>
+    <a class="category" href="../facts/facts.html">Facts</a>
+    <a class="category active" href="/motivation.html">Motivation</a>
+    <a class="category" href="../tech/tech.html">Tech Tips</a>
+    <a class="category" href="../health/health.html">Health Tips</a>
+    <a class="category" href="../tutorials.html">Life Hacks</a>
+  </div>
+
+  <!-- Motivation Categories -->
+  <section class="posts">
+    <div class="card">
+      <img src="success.jpg" alt="Success">
+      <div class="card-content">
+        <h3>Success</h3>
+        <p>Motivation to push you toward your goals and achievements.</p>
+        <a href="./success/success.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="life.jpg" alt="Life">
+      <div class="card-content">
+        <h3>Life</h3>
+        <p>Deep life motivation to help you grow and elevate.</p>
+        <a href="./life/life.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="strength.jpg" alt="Strength">
+      <div class="card-content">
+        <h3>Strength</h3>
+        <p>Motivation to keep you mentally and emotionally strong.</p>
+        <a href="./strength/strength.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="hustle.jpg" alt="Hustle">
+      <div class="card-content">
+        <h3>Hustle</h3>
+        <p>Daily hustle inspiration to keep you grinding.</p>
+        <a href="./hustle/hustle.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="mindset.jpg" alt="Mindset">
+      <div class="card-content">
+        <h3>Mindset</h3>
+        <p>Powerful mindset shifts that change your life.</p>
+        <a href="./mindset/mindset.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="morning.jpg" alt="Morning Motivation">
+      <div class="card-content">
+        <h3>Morning Motivation</h3>
+        <p>Wake up energized and inspired every single day.</p>
+        <a href="./morning/morning.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="confidence.jpg" alt="Confidence">
+      <div class="card-content">
+        <h3>Confidence</h3>
+        <p>Build confidence and destroy self-doubt.</p>
+        <a href="confidence/confidence.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="over.jpg" alt="Overthinking">
+      <div class="card-content">
+        <h3>Overthinking</h3>
+        <p>Stop overthinking and start living with clarity.</p>
+        <a href="overthinking/overthinking.html">View Posts</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="study.jpg" alt="Study">
+      <div class="card-content">
+        <h3>Study</h3>
+        <p>Boost your study focus, discipline, and performance.</p>
+        <a href="study/study.html">View Posts</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- JS -->
+  <script>
+    // Hamburger menu toggle
+    const hamburger = document.getElementById('hamburger');
+    const navMenu = document.getElementById('nav-menu');
+    hamburger.addEventListener('click', () => navMenu.classList.toggle('open'));
+
+    // Motivation of the Day Generator (just like Fact of the Day)
+    const facts = [
+      "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "Don't watch the clock; do what it does. Keep going.",
+      "The harder you work for something, the greater you'll feel when you achieve it.",
+      "Dream bigger. Do bigger.",
+      "Don't stop when you're tired. Stop when you're done.",
+      "Little things make big days.",
+      "Push yourself, because no one else is going to do it for you.",
+      "Great things never come from comfort zones.",
+      "Dream it. Wish it. Do it.",
+      "Stay positive, work hard, make it happen."
+    ];
+
+    const factText = document.getElementById('fact-text');
+    const generateBtn = document.getElementById('generate-fact');
+
+    function showFact() {
+      const randomIndex = Math.floor(Math.random() * facts.length);
+      factText.textContent = facts[randomIndex];
+    }
+
+    generateBtn.addEventListener('click', showFact);
+    showFact();
+
+    // Search categories
+    function searchPosts() {
+      const input = document.getElementById('search-input').value.toLowerCase();
+      const cards = document.querySelectorAll('.card');
+      let anyVisible = false;
+
+      cards.forEach(card => {
+        const title = card.querySelector('h3').textContent.toLowerCase();
+        if (title.includes(input)) {
+          card.style.display = 'block';
+          anyVisible = true;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      document.getElementById('no-results').style.display = anyVisible ? 'none' : 'block';
+    }
+  </script>
+  <!-- Include the menu JS & CSS -->
+<link rel="stylesheet" href="../menu.css">
+<script src="../menu.js"></script>
+<script src="../lazyload.js" defer></script>
+</body>
+</html>

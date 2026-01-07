@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? The Great Pyramid of Giza was built over 4,500 years ago and was the tallest man-made structure for centuries.",
+    "category": "ancient history",
+    "image": "images/pyramid.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Julius Caesar was assassinated on the Ides of March, 44 BC, by members of the Roman Senate.",
+    "category": "ancient history",
+    "image": "images/caesar.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? The Black Death killed an estimated 25–50% of Europe’s population in the 14th century.",
+    "category": "medieval history",
+    "image": "images/black_death.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Leonardo da Vinci was not only a painter but also an inventor, scientist, and engineer.",
+    "category": "cultural history",
+    "image": "images/leonardo.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? The printing press, invented by Johannes Gutenberg in the 15th century, revolutionized the spread of knowledge.",
+    "category": "history of science & technology",
+    "image": "images/printing_press.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? The American Revolution began in 1775 and led to the creation of the United States of America.",
+    "category": "modern history",
+    "image": "images/american_revolution.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? The Great Fire of London in 1666 destroyed over 13,000 houses but only six people were recorded dead.",
+    "category": "weird history",
+    "image": "images/great_fire_london.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Napoleon Bonaparte crowned himself emperor of France in 1804, rather than letting the Pope do it.",
+    "category": "political history",
+    "image": "images/napoleon.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The Silk Road was an ancient trade route connecting China with Europe and facilitating cultural exchange.",
+    "category": "economic history",
+    "image": "images/silk_road.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? The Vikings used longships to travel vast distances and even reached North America around 1000 AD.",
+    "category": "exploration & discovery",
+    "image": "images/vikings.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? The Battle of Hastings in 1066 led to Norman control of England.",
+    "category": "military history",
+    "image": "images/battle_hastings.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? The Colosseum in Rome could hold up to 50,000 spectators for gladiatorial games.",
+    "category": "ancient history",
+    "image": "images/colosseum.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? During the Renaissance, Florence became a major center of art, culture, and humanism.",
+    "category": "cultural history",
+    "image": "images/florence_renaissance.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? The Library of Alexandria was one of the largest and most significant libraries of the ancient world.",
+    "category": "ancient history",
+    "image": "images/library_alexandria.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? The Mongol Empire, founded by Genghis Khan, became the largest contiguous empire in history.",
+    "category": "military history",
+    "image": "images/mongol_empire.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? The first successful flight by the Wright brothers occurred in 1903 in Kitty Hawk, North Carolina.",
+    "category": "history of science & technology",
+    "image": "images/wright_brothers.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? The Treaty of Versailles, signed in 1919, formally ended World War I.",
+    "category": "political history",
+    "image": "images/treaty_versailles.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? The French Revolution began in 1789 and led to the rise of Napoleon Bonaparte.",
+    "category": "modern history",
+    "image": "images/french_revolution.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? The Great Wall of China is over 13,000 miles long and took centuries to build.",
+    "category": "ancient history",
+    "image": "images/great_wall.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Samurai warriors in Japan followed a strict code of honor called Bushido.",
+    "category": "medieval history",
+    "image": "images/samurai.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? The Industrial Revolution began in Britain in the late 18th century and transformed the world economy.",
+    "category": "economic history",
+    "image": "images/industrial_revolution.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? The Spanish Armada of 1588 was a failed attempt by Spain to invade England.",
+    "category": "military history",
+    "image": "images/spanish_armada.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Ancient Egyptians believed cats were sacred and protected their homes from evil spirits.",
+    "category": "weird history",
+    "image": "images/cats_egypt.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? The Rosetta Stone helped scholars decipher Egyptian hieroglyphs.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? The Boston Tea Party in 1773 was a protest against British taxation in America.",
+    "category": "political history",
+    "image": "images/boston_tea_party.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? In medieval Europe, people believed bathing too often was dangerous for health.",
+    "category": "weird history",
+    "image": "images/medieval_bathing.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? The Ottoman Empire lasted over 600 years before dissolving after World War I.",
+    "category": "modern history",
+    "image": "images/ottoman_empire.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Ancient Mesopotamia is considered the cradle of civilization due to its early cities and writing.",
+    "category": "ancient history",
+    "image": "images/mesopotamia.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Vikings used runes as their written language for communication and rituals.",
+    "category": "medieval history",
+    "image": "images/vikings_runes.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? The Wright Flyer was the first powered airplane, flown by Orville and Wilbur Wright.",
+    "category": "history of science & technology",
+    "image": "images/wright_flyer.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? The Berlin Wall stood from 1961 to 1989, dividing East and West Berlin.",
+    "category": "modern history",
+    "image": "images/berlin_wall.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? The Taj Mahal was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "category": "cultural history",
+    "image": "images/taj_mahal.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? The Battle of Thermopylae in 480 BC featured 300 Spartans fighting the Persian army.",
+    "category": "military history",
+    "image": "images/thermopylae.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? The Inca Empire built an extensive network of roads across the Andes Mountains.",
+    "category": "ancient history",
+    "image": "images/inca_roads.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? King Tutankhamun’s tomb was discovered in 1922 by archaeologist Howard Carter.",
+    "category": "ancient history",
+    "image": "images/king_tut.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? The calendar we use today, the Gregorian calendar, was introduced in 1582.",
+    "category": "history of science & technology",
+    "image": "images/gregorian_calendar.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt.",
+    "category": "ancient history",
+    "image": "images/cleopatra.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? During the Victorian era, arsenic was used in wallpapers, cosmetics, and even toys.",
+    "category": "weird history",
+    "image": "images/arsenic_victorian.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? The discovery of penicillin by Alexander Fleming in 1928 revolutionized medicine.",
+    "category": "history of science & technology",
+    "image": "images/penicillin.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? The Colossus of Rhodes was one of the Seven Wonders of the Ancient World.",
+    "category": "ancient history",
+    "image": "images/colossus_rhodes.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? The Crusades were a series of religious wars in medieval Europe during the 11th–13th centuries.",
+    "category": "medieval history",
+    "image": "images/crusades.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? The first Olympic Games took place in Olympia, Greece, in 776 BC.",
+    "category": "ancient history",
+    "image": "images/olympics.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Napoleon Bonaparte was exiled to the island of Elba before escaping to power again.",
+    "category": "modern history",
+    "image": "images/napoleon_elba.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? The Rosetta Stone contained the same text in Greek, Demotic, and Hieroglyphics.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone_2.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? In medieval times, books were so rare that chains were used to secure them in libraries.",
+    "category": "medieval history",
+    "image": "images/chained_books.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? The Great Fire of Rome in 64 AD destroyed much of the city during Emperor Nero’s reign.",
+    "category": "ancient history",
+    "image": "images/great_fire_rome.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? The Boston Massacre in 1770 fueled revolutionary sentiment in the American colonies.",
+    "category": "political history",
+    "image": "images/boston_massacre.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? The Aztec Empire had a complex calendar system and built the city of Tenochtitlan on a lake.",
+    "category": "ancient history",
+    "image": "images/aztec_empire.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? In the Middle Ages, 'trial by ordeal' was a common way to determine guilt or innocence.",
+    "category": "medieval history",
+    "image": "images/trial_by_ordeal.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? The Gutenberg Bible was the first major book printed using movable type in Europe.",
+    "category": "history of science & technology",
+    "image": "images/gutenberg_bible.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? The Siege of Constantinople in 1453 marked the end of the Byzantine Empire.",
+    "category": "medieval history",
+    "image": "images/constantinople.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? The Code of Hammurabi is one of the oldest deciphered writings of significant length in the world.",
+    "category": "ancient history",
+    "image": "images/hammurabi_code.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? The Magna Carta, signed in 1215, limited the powers of the English king.",
+    "category": "political history",
+    "image": "images/magna_carta.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? The French and Indian War (1754–1763) was part of a larger conflict known as the Seven Years’ War.",
+    "category": "military history",
+    "image": "images/french_indian_war.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? The Terracotta Army was built to protect China’s first Emperor Qin Shi Huang in the afterlife.",
+    "category": "ancient history",
+    "image": "images/terracotta_army.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? The Renaissance saw the invention of perspective in art, changing visual representation forever.",
+    "category": "cultural history",
+    "image": "images/renaissance_art.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? The Silk Road enabled the exchange of not just goods, but also knowledge and religion.",
+    "category": "exploration & discovery",
+    "image": "images/silk_road2.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? The Hundred Years’ War between England and France lasted from 1337 to 1453.",
+    "category": "military history",
+    "image": "images/hundred_years_war.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? The American Civil War was fought from 1861 to 1865 over issues including slavery and states’ rights.",
+    "category": "modern history",
+    "image": "images/american_civil_war.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Vikings established trade routes that reached as far as Constantinople and the Middle East.",
+    "category": "exploration & discovery",
+    "image": "images/viking_trade.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? The Industrial Revolution introduced mass production and steam-powered machinery in the 18th century.",
+    "category": "economic history",
+    "image": "images/industrial_revolution2.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Ancient Sumerians invented cuneiform writing around 3400 BC.",
+    "category": "ancient history",
+    "image": "images/sumer_cuneiform.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? The Berlin Conference of 1884–1885 regulated European colonization and trade in Africa.",
+    "category": "political history",
+    "image": "images/berlin_conference.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? During the Middle Ages, people believed that tomatoes were poisonous.",
+    "category": "weird history",
+    "image": "images/medieval_tomatoes.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? The Taj Mahal combines Persian, Islamic, and Indian architectural styles.",
+    "category": "cultural history",
+    "image": "images/taj_mahal2.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Alexander the Great created one of the largest empires of the ancient world by age 30.",
+    "category": "ancient history",
+    "image": "images/alexander_great.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? The Great Fire of Chicago in 1871 destroyed over 17,000 buildings.",
+    "category": "modern history",
+    "image": "images/great_fire_chicago.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? The Wright brothers’ first flight lasted only 12 seconds and covered 120 feet.",
+    "category": "history of science & technology",
+    "image": "images/wright_first_flight.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? The Roman Empire’s roads were so well-built that many still exist today.",
+    "category": "ancient history",
+    "image": "images/roman_roads.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? King Richard III’s remains were discovered under a parking lot in Leicester, England, in 2012.",
+    "category": "weird history",
+    "image": "images/richard3.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? The discovery of America in 1492 by Christopher Columbus opened a new era of exploration.",
+    "category": "exploration & discovery",
+    "image": "images/columbus.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? The Battle of Waterloo in 1815 marked Napoleon’s final defeat.",
+    "category": "military history",
+    "image": "images/waterloo.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? The Egyptian pharaohs were considered gods on Earth.",
+    "category": "ancient history",
+    "image": "images/pharaoh.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? During the Middle Ages, animals were sometimes put on trial for crimes.",
+    "category": "weird history",
+    "image": "images/animal_trial.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? The Roman Colosseum had a retractable awning called the velarium to protect spectators from the sun.",
+    "category": "ancient history",
+    "image": "images/colosseum2.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? The Spanish Inquisition, established in 1478, aimed to maintain Catholic orthodoxy in Spain.",
+    "category": "medieval history",
+    "image": "images/spanish_inquisition.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? The first successful steam locomotive was built in 1804 by Richard Trevithick.",
+    "category": "history of science & technology",
+    "image": "images/steam_locomotive.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? The Boston Tea Party directly influenced the start of the American Revolution.",
+    "category": "political history",
+    "image": "images/boston_tea_party2.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? The Industrial Revolution dramatically increased urban populations in Europe.",
+    "category": "economic history",
+    "image": "images/urban_revolution.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? The Rosetta Stone allowed historians to finally read ancient Egyptian hieroglyphs.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone3.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? The Tower of London was used as a royal palace, prison, and treasury.",
+    "category": "medieval history",
+    "image": "images/tower_london.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? The Battle of Agincourt in 1415 showcased the effectiveness of the English longbow.",
+    "category": "military history",
+    "image": "images/agincourt.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Galileo Galilei improved the telescope and supported heliocentric theory in the 17th century.",
+    "category": "history of science & technology",
+    "image": "images/galileo.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Vikings believed in a pantheon of gods led by Odin and Thor.",
+    "category": "medieval history",
+    "image": "images/viking_gods.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? The first paper money appeared in China during the Tang Dynasty (7th century).",
+    "category": "economic history",
+    "image": "images/china_paper_money.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? In the Victorian era, people sometimes kept hair from deceased loved ones as keepsakes.",
+    "category": "weird history",
+    "image": "images/victorian_hair.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Marco Polo traveled through Asia and documented his experiences in 'The Travels of Marco Polo.'",
+    "category": "exploration & discovery",
+    "image": "images/marco_polo.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? The Wright brothers built their own engine to power their first airplane.",
+    "category": "history of science & technology",
+    "image": "images/wright_engine.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The Great Fire of Rome in 64 AD lasted for six days and destroyed large parts of the city.",
+    "category": "ancient history",
+    "image": "images/rome_fire.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? The Mayan civilization developed a complex system of writing and mathematics.",
+    "category": "ancient history",
+    "image": "images/maya.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? The California Gold Rush began in 1848 and brought thousands of prospectors westward.",
+    "category": "modern history",
+    "image": "images/gold_rush.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The French Revolution abolished the monarchy and established a republic in 1792.",
+    "category": "political history",
+    "image": "images/french_republic.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? During the Middle Ages, cats were associated with witches and often persecuted.",
+    "category": "weird history",
+    "image": "images/witch_cats.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? The Manhattan Project during WWII developed the first nuclear weapons.",
+    "category": "history of science & technology",
+    "image": "images/manhattan_project.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? The Berlin Wall fell on November 9, 1989, leading to German reunification.",
+    "category": "modern history",
+    "image": "images/berlin_wall2.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? The first Crusade was launched in 1096 to reclaim the Holy Land from Muslim control.",
+    "category": "medieval history",
+    "image": "images/first_crusade.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? The Inquisition sought to eliminate heresy within Europe, often through harsh punishment.",
+    "category": "medieval history",
+    "image": "images/inquisition.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? During Prohibition in the USA, the sale of alcohol was banned from 1920 to 1933.",
+    "category": "modern history",
+    "image": "images/prohibition.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The Rosetta Stone was discovered in 1799 near the town of Rashid (Rosetta) in Egypt.",
+    "category": "ancient history",
+    "image": "images/rosetta_discovery.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? The Great Fire of London in 1666 started in a bakery on Pudding Lane.",
+    "category": "weird history",
+    "image": "images/pudding_lane.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? The Silk Road connected China to Europe and facilitated trade for over 1,500 years.",
+    "category": "exploration & discovery",
+    "image": "images/silk_road.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? The Rosetta Stone helped scholars finally decipher Egyptian hieroglyphs.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? The Reign of Terror during the French Revolution saw thousands executed by guillotine.",
+    "category": "political history",
+    "image": "images/reign_of_terror.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? In medieval times, cats were sometimes believed to be witches’ familiars and were persecuted.",
+    "category": "weird history",
+    "image": "images/medieval_cats.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? The Great Wall of China stretches over 13,000 miles across northern China.",
+    "category": "ancient history",
+    "image": "images/great_wall.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? The Louisiana Purchase was completed for $15 million in 1803.",
+    "category": "economic history",
+    "image": "images/louisiana_purchase2.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? The Viking longships could navigate both open seas and shallow rivers.",
+    "category": "exploration & discovery",
+    "image": "images/viking_ship.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? During the Renaissance, artists often experimented with new pigments and materials to create vibrant paintings.",
+    "category": "cultural history",
+    "image": "images/renaissance_art.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? The Inquisition, active in Europe from the 12th to 19th century, investigated heresy and enforced religious conformity.",
+    "category": "political history",
+    "image": "images/inquisition.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Some ancient Roman senators were poisoned by rivals, often using lead or herbs.",
+    "category": "weird history",
+    "image": "images/roman_poison.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? The Code of Hammurabi is one of the oldest deciphered writings of significant length in the world.",
+    "category": "ancient history",
+    "image": "images/code_hammurabi.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? The Magna Carta, signed in 1215, limited the power of the English king and laid the foundation for modern democracy.",
+    "category": "political history",
+    "image": "images/magna_carta.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? In 18th century Europe, people believed tomatoes were poisonous until scientists proved otherwise.",
+    "category": "weird history",
+    "image": "images/tomato_history.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? The Roswell incident in 1947 became the center of UFO conspiracy theories in the USA.",
+    "category": "modern history",
+    "image": "images/roswell.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? The Colosseum in Rome could hold up to 80,000 spectators for gladiatorial contests.",
+    "category": "ancient history",
+    "image": "images/colosseum.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? The Wright brothers made the first controlled powered flight on December 17, 1903.",
+    "category": "history of science & technology",
+    "image": "images/wright_brothers.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? The Berlin Blockade was the first major crisis of the Cold War (1948–1949).",
+    "category": "modern history",
+    "image": "images/berlin_blockade.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? The first recorded trial by jury occurred in England in the 12th century.",
+    "category": "medieval history",
+    "image": "images/trial_by_jury.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? During the Middle Ages, people sometimes used powdered skulls in medicines.",
+    "category": "weird history",
+    "image": "images/skull_medicine.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? The ancient city of Petra in Jordan was carved directly into pink sandstone cliffs.",
+    "category": "ancient history",
+    "image": "images/petra.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? The Battle of Gettysburg (1863) was a turning point in the American Civil War.",
+    "category": "military history",
+    "image": "images/gettysburg.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? The invention of the telephone by Alexander Graham Bell in 1876 revolutionized communication.",
+    "category": "history of science & technology",
+    "image": "images/telephone.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? In ancient China, kites were originally used for measuring distances and military signaling.",
+    "category": "ancient history",
+    "image": "images/kites_china.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? The French Revolution began in 1789 and ended monarchy rule in France temporarily.",
+    "category": "political history",
+    "image": "images/french_revolution.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? During the Victorian era, 'memento mori' jewelry containing hair of deceased loved ones was popular.",
+    "category": "weird history",
+    "image": "images/memento_mori.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? The Mayan civilization developed a complex calendar system thousands of years ago.",
+    "category": "ancient history",
+    "image": "images/mayan_calendar.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? The construction of the Panama Canal (1904–1914) significantly reduced shipping times between oceans.",
+    "category": "modern history",
+    "image": "images/panama_canal.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? The Great Fire of London in 1666 destroyed 80% of the city but only 6 people were recorded as dead.",
+    "category": "weird history",
+    "image": "images/great_fire_london.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? The Domesday Book of 1086 recorded a survey of England’s lands and resources.",
+    "category": "medieval history",
+    "image": "images/domesday_book.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? The first vaccine was developed by Edward Jenner in 1796 using cowpox to prevent smallpox.",
+    "category": "history of science & technology",
+    "image": "images/jenner_vaccine.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? The Taj Mahal is a mausoleum built by Mughal Emperor Shah Jahan for his wife Mumtaz Mahal.",
+    "category": "cultural history",
+    "image": "images/taj_mahal2.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? In medieval Europe, some people believed cats could steal a person’s soul during sleep.",
+    "category": "weird history",
+    "image": "images/cat_soul.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? The Viking Sagas are epic stories passed down orally before being written centuries later.",
+    "category": "medieval history",
+    "image": "images/viking_sagas.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? The Rosetta Stone contains the same text in three scripts, allowing modern understanding of hieroglyphs.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone2.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The French and Indian War (1754–1763) was part of a larger global conflict called the Seven Years’ War.",
+    "category": "military history",
+    "image": "images/french_indian_war.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? The invention of the printing press increased literacy and helped spread scientific ideas across Europe.",
+    "category": "history of science & technology",
+    "image": "images/printing_press2.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Some medieval rulers had personal jesters whose job was to make them laugh and advise them humorously.",
+    "category": "weird history",
+    "image": "images/medieval_jester.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? The Battle of Thermopylae (480 BC) saw 300 Spartans hold off a much larger Persian army.",
+    "category": "ancient history",
+    "image": "images/thermopylae.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? The Treaty of Tordesillas (1494) divided the New World between Spain and Portugal.",
+    "category": "political history",
+    "image": "images/treaty_tordesillas.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? The Roswell incident inspired numerous books, documentaries, and popular culture references.",
+    "category": "modern history",
+    "image": "images/roswell2.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? The Terracotta Army in China was built to protect Emperor Qin Shi Huang in the afterlife.",
+    "category": "ancient history",
+    "image": "images/terracotta_army.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? During the 19th century, arsenic green was used as a pigment in wallpapers and clothing.",
+    "category": "weird history",
+    "image": "images/arsenic_green.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? The Manhattan Project led to the creation of the first nuclear weapons in the 1940s.",
+    "category": "history of science & technology",
+    "image": "images/manhattan_project2.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? The Roman Colosseum featured naval battle reenactments called naumachiae.",
+    "category": "ancient history",
+    "image": "images/colosseum_naumachia.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? The Berlin Airlift delivered over 2.3 million tons of supplies to West Berliners.",
+    "category": "modern history",
+    "image": "images/berlin_airlift2.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Medieval knights often trained from childhood to become warriors, learning horsemanship and combat skills.",
+    "category": "medieval history",
+    "image": "images/knight_training.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? The Renaissance period saw the revival of art, literature, and classical learning across Europe.",
+    "category": "cultural history",
+    "image": "images/renaissance2.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Some kings and queens had elaborate coronation ceremonies that could last several days.",
+    "category": "weird history",
+    "image": "images/coronation.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? The Battle of Stalingrad (1942–1943) was one of the deadliest battles in World War II.",
+    "category": "military history",
+    "image": "images/stalingrad.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? The Library of Congress was established in 1800 and is the research library of the United States Congress.",
+    "category": "cultural history",
+    "image": "images/library_of_congress2.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? The first Olympic Games were held in 776 BC in Olympia, Greece.",
+    "category": "ancient history",
+    "image": "images/olympics_ancient.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Cleopatra VII ruled Egypt and was the last active ruler of the Ptolemaic dynasty.",
+    "category": "ancient history",
+    "image": "images/cleopatra.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? The Magna Carta influenced the development of constitutional law worldwide.",
+    "category": "political history",
+    "image": "images/magna_carta2.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Vikings used sunstones to navigate the seas even when the sun was hidden.",
+    "category": "exploration & discovery",
+    "image": "images/viking_sunstone.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? The Great Fire of Rome in 64 AD destroyed much of the city but allowed Emperor Nero to rebuild it.",
+    "category": "ancient history",
+    "image": "images/rome_fire.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Napoleon Bonaparte was exiled to the island of Elba after his defeat in 1814.",
+    "category": "political history",
+    "image": "images/napoleon_elba.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? During the Middle Ages, knights participated in jousting tournaments for entertainment and training.",
+    "category": "medieval history",
+    "image": "images/jousting.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? The Dead Sea Scrolls, discovered in the 1940s, contain some of the oldest known biblical texts.",
+    "category": "ancient history",
+    "image": "images/dead_sea_scrolls.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? The Berlin Wall fell on November 9, 1989, symbolizing the end of the Cold War.",
+    "category": "modern history",
+    "image": "images/berlin_wall_fall.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? In the 18th century, smallpox inoculation was practiced before vaccines were developed.",
+    "category": "history of science & technology",
+    "image": "images/smallpox_inoculation.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? The ancient city of Pompeii was preserved by volcanic ash after the eruption of Mount Vesuvius in 79 AD.",
+    "category": "ancient history",
+    "image": "images/pompeii.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? The Renaissance was a period of renewed interest in science, art, and literature from the 14th to 17th century.",
+    "category": "cultural history",
+    "image": "images/renaissance3.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? During the medieval era, people used urine to bleach cloth and clean garments.",
+    "category": "weird history",
+    "image": "images/urine_bleach.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? The Roswell incident of 1947 sparked UFO conspiracy theories and widespread media attention.",
+    "category": "modern history",
+    "image": "images/roswell_incident3.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? The printing press, invented by Johannes Gutenberg, revolutionized the spread of knowledge.",
+    "category": "history of science & technology",
+    "image": "images/printing_press3.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? During the 19th century, people used arsenic-based wallpapers, unknowingly causing poisoning.",
+    "category": "weird history",
+    "image": "images/arsenic_wallpaper.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? The Battle of Hastings in 1066 led to Norman conquest of England.",
+    "category": "medieval history",
+    "image": "images/battle_hastings.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? The Taj Mahal took over 20 years to complete and used thousands of artisans and craftsmen.",
+    "category": "cultural history",
+    "image": "images/taj_mahal3.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? The Manhattan Project led to the development of the first atomic bombs during World War II.",
+    "category": "history of science & technology",
+    "image": "images/manhattan_project3.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? The French Revolution abolished feudal privileges and challenged the monarchy’s power.",
+    "category": "political history",
+    "image": "images/french_revolution2.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Some medieval European surgeons performed operations without anesthesia, relying on alcohol or herbal remedies.",
+    "category": "weird history",
+    "image": "images/medieval_surgery.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? The Great Pyramid of Giza is the only surviving structure of the Seven Wonders of the Ancient World.",
+    "category": "ancient history",
+    "image": "images/great_pyramid.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? The Louisiana Purchase doubled the size of the United States in 1803.",
+    "category": "political history",
+    "image": "images/louisiana_purchase3.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? The Viking explorers reached North America around the year 1000, long before Columbus.",
+    "category": "exploration & discovery",
+    "image": "images/viking_america.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? The first human flight in a hot air balloon occurred in France in 1783.",
+    "category": "history of science & technology",
+    "image": "images/hot_air_balloon.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? During the Black Death, doctors wore beaked masks filled with aromatic herbs to avoid disease.",
+    "category": "weird history",
+    "image": "images/plague_doctor_mask.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? The Berlin Airlift delivered vital supplies to West Berliners during the Soviet blockade (1948–49).",
+    "category": "modern history",
+    "image": "images/berlin_airlift3.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? The Library of Alexandria was one of the largest and most significant libraries of the ancient world.",
+    "category": "ancient history",
+    "image": "images/library_alexandria.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The American Revolution (1775–1783) led to the formation of the United States of America.",
+    "category": "political history",
+    "image": "images/american_revolution.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? The Magna Carta was initially intended to protect barons from King John’s arbitrary rule.",
+    "category": "medieval history",
+    "image": "images/magna_carta3.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? The Industrial Revolution in the 18th–19th centuries transformed agriculture, manufacturing, and transportation.",
+    "category": "history of science & technology",
+    "image": "images/industrial_revolution.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? During World War I, carrier pigeons were used to carry important messages.",
+    "category": "military history",
+    "image": "images/carrier_pigeon.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? In medieval Europe, some doctors believed that animal blood could cure illnesses.",
+    "category": "weird history",
+    "image": "images/animal_blood_medicine.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? The Rosetta Stone was discovered in 1799 by French soldiers in Egypt.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone3.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? The Wright brothers’ first flight lasted only 12 seconds but marked the start of aviation.",
+    "category": "history of science & technology",
+    "image": "images/wright_brothers2.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The Viking longships were fast and could travel in shallow waters, allowing raids deep inland.",
+    "category": "exploration & discovery",
+    "image": "images/viking_longship2.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? During the Salem witch trials, 20 people were executed for witchcraft in 1692.",
+    "category": "weird history",
+    "image": "images/salem_witch_trials.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? The Roman Empire’s road system stretched over 250,000 miles at its peak.",
+    "category": "ancient history",
+    "image": "images/roman_roads.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? The Manhattan Project involved thousands of scientists and technicians in secret locations.",
+    "category": "history of science & technology",
+    "image": "images/manhattan_project4.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? The Cold War lasted from 1947 to 1991 and involved political tension between the USA and USSR.",
+    "category": "modern history",
+    "image": "images/cold_war.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? The Taj Mahal was built using white marble quarried from Rajasthan and transported by elephants.",
+    "category": "cultural history",
+    "image": "images/taj_mahal4.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? The Battle of Waterloo (1815) marked the final defeat of Napoleon Bonaparte.",
+    "category": "military history",
+    "image": "images/waterloo.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? In medieval Europe, people believed bathing was unhealthy and often avoided it.",
+    "category": "weird history",
+    "image": "images/medieval_bathing.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? The Colosseum in Rome had elevators to lift animals and gladiators to the arena floor.",
+    "category": "ancient history",
+    "image": "images/colosseum_elevator.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? The printing press allowed books to be mass-produced for the first time in history.",
+    "category": "history of science & technology",
+    "image": "images/printing_press4.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? The French Revolution introduced the metric system in 1795.",
+    "category": "political history",
+    "image": "images/metric_system.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? The Vikings were among the first Europeans to discover Iceland and Greenland.",
+    "category": "exploration & discovery",
+    "image": "images/vikings_iceland.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? The Library of Congress holds over 170 million items, including books, recordings, and maps.",
+    "category": "cultural history",
+    "image": "images/library_congress3.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Some medieval Europeans believed that touching a dead king’s body could cure illnesses.",
+    "category": "weird history",
+    "image": "images/dead_king_cure.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? The first mechanical clocks were invented in Europe in the 14th century.",
+    "category": "history of science & technology",
+    "image": "images/mechanical_clock.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? The Battle of Thermopylae involved 300 Spartans facing thousands of Persians.",
+    "category": "military history",
+    "image": "images/thermopylae2.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? The Colossus of Rhodes was a giant statue that stood for 56 years before being destroyed by an earthquake.",
+    "category": "ancient history",
+    "image": "images/colossus_rhodes.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Galileo Galilei improved the telescope and observed moons of Jupiter in 1610.",
+    "category": "history of science & technology",
+    "image": "images/galileo_telescope.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? The Berlin Wall separated East and West Berlin from 1961 to 1989.",
+    "category": "modern history",
+    "image": "images/berlin_wall3.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? In medieval Europe, it was believed that bathing in cold water could lead to death.",
+    "category": "weird history",
+    "image": "images/medieval_bathing2.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? The Rosetta Stone was key to deciphering Egyptian hieroglyphics after centuries of mystery.",
+    "category": "ancient history",
+    "image": "images/rosetta_stone4.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? The Manhattan Project employed over 130,000 people during World War II.",
+    "category": "history of science & technology",
+    "image": "images/manhattan_project5.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? The Vikings reached Newfoundland, Canada, around 1000 AD.",
+    "category": "exploration & discovery",
+    "image": "images/vikings_newfoundland.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? The French Revolution led to the end of many traditional privileges in France.",
+    "category": "political history",
+    "image": "images/french_revolution3.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? The first steam engines were developed during the 18th century and powered the Industrial Revolution.",
+    "category": "history of science & technology",
+    "image": "images/steam_engine.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? During the medieval period, trials sometimes involved 'ordeal by water' to determine guilt.",
+    "category": "weird history",
+    "image": "images/ordeal_by_water.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? The Great Pyramid of Giza contains an estimated 2.3 million stone blocks.",
+    "category": "ancient history",
+    "image": "images/great_pyramid2.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? The Wright brothers flew 120 feet in their first powered aircraft in 1903.",
+    "category": "history of science & technology",
+    "image": "images/wright_brothers3.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? The Cold War led to the space race between the USA and USSR in the 20th century.",
+    "category": "modern history",
+    "image": "images/space_race.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Some European kings employed jesters to deliver political advice disguised as humor.",
+    "category": "weird history",
+    "image": "images/jester_advice.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? The Library of Alexandria was believed to contain hundreds of thousands of scrolls before it was destroyed.",
+    "category": "ancient history",
+    "image": "images/library_alexandria2.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? The Battle of Gettysburg had over 50,000 casualties in just three days.",
+    "category": "military history",
+    "image": "images/gettysburg2.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Johannes Gutenberg invented the movable-type printing press in 1440.",
+    "category": "history of science & technology",
+    "image": "images/gutenberg_press.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? The French Revolution introduced the guillotine as a method of execution.",
+    "category": "political history",
+    "image": "images/guillotine.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? The Vikings established permanent settlements in Iceland, Greenland, and parts of North America.",
+    "category": "exploration & discovery",
+    "image": "images/vikings_settlement.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? The Industrial Revolution introduced mechanized textile production, transforming labor in Europe.",
+    "category": "history of science & technology",
+    "image": "images/textile_machine.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? During the Middle Ages, people sometimes used leeches for bloodletting as a treatment for illness.",
+    "category": "weird history",
+    "image": "images/leeches.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? The Colossus of Rhodes stood approximately 33 meters tall before being destroyed by an earthquake.",
+    "category": "ancient history",
+    "image": "images/colossus_rhodes2.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? The Berlin Airlift required over 200,000 flights to deliver supplies to West Berlin.",
+    "category": "modern history",
+    "image": "images/berlin_airlift4.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? The Battle of Waterloo marked the end of the Napoleonic Wars in Europe.",
+    "category": "military history",
+    "image": "images/waterloo2.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? In medieval Europe, some believed that hallucinogenic mushrooms could cure illnesses.",
+    "category": "weird history",
+    "image": "images/medieval_mushrooms.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? The Library of Congress is the largest library in the world, located in Washington D.C.",
+    "category": "cultural history",
+    "image": "images/library_congress4.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? The Terracotta Army in Xi'an, China, includes over 8,000 life-sized soldiers.",
+    "category": "ancient history",
+    "image": "images/terracotta_army2.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Johannes Kepler formulated the laws of planetary motion in the 17th century.",
+    "category": "history of science & technology",
+    "image": "images/kepler.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? The Cold War influenced political, military, and cultural developments worldwide.",
+    "category": "modern history",
+    "image": "images/cold_war2.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Some medieval people believed that sleeping under a full moon caused madness.",
+    "category": "weird history",
+    "image": "images/full_moon_madness.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? The Roman aqueducts supplied water to cities over long distances using gravity.",
+    "category": "ancient history",
+    "image": "images/roman_aqueduct.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? The Wright brothers’ aircraft eventually led to commercial aviation by the early 20th century.",
+    "category": "history of science & technology",
+    "image": "images/wright_brothers4.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? The first modern Olympic Games were held in Athens, Greece, in 1896.",
+    "category": "ancient history",
+    "image": "images/olympics_modern.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? The Vikings explored and traded along the rivers of Russia and Eastern Europe.",
+    "category": "exploration & discovery",
+    "image": "images/vikings_russia.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? The Industrial Revolution introduced steam-powered locomotives that transformed transportation.",
+    "category": "history of science & technology",
+    "image": "images/steam_locomotive.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? During the medieval period, people often believed that the earth was flat despite early Greek knowledge.",
+    "category": "weird history",
+    "image": "images/medieval_flat_earth.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? The Colosseum hosted gladiatorial games, animal hunts, and public spectacles in ancient Rome.",
+    "category": "ancient history",
+    "image": "images/colosseum_games.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? The Manhattan Project changed global warfare and led to the nuclear age.",
+    "category": "history of science & technology",
+    "image": "images/manhattan_project6.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? The Berlin Wall was constructed in 1961 to prevent East Germans from fleeing to the West.",
+    "category": "modern history",
+    "image": "images/berlin_wall4.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? The Battle of Agincourt (1415) was a major English victory during the Hundred Years’ War.",
+    "category": "military history",
+    "image": "images/agincourt.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? In medieval Europe, some people believed that wearing a dried toad could cure warts.",
+    "category": "weird history",
+    "image": "images/toad_cure.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? The Library of Alexandria was a center of learning, attracting scholars from around the ancient world.",
+    "category": "ancient history",
+    "image": "images/library_alexandria3.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Johannes Gutenberg’s printing press allowed for the mass production of books in the 15th century.",
+    "category": "history of science & technology",
+    "image": "images/printing_press5.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? The French Revolution led to the rise of Napoleon Bonaparte as Emperor of France.",
+    "category": "political history",
+    "image": "images/napoleon_rise.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Vikings were skilled shipbuilders and sailors, allowing them to raid and trade widely.",
+    "category": "exploration & discovery",
+    "image": "images/vikings_shipbuilding.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? The Industrial Revolution introduced textile machinery that increased production speed and efficiency.",
+    "category": "history of science & technology",
+    "image": "images/textile_industry.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? During medieval times, some believed that crushed emeralds could cure eye ailments.",
+    "category": "weird history",
+    "image": "images/emerald_cure.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? The Colosseum in Rome used complex systems of pulleys to stage dramatic naval reenactments.",
+    "category": "ancient history",
+    "image": "images/colosseum_naumachiae2.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? The Wright brothers’ first flights eventually led to modern commercial air travel worldwide.",
+    "category": "history of science & technology",
+    "image": "images/wright_brothers5.jpg"
+  }
+]

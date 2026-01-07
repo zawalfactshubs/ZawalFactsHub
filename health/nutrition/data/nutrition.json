@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Balanced Diet",
+    "short": "Eat a balanced mix of nutrients.",
+    "long": "A balanced diet includes carbohydrates, proteins, healthy fats, vitamins, and minerals. This combination supports energy levels, organ function, and overall health."
+  },
+  {
+    "category": "Hydration",
+    "short": "Drink enough water daily.",
+    "long": "Proper hydration supports digestion, circulation, temperature control, and brain function. Aim to drink water consistently throughout the day."
+  },
+  {
+    "category": "Protein Intake",
+    "short": "Include quality protein in meals.",
+    "long": "Protein helps build and repair tissues, supports muscles, and keeps you full longer. Sources include beans, eggs, fish, lean meat, and dairy."
+  },
+  {
+    "category": "Fruits & Vegetables",
+    "short": "Eat more fruits and vegetables.",
+    "long": "Fruits and vegetables are rich in fiber, antioxidants, and vitamins that boost immunity, digestion, and overall wellness."
+  },
+  {
+    "category": "Whole Grains",
+    "short": "Choose whole grains over refined grains.",
+    "long": "Whole grains provide long-lasting energy, fiber, and essential nutrients that support heart and digestive health."
+  },
+  {
+    "category": "Healthy Fats",
+    "short": "Don’t fear healthy fats.",
+    "long": "Healthy fats from nuts, seeds, fish, and olive oil support brain health, hormones, and nutrient absorption."
+  },
+  {
+    "category": "Sugar Intake",
+    "short": "Limit added sugar.",
+    "long": "Too much sugar increases the risk of weight gain, diabetes, and heart disease. Choose natural sources like fruits instead."
+  },
+  {
+    "category": "Meal Timing",
+    "short": "Eat meals at regular times.",
+    "long": "Consistent meal timing supports stable energy levels, digestion, and better blood sugar control."
+  },
+  {
+    "category": "Portion Control",
+    "short": "Watch portion sizes.",
+    "long": "Eating appropriate portions helps maintain a healthy weight and prevents overeating without sacrificing nutrition."
+  },
+  {
+    "category": "Long-Term Health",
+    "short": "Nutrition shapes long-term health.",
+    "long": "Healthy eating habits reduce the risk of chronic diseases and support longevity, mental clarity, and physical performance."
+  },
+  {
+    "category": "Fiber Intake",
+    "short": "Prioritize fiber-rich foods.",
+    "long": "Fiber aids digestion, promotes satiety, stabilizes blood sugar, and supports a healthy gut microbiome. Include beans, whole grains, fruits, and vegetables daily."
+  },
+  {
+    "category": "Micronutrients",
+    "short": "Don’t neglect vitamins and minerals.",
+    "long": "Micronutrients like vitamin C, D, calcium, and iron are crucial for immune function, bone health, and energy production. Consume a variety of foods to meet daily needs."
+  },
+  {
+    "category": "Meal Planning",
+    "short": "Plan meals ahead of time.",
+    "long": "Meal planning prevents impulsive, unhealthy choices, saves time, and ensures balanced nutrition throughout the week."
+  },
+  {
+    "category": "Mindful Eating",
+    "short": "Eat with awareness.",
+    "long": "Focus on taste, texture, and portion during meals. Mindful eating improves digestion, prevents overeating, and strengthens the mind-body connection."
+  },
+  {
+    "category": "Snack Wisely",
+    "short": "Choose healthy snacks.",
+    "long": "Opt for nutrient-dense snacks like nuts, fruits, and yogurt instead of processed foods to maintain energy and avoid blood sugar spikes."
+  },
+  {
+    "category": "Plant-Based Foods",
+    "short": "Include more plant-based options.",
+    "long": "Vegetables, legumes, and grains provide fiber, antioxidants, and plant protein that support heart health, digestion, and longevity."
+  },
+  {
+    "category": "Iron-Rich Foods",
+    "short": "Support energy with iron.",
+    "long": "Iron is vital for oxygen transport and energy. Include sources like lean meat, beans, lentils, and leafy greens."
+  },
+  {
+    "category": "Calcium Intake",
+    "short": "Strengthen bones with calcium.",
+    "long": "Dairy products, fortified plant milks, and leafy greens support bone density, muscle function, and nerve health."
+  },
+  {
+    "category": "Healthy Cooking Methods",
+    "short": "Cook in a nutritious way.",
+    "long": "Steaming, grilling, baking, or sautéing preserves nutrients better than deep-frying and reduces excess fat intake."
+  },
+  {
+    "category": "Reduce Processed Foods",
+    "short": "Minimize highly processed foods.",
+    "long": "Processed foods often contain excess sugar, sodium, and unhealthy fats. Choosing whole foods improves energy, digestion, and long-term health."
+  },
+  {
+    "category": "Omega-3 Fatty Acids",
+    "short": "Support heart and brain health.",
+    "long": "Omega-3s from fish, flax, chia, and walnuts reduce inflammation, support brain function, and improve cardiovascular health."
+  },
+  {
+    "category": "Limit Sodium",
+    "short": "Reduce salt intake.",
+    "long": "High sodium increases blood pressure and heart disease risk. Use herbs, spices, and natural flavorings instead."
+  },
+  {
+    "category": "Meal Variety",
+    "short": "Eat a colorful plate.",
+    "long": "Different colors often mean diverse nutrients. Include a variety of fruits and vegetables to ensure a broad nutrient intake."
+  },
+  {
+    "category": "Probiotics",
+    "short": "Support gut health.",
+    "long": "Fermented foods like yogurt, kimchi, and sauerkraut promote a healthy gut microbiome, improving digestion and immunity."
+  },
+  {
+    "category": "Prebiotics",
+    "short": "Feed your gut bacteria.",
+    "long": "Foods like garlic, onions, bananas, and oats nourish beneficial gut microbes, aiding digestion and nutrient absorption."
+  },
+  {
+    "category": "Hydration with Meals",
+    "short": "Drink water with meals wisely.",
+    "long": "Sipping water during meals aids digestion, but avoid excessive amounts that may dilute stomach acids and hinder nutrient absorption."
+  },
+  {
+    "category": "Breakfast Importance",
+    "short": "Don’t skip breakfast.",
+    "long": "A balanced breakfast provides energy, stabilizes blood sugar, and improves focus and metabolism throughout the day."
+  },
+  {
+    "category": "Limit Trans Fats",
+    "short": "Avoid unhealthy fats.",
+    "long": "Trans fats increase the risk of heart disease and inflammation. Choose natural fats from plants and fish instead."
+  },
+  {
+    "category": "Healthy Beverages",
+    "short": "Choose drinks wisely.",
+    "long": "Prefer water, herbal teas, and natural juices over soda or sugary drinks to support hydration, energy, and overall health."
+  },
+  {
+    "category": "Meal Composition",
+    "short": "Balance carbs, proteins, and fats.",
+    "long": "Each meal should provide energy, muscle support, and satiety. Combining macronutrients improves digestion and metabolic health."
+  },
+  {
+    "category": "Limit Alcohol",
+    "short": "Moderate alcohol consumption.",
+    "long": "Excessive alcohol negatively impacts liver function, hydration, and nutrient absorption. Drink in moderation or avoid entirely."
+  },
+  {
+    "category": "Vitamin D",
+    "short": "Support bones and immunity.",
+    "long": "Vitamin D from sunlight, fortified foods, or supplements enhances calcium absorption, immune function, and overall health."
+  },
+  {
+    "category": "Meal Prep",
+    "short": "Prepare meals in advance.",
+    "long": "Meal prep ensures portion control, reduces reliance on processed foods, and helps maintain consistent nutrient intake."
+  },
+  {
+    "category": "Mindful Chewing",
+    "short": "Chew slowly and thoroughly.",
+    "long": "Chewing food properly aids digestion, nutrient absorption, and signals fullness to prevent overeating."
+  },
+  {
+    "category": "Seasonal Eating",
+    "short": "Eat fruits and vegetables in season.",
+    "long": "Seasonal produce is fresher, more nutritious, and often more affordable, supporting overall health and variety."
+  },
+  {
+    "category": "Legumes",
+    "short": "Include beans and lentils.",
+    "long": "Legumes provide protein, fiber, and micronutrients that support digestion, energy, and heart health."
+  },
+  {
+    "category": "Healthy Snacks",
+    "short": "Choose nutrient-dense snacks.",
+    "long": "Instead of chips or candy, snack on nuts, fruits, seeds, or yogurt to maintain energy and reduce sugar spikes."
+  },
+  {
+    "category": "Limit Artificial Sweeteners",
+    "short": "Use natural sweeteners when possible.",
+    "long": "Artificial sweeteners may disrupt gut health and appetite regulation. Use honey, maple syrup, or fruit for flavor instead."
+  },
+  {
+    "category": "Anti-Inflammatory Foods",
+    "short": "Include foods that fight inflammation.",
+    "long": "Turmeric, ginger, berries, and leafy greens reduce inflammation, support immunity, and improve long-term health."
+  },
+  {
+    "category": "Caloric Awareness",
+    "short": "Understand your energy needs.",
+    "long": "Balancing calorie intake with activity helps maintain healthy weight, energy, and metabolic function."
+  },
+  {
+    "category": "Meal Satisfaction",
+    "short": "Eat meals you enjoy.",
+    "long": "Enjoyment enhances digestion, mindfulness, and adherence to healthy eating habits over the long term."
+  },
+  {
+    "category": "Reduce Refined Carbs",
+    "short": "Choose whole grains over white flour.",
+    "long": "Refined carbs spike blood sugar, while whole grains provide fiber, sustained energy, and essential nutrients."
+  },
+  {
+    "category": "Limit Fried Foods",
+    "short": "Reduce fried food intake.",
+    "long": "Fried foods often contain unhealthy fats and excess calories. Baking, grilling, or steaming preserves nutrients and supports heart health."
+  },
+  {
+    "category": "Food Labels",
+    "short": "Read and understand labels.",
+    "long": "Checking ingredient lists and nutritional content helps avoid hidden sugar, sodium, and unhealthy additives."
+  },
+  {
+    "category": "Diverse Protein",
+    "short": "Rotate protein sources.",
+    "long": "Alternating between animal, plant, and dairy proteins ensures a variety of nutrients and supports muscle and overall health."
+  },
+  {
+    "category": "Meal Enjoyment",
+    "short": "Savor your food.",
+    "long": "Taking time to enjoy meals promotes satisfaction, mindful eating, and better digestion."
+  },
+  {
+    "category": "Cooking at Home",
+    "short": "Cook meals yourself often.",
+    "long": "Home cooking gives control over ingredients, portion sizes, and nutrition, improving overall dietary quality."
+  },
+  {
+    "category": "Reduce Processed Meats",
+    "short": "Limit cured and processed meats.",
+    "long": "Processed meats increase the risk of chronic disease. Choose lean fresh meats, fish, or plant-based proteins."
+  },
+  {
+    "category": "Healthy Fats Variety",
+    "short": "Mix your fat sources.",
+    "long": "Combine olive oil, nuts, seeds, and fish to get diverse fatty acids that support brain and heart health."
+  },
+  {
+    "category": "Snack Timing",
+    "short": "Eat snacks strategically.",
+    "long": "Healthy snacks between meals prevent energy crashes and over-eating at the next meal."
+  },
+  {
+    "category": "Avoid Empty Calories",
+    "short": "Limit foods with little nutritional value.",
+    "long": "Foods high in sugar and low in nutrients contribute to weight gain and poor energy levels."
+  },
+  {
+    "category": "Herbs & Spices",
+    "short": "Use herbs to enhance flavor.",
+    "long": "Herbs and spices like basil, cinnamon, and turmeric provide antioxidants, reduce sodium use, and enhance flavor naturally."
+  },
+  {
+    "category": "Dairy Intake",
+    "short": "Include dairy or alternatives.",
+    "long": "Dairy provides calcium, protein, and vitamin D, supporting bones, muscles, and overall health."
+  },
+  {
+    "category": "Omega-6 Fats",
+    "short": "Balance omega-6 intake.",
+    "long": "Moderate omega-6 from nuts and seeds supports heart and brain health, but excessive amounts may promote inflammation."
+  },
+  {
+    "category": "Meal Atmosphere",
+    "short": "Eat in a calm environment.",
+    "long": "A relaxed eating setting improves digestion, satiety signals, and enjoyment, supporting overall nutrition."
+  },
+  {
+    "category": "Fiber Supplements",
+    "short": "Consider supplements if needed.",
+    "long": "If fiber intake from food is insufficient, supplements like psyllium or inulin can support digestive and metabolic health."
+  },
+  {
+    "category": "Gradual Changes",
+    "short": "Improve nutrition step by step.",
+    "long": "Small, gradual dietary changes are more sustainable than drastic diets, supporting long-term health and adherence."
+  },
+  {
+    "category": "Cooking Oils",
+    "short": "Use healthy oils appropriately.",
+    "long": "Olive, avocado, or coconut oil in moderation support heart health and nutrient absorption while minimizing unhealthy fats."
+  },
+  {
+    "category": "Nutrient Timing",
+    "short": "Optimize nutrient intake around activity.",
+    "long": "Eating protein and carbs around workouts supports performance, recovery, and muscle growth."
+  },
+  {
+    "category": "Meal Satisfaction",
+    "short": "Listen to hunger and fullness cues.",
+    "long": "Eating when hungry and stopping when satisfied prevents overeating, supports digestion, and enhances nutrient utilization."
+  },
+  {
+    "category": "Mindful Grocery Shopping",
+    "short": "Shop with intention.",
+    "long": "Planning shopping lists, avoiding impulse buys, and choosing whole foods ensures better nutrition and supports healthy eating habits."
+  },
+  {
+    "category": "Plant Diversity",
+    "short": "Eat a wide variety of plants.",
+    "long": "Including a broad spectrum of vegetables, fruits, legumes, nuts, and seeds ensures you get diverse phytonutrients, vitamins, and minerals. This diversity supports gut health, reduces inflammation, boosts immunity, and provides antioxidants that protect against chronic diseases over the long term."
+  },
+  {
+    "category": "Meal Mindset",
+    "short": "Approach meals with intention.",
+    "long": "Taking the time to plan, prepare, and enjoy each meal helps you develop a healthy relationship with food. Being mindful during meals improves digestion, prevents overeating, strengthens hunger and fullness cues, and enhances the overall nutritional value you absorb from your meals."
+  },
+  {
+    "category": "Omega-3 Focus",
+    "short": "Prioritize omega-3 fatty acids.",
+    "long": "Omega-3 fatty acids from fatty fish, chia seeds, flaxseeds, and walnuts reduce chronic inflammation, improve heart health, support brain function, and promote hormone balance. Regular omega-3 intake is linked to improved cognitive function, lower risk of cardiovascular disease, and better emotional well-being."
+  },
+  {
+    "category": "Slow Eating",
+    "short": "Take your time while eating.",
+    "long": "Eating slowly allows your body to register fullness signals, improving portion control and aiding digestion. Slow, deliberate eating increases nutrient absorption, reduces the risk of overeating, and encourages a more mindful connection to your meals and overall health."
+  },
+  {
+    "category": "Fermented Foods",
+    "short": "Include fermented foods regularly.",
+    "long": "Foods like yogurt, kefir, kimchi, miso, and sauerkraut provide beneficial probiotics that enhance gut microbiota. A healthy gut supports digestion, immunity, mood regulation, and nutrient absorption, creating a strong foundation for long-term physical and mental health."
+  },
+  {
+    "category": "Antioxidant-Rich Foods",
+    "short": "Consume antioxidant-packed foods.",
+    "long": "Berries, dark leafy greens, nuts, and seeds contain antioxidants that neutralize free radicals in the body. This reduces cellular damage, lowers inflammation, and supports heart, brain, and immune health while slowing the aging process and protecting against chronic diseases."
+  },
+  {
+    "category": "Limit Artificial Ingredients",
+    "short": "Avoid processed additives and preservatives.",
+    "long": "Many packaged foods contain artificial colors, flavors, and preservatives that can negatively impact metabolism, gut health, and long-term wellness. Choosing whole, unprocessed foods ensures nutrient density, reduces chemical exposure, and supports overall vitality."
+  },
+  {
+    "category": "Balanced Breakfast",
+    "short": "Include protein, fat, and fiber in breakfast.",
+    "long": "A nutrient-rich breakfast with protein, healthy fats, and fiber stabilizes blood sugar, improves morning focus, supports energy, and prevents mid-morning cravings. Balanced breakfasts also contribute to better metabolism and long-term weight management."
+  },
+  {
+    "category": "Limit Sugar Drinks",
+    "short": "Avoid sugary beverages.",
+    "long": "Sugary drinks spike blood sugar, contribute to fat accumulation, and increase risk of metabolic diseases. Replacing them with water, herbal teas, or infused water supports hydration, energy balance, and long-term health outcomes."
+  },
+  {
+    "category": "Food Rotation",
+    "short": "Rotate your food choices.",
+    "long": "Rotating foods ensures a broader nutrient intake, reduces the risk of food intolerances, and encourages diverse gut microbiota. By consistently trying new vegetables, grains, and protein sources, you maintain a more balanced and resilient nutritional profile."
+  },
+  {
+    "category": "Smart Carb Choices",
+    "short": "Prioritize complex carbs over refined ones.",
+    "long": "Complex carbohydrates from whole grains, legumes, and vegetables provide sustained energy, stabilize blood sugar, and support digestive health. Avoiding refined carbs reduces spikes in insulin, lowers the risk of type 2 diabetes, and promotes long-term metabolic stability."
+  },
+  {
+    "category": "Healthy Breakfast Habits",
+    "short": "Start your day with a nutritious meal.",
+    "long": "Eating a nutrient-dense breakfast, including proteins, complex carbohydrates, and healthy fats, sets the tone for the day. It improves focus, supports mood stability, energizes the body, and reduces the likelihood of overeating later in the day."
+  },
+  {
+    "category": "Seasonal Variety",
+    "short": "Eat foods that are in season.",
+    "long": "Seasonal produce is fresher, more nutrient-rich, and environmentally friendly. Consuming fruits and vegetables in season provides higher levels of vitamins, minerals, and antioxidants, supporting both health and sustainability."
+  },
+  {
+    "category": "Fiber Timing",
+    "short": "Distribute fiber intake throughout the day.",
+    "long": "Spreading fiber-rich foods across meals promotes healthy digestion, stabilizes blood sugar, improves satiety, and enhances gut microbiota. Including fiber at every meal prevents constipation and supports long-term gastrointestinal and metabolic health."
+  },
+  {
+    "category": "Cooking at Home",
+    "short": "Prepare meals yourself often.",
+    "long": "Cooking at home allows complete control over ingredients, portion sizes, and nutrient content. It reduces reliance on processed foods, improves flavor variety, and encourages healthier cooking techniques that enhance overall dietary quality."
+  },
+  {
+    "category": "Legume Diversity",
+    "short": "Include different types of beans and lentils.",
+    "long": "Legumes are rich in plant-based protein, fiber, iron, and other micronutrients. Incorporating a variety of legumes supports digestive health, stabilizes energy levels, improves cardiovascular health, and provides sustainable and nutrient-dense meal options."
+  },
+  {
+    "category": "Nut Intake",
+    "short": "Eat nuts as a nutrient-rich snack.",
+    "long": "Nuts provide healthy fats, protein, fiber, vitamins, and minerals. Consuming nuts regularly supports heart health, reduces inflammation, helps maintain weight, and provides long-lasting energy and satiety between meals."
+  },
+  {
+    "category": "Herb and Spice Use",
+    "short": "Enhance meals with herbs and spices.",
+    "long": "Using herbs and spices like garlic, cinnamon, ginger, and turmeric adds flavor while providing antioxidants and anti-inflammatory compounds. This reduces reliance on salt and sugar, enhances nutrient absorption, and supports long-term health."
+  },
+  {
+    "category": "Hydration & Digestion",
+    "short": "Drink water strategically for digestion.",
+    "long": "Proper hydration before, during, and after meals aids digestion, nutrient absorption, and bowel function. Avoid excessive drinking immediately before meals to prevent dilution of digestive enzymes while ensuring adequate fluid intake throughout the day."
+  },
+  {
+    "category": "Protein Diversity",
+    "short": "Consume both animal and plant proteins.",
+    "long": "Including a variety of protein sources ensures a balance of essential amino acids, supports muscle maintenance, metabolic health, and satiety. Rotating between meat, fish, dairy, legumes, and soy-based options strengthens long-term nutritional balance."
+  },
+  {
+    "category": "Healthy Fats Intake",
+    "short": "Include a variety of healthy fats.",
+    "long": "Monounsaturated and polyunsaturated fats from olive oil, avocado, nuts, seeds, and fatty fish support brain function, hormone production, heart health, and nutrient absorption. Balanced fat intake also contributes to sustained energy and satiety."
+  },
+  {
+    "category": "Mindful Grocery Shopping",
+    "short": "Choose foods intentionally.",
+    "long": "Shopping with a planned list, focusing on whole, nutrient-dense foods, and avoiding impulse buys promotes healthier eating. Mindful grocery habits prevent excessive processed food consumption and support consistent nutrition goals."
+  },
+  {
+    "category": "Reduce Red Meat",
+    "short": "Limit red and processed meats.",
+    "long": "High consumption of red and processed meats is linked to increased risk of heart disease and certain cancers. Choosing lean meats, fish, or plant-based proteins reduces inflammation and supports overall longevity and cardiovascular health."
+  },
+  {
+    "category": "Mindful Portions",
+    "short": "Control portion sizes consciously.",
+    "long": "Being aware of portion sizes prevents overeating and helps maintain a healthy weight. Using smaller plates, measuring servings, and listening to fullness cues enhances digestion, nutrient absorption, and long-term weight management."
+  },
+  {
+    "category": "Nutrient Timing",
+    "short": "Eat nutrients around activity for optimal results.",
+    "long": "Consuming protein and carbohydrates before and after exercise supports energy, muscle recovery, and overall performance. Proper nutrient timing improves metabolic efficiency, reduces fatigue, and enhances workout adaptations."
+  },
+  {
+    "category": "Reduce Processed Snacks",
+    "short": "Limit chips, cookies, and sugary snacks.",
+    "long": "Processed snacks are high in sugar, unhealthy fats, and empty calories. Replacing them with fruits, nuts, or whole-grain alternatives supports energy, satiety, and overall nutrient intake."
+  },
+  {
+    "category": "Food Preparation Methods",
+    "short": "Choose healthy cooking methods.",
+    "long": "Steaming, baking, grilling, or sautéing preserves nutrients better than deep-frying. Healthy cooking reduces added fats, supports heart health, maintains vitamins and minerals, and improves the overall quality of meals."
+  },
+  {
+    "category": "Iron Absorption",
+    "short": "Combine iron with vitamin C.",
+    "long": "Pairing iron-rich foods with vitamin C sources, like spinach with bell peppers, enhances absorption. This combination supports energy, prevents anemia, and strengthens immune function, particularly for plant-based diets."
+  },
+  {
+    "category": "Calcium Diversity",
+    "short": "Include multiple sources of calcium.",
+    "long": "Calcium from dairy, leafy greens, tofu, and fortified plant milks supports bone density, muscle contraction, nerve function, and long-term skeletal health. Combining sources ensures adequate intake for all age groups."
+  },
+  {
+    "category": "Snack Prep",
+    "short": "Prepare healthy snacks in advance.",
+    "long": "Having pre-portioned, nutrient-rich snacks like nuts, fruits, or yogurt available prevents impulsive, unhealthy choices, stabilizes energy levels, and supports consistent nutrient intake throughout the day."
+  },
+  {
+    "category": "Limit Sweet Treats",
+    "short": "Reserve sugary desserts for special occasions.",
+    "long": "Frequent consumption of sugar-rich foods can lead to energy crashes, weight gain, and chronic disease. Enjoying sweets occasionally ensures satisfaction without compromising long-term health and blood sugar balance."
+  },
+  {
+    "category": "Read Nutrition Labels",
+    "short": "Understand what’s in your food.",
+    "long": "Reading labels helps identify hidden sugar, sodium, and unhealthy fats. Understanding nutritional content empowers better food choices, encourages mindful eating, and supports long-term wellness."
+  },
+  {
+    "category": "Food Pairing",
+    "short": "Combine foods for better nutrient absorption.",
+    "long": "Pairing certain foods improves nutrient utilization—for example, pairing fat-soluble vitamins with healthy fats or iron with vitamin C. Thoughtful food combinations enhance health benefits and maximize nutritional intake."
+  },
+  {
+    "category": "Limit Fast Food",
+    "short": "Reduce fast food intake.",
+    "long": "Fast foods are often high in unhealthy fats, sodium, and refined carbs while lacking essential nutrients. Limiting fast food consumption protects heart health, supports metabolism, and promotes long-term dietary quality."
+  },
+  {
+    "category": "Mindful Eating",
+    "short": "Pay attention to your food choices.",
+    "long": "Mindful eating encourages you to focus on the taste, texture, and aroma of your meals. By eating with intention and avoiding distractions, you improve digestion, prevent overeating, better recognize hunger cues, and develop a healthier, more conscious relationship with food."
+  },
+  {
+    "category": "Diverse Proteins",
+    "short": "Vary your protein sources.",
+    "long": "Relying on multiple protein sources—such as fish, poultry, beans, legumes, and plant-based options—ensures a complete amino acid profile. This variety supports muscle repair, metabolic health, hormone balance, and long-term dietary flexibility while reducing over-dependence on any single source."
+  },
+  {
+    "category": "Limit Salt Intake",
+    "short": "Watch your sodium consumption.",
+    "long": "Excessive salt intake can elevate blood pressure and strain the cardiovascular system. Choosing fresh foods over processed options, using herbs and spices for flavor, and monitoring added salt helps maintain heart health, fluid balance, and kidney function over time."
+  },
+  {
+    "category": "Meal Prep Planning",
+    "short": "Plan meals ahead for better nutrition.",
+    "long": "Preparing meals in advance reduces reliance on unhealthy convenience foods, ensures nutrient-dense choices, and helps maintain portion control. Structured meal planning supports consistent, balanced nutrition and prevents last-minute dietary compromises that can affect long-term health."
+  },
+  {
+    "category": "Ferment Your Foods",
+    "short": "Incorporate fermented foods into your diet.",
+    "long": "Fermented foods like yogurt, kefir, kimchi, sauerkraut, and miso provide beneficial probiotics that improve gut health, enhance nutrient absorption, support immune function, and aid in digestion. Regular inclusion contributes to a resilient digestive system and overall wellness."
+  }
+]

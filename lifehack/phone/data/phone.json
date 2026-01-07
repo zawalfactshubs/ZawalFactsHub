@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ph001",
+    "title": "Charge Phone Faster",
+    "category": "phone",
+    "steps": [
+      "Turn on airplane mode",
+      "Use original charger",
+      "Avoid using phone while charging"
+    ],
+    "icon": "⚡"
+  },
+  {
+    "id": "ph002",
+    "title": "Save Mobile Data",
+    "category": "phone",
+    "steps": [
+      "Disable auto-download for apps",
+      "Use Wi-Fi whenever possible",
+      "Clear large files regularly"
+    ],
+    "icon": "💾"
+  },
+  {
+    "id": "ph003",
+    "title": "Quick Screenshot",
+    "category": "phone",
+    "steps": [
+      "Swipe three fingers down on screen",
+      "Or press power + volume down",
+      "Edit screenshot immediately if needed"
+    ],
+    "icon": "📸"
+  },
+  {
+    "id": "ph004",
+    "title": "Use Split Screen",
+    "category": "phone",
+    "steps": [
+      "Open recent apps",
+      "Tap split-screen icon",
+      "Select second app to multitask"
+    ],
+    "icon": "🖥️"
+  },
+  {
+    "id": "ph005",
+    "title": "Enable Dark Mode",
+    "category": "phone",
+    "steps": [
+      "Go to display settings",
+      "Enable dark mode",
+      "Save battery and reduce eye strain"
+    ],
+    "icon": "🌙"
+  },
+  {
+    "id": "ph006",
+    "title": "Locate Lost Phone",
+    "category": "phone",
+    "steps": [
+      "Use Find My Device",
+      "Sign in with Google/Apple ID",
+      "Ring or lock your device remotely"
+    ],
+    "icon": "🔍"
+  },
+  {
+    "id": "ph007",
+    "title": "Quick Reply to Messages",
+    "category": "phone",
+    "steps": [
+      "Swipe down notifications",
+      "Tap reply",
+      "Send without opening the app"
+    ],
+    "icon": "✉️"
+  },
+  {
+    "id": "ph008",
+    "title": "Clear Cache to Speed Up",
+    "category": "phone",
+    "steps": [
+      "Go to storage settings",
+      "Select apps and clear cache",
+      "Restart phone if needed"
+    ],
+    "icon": "🧹"
+  },
+  {
+    "id": "ph009",
+    "title": "Use Voice Commands",
+    "category": "phone",
+    "steps": [
+      "Activate Google Assistant or Siri",
+      "Give commands like call or message",
+      "Control apps hands-free"
+    ],
+    "icon": "🎤"
+  },
+  {
+    "id": "ph010",
+    "title": "One-Handed Mode",
+    "category": "phone",
+    "steps": [
+      "Enable one-handed mode in settings",
+      "Swipe to shrink screen",
+      "Use comfortably with one hand"
+    ],
+    "icon": "🤏"
+  }
+]

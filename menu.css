@@ -1,0 +1,108 @@
+/* menu.css */
+
+/* Hamburger icon */
+.hamburger {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: var(--accent);
+  transition: transform 0.3s, color 0.3s;
+}
+.hamburger:hover {
+  transform: scale(1.2);
+  color: #FFD700;
+}
+
+/* Sidebar menu */
+.nav-menu {
+  position: fixed;
+  top: 0;
+  right: -300px; /* hidden by default */
+  width: 280px;
+  height: 100%;
+  background: rgba(28, 43, 45, 0.98);
+  backdrop-filter: blur(5px);
+  box-shadow: -4px 0 20px rgba(205,127,50,0.4);
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  z-index: 2000;
+  transition: right 0.4s ease;
+  overflow-y: auto;
+  border-radius: 12px 0 0 12px;
+}
+
+.nav-menu.open {
+  right: 0;
+}
+
+.nav-menu a {
+  font-size: 1.2rem;
+  color: var(--light-text);
+  text-decoration: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  display: block;
+}
+.nav-menu a:hover {
+  background: rgba(205, 127, 50, 0.2);
+  transform: translateX(-5px);
+}
+
+/* Close button in sidebar menu */
+.nav-menu span.close-menu {
+  align-self: flex-end !important;
+  font-size: 1.5rem !important;
+  cursor: pointer !important;
+  color: #FFFFFF !important; /* white */
+  margin-bottom: 1rem !important;
+  transition: color 0.3s, transform 0.3s !important;
+}
+
+.nav-menu span.close-menu:hover {
+  color: #CD7F32 !important; /* gold on hover */
+  transform: scale(1.2) !important;
+}
+/* Desktop nav stays horizontal */
+@media (min-width: 769px) {
+  .nav-menu {
+    position: static;
+    flex-direction: row;
+    height: auto;
+    width: auto;
+    right: 0;
+    padding: 0;
+    gap: 2rem;
+    background: none;
+    overflow: visible;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .nav-menu a {
+    font-size: 1rem;
+    padding: 0;
+  }
+  .hamburger {
+    display: none;
+  }
+  .nav-menu .close-menu {
+    display: none;
+  }
+}
+
+/* Mobile view */
+@media (max-width: 768px) {
+  nav {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+}
+/* Hide all Life Hacks links globally */
+.nav-menu a[href$="tutorials.html"],
+.categories a[href$="tutorials.html"] {
+  display: none !important;
+}

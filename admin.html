@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zawal Admin Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --dark-bg: #1C2B2D;
+  --accent: #CD7F32;
+  --light-text: #F5F5F5;
+  --card-bg: #283a3c;
+  --card-hover-shadow: rgba(205, 127, 50, 0.5);
+}
+* { margin:0; padding:0; box-sizing:border-box; font-family:'Roboto',sans-serif; }
+body { background-color: var(--dark-bg); color: var(--light-text); line-height:1.5; }
+h1,h2 { color: var(--accent); margin-bottom:1rem; }
+.container { max-width:1200px; margin:2rem auto; padding:1rem; }
+.card { background-color: var(--card-bg); padding:1.5rem; border-radius:12px; margin-bottom:1.5rem; box-shadow:0 4px 12px var(--card-hover-shadow); }
+.card h2 { margin-bottom:1rem; }
+.card ul { list-style:none; padding-left:0; }
+.card ul li { padding:0.5rem 0; font-size:1rem; }
+.page-table { width:100%; border-collapse:collapse; margin-top:1rem; }
+.page-table th, .page-table td { padding:0.7rem 1rem; border-bottom:1px solid var(--accent); text-align:left; }
+.page-table th { background-color: var(--accent); color: var(--dark-bg); }
+.page-table td { color: var(--light-text); }
+button { background-color: var(--accent); color: var(--light-text); border:none; padding:0.5rem 1rem; border-radius:8px; cursor:pointer; transition:0.3s; margin-top:0.5rem; }
+button:hover { box-shadow: 0 0 10px var(--accent); }
+@media(max-width:768px){ .container{padding:1rem;} .card ul li{font-size:0.9rem;} .page-table th,.page-table td{font-size:0.85rem; padding:0.5rem;} }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>📊 Zawal Admin Dashboard</h1>
+
+  <div class="card">
+    <h2>General Stats</h2>
+    <ul>
+      <li>❤️ Likes: <span id="likes-count">0</span></li>
+      <li>⭐ Ratings: <span id="rating-count">0</span></li>
+      <li>👁️ Visitors: <span id="visit-count">0</span></li>
+      <li>🕒 Total Time on Site: <span id="total-time">0s</span></li>
+      <li>📄 Pages Opened: <span id="pages-total">0</span></li>
+      <li>🖱️ Ads Clicked: <span id="ads-clicked">0</span></li>
+      <li>📢 Ads Loaded: <span id="ads-loaded">0</span></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Pages Opened</h2>
+    <table class="page-table">
+      <thead>
+        <tr>
+          <th>Page</th>
+          <th>Times Opened</th>
+          <th>Time Spent (s)</th>
+        </tr>
+      </thead>
+      <tbody id="pages-list"></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+// ===== GLOBAL STORAGE HELPERS =====
+function getStat(key){ return JSON.parse(localStorage.getItem(key)||"0"); }
+function setStat(key,val){ localStorage.setItem(key, JSON.stringify(val)); }
+function increment(key){ setStat(key,getStat(key)+1); updateDashboard(); }
+
+// ===== ADMIN DASHBOARD UI =====
+function updateDashboard(){
+  document.getElementById("likes-count").textContent = getStat("likes");
+  document.getElementById("rating-count").textContent = getStat("ratings");
+  document.getElementById("visit-count").textContent = getStat("visits");
+  document.getElementById("total-time").textContent = getStat("totalTime")+"s";
+  document.getElementById("ads-clicked").textContent = getStat("adsClicked");
+  document.getElementById("ads-loaded").textContent = getStat("adsLoaded");
+
+  const pages = JSON.parse(localStorage.getItem("pagesOpened")||"{}");
+  document.getElementById("pages-total").textContent = Object.keys(pages).length;
+
+  const tbody = document.getElementById("pages-list");
+  tbody.innerHTML = "";
+  const sorted = Object.entries(pages).sort((a,b)=>b[1].count-a[1].count);
+  for(const [page,data] of sorted){
+    const tr = document.createElement("tr");
+    tr.innerHTML = `<td>${page}</td><td>${data.count}</td><td>${data.time}</td>`;
+    tbody.appendChild(tr);
+  }
+}
+
+// ===== VISITOR COUNTER (5 MIN COOL DOWN) =====
+(function(){
+  const now = Date.now();
+  const lastVisit = getStat("lastVisitTime");
+  if(!lastVisit || now - lastVisit > 5*60*1000){
+    increment("visits");
+    setStat("lastVisitTime", now);
+  }
+})();
+
+// ===== REAL-TIME PAGE TIME & VISITS =====
+(function(){
+  const path = window.location.pathname.toLowerCase();
+  let pages = JSON.parse(localStorage.getItem("pagesOpened")||"{}");
+
+  if(!pages[path]){
+    pages[path] = {count:0, time:0, lastOpen:Date.now()};
+  }
+
+  pages[path].count +=1;
+  pages[path].lastOpen = Date.now();
+  localStorage.setItem("pagesOpened", pages);
+
+  if(!getStat("totalTime")) setStat("totalTime",0);
+
+  const interval = setInterval(()=>{
+    pages = JSON.parse(localStorage.getItem("pagesOpened")||"{}");
+    const now = Date.now();
+    const elapsed = Math.floor((now - pages[path].lastOpen)/1000);
+
+    pages[path].time += elapsed;
+    pages[path].lastOpen = now;
+    localStorage.setItem("pagesOpened", pages);
+
+    setStat("totalTime", getStat("totalTime")+elapsed);
+
+    updateDashboard();
+  },1000);
+
+  window.addEventListener("beforeunload",()=>{
+    pages = JSON.parse(localStorage.getItem("pagesOpened")||"{}");
+    const elapsed = Math.floor((Date.now() - pages[path].lastOpen)/1000);
+    pages[path].time += elapsed;
+    localStorage.setItem("pagesOpened", pages);
+
+    setStat("totalTime", getStat("totalTime")+elapsed);
+  });
+})();
+
+// ===== LIKES, RATINGS, ADS =====
+document.addEventListener("click", e=>{
+  if(e.target.matches("#like-btn")) increment("likes");
+  if(e.target.matches("#rate-btn")) increment("ratings");
+});
+function adLoaded(){ increment("adsLoaded"); }
+function adClicked(){ increment("adsClicked"); }
+
+// ===== INITIAL DASHBOARD RENDER =====
+document.addEventListener("DOMContentLoaded", updateDashboard);
+</script>
+
+</body>
+</html>

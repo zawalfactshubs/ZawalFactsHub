@@ -1,0 +1,12 @@
+{
+  "name": "facts-images",
+  "version": "1.0.0",
+  "description": "Downloads images for fact-based content from Unsplash",
+  "main": "generate-images.js",
+  "scripts": {
+    "start": "node generate-images.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Device Maintenance",
+    "short": "Install system updates as they become available.",
+    "long": "System and firmware updates fix bugs, improve stability, and enhance security. Keeping your devices up to date helps them run smoothly, reduces security risks, and ensures compatibility with new apps and features."
+  },
+  {
+    "category": "Battery & Power",
+    "short": "Avoid letting your battery drain completely too often.",
+    "long": "Frequently draining a battery to zero can shorten its lifespan. Charging your device before it gets too low and avoiding constant full cycles helps maintain long-term battery performance."
+  },
+  {
+    "category": "Security & Privacy",
+    "short": "Protect your devices with strong authentication.",
+    "long": "Using secure passwords, biometrics, and two-step verification helps prevent unauthorized access. These protections significantly reduce the risk of data theft and account compromise."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Remove apps and files you no longer use.",
+    "long": "Unused applications and stored files take up space and can slow down your device. Regular cleanup improves speed, frees storage, and keeps the system running efficiently."
+  },
+  {
+    "category": "Connectivity & Networks",
+    "short": "Use secure settings on your Wi-Fi network.",
+    "long": "Strong passwords, encryption, and updated router firmware help protect your internet connection. Secure networks reduce exposure to hacking and unauthorized access."
+  },
+  {
+    "category": "Device Care",
+    "short": "Use protective accessories for your gadgets.",
+    "long": "Cases, covers, and screen protectors reduce damage from drops, dust, and spills. Physical protection helps avoid costly repairs and extends device lifespan."
+  },
+  {
+    "category": "Battery & Power",
+    "short": "Charge devices with trusted accessories only.",
+    "long": "Certified chargers and cables provide stable power delivery. Low-quality accessories can overheat, damage batteries, or shorten device lifespan."
+  },
+  {
+    "category": "Security & Privacy",
+    "short": "Check app permissions from time to time.",
+    "long": "Some apps request access to data they don’t need. Reviewing permissions improves privacy and limits unnecessary data collection."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Restart your device occasionally.",
+    "long": "Restarting clears background processes and refreshes system memory. This helps fix minor issues and keeps devices running smoothly."
+  },
+  {
+    "category": "Device Maintenance",
+    "short": "Keep devices clean and free from dust.",
+    "long": "Dust buildup can block ports, speakers, and cooling vents. Gentle cleaning helps prevent overheating and maintains proper functionality."
+  },
+  {
+    "category": "Smart Usage Habits",
+    "short": "Limit the number of apps running at once.",
+    "long": "Too many background apps can slow performance and drain battery life. Closing unused apps improves responsiveness and efficiency."
+  },
+  {
+    "category": "Data Management",
+    "short": "Create regular backups of important files.",
+    "long": "Backing up data protects against accidental deletion, device damage, or cyber incidents. Cloud storage or external drives help ensure your data is always recoverable."
+  },
+  {
+    "category": "Security & Privacy",
+    "short": "Turn on device location and recovery tools.",
+    "long": "Tracking and remote control features help locate lost devices and protect personal data. These tools allow locking or erasing data if a device is stolen."
+  },
+  {
+    "category": "Battery & Power",
+    "short": "Lower screen brightness when full brightness isn’t needed.",
+    "long": "Reducing screen brightness saves battery power and minimizes eye strain. Automatic brightness settings help balance visibility and energy use."
+  },
+  {
+    "category": "Device Longevity",
+    "short": "Keep gadgets away from extreme heat or cold.",
+    "long": "Very high or low temperatures can damage internal components and batteries. Using devices within safe temperature ranges helps maintain long-term reliability."
+  }
+]

@@ -1,0 +1,1803 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? The first electronic computer, ENIAC, weighed over 27 tons.",
+    "category": "computing",
+    "image": "images/eniac.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Computers process data in binary, using only 0s and 1s.",
+    "category": "computing",
+    "image": "images/binary.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? The first hard drive, released in 1956, could store only 5MB of data.",
+    "category": "computing",
+    "image": "images/harddrive.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? RAM stands for Random Access Memory and stores data temporarily.",
+    "category": "computing",
+    "image": "images/ram.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? The first commercial computer, UNIVAC I, was delivered in 1951.",
+    "category": "computing",
+    "image": "images/univac.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? CPUs are often called the brain of a computer because they execute instructions.",
+    "category": "computing",
+    "image": "images/cpu.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Early computers had no keyboards; operators used punch cards to input data.",
+    "category": "computing",
+    "image": "images/punchcards.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Moore's Law predicts the number of transistors on a chip doubles every 2 years.",
+    "category": "computing",
+    "image": "images/moores_law.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The first computer bug was an actual moth found in a Harvard Mark II computer.",
+    "category": "computing",
+    "image": "images/computer_bug.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? SSDs are faster than HDDs because they have no moving parts.",
+    "category": "computing",
+    "image": "images/ssd.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Supercomputers can perform quadrillions of calculations per second.",
+    "category": "computing",
+    "image": "images/supercomputer.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? The QWERTY keyboard layout was designed to prevent typewriter jams.",
+    "category": "computing",
+    "image": "images/qwerty.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? The first computer virus was created in 1986 and called Brain.",
+    "category": "computing",
+    "image": "images/virus.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? The term 'gigabyte' originally meant 1,073,741,824 bytes.",
+    "category": "computing",
+    "image": "images/gigabyte.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? The first programmable computer was the Z3, created in 1941.",
+    "category": "computing",
+    "image": "images/z3.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? The first laptop, the Osborne 1, weighed over 24 pounds.",
+    "category": "computing",
+    "image": "images/osborne1.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? The concept of cloud computing dates back to the 1960s.",
+    "category": "computing",
+    "image": "images/cloud.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Unicode allows computers to display text from multiple languages.",
+    "category": "computing",
+    "image": "images/unicode.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? The first graphical user interface (GUI) was developed at Xerox PARC in 1973.",
+    "category": "computing",
+    "image": "images/gui.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? The world's first microprocessor, Intel 4004, was released in 1971.",
+    "category": "computing",
+    "image": "images/intel4004.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? Computers perform calculations billions of times faster than humans.",
+    "category": "computing",
+    "image": "images/calculations.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Computers use logic gates like AND, OR, and NOT to process data.",
+    "category": "computing",
+    "image": "images/logic_gates.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? GPUs are optimized to handle graphics but are also used for AI calculations.",
+    "category": "computing",
+    "image": "images/gpu.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Cache memory speeds up data access by storing frequently used information.",
+    "category": "computing",
+    "image": "images/cache.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? The world's first digital watch was created in 1970 by Hamilton Watch Company.",
+    "category": "computing",
+    "image": "images/digital_watch.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? The ARPANET, created in 1969, was the precursor to the internet.",
+    "category": "internet",
+    "image": "images/arpanet.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? The first website was published by Tim Berners-Lee in 1991.",
+    "category": "internet",
+    "image": "images/first_website.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? The @ symbol was first used in email addresses in 1971.",
+    "category": "internet",
+    "image": "images/email.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? HTTP, the protocol for the web, stands for HyperText Transfer Protocol.",
+    "category": "internet",
+    "image": "images/http.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? The first online ad appeared in 1994 on HotWired.com.",
+    "category": "internet",
+    "image": "images/online_ad.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? DNS translates domain names into IP addresses so browsers can find websites.",
+    "category": "internet",
+    "image": "images/dns.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? The first search engine was called Archie, created in 1990.",
+    "category": "internet",
+    "image": "images/archie.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Email predates the web and was first developed in the early 1970s.",
+    "category": "internet",
+    "image": "images/email2.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Wi-Fi was first commercially released in 1997 under IEEE 802.11 standards.",
+    "category": "internet",
+    "image": "images/wifi.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? The first internet meme, 'Dancing Baby,' became viral in 1996.",
+    "category": "internet",
+    "image": "images/meme.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Netscape Navigator, released in 1994, was the first popular web browser.",
+    "category": "internet",
+    "image": "images/netscape.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? IPv6 was created to solve the shortage of IP addresses under IPv4.",
+    "category": "internet",
+    "image": "images/ipv6.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Social media sites like Facebook started in the early 2000s, revolutionizing online interaction.",
+    "category": "internet",
+    "image": "images/facebook.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Google indexes over 130 trillion web pages as of 2023.",
+    "category": "internet",
+    "image": "images/google.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? The internet travels mostly through undersea cables connecting continents.",
+    "category": "internet",
+    "image": "images/undersea_cable.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? The term 'surfing the web' was coined by Jean Armour Polly in 1992.",
+    "category": "internet",
+    "image": "images/surf_web.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Early web pages were text-only with no images or videos.",
+    "category": "internet",
+    "image": "images/text_web.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? HTTPS uses encryption (SSL/TLS) to secure data between browsers and servers.",
+    "category": "internet",
+    "image": "images/https.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? The first webcam was used at Cambridge University to monitor a coffee pot.",
+    "category": "internet",
+    "image": "images/webcam.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? The term 'cyberspace' was coined by William Gibson in 1982.",
+    "category": "internet",
+    "image": "images/cyberspace.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Internet traffic doubles approximately every two years.",
+    "category": "internet",
+    "image": "images/internet_traffic.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? The first GIF (Graphics Interchange Format) was introduced by CompuServe in 1987.",
+    "category": "internet",
+    "image": "images/gif.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Email spam accounts for over 50% of total email traffic globally.",
+    "category": "internet",
+    "image": "images/spam.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? The concept of a 'website' originally came from Tim Berners-Lee's 'WorldWideWeb' project.",
+    "category": "internet",
+    "image": "images/website.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Internet censorship exists in many countries to control online content.",
+    "category": "internet",
+    "image": "images/censorship.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Quantum computing uses qubits which can represent 0 and 1 simultaneously.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? The first website went online in 1991, marking the birth of the World Wide Web.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Python was named after Monty Python, not the snake.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? AI can now generate realistic images and text by learning from large datasets.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? SSDs have no moving parts, making them faster and more durable than HDDs.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Multi-factor authentication drastically reduces the risk of unauthorized access.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Cloud computing allows you to access servers and storage over the internet.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Modern robots can perform tasks from surgery to warehouse logistics.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Microcontrollers are tiny computers that control electronic devices like smart appliances.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? The first smartphone, IBM Simon, was released in 1994 and could send emails.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Virtual reality gaming immerses players using headsets and motion sensors.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? The first computer bug was an actual moth found in 1947.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Modern CPUs can execute billions of instructions per second.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? HTTP/3 is the latest version of the web protocol that improves speed and security.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? JavaScript is essential for interactive websites and runs in every modern browser.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Deep learning AI mimics the human brain using layers of artificial neurons.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Graphics cards accelerate rendering and are crucial for gaming and AI tasks.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? A VPN encrypts your internet traffic, protecting your data from prying eyes.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Edge computing processes data near the source instead of relying entirely on the cloud.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Robotic arms in factories can lift hundreds of pounds repeatedly without fatigue.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Arduino boards are popular microcontrollers for DIY electronics projects.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? 5G networks promise faster speeds and lower latency for mobile devices.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Cloud gaming allows you to play high-end games without a powerful PC or console.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? The ENIAC was one of the first electronic general-purpose computers, completed in 1945.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Supercomputers are used to simulate weather, study physics, and run complex AI models.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? DNS translates website names into IP addresses so browsers can load pages.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Open-source software allows anyone to view, modify, and share code freely.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Neural networks are at the heart of modern AI technologies like ChatGPT.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Motherboards connect all components in a computer and allow them to communicate.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Phishing attacks trick users into giving away sensitive information online.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Software-defined networking allows admins to manage networks more efficiently.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Humanoid robots like ASIMO can walk, run, and interact with humans.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Raspberry Pi computers are tiny boards used for education and prototyping.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Smartphones now have multiple cameras to enhance photo and video quality.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? VR headsets track head and hand movements to create immersive experiences.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? The first microprocessor, Intel 4004, was introduced in 1971 with 2,300 transistors.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Cloud servers can scale resources up or down depending on demand.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? HTTPS encrypts web traffic to make browsing safer and prevent tampering.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The first high-level programming language was Fortran, developed in the 1950s.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? AI chatbots can now understand natural language and generate human-like responses.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? RAM temporarily stores data for fast access, but is cleared when the power is off.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? Ransomware attacks encrypt your files until a ransom is paid.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Kubernetes automates the deployment and scaling of containerized applications.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? Robotic vacuum cleaners use sensors to map your home and avoid obstacles.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Microcontrollers often run on low power to perform simple control tasks efficiently.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? Mobile AR apps overlay digital information onto real-world scenes through the camera.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Motion controllers in VR detect hand movements for immersive gameplay.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? The first hard drive was introduced in 1956 and could store 5 MB of data.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? Parallel computing allows multiple calculations to run simultaneously, speeding up tasks.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? IPv6 allows trillions more IP addresses than IPv4, solving internet growth problems.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? The term 'bit' is short for binary digit, the smallest unit of data in computing.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Tim Berners-Lee also invented the first web browser called 'WorldWideWeb'.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? C++ was developed as an extension of the C programming language in the early 1980s.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? AI voice assistants like Siri and Alexa use natural language processing to understand commands.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Motherboards contain the chipset, which manages communication between CPU, RAM, and peripherals.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Two-factor authentication (2FA) adds an extra layer of security beyond a password.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Content Delivery Networks (CDNs) speed up websites by distributing content globally.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Boston Dynamics’ robots can run, jump, and even do backflips.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? The ESP32 is a popular microcontroller for IoT projects with Wi-Fi and Bluetooth.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? The first touchscreen phone was the IBM Simon, released in 1994.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? VR motion sickness occurs when the eyes perceive movement but the inner ear does not.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? The Turing Machine, proposed by Alan Turing, is the theoretical foundation of computers.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Multi-core processors allow multiple tasks to run simultaneously for faster performance.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? The first webcam streamed live images of a coffee pot at Cambridge University in 1991.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Ruby was created by Yukihiro Matsumoto in the mid-1990s to focus on developer happiness.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? AI image generation can now create realistic portraits from text prompts alone.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? GPUs were originally designed for rendering graphics but now power AI and scientific computing.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Firewalls monitor incoming and outgoing traffic to protect networks from unauthorized access.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Virtual Private Clouds (VPCs) allow isolated cloud resources for security and flexibility.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Robotic surgery allows precise operations with minimal invasiveness using machines.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Microcontrollers like Arduino can be programmed to read sensors and control actuators.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Mobile devices now use biometric authentication like fingerprints and facial recognition.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? VR training simulations are used in aviation, medicine, and military exercises.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? The first stored-program computer, the Manchester Baby, ran its first program in 1948.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Binary code represents all data in a computer using 1s and 0s.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Packet switching is the method the internet uses to send data in small blocks efficiently.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? HTML is the standard markup language for creating web pages.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Machine learning enables computers to learn from data without explicit programming.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Solid-state drives (SSDs) store data on flash memory rather than spinning disks.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Social engineering attacks exploit human psychology to gain sensitive information.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Virtual networks allow cloud users to create private networks over public infrastructure.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Autonomous robots use sensors and AI to navigate and perform tasks without human intervention.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? PIC microcontrollers are widely used in embedded systems for industrial applications.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Mobile processors are optimized for energy efficiency and thermal management.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? VR therapy is used to treat phobias, PTSD, and other mental health conditions.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? The first compiler was developed by Grace Hopper in the early 1950s.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Overclocking a CPU increases its speed but also generates more heat.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? The World Wide Web Consortium (W3C) sets web standards to ensure compatibility.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Git allows developers to track changes and collaborate on software projects.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? AI image recognition can identify objects, people, and even emotions in pictures.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Liquid cooling systems are used in high-performance computers to dissipate heat.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Keyloggers are malicious programs that record keystrokes to steal information.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? VPNs can mask your IP address and encrypt internet traffic for privacy.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Surgical robots like the da Vinci system improve precision in medical procedures.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Microcontrollers can be programmed using languages like C, Python, or Arduino IDE.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Foldable smartphones use flexible OLED screens to allow bending without damage.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? VR locomotion techniques include teleportation, smooth movement, and room-scale walking.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? The concept of a stored-program computer allowed programs to be stored in memory.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? SIMD (Single Instruction, Multiple Data) allows CPUs to perform the same operation on multiple data points.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? The first broadband internet connections used DSL and cable technologies in the 1990s.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  
+  {
+    "id": 151,
+    "fact": "Did you know? Quantum computers can solve certain problems exponentially faster than classical computers.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? IPv4 addresses are 32-bit numbers, while IPv6 addresses are 128-bit numbers.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Java was originally called Oak and was designed to run on embedded devices.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Generative AI can create music, art, and even code from textual descriptions.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? NVMe SSDs connect via PCIe, offering much faster speeds than SATA drives.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? Zero-day exploits target software vulnerabilities before developers can patch them.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Cloud orchestration automates deployment, scaling, and management of cloud resources.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Robotic exoskeletons help humans lift heavy objects or assist mobility-impaired people.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? ESP8266 is a popular Wi-Fi microcontroller for IoT projects due to its low cost.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Foldable and dual-screen smartphones enable multitasking with innovative form factors.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? Motion sickness in VR can be reduced using higher refresh rates and optimized motion design.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? The Colossus, built during WWII, was one of the earliest programmable electronic computers.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? GPUs can accelerate parallel computing tasks beyond graphics, including AI and simulations.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? The first web browser to support images inline was Mosaic, released in 1993.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? The first version of Python was released in 1991 by Guido van Rossum.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? AI reinforcement learning allows machines to learn by trial and error with rewards.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? The ATX form factor standardizes the size, shape, and mounting points of motherboards.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Brute-force attacks try all possible password combinations to gain access.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? Load balancers distribute network traffic across multiple servers for reliability.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Industrial robots perform repetitive tasks like welding, painting, and assembly with high precision.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? PIC and STM32 microcontrollers are used in robotics, appliances, and IoT devices.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Mobile AR games like Pokémon Go overlay digital objects on the real world using GPS and camera.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? VR motion controllers track hand position and gestures for more immersive interaction.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? The IBM System/360, released in 1964, standardized hardware architecture for the first time.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? RAID storage combines multiple drives to improve performance and provide redundancy.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? The first Wi-Fi standard, 802.11b, offered speeds up to 11 Mbps.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? IDEs (Integrated Development Environments) help programmers write, test, and debug code efficiently.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? AI sentiment analysis can determine whether text expresses positive, negative, or neutral emotions.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? PCIe slots connect expansion cards like GPUs to a motherboard for high-speed data transfer.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Key rotation and strong passwords are essential for preventing brute-force cyberattacks.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Software-defined storage abstracts storage resources to be managed and automated in the cloud.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Cobots, or collaborative robots, work alongside humans safely in factories and warehouses.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Microcontrollers often have built-in analog-to-digital converters for sensor input processing.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Smartphones now integrate AI chips to optimize battery, camera, and performance tasks.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? Haptic feedback in VR provides tactile sensations to simulate touch in virtual environments.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? ENIAC, completed in 1945, could perform 5,000 additions per second, revolutionizing computation.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Cloud-based IDEs allow developers to code and run applications directly in the browser.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? SSL/TLS certificates secure web traffic by encrypting data between clients and servers.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? GitHub and GitLab are popular platforms for hosting and collaborating on code projects.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? AI object detection can identify and locate objects in images or video streams in real time.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Dual-channel memory increases bandwidth by allowing simultaneous access to two RAM modules.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Social engineering attacks exploit human trust to bypass security measures.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? Edge servers bring content closer to users to reduce latency and improve performance.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Industrial robotic arms can be programmed to perform precise welding, painting, or assembly tasks.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Microcontrollers like STM32 are used in drones, wearables, and IoT home automation.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Mobile edge computing allows smartphones to offload computation-heavy tasks to nearby servers.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Room-scale VR allows users to walk and interact with the virtual world in a defined play area.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? The Altair 8800, released in 1975, is considered the spark of the personal computer revolution.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? GPU virtualization allows multiple virtual machines to share a single graphics card for efficiency.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+{
+    "id": 200,
+    "fact": "Did you know? Internet backbone networks use high-capacity fiber optic cables to transmit vast amounts of data globally.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Optical computing uses photons instead of electrons to process data, promising faster speeds.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? The Tor network allows anonymous browsing by routing traffic through multiple servers worldwide.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? JavaScript was created in just 10 days by Brendan Eich in 1995.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? AI image recognition can now identify objects, animals, and people in real-time video feeds.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? NVMe drives outperform traditional SSDs by communicating directly via PCIe lanes.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Two-factor authentication often uses a password plus a time-based one-time code.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? SD-WAN technology helps enterprises optimize and secure wide-area networks over the internet.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Boston Dynamics' robots like Spot can navigate complex terrains autonomously.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? ESP32 microcontrollers include Wi-Fi and Bluetooth for IoT projects.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Smartphones now include AI features for photography, voice recognition, and battery management.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Eye-tracking in VR headsets allows foveated rendering to save processing power.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? The first transistor-based computer was the IBM 1401, released in 1959.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? FPGA (Field-Programmable Gate Arrays) allow hardware to be reconfigured for specific tasks.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Mesh Wi-Fi networks use multiple nodes to provide seamless coverage over a large area.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Rust is a programming language designed for memory safety and high performance.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Reinforcement learning allows AI to learn optimal strategies through rewards and penalties.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Thunderbolt ports can transfer data at speeds up to 40 Gbps, faster than USB 3.2.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Social engineering attacks exploit human psychology rather than software vulnerabilities.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Virtual private clouds (VPCs) isolate cloud resources within a secure virtual network.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Robotic drones are used for delivery, surveillance, and disaster response in modern industries.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Microcontrollers are often programmed using C, C++, or Python for IoT devices.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? 5G networks reduce latency, enabling real-time applications like cloud gaming and autonomous cars.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Haptic gloves in VR allow users to feel and manipulate virtual objects naturally.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? The Altair 8800 inspired Bill Gates and Paul Allen to create Microsoft.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Parallel processing allows multiple processors to work on different parts of a task simultaneously.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? VPNs mask your IP address and encrypt your traffic to increase online privacy.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? IDE plugins can enhance coding productivity with linting, autocompletion, and debugging tools.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? AI-powered language translation can now provide near real-time conversation assistance.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? NVMe M.2 SSDs use fewer cables and take up less space in modern laptops.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Keyloggers can record keystrokes secretly, posing a cybersecurity threat.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Software-defined networking separates the control plane from the data plane for flexibility.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Humanoid robots can perform basic human interactions, like shaking hands or delivering objects.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Arduino Nano is a small form-factor microcontroller suitable for wearable and compact electronics.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Mobile AI assistants optimize battery usage and app performance on smartphones.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Room-scale VR can simulate physical space, letting users explore virtual worlds by walking.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? ENIAC was originally programmed manually using plugboards and switches.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Distributed computing splits tasks across multiple computers to improve speed and redundancy.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Internet of Things (IoT) devices often communicate over MQTT or HTTP protocols.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Dynamic programming languages like Python and JavaScript allow flexible coding without compilation.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? AI-based predictive maintenance helps detect equipment failures before they occur.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Heat sinks and fans keep CPUs and GPUs cool to maintain performance and prevent damage.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Two-factor authentication codes can be delivered via SMS, email, or authenticator apps.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Virtual LANs (VLANs) segment a physical network to improve security and traffic management.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Autonomous robots in warehouses can move pallets, sort items, and optimize logistics.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? STM32 microcontrollers are widely used in robotics, industrial equipment, and IoT devices.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Foldable smartphones use flexible OLED screens that can bend without breaking.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? VR motion sickness can be reduced by maintaining high frame rates and minimizing latency.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? The IBM 701, released in 1952, was IBM’s first commercial scientific computer.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Multithreading allows a CPU to execute multiple threads concurrently for better efficiency.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? DNSSEC enhances DNS security by digitally signing DNS records to prevent spoofing attacks.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Optical character recognition (OCR) allows computers to read printed or handwritten text.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? IPv4 addresses are 32-bit, while IPv6 addresses are 128-bit, allowing more devices on the internet.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Git is a distributed version control system widely used for software development.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? AI reinforcement learning has been used to train AI agents to play complex games like Go and StarCraft II.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? PCIe 5.0 doubles the data transfer rate compared to PCIe 4.0, enhancing GPU and storage performance.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Zero-trust security models require verification of every access request, regardless of network location.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Hybrid cloud environments combine public and private clouds to optimize flexibility and security.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Swarm robotics coordinates multiple robots to perform tasks collaboratively.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Microcontrollers like the ATmega328 are used in Arduino Uno boards.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Smartphones use multi-core processors to handle apps, AI, and high-resolution displays efficiently.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Room-scale VR requires sensors placed around the space to track movement accurately.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? The IBM System/360, released in 1964, was a family of computers that standardized hardware architecture.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Quantum annealers, like those from D-Wave, are specialized quantum computers for optimization problems.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Content Delivery Networks (CDNs) cache websites globally to improve loading speeds.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? TypeScript is a superset of JavaScript that adds static typing for safer code.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Generative AI can create realistic text, images, music, and videos from prompts.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Liquid cooling systems help maintain optimal temperatures for high-performance CPUs and GPUs.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Multi-layered firewalls protect networks by controlling traffic at multiple points.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Network Function Virtualization (NFV) replaces hardware appliances with software-based network services.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Robotic exoskeletons assist people with mobility impairments to walk and lift heavy objects.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Microcontrollers can sleep in low-power mode to extend battery life in IoT devices.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Mobile edge computing processes data locally on devices to reduce latency and bandwidth usage.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Hand-tracking in VR allows users to interact without controllers for a more natural experience.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? The PDP-8, released in 1965, is considered the first commercially successful minicomputer.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Neuromorphic computing mimics the human brain's neural structure to improve AI efficiency.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? WebAssembly (Wasm) allows high-performance code to run in web browsers.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Functional programming emphasizes pure functions and avoids shared state to reduce bugs.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? GANs (Generative Adversarial Networks) are used to create deepfake images and videos.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Thunderbolt docks allow multiple peripherals to connect to a single port with high speed.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? End-to-end encryption ensures only the communicating parties can read the messages.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Cloud orchestration automates workflows and resource management across cloud environments.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Collaborative robots (cobots) work alongside humans to improve efficiency and safety.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Microcontrollers often include ADCs (Analog-to-Digital Converters) to read sensor data.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Smartphones use AI to enhance camera performance, such as night mode and HDR.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Haptic feedback in VR improves immersion by simulating touch sensations.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? The Xerox Alto, developed in 1973, introduced the graphical user interface to computing.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? GPU acceleration is essential for machine learning and high-end gaming graphics.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? HTTP/2 allows multiplexed streams to improve website loading speeds over HTTP/1.1.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Containerization using Docker isolates applications for consistent deployment across environments.",
+    "category": "Programming & Software",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? AI voice assistants can now understand context and maintain multi-turn conversations.",
+    "category": "Artificial Intelligence",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? High-refresh-rate monitors, such as 240Hz, provide smoother visuals for gaming and productivity.",
+    "category": "Hardware & Devices",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Security tokens can generate one-time passwords for two-factor authentication.",
+    "category": "Cybersecurity & Privacy",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Cloud load balancers distribute incoming traffic across multiple servers for optimal performance.",
+    "category": "Cloud Computing & Networking",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Robotic surgical systems enable minimally invasive operations with high precision.",
+    "category": "Robotics & Automation",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Microcontrollers can communicate with sensors and actuators using protocols like I2C and SPI.",
+    "category": "Electronics & Microcontrollers",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Mobile biometric authentication uses fingerprints, face recognition, or iris scans for security.",
+    "category": "Mobile Technology",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? VR locomotion techniques like teleportation prevent motion sickness while navigating virtual worlds.",
+    "category": "Gaming & VR/AR",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? The Apple I, created in 1976 by Steve Wozniak, was one of the first personal computers.",
+    "category": "Tech History & Innovations",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? High-performance computing (HPC) clusters are used for simulations, AI training, and scientific research.",
+    "category": "Computing",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Content filtering on the internet can block malicious, inappropriate, or bandwidth-heavy websites.",
+    "category": "Internet",
+    "image": "images/placeholder.jpg"
+  }
+]

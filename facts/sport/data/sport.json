@@ -1,0 +1,1316 @@
+[
+  { "id": 1, "fact": "Did you know? Lionel Messi has scored over 750 career goals for club and country, making him one of the greatest footballers of all time.", "category": "football", "image": "images/football1.jpg" },
+  { "id": 2, "fact": "Did you know? Cristiano Ronaldo has scored 100+ international goals for Portugal, the most for any European player.", "category": "football", "image": "images/football2.jpg" },
+  { "id": 3, "fact": "Did you know? Robert Lewandowski scored 5 goals in 9 minutes for Bayern Munich in 2015, one of the fastest hat-tricks in history.", "category": "football", "image": "images/football3.jpg" },
+  { "id": 4, "fact": "Did you know? Neymar Jr. has scored over 400 career goals and is known for his flair and dribbling skills.", "category": "football", "image": "images/football4.jpg" },
+  { "id": 5, "fact": "Did you know? Kylian Mbappé became the youngest French player to score in a World Cup at 19 years old.", "category": "football", "image": "images/football5.jpg" },
+  
+  { "id": 6, "fact": "Did you know? Michael Jordan won 6 NBA championships with the Chicago Bulls and is widely regarded as the greatest basketball player ever.", "category": "basketball", "image": "images/basketball1.jpg" },
+  { "id": 7, "fact": "Did you know? Usain Bolt holds the world record for the 100m sprint at 9.58 seconds, set in 2009.", "category": "athletics", "image": "images/athletics1.jpg" },
+  { "id": 8, "fact": "Did you know? Muhammad Ali won the world heavyweight title three times and is famous for his 'float like a butterfly, sting like a bee' quote.", "category": "combat", "image": "images/combat1.jpg" },
+  { "id": 9, "fact": "Did you know? Serena Williams has won 23 Grand Slam singles titles, the most in the Open Era for a female player.", "category": "tennis", "image": "images/tennis1.jpg" },
+  { "id": 10, "fact": "Did you know? Sachin Tendulkar is the highest run scorer in international cricket, with over 34,000 runs.", "category": "cricket", "image": "images/cricket1.jpg" },
+  { "id": 11, "fact": "Did you know? Kelly Slater has won 11 world surfing championships, making him the most successful surfer in history.", "category": "extreme", "image": "images/extreme1.jpg" },
+  { "id": 12, "fact": "Did you know? The fastest tennis serve on record is 263 km/h (163.4 mph) by Sam Groth.", "category": "sports_science", "image": "images/science1.jpg" },
+  { "id": 13, "fact": "Did you know? The modern Olympic Games began in 1896 in Athens, Greece, reviving the ancient Olympic tradition.", "category": "sports_history", "image": "images/history1.jpg" },
+  { "id": 14, "fact": "Did you know? Sepak Takraw, popular in Southeast Asia, is a sport where players hit a ball over the net using only their feet, head, knees, and chest.", "category": "weird_sports", "image": "images/weird1.jpg" },
+  
+  { "id": 15, "fact": "Did you know? Zlatan Ibrahimović has scored over 570 career goals and played in top leagues across 4 different countries.", "category": "football", "image": "images/football6.jpg" },
+  { "id": 16, "fact": "Did you know? Sergio Ramos has scored over 100 career goals as a defender, an unusual feat in football.", "category": "football", "image": "images/football7.jpg" },
+  { "id": 17, "fact": "Did you know? Pelé scored over 1,280 goals during his professional football career, making him a legend of the sport.", "category": "football", "image": "images/football8.jpg" },
+  { "id": 18, "fact": "Did you know? Antoine Griezmann won the Golden Boot at Euro 2016, scoring 6 goals in the tournament.", "category": "football", "image": "images/football9.jpg" },
+  { "id": 19, "fact": "Did you know? Mohamed Salah has scored over 150 Premier League goals for Liverpool, becoming one of the fastest scorers in history.", "category": "football", "image": "images/football10.jpg" },
+  
+  { "id": 20, "fact": "Did you know? Kobe Bryant won 5 NBA championships and scored 81 points in a single game, the second-highest in history.", "category": "basketball", "image": "images/basketball2.jpg" },
+  { "id": 21, "fact": "Did you know? Eliud Kipchoge became the first person to run a marathon under 2 hours in a special event in 2019.", "category": "athletics", "image": "images/athletics2.jpg" },
+  { "id": 22, "fact": "Did you know? Georges St-Pierre is considered one of the greatest MMA fighters of all time with a record of 26 wins and 2 losses.", "category": "combat", "image": "images/combat2.jpg" },
+  { "id": 23, "fact": "Did you know? Rafael Nadal has won 14 French Open titles, the most in a single Grand Slam tournament.", "category": "tennis", "image": "images/tennis2.jpg" },
+  { "id": 24, "fact": "Did you know? Jacques Kallis is one of the few cricketers to score over 10,000 runs and take over 250 wickets in Test cricket.", "category": "cricket", "image": "images/cricket2.jpg" },
+  { "id": 25, "fact": "Did you know? Travis Pastrana successfully landed a triple backflip on a dirt bike in 2006.", "category": "extreme", "image": "images/extreme2.jpg" },
+  { "id": 26, "fact": "Did you know? Heart rate monitoring helps athletes train in the right intensity zones for endurance and performance.", "category": "sports_science", "image": "images/science2.jpg" },
+  { "id": 27, "fact": "Did you know? The first modern Olympics had only 280 participants from 13 nations.", "category": "sports_history", "image": "images/history2.jpg" },
+  { "id": 28, "fact": "Did you know? Bo-taoshi is a Japanese sport played during school events where teams try to topple a pole while defending their own.", "category": "weird_sports", "image": "images/weird2.jpg" },
+  
+  { "id": 29, "fact": "Did you know? Cristiano Ronaldo is the first player to score 100 international goals for Portugal.", "category": "football", "image": "images/football11.jpg" },
+  { "id": 30, "fact": "Did you know? Lionel Messi has won 7 Ballon d'Or awards, the most for any player in history.", "category": "football", "image": "images/football12.jpg" },
+  { "id": 31, "fact": "Did you know? Kylian Mbappé became the youngest player to score in a UEFA Champions League final at age 19.", "category": "football", "image": "images/football13.jpg" },
+  { "id": 32, "fact": "Did you know? Erling Haaland scored 36 goals in a single Bundesliga season, breaking Gerd Müller's long-standing record.", "category": "football", "image": "images/football14.jpg" },
+  { "id": 33, "fact": "Did you know? Romário scored over 1,000 career goals, making him one of the few players to reach this milestone.", "category": "football", "image": "images/football15.jpg" },
+  
+  { "id": 34, "fact": "Did you know? Stephen Curry set the record for most 3-pointers in a single NBA season with 402.", "category": "basketball", "image": "images/basketball3.jpg" },
+  { "id": 35, "fact": "Did you know? Carl Lewis won 9 Olympic gold medals across long jump and sprint events.", "category": "athletics", "image": "images/athletics3.jpg" },
+  { "id": 36, "fact": "Did you know? Anderson Silva holds the record for the longest title reign in UFC history at 2,457 days.", "category": "combat", "image": "images/combat3.jpg" },
+  { "id": 37, "fact": "Did you know? Steffi Graf is the only tennis player to achieve the Golden Slam, winning all four Grand Slams and Olympic gold in the same year.", "category": "tennis", "image": "images/tennis3.jpg" },
+  { "id": 38, "fact": "Did you know? Ben Stokes led England to a dramatic victory in the 2019 Cricket World Cup final.", "category": "cricket", "image": "images/cricket3.jpg" },
+  { "id": 39, "fact": "Did you know? Shaun White has 15 X Games medals, making him one of the most decorated snowboarders ever.", "category": "extreme", "image": "images/extreme3.jpg" },
+  { "id": 40, "fact": "Did you know? VO2 max is a key metric used to measure an athlete's aerobic capacity and endurance potential.", "category": "sports_science", "image": "images/science3.jpg" },
+  { "id": 41, "fact": "Did you know? Bob Beamon set the long jump world record of 8.90m in 1968, which stood for 23 years.", "category": "sports_history", "image": "images/history3.jpg" },
+  { "id": 42, "fact": "Did you know? Bandy is a sport similar to ice hockey but played with a ball on a field the size of a football pitch.", "category": "weird_sports", "image": "images/weird3.jpg" },
+  
+  { "id": 43, "fact": "Did you know? Pelé won 3 FIFA World Cups with Brazil, the most by any player.", "category": "football", "image": "images/football16.jpg" },
+  { "id": 44, "fact": "Did you know? Zlatan Ibrahimović scored in 6 different decades, showing his longevity in football.", "category": "football", "image": "images/football17.jpg" },
+  { "id": 45, "fact": "Did you know? Sergio Agüero scored the fastest Premier League hat-trick in 2 minutes 56 seconds.", "category": "football", "image": "images/football18.jpg" },
+  { "id": 46, "fact": "Did you know? David Beckham scored 65 goals for England during his career.", "category": "football", "image": "images/football19.jpg" },
+  { "id": 47, "fact": "Did you know? Wayne Rooney became England’s all-time leading goal scorer with 53 goals.", "category": "football", "image": "images/football20.jpg" },
+  
+  { "id": 48, "fact": "Did you know? Larry Bird won 3 NBA championships and 3 MVP awards during his illustrious career.", "category": "basketball", "image": "images/basketball4.jpg" },
+  { "id": 49, "fact": "Did you know? Hicham El Guerrouj holds the world record for the fastest mile run at 3:43.13 minutes.", "category": "athletics", "image": "images/athletics4.jpg" },
+  { "id": 50, "fact": "Did you know? Fedor Emelianenko has one of the longest undefeated streaks in MMA history with 27 fights.", "category": "combat", "image": "images/combat4.jpg" },
+  { "id": 51, "fact": "Did you know? Erling Haaland scored 36 goals in a single Bundesliga season, breaking Gerd Müller's long-standing record.", "category": "football", "image": "images/football21.jpg" },
+  { "id": 52, "fact": "Did you know? Neymar became the most expensive football transfer in 2017 when he moved from Barcelona to PSG for €222 million.", "category": "football", "image": "images/football22.jpg" },
+  { "id": 53, "fact": "Did you know? Lionel Messi has won 10 La Liga titles with Barcelona, dominating Spanish football for over a decade.", "category": "football", "image": "images/football23.jpg" },
+  { "id": 54, "fact": "Did you know? Cristiano Ronaldo scored a hat-trick against Spain in the 2018 World Cup, showcasing his international brilliance.", "category": "football", "image": "images/football24.jpg" },
+  { "id": 55, "fact": "Did you know? Manuel Neuer is considered one of the greatest goalkeepers ever, known for his 'sweeper-keeper' style.", "category": "football", "image": "images/football25.jpg" },
+  
+  { "id": 56, "fact": "Did you know? LeBron James has appeared in 10 NBA Finals and won 4 championships with three different teams.", "category": "basketball", "image": "images/basketball5.jpg" },
+  { "id": 57, "fact": "Did you know? Shelly-Ann Fraser-Pryce has won 8 Olympic medals and is one of the fastest women sprinters ever.", "category": "athletics", "image": "images/athletics5.jpg" },
+  { "id": 58, "fact": "Did you know? Jon Jones is the youngest UFC champion in history, winning the light heavyweight title at 23 years old.", "category": "combat", "image": "images/combat5.jpg" },
+  { "id": 59, "fact": "Did you know? Novak Djokovic has won 22 Grand Slam singles titles, holding multiple records in men’s tennis.", "category": "tennis", "image": "images/tennis5.jpg" },
+  { "id": 60, "fact": "Did you know? Muttiah Muralitharan is the highest wicket-taker in Test cricket with 800 wickets.", "category": "cricket", "image": "images/cricket5.jpg" },
+  { "id": 61, "fact": "Did you know? Robby Naish has 24 windsurfing world championships, dominating extreme sports history.", "category": "extreme", "image": "images/extreme5.jpg" },
+  { "id": 62, "fact": "Did you know? Proper nutrition, hydration, and sleep can significantly enhance athletic performance.", "category": "sports_science", "image": "images/science5.jpg" },
+  { "id": 63, "fact": "Did you know? Jesse Owens won 4 gold medals at the 1936 Berlin Olympics, defying Nazi propaganda.", "category": "sports_history", "image": "images/history5.jpg" },
+  { "id": 64, "fact": "Did you know? Wife-carrying is a Finnish sport where husbands race carrying their wives over obstacles.", "category": "weird_sports", "image": "images/weird5.jpg" },
+  
+  { "id": 65, "fact": "Did you know? Pelé won 3 FIFA World Cups with Brazil, the most by any player.", "category": "football", "image": "images/football26.jpg" },
+  { "id": 66, "fact": "Did you know? Romário scored over 1,000 career goals, making him one of the few players to reach this milestone.", "category": "football", "image": "images/football27.jpg" },
+  { "id": 67, "fact": "Did you know? Francesco Totti played 25 seasons for AS Roma, making him one of the longest-serving footballers.", "category": "football", "image": "images/football28.jpg" },
+  { "id": 68, "fact": "Did you know? Paolo Maldini played 25 seasons for AC Milan and is considered one of the greatest defenders ever.", "category": "football", "image": "images/football29.jpg" },
+  { "id": 69, "fact": "Did you know? Gianluigi Buffon has played in over 1,100 professional matches, a remarkable record for a goalkeeper.", "category": "football", "image": "images/football30.jpg" },
+  
+  { "id": 70, "fact": "Did you know? Kevin Durant has won 2 NBA championships and 2 Finals MVP awards.", "category": "basketball", "image": "images/basketball6.jpg" },
+  { "id": 71, "fact": "Did you know? Mo Farah has won 6 Olympic gold medals and multiple World Championships in long-distance running.", "category": "athletics", "image": "images/athletics6.jpg" },
+  { "id": 72, "fact": "Did you know? Ronda Rousey was the first American woman to earn an Olympic medal in judo and become a UFC champion.", "category": "combat", "image": "images/combat6.jpg" },
+  { "id": 73, "fact": "Did you know? Serena Williams has won 23 Grand Slam singles titles, the most in the Open Era for a female player.", "category": "tennis", "image": "images/tennis6.jpg" },
+  { "id": 74, "fact": "Did you know? Brian Lara scored 400 not out in a Test match, the highest individual score in history.", "category": "cricket", "image": "images/cricket6.jpg" },
+  { "id": 75, "fact": "Did you know? Shaun White has won 3 Olympic gold medals in snowboarding and multiple X Games golds.", "category": "extreme", "image": "images/extreme6.jpg" },
+  { "id": 76, "fact": "Did you know? Altitude training helps athletes improve endurance and oxygen efficiency.", "category": "sports_science", "image": "images/science6.jpg" },
+  { "id": 77, "fact": "Did you know? Jim Thorpe won Olympic gold in the pentathlon and decathlon in 1912 and played multiple professional sports.", "category": "sports_history", "image": "images/history6.jpg" },
+  { "id": 78, "fact": "Did you know? Cheese rolling is a bizarre sport in England where participants chase a wheel of cheese down a hill.", "category": "weird_sports", "image": "images/weird6.jpg" },
+  
+  { "id": 79, "fact": "Did you know? Lionel Messi became Barcelona's all-time top scorer with over 670 goals.", "category": "football", "image": "images/football31.jpg" },
+  { "id": 80, "fact": "Did you know? Cristiano Ronaldo has scored in every UEFA Champions League season since 2003–04.", "category": "football", "image": "images/football32.jpg" },
+  { "id": 81, "fact": "Did you know? Kylian Mbappé scored a hat-trick against Argentina in the 2018 World Cup Round of 16.", "category": "football", "image": "images/football33.jpg" },
+  { "id": 82, "fact": "Did you know? Zlatan Ibrahimović scored in 6 different decades, showing his longevity in football.", "category": "football", "image": "images/football34.jpg" },
+  { "id": 83, "fact": "Did you know? Mohamed Salah scored 32 goals in the 2017-18 Premier League season, breaking records for an Egyptian player.", "category": "football", "image": "images/football35.jpg" },
+  
+  { "id": 84, "fact": "Did you know? Tim Duncan won 5 NBA championships and 2 MVP awards with the San Antonio Spurs.", "category": "basketball", "image": "images/basketball7.jpg" },
+  { "id": 85, "fact": "Did you know? Haile Gebrselassie won 2 Olympic gold medals and set 27 world records in long-distance running.", "category": "athletics", "image": "images/athletics7.jpg" },
+  { "id": 86, "fact": "Did you know? Fedor Emelianenko is considered one of the greatest MMA heavyweights ever with a career spanning over two decades.", "category": "combat", "image": "images/combat7.jpg" },
+  { "id": 87, "fact": "Did you know? Roger Federer has won 20 Grand Slam singles titles and held the world No.1 ranking for 310 weeks.", "category": "tennis", "image": "images/tennis7.jpg" },
+  { "id": 88, "fact": "Did you know? Ricky Ponting captained Australia to two Cricket World Cup victories in 2003 and 2007.", "category": "cricket", "image": "images/cricket7.jpg" },
+  { "id": 89, "fact": "Did you know? Tony Hawk landed the first 900-degree spin in skateboarding history in 1999.", "category": "extreme", "image": "images/extreme7.jpg" },
+  { "id": 90, "fact": "Did you know? Strength training can improve performance in most sports by increasing power and reducing injuries.", "category": "sports_science", "image": "images/science7.jpg" },
+  { "id": 91, "fact": "Did you know? Jim Fixx popularized jogging in the 1970s and wrote influential books on running for health.", "category": "sports_history", "image": "images/history7.jpg" },
+  { "id": 92, "fact": "Did you know? Quidditch is a real-life sport inspired by Harry Potter, played on broomsticks in teams around the world.", "category": "weird_sports", "image": "images/weird7.jpg" },
+  
+  { "id": 93, "fact": "Did you know? Wayne Rooney became England’s all-time leading goal scorer with 53 goals.", "category": "football", "image": "images/football36.jpg" },
+  { "id": 94, "fact": "Did you know? Sergio Ramos has scored over 100 career goals as a defender, an unusual feat in football.", "category": "football", "image": "images/football37.jpg" },
+  { "id": 95, "fact": "Did you know? Luis Suárez scored 4 goals in a 7–1 win over Argentina in 2012 Copa America.", "category": "football", "image": "images/football38.jpg" },
+  { "id": 96, "fact": "Did you know? Andrés Iniesta scored the winning goal for Spain in the 2010 World Cup final.", "category": "football", "image": "images/football39.jpg" },
+  { "id": 97, "fact": "Did you know? Thierry Henry is Arsenal’s all-time top scorer with 228 goals in all competitions.", "category": "football", "image": "images/football40.jpg" },
+  
+  { "id": 98, "fact": "Did you know? Stephen Curry set the record for most 3-pointers in a single NBA season with 402.", "category": "basketball", "image": "images/basketball8.jpg" },
+  { "id": 99, "fact": "Did you know? Florence Griffith-Joyner set the women's 100m world record at 10.49 seconds in 1988.", "category": "athletics", "image": "images/athletics8.jpg" },
+  { "id": 100, "fact": "Did you know? Ronda Rousey became the first American woman to earn an Olympic medal in judo and UFC championship titles.", "category": "combat", "image": "images/combat8.jpg" },
+  {
+    "id": 101,
+    "fact": "Did you know? Lionel Messi scored 91 goals in 2012, setting the record for most goals in a calendar year.",
+    "category": "football",
+    "image": "images/football101.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Cristiano Ronaldo is the first player to score 100 goals in UEFA club competitions.",
+    "category": "football",
+    "image": "images/football102.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Robert Lewandowski scored 41 goals in a single Bundesliga season, breaking Gerd Müller's 49-year record.",
+    "category": "football",
+    "image": "images/football103.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Kylian Mbappé became the youngest French player to score in a Champions League knockout match at 19.",
+    "category": "football",
+    "image": "images/football104.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Neymar Jr. transferred from Barcelona to PSG for a world record fee of €222 million in 2017.",
+    "category": "football",
+    "image": "images/football105.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Zlatan Ibrahimović has scored in four different decades for club football.",
+    "category": "football",
+    "image": "images/football106.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Sergio Ramos has scored 23 goals in Champions League knockout matches, the most by a defender.",
+    "category": "football",
+    "image": "images/football107.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Gianluigi Buffon has made over 1,100 professional appearances in his career, the most by a goalkeeper.",
+    "category": "football",
+    "image": "images/football108.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Luka Modrić won the Ballon d'Or in 2018, breaking the decade-long Messi-Ronaldo dominance.",
+    "category": "football",
+    "image": "images/football109.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Manuel Neuer has pioneered the 'sweeper-keeper' style, changing modern goalkeeping tactics.",
+    "category": "football",
+    "image": "images/football110.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Michael Jordan once scored 63 points in a playoff game against the Boston Celtics.",
+    "category": "basketball",
+    "image": "images/basketball101.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Usain Bolt has 8 Olympic gold medals and set multiple world records in sprinting events.",
+    "category": "athletics",
+    "image": "images/athletics101.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Ronda Rousey was the first American woman to earn an Olympic medal in judo and hold a UFC title.",
+    "category": "combat",
+    "image": "images/combat101.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Serena Williams won 23 Grand Slam singles titles, the most in the Open Era for female players.",
+    "category": "tennis",
+    "image": "images/tennis101.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Virat Kohli has scored the fastest 8,000, 9,000, 10,000, 11,000, and 12,000 runs in ODI history.",
+    "category": "cricket",
+    "image": "images/cricket101.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Travis Pastrana is the first person to complete a double backflip in motocross competition.",
+    "category": "extreme",
+    "image": "images/extreme101.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? High-altitude training can improve endurance by increasing red blood cell count in athletes.",
+    "category": "sports_science",
+    "image": "images/science101.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? The first modern Olympic Games were held in Athens in 1896, reviving ancient traditions.",
+    "category": "sports_history",
+    "image": "images/history101.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Quidditch is a real-life sport inspired by Harry Potter, played on broomsticks in teams worldwide.",
+    "category": "weird_sports",
+    "image": "images/weird101.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Mohamed Salah scored 32 goals in the Premier League 2017–18 season, setting a record for Liverpool.",
+    "category": "football",
+    "image": "images/football111.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Erling Haaland scored 36 Bundesliga goals in a single season for Borussia Dortmund.",
+    "category": "football",
+    "image": "images/football112.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Kevin De Bruyne provided 20 assists in the Premier League 2019–20 season, the highest that season.",
+    "category": "football",
+    "image": "images/football113.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Sergio Agüero scored the fastest Premier League hat-trick in 2 minutes 56 seconds.",
+    "category": "football",
+    "image": "images/football114.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Paolo Maldini played 25 seasons for AC Milan, becoming a symbol of loyalty and excellence.",
+    "category": "football",
+    "image": "images/football115.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Franck Ribéry won 11 trophies in a single decade with Bayern Munich.",
+    "category": "football",
+    "image": "images/football116.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Andrés Iniesta scored the winning goal for Spain in the 2010 FIFA World Cup final.",
+    "category": "football",
+    "image": "images/football117.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Paolo Guerrero has played in five different World Cups for Peru.",
+    "category": "football",
+    "image": "images/football118.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Giorgio Chiellini made over 100 appearances for Italy, winning Euro 2020.",
+    "category": "football",
+    "image": "images/football119.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Manuel Neuer has won the FIFA World Cup in 2014 and multiple Bundesliga titles with Bayern Munich.",
+    "category": "football",
+    "image": "images/football120.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Jimmy Butler scored 40 points in a single NBA playoff game, demonstrating his clutch performance.",
+    "category": "basketball",
+    "image": "images/basketball102.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Eliud Kipchoge ran the first official sub-2-hour marathon in 2019 under controlled conditions.",
+    "category": "athletics",
+    "image": "images/athletics102.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Holly Holm became the first female fighter to defeat Ronda Rousey in the UFC.",
+    "category": "combat",
+    "image": "images/combat102.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Naomi Osaka became the youngest player to reach No.1 WTA ranking at age 21.",
+    "category": "tennis",
+    "image": "images/tennis102.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Ben Stokes helped England win the 2019 Cricket World Cup with a remarkable final performance.",
+    "category": "cricket",
+    "image": "images/cricket102.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Kelly Slater has won 11 world surfing championships, dominating extreme sports.",
+    "category": "extreme",
+    "image": "images/extreme102.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? VO2 max is a key measurement of aerobic fitness and endurance in athletes.",
+    "category": "sports_science",
+    "image": "images/science102.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Jesse Owens won 4 gold medals at the 1936 Berlin Olympics.",
+    "category": "sports_history",
+    "image": "images/history102.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? Cheese rolling is a bizarre sport in England where participants chase a wheel of cheese down a hill.",
+    "category": "weird_sports",
+    "image": "images/weird102.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Paulo Dybala has scored over 100 career goals and is known for his free-kick mastery.",
+    "category": "football",
+    "image": "images/football121.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Heung-min Son won the Premier League Golden Boot in the 2021–22 season.",
+    "category": "football",
+    "image": "images/football122.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Karim Benzema won the 2022 Ballon d'Or for his performance with Real Madrid.",
+    "category": "football",
+    "image": "images/football123.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Raheem Sterling scored 18 goals in the Premier League 2018–19 season for Manchester City.",
+    "category": "football",
+    "image": "images/football124.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Sergio Busquets has won 8 La Liga titles and multiple Champions League trophies with Barcelona.",
+    "category": "football",
+    "image": "images/football125.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Virgil van Dijk is considered one of the best defenders in the world, known for aerial dominance.",
+    "category": "football",
+    "image": "images/football126.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Luka Modrić won the Golden Ball at the 2018 FIFA World Cup.",
+    "category": "football",
+    "image": "images/football127.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Gianluigi Donnarumma became the youngest goalkeeper to win the UEFA Euro 2020.",
+    "category": "football",
+    "image": "images/football128.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Sergio Agüero scored 184 Premier League goals, ranking him as one of the top scorers in history.",
+    "category": "football",
+    "image": "images/football129.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Eden Hazard scored 50 goals for Chelsea before transferring to Real Madrid in 2019.",
+    "category": "football",
+    "image": "images/football130.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Thomas Müller has won the FIFA World Cup in 2014 and scored 10 goals in the tournament.",
+    "category": "football",
+    "image": "images/football131.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Jadon Sancho became the youngest English player to score 10 goals in the Bundesliga for Borussia Dortmund.",
+    "category": "football",
+    "image": "images/football132.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Antoine Griezmann scored the winning goal for France in the 2018 FIFA World Cup semi-final against Belgium.",
+    "category": "football",
+    "image": "images/football133.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? Sergio Ramos has scored 100 career goals for club and country, remarkable for a defender.",
+    "category": "football",
+    "image": "images/football134.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Erling Haaland scored a hat-trick in his first Premier League game for Manchester City.",
+    "category": "football",
+    "image": "images/football135.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Mohamed Salah has over 100 goals in the Premier League as of 2023.",
+    "category": "football",
+    "image": "images/football136.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? Kylian Mbappé scored a hat-trick in the 2022 FIFA World Cup knockout stage against Argentina.",
+    "category": "football",
+    "image": "images/football137.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? Romelu Lukaku has scored in four consecutive World Cup tournaments for Belgium.",
+    "category": "football",
+    "image": "images/football138.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Toni Kroos has completed over 9,000 passes in his career, ranking among the top passers in football history.",
+    "category": "football",
+    "image": "images/football139.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Paulo Dybala scored 10 free-kick goals for Juventus, a record in the club’s history.",
+    "category": "football",
+    "image": "images/football140.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? Sergio Busquets has made over 700 appearances for Barcelona, winning 8 La Liga titles.",
+    "category": "football",
+    "image": "images/football141.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Robert Lewandowski scored 13 goals in the 2020 UEFA Champions League group stage, leading all scorers.",
+    "category": "football",
+    "image": "images/football142.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? LeBron James scored 50 points in a single NBA Finals game against the Golden State Warriors.",
+    "category": "basketball",
+    "image": "images/basketball103.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Florence Griffith-Joyner still holds the women's 100m and 200m world records since 1988.",
+    "category": "athletics",
+    "image": "images/athletics103.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Anderson Silva holds the record for the longest title reign in UFC history at 2,457 days.",
+    "category": "combat",
+    "image": "images/combat103.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Roger Federer won 20 Grand Slam singles titles and held the world No.1 ranking for 310 weeks.",
+    "category": "tennis",
+    "image": "images/tennis103.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? Muttiah Muralitharan holds the record for most wickets in Test cricket with 800 wickets.",
+    "category": "cricket",
+    "image": "images/cricket103.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Shaun White has won 3 Olympic gold medals in snowboarding and multiple X Games golds.",
+    "category": "extreme",
+    "image": "images/extreme103.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? Proper hydration and electrolyte balance can significantly improve athletic performance.",
+    "category": "sports_science",
+    "image": "images/science103.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Jim Thorpe won Olympic gold in pentathlon and decathlon in 1912 and played multiple professional sports.",
+    "category": "sports_history",
+    "image": "images/history103.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? Chess boxing alternates between rounds of chess and boxing, testing mind and body.",
+    "category": "weird_sports",
+    "image": "images/weird103.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Lionel Messi has completed over 300 assists in his club career, showcasing his playmaking ability.",
+    "category": "football",
+    "image": "images/football143.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Cristiano Ronaldo has scored over 140 UEFA Champions League goals, the highest in history.",
+    "category": "football",
+    "image": "images/football144.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Neymar Jr. scored 17 goals in a single UEFA Champions League season for Barcelona.",
+    "category": "football",
+    "image": "images/football145.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? Robert Lewandowski has scored over 60 career hat-tricks in club football.",
+    "category": "football",
+    "image": "images/football146.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Kylian Mbappé scored 8 goals in the 2018 FIFA World Cup, winning the Best Young Player award.",
+    "category": "football",
+    "image": "images/football147.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? Sergio Ramos scored the winning penalty in the 2014 Champions League final for Real Madrid.",
+    "category": "football",
+    "image": "images/football148.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? Mohamed Salah scored 32 goals in the 2017–18 Premier League season, setting a Liverpool record.",
+    "category": "football",
+    "image": "images/football149.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Andrés Iniesta scored the only goal in the 2010 World Cup final for Spain against the Netherlands.",
+    "category": "football",
+    "image": "images/football150.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? Luka Modrić has won 4 Champions League titles with Real Madrid.",
+    "category": "football",
+    "image": "images/football151.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Virgil van Dijk is the fastest defender to reach 50 clean sheets in Premier League history.",
+    "category": "football",
+    "image": "images/football152.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Karim Benzema scored 44 goals across all competitions in the 2021–22 season for Real Madrid.",
+    "category": "football",
+    "image": "images/football153.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? James Harden scored 60 points in a single NBA game, one of the highest in modern basketball history.",
+    "category": "basketball",
+    "image": "images/basketball104.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Eliud Kipchoge ran 1:59:40 in the Ineos 1:59 Challenge, becoming the first person to run a sub-2-hour marathon (unofficial).",
+    "category": "athletics",
+    "image": "images/athletics104.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Amanda Nunes was the first woman to hold two UFC titles in different weight classes simultaneously.",
+    "category": "combat",
+    "image": "images/combat104.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Rafael Nadal has won 22 Grand Slam titles, including a record 14 French Open titles.",
+    "category": "tennis",
+    "image": "images/tennis104.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? Shane Warne has taken over 700 wickets in international cricket, known for his leg-spin mastery.",
+    "category": "cricket",
+    "image": "images/cricket104.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Kelly Slater won 11 world surfing championships, dominating extreme sports.",
+    "category": "extreme",
+    "image": "images/extreme104.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Altitude training improves oxygen delivery to muscles, enhancing endurance performance.",
+    "category": "sports_science",
+    "image": "images/science104.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? The modern Olympic Games were first held in Athens in 1896, reviving ancient traditions.",
+    "category": "sports_history",
+    "image": "images/history104.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Wife-carrying is a sport in Finland where participants carry their spouses over obstacles.",
+    "category": "weird_sports",
+    "image": "images/weird104.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Paulo Dybala has scored over 100 goals and is known for his dribbling and free kicks.",
+    "category": "football",
+    "image": "images/football154.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Heung-min Son scored 23 goals for Tottenham Hotspur in the 2020–21 Premier League season.",
+    "category": "football",
+    "image": "images/football155.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Thomas Müller has recorded 20+ assists in a single Bundesliga season multiple times.",
+    "category": "football",
+    "image": "images/football156.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? Jadon Sancho became the youngest English player to score 10 Bundesliga goals.",
+    "category": "football",
+    "image": "images/football157.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Paulo Dybala scored a hat-trick for Juventus against Torino in 2017.",
+    "category": "football",
+    "image": "images/football158.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Lionel Messi has won 7 Ballon d'Or awards, the most in history.",
+    "category": "football",
+    "image": "images/football159.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Cristiano Ronaldo has scored over 800 career goals for club and country.",
+    "category": "football",
+    "image": "images/football160.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Neymar Jr. has scored in every Ligue 1 season since joining PSG.",
+    "category": "football",
+    "image": "images/football161.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Robert Lewandowski won 8 Bundesliga titles with Bayern Munich.",
+    "category": "football",
+    "image": "images/football162.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Kylian Mbappé scored 5 goals in a single Ligue 1 match for PSG in 2022.",
+    "category": "football",
+    "image": "images/football163.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Manuel Neuer is considered one of the greatest goalkeepers of all time, with multiple Bundesliga and Champions League titles.",
+    "category": "football",
+    "image": "images/football164.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Erling Haaland scored 36 goals in his first Premier League season for Manchester City, setting a new record for a debut season.",
+    "category": "football",
+    "image": "images/football165.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Luka Modrić won the 2018 Ballon d'Or, breaking the decade-long Messi-Ronaldo dominance.",
+    "category": "football",
+    "image": "images/football166.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Sergio Agüero scored 184 goals for Manchester City, making him the club's all-time top scorer.",
+    "category": "football",
+    "image": "images/football167.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Gianluigi Buffon has played over 1,100 professional matches in his career, one of the highest for a goalkeeper.",
+    "category": "football",
+    "image": "images/football168.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Mohamed Salah has the record for most goals in a 38-game Premier League season with 32 goals.",
+    "category": "football",
+    "image": "images/football169.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Toni Kroos has won 4 UEFA Champions League titles with Real Madrid.",
+    "category": "football",
+    "image": "images/football170.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Kylian Mbappé became the youngest French player to score a hat-trick in Ligue 1.",
+    "category": "football",
+    "image": "images/football171.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Zlatan Ibrahimović has scored over 570 career goals for club and country.",
+    "category": "football",
+    "image": "images/football172.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Robert Lewandowski scored 41 Bundesliga goals in the 2020–21 season, breaking Gerd Müller's long-standing record.",
+    "category": "football",
+    "image": "images/football173.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Lionel Messi scored 5 goals in a single Champions League match for Barcelona against Bayer Leverkusen.",
+    "category": "football",
+    "image": "images/football174.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Giannis Antetokounmpo won consecutive NBA MVP awards in 2019 and 2020.",
+    "category": "basketball",
+    "image": "images/basketball105.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Usain Bolt won 8 Olympic gold medals during his sprinting career.",
+    "category": "athletics",
+    "image": "images/athletics105.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Ronda Rousey became the first American woman to earn an Olympic medal in judo and a UFC championship.",
+    "category": "combat",
+    "image": "images/combat105.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Novak Djokovic has won 23 Grand Slam singles titles, the most in men’s tennis history.",
+    "category": "tennis",
+    "image": "images/tennis105.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Virat Kohli has scored over 12,000 ODI runs, holding numerous batting records.",
+    "category": "cricket",
+    "image": "images/cricket105.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Travis Pastrana is known for landing the first double backflip in motocross competitions.",
+    "category": "extreme",
+    "image": "images/extreme105.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Proper strength training enhances explosive power and reduces injury risk for athletes.",
+    "category": "sports_science",
+    "image": "images/science105.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? The 1936 Berlin Olympics were notable for Jesse Owens winning 4 gold medals, challenging Nazi propaganda.",
+    "category": "sports_history",
+    "image": "images/history105.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Sepak Takraw is played with a rattan ball, using only feet, head, knees, and chest.",
+    "category": "weird_sports",
+    "image": "images/weird105.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Antoine Griezmann scored in two consecutive UEFA European Championship finals.",
+    "category": "football",
+    "image": "images/football175.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Cristiano Ronaldo became the first player to score 100 goals in UEFA club competitions.",
+    "category": "football",
+    "image": "images/football176.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Neymar Jr. has provided over 100 assists in Ligue 1 for PSG.",
+    "category": "football",
+    "image": "images/football177.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Robert Lewandowski has scored in 17 consecutive Bundesliga matches.",
+    "category": "football",
+    "image": "images/football178.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Sergio Ramos has won 5 UEFA Champions League titles with Real Madrid.",
+    "category": "football",
+    "image": "images/football179.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Lionel Messi scored 672 goals in 778 appearances for Barcelona.",
+    "category": "football",
+    "image": "images/football180.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Mohamed Salah has the record for most goals by an African player in a single Premier League season.",
+    "category": "football",
+    "image": "images/football181.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Kylian Mbappé won the Golden Boot at the 2022 FIFA World Cup for being the top scorer.",
+    "category": "football",
+    "image": "images/football182.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? Luka Modrić has been named UEFA Midfielder of the Year multiple times.",
+    "category": "football",
+    "image": "images/football183.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? Manuel Neuer has kept over 200 clean sheets in Bundesliga matches.",
+    "category": "football",
+    "image": "images/football184.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Erling Haaland scored 36 goals in his first 35 Premier League appearances for Manchester City.",
+    "category": "football",
+    "image": "images/football185.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Kevin Durant scored 55 points in a playoff game against the Golden State Warriors in 2021.",
+    "category": "basketball",
+    "image": "images/basketball106.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Hicham El Guerrouj holds the world record for the fastest mile run at 3:43.13.",
+    "category": "athletics",
+    "image": "images/athletics106.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Israel Adesanya is known for his striking accuracy and has defended his UFC Middleweight title multiple times.",
+    "category": "combat",
+    "image": "images/combat106.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Serena Williams has won 23 Grand Slam singles titles, the most in the Open Era.",
+    "category": "tennis",
+    "image": "images/tennis106.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Sachin Tendulkar scored 100 international centuries across Test and ODI formats.",
+    "category": "cricket",
+    "image": "images/cricket106.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? Tony Hawk landed the first 900-degree spin in skateboarding history in 1999.",
+    "category": "extreme",
+    "image": "images/extreme106.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? VO2 max is a measure of an athlete’s aerobic capacity and endurance potential.",
+    "category": "sports_science",
+    "image": "images/science106.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Florence Griffith-Joyner won three Olympic medals in the 1988 Seoul Olympics.",
+    "category": "sports_history",
+    "image": "images/history106.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Cheese rolling in Gloucestershire, England, involves chasing a wheel of cheese down a hill.",
+    "category": "weird_sports",
+    "image": "images/weird106.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? Romelu Lukaku scored 30+ goals in three consecutive Premier League seasons.",
+    "category": "football",
+    "image": "images/football186.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Neymar Jr. has over 70 international goals for Brazil, making him the top scorer for his generation.",
+    "category": "football",
+    "image": "images/football187.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Lionel Messi has won multiple Copa America titles with Argentina, including the 2021 victory.",
+    "category": "football",
+    "image": "images/football188.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Cristiano Ronaldo is the first player to score in every minute of a football match.",
+    "category": "football",
+    "image": "images/football189.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Kylian Mbappé became the first teenager since Pelé to score in a World Cup final.",
+    "category": "football",
+    "image": "images/football190.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Sergio Ramos has won 23 major trophies with Real Madrid, including 4 Champions League titles.",
+    "category": "football",
+    "image": "images/football191.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Robert Lewandowski scored 41 Bundesliga goals in the 2020–21 season, surpassing Gerd Müller's record.",
+    "category": "football",
+    "image": "images/football192.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Manuel Neuer has been named UEFA Goalkeeper of the Year multiple times.",
+    "category": "football",
+    "image": "images/football193.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? Lionel Messi has scored over 50 goals in a single calendar year, multiple times in his career.",
+    "category": "football",
+    "image": "images/football194.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Mohamed Salah scored the fastest Liverpool hat-trick in Premier League history within 6 minutes.",
+    "category": "football",
+    "image": "images/football195.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Kylian Mbappé has won multiple Ligue 1 Player of the Year awards before turning 25.",
+    "category": "football",
+    "image": "images/football196.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Lionel Messi has assisted over 300 goals in his career for Barcelona and PSG combined.",
+    "category": "football",
+    "image": "images/football197.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Cristiano Ronaldo is the first player to score in three different UEFA European Championship tournaments.",
+    "category": "football",
+    "image": "images/football198.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Erling Haaland scored 9 goals in his first 4 Champions League matches for Manchester City.",
+    "category": "football",
+    "image": "images/football199.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Neymar Jr. scored a bicycle kick goal in the 2011 Copa Libertadores final, considered one of the best in history.",
+    "category": "football",
+    "image": "images/football200.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Robert Lewandowski has scored more than 20 goals in every Bundesliga season since 2010–11.",
+    "category": "football",
+    "image": "images/football201.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Kylian Mbappé scored a hat-trick in the 2018 World Cup against Argentina in the Round of 16.",
+    "category": "football",
+    "image": "images/football202.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Manuel Neuer has played over 100 Champions League matches as goalkeeper for Bayern Munich.",
+    "category": "football",
+    "image": "images/football203.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Lionel Messi has won 7 Ballon d'Or awards, the most in football history.",
+    "category": "football",
+    "image": "images/football204.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Cristiano Ronaldo has scored over 100 international goals for Portugal, a record in Europe.",
+    "category": "football",
+    "image": "images/football205.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Mohamed Salah became the fastest Liverpool player to reach 50 Premier League goals.",
+    "category": "football",
+    "image": "images/football206.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Giannis Antetokounmpo won the NBA Finals MVP in 2021, leading the Milwaukee Bucks to a championship.",
+    "category": "basketball",
+    "image": "images/basketball107.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Usain Bolt has set 3 world records in 100m, 200m, and 4x100m relay during his career.",
+    "category": "athletics",
+    "image": "images/athletics107.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Ronda Rousey became the first UFC fighter to earn a million-dollar bonus for a single fight.",
+    "category": "combat",
+    "image": "images/combat107.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Serena Williams won 4 Olympic gold medals in doubles and singles combined.",
+    "category": "tennis",
+    "image": "images/tennis107.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Ricky Ponting scored 14050 runs in ODIs for Australia, including 30 centuries.",
+    "category": "cricket",
+    "image": "images/cricket107.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Travis Pastrana performed a frontflip on a motorbike in competition for the first time in 2006.",
+    "category": "extreme",
+    "image": "images/extreme107.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Proper nutrition improves recovery and performance in all professional athletes.",
+    "category": "sports_science",
+    "image": "images/science107.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? The first modern Olympic marathon was won by Spyridon Louis in 1896 Athens Olympics.",
+    "category": "sports_history",
+    "image": "images/history107.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Chess boxing is a sport combining rounds of chess with boxing in alternating rounds.",
+    "category": "weird_sports",
+    "image": "images/weird107.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Lionel Messi scored 50+ goals in a single calendar year more than once during his career.",
+    "category": "football",
+    "image": "images/football207.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Cristiano Ronaldo scored 40+ goals in multiple seasons for Real Madrid, dominating La Liga.",
+    "category": "football",
+    "image": "images/football208.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Neymar Jr. has won the Copa Libertadores, Ligue 1, and UEFA Champions League titles.",
+    "category": "football",
+    "image": "images/football209.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Robert Lewandowski scored 5 goals in 9 minutes for Bayern Munich in 2015.",
+    "category": "football",
+    "image": "images/football210.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Kylian Mbappé became the youngest player to score 30+ goals in a Ligue 1 season.",
+    "category": "football",
+    "image": "images/football211.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Manuel Neuer has won the IFFHS World's Best Goalkeeper award multiple times.",
+    "category": "football",
+    "image": "images/football212.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Lionel Messi has won multiple FIFA Club World Cups with Barcelona.",
+    "category": "football",
+    "image": "images/football213.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Cristiano Ronaldo became the all-time top scorer in UEFA European Championship history.",
+    "category": "football",
+    "image": "images/football214.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Mohamed Salah has scored over 150 goals for Liverpool in all competitions.",
+    "category": "football",
+    "image": "images/football215.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Erling Haaland became the fastest player to score 20 Premier League goals for Manchester City.",
+    "category": "football",
+    "image": "images/football216.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Neymar Jr. has scored in 12 consecutive Ligue 1 matches, a club record for PSG.",
+    "category": "football",
+    "image": "images/football217.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Kevin Durant scored 62 points in a single game for the Brooklyn Nets in 2021.",
+    "category": "basketball",
+    "image": "images/basketball108.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Hicham El Guerrouj is the only runner to hold both the 1500m and mile world records simultaneously.",
+    "category": "athletics",
+    "image": "images/athletics108.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Anderson Silva holds the record for the longest UFC winning streak at 16 fights.",
+    "category": "combat",
+    "image": "images/combat108.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Roger Federer has won 103 ATP singles titles during his tennis career.",
+    "category": "tennis",
+    "image": "images/tennis108.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Brian Lara scored 501 not out in a first-class cricket match, a world record.",
+    "category": "cricket",
+    "image": "images/cricket108.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Shaun White has won 3 Olympic golds in snowboarding and numerous X Games titles.",
+    "category": "extreme",
+    "image": "images/extreme108.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? A proper cool-down after exercise reduces lactic acid buildup and aids recovery.",
+    "category": "sports_science",
+    "image": "images/science108.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Jesse Owens won 4 gold medals in the 1936 Berlin Olympics, defying Hitler's propaganda.",
+    "category": "sports_history",
+    "image": "images/history108.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Wife-carrying competitions in Finland involve racing while carrying spouses over obstacles.",
+    "category": "weird_sports",
+    "image": "images/weird108.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Robert Lewandowski scored 50+ goals across all competitions in a single season for Bayern Munich.",
+    "category": "football",
+    "image": "images/football218.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Lionel Messi scored a hat-trick against Real Madrid in El Clásico multiple times.",
+    "category": "football",
+    "image": "images/football219.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Cristiano Ronaldo has won 5 UEFA Champions League titles with two different clubs.",
+    "category": "football",
+    "image": "images/football220.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Kylian Mbappé became the youngest player to score 4 goals in a Ligue 1 match.",
+    "category": "football",
+    "image": "images/football221.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Neymar Jr. scored a hat-trick in the 2021 Copa Libertadores, leading PSG to victory.",
+    "category": "football",
+    "image": "images/football222.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Mohamed Salah has scored in 10 consecutive UEFA Champions League matches.",
+    "category": "football",
+    "image": "images/football223.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Manuel Neuer saved a record 16 penalties in Bundesliga history.",
+    "category": "football",
+    "image": "images/football224.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Lionel Messi has scored 30+ goals in La Liga for 10 consecutive seasons.",
+    "category": "football",
+    "image": "images/football225.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Erling Haaland scored 7 goals in his first 3 UEFA Champions League matches for Dortmund.",
+    "category": "football",
+    "image": "images/football226.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Robert Lewandowski is the fastest player to reach 100 Bundesliga goals in history.",
+    "category": "football",
+    "image": "images/football227.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Cristiano Ronaldo has scored in 10 consecutive UEFA Champions League seasons.",
+    "category": "football",
+    "image": "images/football228.jpg"
+  }
+]

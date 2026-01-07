@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? In 1978, a town in Norway hired a 'professional sleeper' to improve public health.",
+    "category": "Bizarre History",
+    "image": "images/professional_sleeper.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Wombat poop is cube-shaped.",
+    "category": "Weird Nature",
+    "image": "images/wombat.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Honey never spoils; archaeologists have found 3000-year-old pots that are still edible.",
+    "category": "Strange Science",
+    "image": "images/honey.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Bananas are berries, but strawberries are not.",
+    "category": "Weird Nature",
+    "image": "images/banana.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? There is a museum in Sweden dedicated entirely to failures.",
+    "category": "Human Quirks",
+    "image": "images/museum_of_failures.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? The longest hiccuping spree lasted 68 years.",
+    "category": "Odd Records",
+    "image": "images/hiccups.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? In medieval Europe, people believed bathing too often was dangerous for health.",
+    "category": "Bizarre History",
+    "image": "images/medieval_bathing.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Sloths can hold their breath longer than dolphins, up to 40 minutes.",
+    "category": "Weird Nature",
+    "image": "images/sloth.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? A group of flamingos is called a 'flamboyance'.",
+    "category": "Weird Nature",
+    "image": "images/flamingos.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? In Japan, there are square watermelons grown for easier stacking in refrigerators.",
+    "category": "Strange Science",
+    "image": "images/square_watermelon.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? A man once survived being struck by lightning seven times.",
+    "category": "Odd Records",
+    "image": "images/lightning_survivor.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
+    "category": "Strange Science",
+    "image": "images/eiffel_tower.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Ancient Romans used powdered mouse brains as toothpaste.",
+    "category": "Bizarre History",
+    "image": "images/roman_toothpaste.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Sea otters hold hands while sleeping to keep from drifting apart.",
+    "category": "Weird Nature",
+    "image": "images/otters.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? The inventor of the Pringles can is buried in one.",
+    "category": "Human Quirks",
+    "image": "images/pringles_can.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? A day on Venus is longer than a year on Venus.",
+    "category": "Strange Science",
+    "image": "images/venus.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? Some cats are allergic to humans.",
+    "category": "Weird Nature",
+    "image": "images/cat_allergy.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? In 1518, there was a dancing plague in Strasbourg where hundreds danced uncontrollably.",
+    "category": "Bizarre History",
+    "image": "images/dancing_plague.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? The shortest war in history lasted just 38 minutes between Britain and Zanzibar.",
+    "category": "Odd Records",
+    "image": "images/shortest_war.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Cows have best friends and get stressed when separated.",
+    "category": "Weird Nature",
+    "image": "images/cows.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? There is a species of jellyfish that is biologically immortal.",
+    "category": "Weird Nature",
+    "image": "images/immortal_jellyfish.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Ancient Egyptians shaved off their eyebrows to mourn cats.",
+    "category": "Bizarre History",
+    "image": "images/egypt_eyebrows.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Humans share about 60% of their DNA with bananas.",
+    "category": "Strange Science",
+    "image": "images/dna_banana.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? A newborn kangaroo is the size of a jellybean.",
+    "category": "Weird Nature",
+    "image": "images/kangaroo.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? The Guinness World Record for the largest bubblegum bubble is 20 inches in diameter.",
+    "category": "Odd Records",
+    "image": "images/bubblegum.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? In 18th century Europe, people believed tomatoes were poisonous.",
+    "category": "Bizarre History",
+    "image": "images/tomatoes.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Pigeons can recognize human faces and remember them for years.",
+    "category": "Weird Nature",
+    "image": "images/pigeon.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? A woman in 19th century France survived two lightning strikes in the same day.",
+    "category": "Odd Records",
+    "image": "images/lightning_woman.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? There is a library in Japan where you can rent cats along with books.",
+    "category": "Human Quirks",
+    "image": "images/cat_library.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? In 1950s, a town in Iceland outlawed wearing hats in church.",
+    "category": "Bizarre History",
+    "image": "images/hat_law.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Sharks existed before trees.",
+    "category": "Strange Science",
+    "image": "images/sharks.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Sea cucumbers can eject their internal organs to escape predators.",
+    "category": "Weird Nature",
+    "image": "images/sea_cucumber.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? The largest snowflake ever recorded was 15 inches wide.",
+    "category": "Odd Records",
+    "image": "images/snowflake.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? In ancient Rome, urine was used as mouthwash because of its ammonia content.",
+    "category": "Bizarre History",
+    "image": "images/roman_urine.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Sloths can rotate their heads almost 360 degrees.",
+    "category": "Weird Nature",
+    "image": "images/sloth_head.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? A cockroach can live for weeks without its head.",
+    "category": "Weird Nature",
+    "image": "images/cockroach.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? The largest omelette ever made used over 145,000 eggs.",
+    "category": "Odd Records",
+    "image": "images/giant_omelette.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? In medieval England, animals could be put on trial for crimes.",
+    "category": "Bizarre History",
+    "image": "images/animal_trial.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Humans are bioluminescent, but our light is too weak for the human eye to see.",
+    "category": "Strange Science",
+    "image": "images/bioluminescent.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Octopuses have three hearts and blue blood.",
+    "category": "Weird Nature",
+    "image": "images/octopus.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? The fastest time to peel and eat three bananas is under 30 seconds.",
+    "category": "Odd Records",
+    "image": "images/banana_speed.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? In 17th century France, it was fashionable for men to wear high heels.",
+    "category": "Bizarre History",
+    "image": "images/french_heels.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Koalas have fingerprints almost identical to humans.",
+    "category": "Weird Nature",
+    "image": "images/koala.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? A man once survived a fall from 10,160 meters without a parachute.",
+    "category": "Odd Records",
+    "image": "images/fall_survivor.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? There is a town in Alaska where it is illegal to whisper in someone’s ear while they are moose hunting.",
+    "category": "Bizarre History",
+    "image": "images/alaska_whisper.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? There is a species of fungus that turns ants into 'zombies' and controls their behavior.",
+    "category": "Weird Nature",
+    "image": "images/zombie_ant.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? The longest time anyone has gone without sleep is 11 days.",
+    "category": "Odd Records",
+    "image": "images/sleep_record.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? In the 18th century, pineapples were rented out as a symbol of wealth at parties.",
+    "category": "Bizarre History",
+    "image": "images/pineapple_party.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Humans can distinguish over 10 million different colors.",
+    "category": "Strange Science",
+    "image": "images/colors.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? A group of crows is called a 'murder'.",
+    "category": "Weird Nature",
+    "image": "images/crows.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? In 16th century England, people would hire 'professional mourners' to cry at funerals.",
+    "category": "Bizarre History",
+    "image": "images/professional_mourners.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? The heart of a blue whale is so large that a human can fit through its arteries.",
+    "category": "Weird Nature",
+    "image": "images/blue_whale_heart.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? There is a species of spider that can survive underwater for up to 24 hours by trapping air bubbles.",
+    "category": "Weird Nature",
+    "image": "images/water_spider.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? In 18th century France, people would eat powdered gold as a luxury food.",
+    "category": "Bizarre History",
+    "image": "images/powdered_gold.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? A shrimp’s heart is located in its head.",
+    "category": "Weird Nature",
+    "image": "images/shrimp_head.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? The world’s largest rubber band ball weighs over 9,000 pounds.",
+    "category": "Odd Records",
+    "image": "images/rubber_band_ball.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Some people can hear their eyeballs move.",
+    "category": "Human Quirks",
+    "image": "images/hear_eyeballs.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? The shortest commercial flight in the world lasts less than 2 minutes.",
+    "category": "Odd Records",
+    "image": "images/shortest_flight.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? In ancient China, people used to write letters on silk instead of paper.",
+    "category": "Bizarre History",
+    "image": "images/silk_letters.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Some turtles can breathe through their butts.",
+    "category": "Weird Nature",
+    "image": "images/turtle_breath.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? The world’s largest ice cream cone was over 9 feet tall.",
+    "category": "Odd Records",
+    "image": "images/giant_ice_cream.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? There was a practice called 'foot binding' in China where girls’ feet were tightly bound to keep them small.",
+    "category": "Bizarre History",
+    "image": "images/foot_binding.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Starfish can regrow their entire body from just one arm.",
+    "category": "Weird Nature",
+    "image": "images/starfish.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? The world’s longest fingernails measured over 28 feet in total.",
+    "category": "Odd Records",
+    "image": "images/long_fingernails.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? The inventor of the chocolate chip cookie sold the recipe to Nestlé for $1.",
+    "category": "Human Quirks",
+    "image": "images/chocolate_chip_cookie.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? In 14th century Europe, animals were sometimes put on trial and even executed for crimes.",
+    "category": "Bizarre History",
+    "image": "images/animal_trial2.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Some frogs can survive being frozen solid and come back to life when thawed.",
+    "category": "Weird Nature",
+    "image": "images/frozen_frog.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? The fastest marathon ever run in a full costume was under 3 hours.",
+    "category": "Odd Records",
+    "image": "images/costume_marathon.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? There are over 2,000 different species of cacti in the world.",
+    "category": "Weird Nature",
+    "image": "images/cactus.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Some people have supernumerary nipples, meaning more than two nipples on their body.",
+    "category": "Human Quirks",
+    "image": "images/multiple_nipples.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? The world’s largest rubber duck weighed over 11 tons.",
+    "category": "Odd Records",
+    "image": "images/giant_rubber_duck.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? In medieval Japan, samurai would practice writing poetry with their swords.",
+    "category": "Bizarre History",
+    "image": "images/samurai_poetry.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Some species of ants can form living bridges with their bodies.",
+    "category": "Weird Nature",
+    "image": "images/ant_bridge.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? The longest recorded hiccup lasted 68 years.",
+    "category": "Odd Records",
+    "image": "images/long_hiccup.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? People once believed tomatoes could cause leprosy in Europe.",
+    "category": "Bizarre History",
+    "image": "images/tomato_leprosy.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Platypuses are one of the few mammals that lay eggs.",
+    "category": "Weird Nature",
+    "image": "images/platypus.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? The world’s largest rubber band ball was over 9,000 pounds.",
+    "category": "Odd Records",
+    "image": "images/rubber_band_ball2.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? In Victorian England, photography studios offered post-mortem photos of the dead as mementos.",
+    "category": "Bizarre History",
+    "image": "images/post_mortem_photo.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Some people can voluntarily make their hearts beat slower than normal.",
+    "category": "Human Quirks",
+    "image": "images/slow_heart.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? There is a jellyfish that can revert to its juvenile form, making it potentially immortal.",
+    "category": "Weird Nature",
+    "image": "images/immortal_jellyfish2.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? In the 1600s, tulip bulbs were more valuable than gold in the Netherlands.",
+    "category": "Bizarre History",
+    "image": "images/tulip_mania.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? The world’s heaviest onion weighed over 18 kg.",
+    "category": "Odd Records",
+    "image": "images/heavy_onion.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Some people can touch their nose with their tongue, a rare genetic trait.",
+    "category": "Human Quirks",
+    "image": "images/tongue_nose.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? In 18th century Russia, beards were taxed.",
+    "category": "Bizarre History",
+    "image": "images/beard_tax.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? There is a species of fungus that makes ants climb to the top of leaves before dying.",
+    "category": "Weird Nature",
+    "image": "images/fungus_ant.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? The world’s longest pizza measured over 1.8 kilometers.",
+    "category": "Odd Records",
+    "image": "images/long_pizza.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? In medieval Europe, people sometimes ate crushed pearls as medicine.",
+    "category": "Bizarre History",
+    "image": "images/crushed_pearls.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Dolphins have names for each other and can call out to specific individuals.",
+    "category": "Weird Nature",
+    "image": "images/dolphins.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The world’s fastest time to eat a raw onion is under 30 seconds.",
+    "category": "Odd Records",
+    "image": "images/onion_eating.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? In ancient Egypt, servants were smeared with honey to attract flies away from royalty.",
+    "category": "Bizarre History",
+    "image": "images/egypt_honey.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? Some birds can sleep while flying for months at a time.",
+    "category": "Weird Nature",
+    "image": "images/flying_bird.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The largest bubblegum bubble ever blown was over 20 inches wide.",
+    "category": "Odd Records",
+    "image": "images/bubblegum_bubble.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Some people are born with heterochromia, having two different colored eyes.",
+    "category": "Human Quirks",
+    "image": "images/heterochromia.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? There is a volcano in Indonesia that erupts blue flames due to burning sulfur.",
+    "category": "Weird Nature",
+    "image": "images/blue_volcano.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? The world’s largest collection of rubber ducks has over 9,000 unique ducks.",
+    "category": "Odd Records",
+    "image": "images/rubber_ducks_collection.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? In medieval Europe, animal trials were so common that pigs and goats were regularly sentenced to death.",
+    "category": "Bizarre History",
+    "image": "images/animal_trial3.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Some people can wiggle their ears independently, a rare human ability.",
+    "category": "Human Quirks",
+    "image": "images/wiggle_ears.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Sea slugs can recycle the chloroplasts from algae they eat to make energy.",
+    "category": "Weird Nature",
+    "image": "images/sea_slug.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The world’s largest collection of toy cars contains over 10,000 items.",
+    "category": "Odd Records",
+    "image": "images/toy_cars_collection.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? In Victorian times, people sometimes took photos with the recently deceased as keepsakes.",
+    "category": "Bizarre History",
+    "image": "images/post_mortem_photo2.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? There’s a species of mushroom that glows in the dark, known as 'foxfire'.",
+    "category": "Weird Nature",
+    "image": "images/foxfire_mushroom.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? In the 19th century, dentures were sometimes made from the teeth of dead soldiers.",
+    "category": "Bizarre History",
+    "image": "images/dentures.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? The world’s largest bubble bath used over 10,000 liters of bubble solution.",
+    "category": "Odd Records",
+    "image": "images/big_bubble_bath.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Some people are born with an extra rib, called a cervical rib.",
+    "category": "Human Quirks",
+    "image": "images/extra_rib.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? In 17th century Europe, tulips were so valuable that one bulb could cost more than a house.",
+    "category": "Bizarre History",
+    "image": "images/tulip_mania2.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? There’s a species of fish called the 'walking fish' that can crawl on land for short distances.",
+    "category": "Weird Nature",
+    "image": "images/walking_fish.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? The world’s fastest time to drink a liter of ketchup is under 50 seconds.",
+    "category": "Odd Records",
+    "image": "images/ketchup_record.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? In Victorian times, people used to take 'mourning photos' with their dead relatives.",
+    "category": "Bizarre History",
+    "image": "images/mourning_photo.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? The heart of a shrimp is located in its head.",
+    "category": "Weird Nature",
+    "image": "images/shrimp_head2.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Some humans can remember every detail of every day of their lives, a rare condition called hyperthymesia.",
+    "category": "Human Quirks",
+    "image": "images/hyperthymesia.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? The longest time anyone has survived without food is 382 days under medical supervision.",
+    "category": "Odd Records",
+    "image": "images/fasting_record.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? In ancient China, concubines were sometimes required to wear gold masks while sleeping to preserve their beauty.",
+    "category": "Bizarre History",
+    "image": "images/gold_mask.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? There is a jellyfish that can revert to its juvenile form, making it biologically immortal.",
+    "category": "Weird Nature",
+    "image": "images/immortal_jellyfish3.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? The world’s largest collection of rubber ducks includes over 9,000 different ducks.",
+    "category": "Odd Records",
+    "image": "images/rubber_ducks_collection2.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Some people can roll their eyes in opposite directions independently.",
+    "category": "Human Quirks",
+    "image": "images/eye_roll.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? In 18th century Europe, people believed tomatoes caused madness and avoided eating them.",
+    "category": "Bizarre History",
+    "image": "images/tomato_madness.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? Sea otters hold hands while sleeping so they don’t drift apart.",
+    "category": "Weird Nature",
+    "image": "images/otters_holding_hands.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? The world’s largest collection of comic books contains over 500,000 items.",
+    "category": "Odd Records",
+    "image": "images/comic_book_collection.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Some people have a genetic condition called 'tetrachromacy', which allows them to see up to 100 million more colors than normal.",
+    "category": "Human Quirks",
+    "image": "images/tetrachromacy.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? In the 17th century, Europeans would sometimes eat mummies as medicine.",
+    "category": "Bizarre History",
+    "image": "images/eat_mummies.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? There are plants that can 'eat' small insects, like the Venus flytrap.",
+    "category": "Weird Nature",
+    "image": "images/venus_flytrap.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? The world’s longest recorded jump by a cat is over 7 meters.",
+    "category": "Odd Records",
+    "image": "images/cat_jump.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Some humans can wiggle their ears independently.",
+    "category": "Human Quirks",
+    "image": "images/wiggle_ears2.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? In medieval times, people believed that drinking crushed emerald powder could cure illnesses.",
+    "category": "Bizarre History",
+    "image": "images/emerald_powder.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Some frogs can survive being frozen for months and revive in spring.",
+    "category": "Weird Nature",
+    "image": "images/frozen_frog2.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? The world’s longest time spinning a basketball on a toothbrush is over 4 minutes.",
+    "category": "Odd Records",
+    "image": "images/basketball_toothbrush.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Some people can rotate one eye independently of the other, a rare genetic quirk.",
+    "category": "Human Quirks",
+    "image": "images/independent_eye.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? In 18th century England, people sometimes kept mummies as decorative furniture.",
+    "category": "Bizarre History",
+    "image": "images/mummy_furniture.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? The pistol shrimp can snap its claw so fast it creates a bubble that stuns prey with a shockwave.",
+    "category": "Weird Nature",
+    "image": "images/pistol_shrimp.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? The world’s largest bubble wrap popping event involved over 1,000 participants.",
+    "category": "Odd Records",
+    "image": "images/bubble_wrap_event.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? There are people who can taste words, a condition called 'lexical gustatory synesthesia'.",
+    "category": "Human Quirks",
+    "image": "images/taste_words.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? In 16th century Italy, people would hold 'egg fights' to celebrate festivals.",
+    "category": "Random Curiosities",
+    "image": "images/egg_fight.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? There is a species of ant that enslaves other ants to work for its colony.",
+    "category": "Weird Nature",
+    "image": "images/enslaving_ant.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? The world’s largest yo-yo weighed over 700 pounds.",
+    "category": "Odd Records",
+    "image": "images/giant_yo_yo.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Some people can hear colors and see sounds, a condition called synesthesia.",
+    "category": "Human Quirks",
+    "image": "images/synesthesia.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? In medieval Europe, people would sometimes pay to watch public executions as entertainment.",
+    "category": "Bizarre History",
+    "image": "images/public_execution.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? There is a species of bird that can mimic chainsaws and car alarms.",
+    "category": "Weird Nature",
+    "image": "images/mimic_bird.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? The world’s largest pancake measured over 49 feet in diameter.",
+    "category": "Odd Records",
+    "image": "images/giant_pancake.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Some humans can sleep with one half of their brain at a time.",
+    "category": "Human Quirks",
+    "image": "images/half_brain_sleep.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? In the 18th century, wealthy Europeans sometimes ate dinner on silver plates to show off their status.",
+    "category": "Random Curiosities",
+    "image": "images/silver_dinner.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? The axolotl can regrow not only limbs but also parts of its brain and spinal cord.",
+    "category": "Weird Nature",
+    "image": "images/axolotl.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? The longest fingernails ever recorded on a pair of hands were over 28 feet in total.",
+    "category": "Odd Records",
+    "image": "images/long_nails2.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Some people have an extra set of teeth called 'supernumerary teeth'.",
+    "category": "Human Quirks",
+    "image": "images/extra_teeth.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? In the 19th century, it was common for people to photograph their pets post-mortem as keepsakes.",
+    "category": "Bizarre History",
+    "image": "images/pet_post_mortem.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? The immortal jellyfish can potentially live forever by reverting to its juvenile stage repeatedly.",
+    "category": "Weird Nature",
+    "image": "images/immortal_jellyfish4.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? The world’s largest collection of barbed wire contains over 3,000 pieces.",
+    "category": "Odd Records",
+    "image": "images/barbed_wire_collection.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Some humans can curl their tongues into shapes like a cloverleaf or tube.",
+    "category": "Human Quirks",
+    "image": "images/tongue_shapes.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? In medieval Europe, people believed that wearing amulets could prevent plagues.",
+    "category": "Bizarre History",
+    "image": "images/amulet_plague.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? The bombardier beetle can spray boiling chemicals from its abdomen to deter predators.",
+    "category": "Weird Nature",
+    "image": "images/bombardier_beetle.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? The world’s largest rubber duck collection has over 9,000 individual ducks.",
+    "category": "Odd Records",
+    "image": "images/rubber_ducks_collection3.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? There is a species of fungus that can control ants, making them climb high before dying.",
+    "category": "Weird Nature",
+    "image": "images/fungus_ant2.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? In the 19th century, people used arsenic as a beauty treatment to make skin paler.",
+    "category": "Bizarre History",
+    "image": "images/arsenic_beauty.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? The world’s largest collection of sand art contains over 1,500 pieces.",
+    "category": "Odd Records",
+    "image": "images/sand_art_collection.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Some people can voluntarily make themselves sneeze on command.",
+    "category": "Human Quirks",
+    "image": "images/sneeze_on_command.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? In medieval Europe, people believed that eating a roasted mummy could cure illness.",
+    "category": "Bizarre History",
+    "image": "images/medieval_mummy_food.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? The axolotl can regrow not only limbs but also parts of its brain.",
+    "category": "Weird Nature",
+    "image": "images/axolotl2.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? The world’s longest hot dog measured over 200 meters.",
+    "category": "Odd Records",
+    "image": "images/long_hotdog.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Some humans can see ultraviolet light due to a rare lens mutation.",
+    "category": "Human Quirks",
+    "image": "images/uv_vision.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? In the 18th century, Europeans sometimes used powdered mummies as medicine.",
+    "category": "Bizarre History",
+    "image": "images/powdered_mummy.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? There is a species of lizard that can squirt blood from its eyes to deter predators.",
+    "category": "Weird Nature",
+    "image": "images/lizard_blood.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? The world’s largest paper airplane flew over 69 meters in distance.",
+    "category": "Odd Records",
+    "image": "images/paper_airplane_record.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Some people have a condition called 'mirror-touch synesthesia' where they feel what others feel.",
+    "category": "Human Quirks",
+    "image": "images/mirror_touch.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? In medieval Europe, people would sometimes execute animals for crimes.",
+    "category": "Bizarre History",
+    "image": "images/animal_trial4.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Some species of worms can survive being decapitated and regrow their heads.",
+    "category": "Weird Nature",
+    "image": "images/worm_regrow.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? The world’s fastest time to assemble a Mr. Potato Head toy is under 10 seconds.",
+    "category": "Odd Records",
+    "image": "images/mr_potato_head_record.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Some humans can perceive tastes on their skin, a rare condition called 'dermatogustation'.",
+    "category": "Human Quirks",
+    "image": "images/skin_taste.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? In ancient Rome, urine was used as a cleaning agent for laundry.",
+    "category": "Bizarre History",
+    "image": "images/roman_urine_laundry.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Sea cucumbers can eject their internal organs to escape predators and regrow them later.",
+    "category": "Weird Nature",
+    "image": "images/sea_cucumber.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? The world’s largest collection of rubber bands used in art contains over 100,000 bands.",
+    "category": "Odd Records",
+    "image": "images/rubber_band_art.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Some humans can sense earthquakes before they happen through subtle changes in the environment.",
+    "category": "Human Quirks",
+    "image": "images/earthquake_sense.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? In medieval Europe, people sometimes used powdered human skulls as medicine.",
+    "category": "Bizarre History",
+    "image": "images/powdered_skull.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? There is a species of fish that can climb waterfalls using its fins and mouth.",
+    "category": "Weird Nature",
+    "image": "images/waterfall_fish.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? The world’s largest collection of sneakers has over 15,000 pairs.",
+    "category": "Odd Records",
+    "image": "images/sneaker_collection.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Some people can perceive their own heartbeat in unusual ways, even when it’s irregular.",
+    "category": "Human Quirks",
+    "image": "images/perceive_heartbeat.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? In 16th century Europe, people believed that carrying a dried toad could protect them from witches.",
+    "category": "Bizarre History",
+    "image": "images/dried_toad.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? The mantis shrimp has the fastest punch in the animal kingdom, capable of breaking glass.",
+    "category": "Weird Nature",
+    "image": "images/mantis_shrimp.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? The world’s largest rubber stamp collection contains over 2,000 unique stamps.",
+    "category": "Odd Records",
+    "image": "images/rubber_stamp_collection.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? Some humans can control one side of their nose independently to influence airflow.",
+    "category": "Human Quirks",
+    "image": "images/nose_control.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? In medieval Japan, people used to celebrate the dead by placing dolls in coffins with them.",
+    "category": "Bizarre History",
+    "image": "images/japan_dolls_dead.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? There is a species of fungus that emits light at night, called 'bioluminescent fungus'.",
+    "category": "Weird Nature",
+    "image": "images/bioluminescent_fungus.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? The world’s longest time spinning a basketball on a finger is over 24 hours.",
+    "category": "Odd Records",
+    "image": "images/basketball_spin_record.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Some humans can produce sounds with their throat that mimic musical instruments.",
+    "category": "Human Quirks",
+    "image": "images/throat_music.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? In the 17th century, people believed that bathing could cause illness, so they avoided it.",
+    "category": "Bizarre History",
+    "image": "images/no_bathing.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Some plants can communicate with each other through chemical signals when attacked by insects.",
+    "category": "Weird Nature",
+    "image": "images/plant_communication.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The world’s largest collection of action figures contains over 50,000 figures.",
+    "category": "Odd Records",
+    "image": "images/action_figures_collection.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Some people can remember every smell they’ve ever experienced.",
+    "category": "Human Quirks",
+    "image": "images/super_smell_memory.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? In medieval Europe, people sometimes used powdered mouse brains as a remedy for headaches.",
+    "category": "Bizarre History",
+    "image": "images/mouse_brain_remedy.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? There are worms that can survive being cut into hundreds of pieces and regrow fully.",
+    "category": "Weird Nature",
+    "image": "images/worm_regrow2.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? The world’s longest domino chain used over 4 million dominoes.",
+    "category": "Odd Records",
+    "image": "images/domino_chain.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Some humans can tickle themselves by using visual feedback to trick the brain.",
+    "category": "Human Quirks",
+    "image": "images/self_tickling.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? In ancient Rome, urine was taxed because it was used for tanning leather and cleaning.",
+    "category": "Bizarre History",
+    "image": "images/urine_tax.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Some sharks can detect electrical fields generated by other animals.",
+    "category": "Weird Nature",
+    "image": "images/shark_electrical.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? The world’s largest collection of bottle caps includes over 250,000 caps.",
+    "category": "Odd Records",
+    "image": "images/bottle_caps_collection.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Some humans can speak backwards fluently, a rare and unusual skill.",
+    "category": "Human Quirks",
+    "image": "images/speak_backwards.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? In Victorian times, some people kept kittens in boxes to learn fortune-telling from their behavior.",
+    "category": "Random Curiosities",
+    "image": "images/fortune_kittens.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? There is a fish that can survive out of water for several hours by breathing through its skin.",
+    "category": "Weird Nature",
+    "image": "images/fish_breathe_skin.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? The world’s longest time spinning a pen on a finger is over 2 hours.",
+    "category": "Odd Records",
+    "image": "images/pen_spin_record.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Some humans can distinguish thousands of musical notes perfectly without training, a form of perfect pitch.",
+    "category": "Human Quirks",
+    "image": "images/perfect_pitch.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? In the 19th century, there were 'phantom armies' parades where empty uniforms were displayed for military training.",
+    "category": "Bizarre History",
+    "image": "images/phantom_army.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Some people can solve complex math problems in their head in seconds without paper.",
+    "category": "Random Curiosities",
+    "image": "images/mental_math.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Some people can rotate their thumbs 360 degrees in a full circle due to hypermobility.",
+    "category": "Human Quirks",
+    "image": "images/thumb_rotate.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? The world’s largest pizza weighed over 26,000 pounds.",
+    "category": "Odd Records",
+    "image": "images/giant_pizza.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? In medieval Europe, people believed that eating ground mummies could cure various diseases.",
+    "category": "Bizarre History",
+    "image": "images/mummy_medicine2.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? There’s a species of plant, the 'sensitive mimosa', that folds its leaves when touched.",
+    "category": "Weird Nature",
+    "image": "images/mimosa_plant.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Some humans can hear their own heartbeat in complete silence without any external devices.",
+    "category": "Human Quirks",
+    "image": "images/heartbeat_silence.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? The world’s largest collection of teapots contains over 5,000 unique pieces.",
+    "category": "Odd Records",
+    "image": "images/teapot_collection.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? In Victorian England, people sometimes posed with fake friends in photographs to appear more popular.",
+    "category": "Random Curiosities",
+    "image": "images/fake_friends_victoria.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Some species of birds can sleep while flying during long migrations.",
+    "category": "Weird Nature",
+    "image": "images/bird_sleep_flight.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? The world’s largest collection of postcards has over 1.5 million cards.",
+    "category": "Odd Records",
+    "image": "images/postcard_collection.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Some humans can distinguish subtle temperature differences of less than 0.01°C with their skin.",
+    "category": "Human Quirks",
+    "image": "images/temperature_sense.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? In the 16th century, people believed that eating powdered mummy could treat epilepsy.",
+    "category": "Bizarre History",
+    "image": "images/mummy_powder_epilepsy.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? The tardigrade, or water bear, can survive in outer space and extreme radiation.",
+    "category": "Weird Nature",
+    "image": "images/tardigrade_space.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? The world’s largest rubber band ball weighs over 9,000 pounds.",
+    "category": "Odd Records",
+    "image": "images/giant_rubber_band_ball.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Some humans can hiccup for years continuously due to rare medical conditions.",
+    "category": "Human Quirks",
+    "image": "images/chronic_hiccup.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? In medieval Europe, pigs were sometimes punished in court for crimes they committed.",
+    "category": "Bizarre History",
+    "image": "images/pig_trial2.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Some species of frogs can survive being frozen solid and thaw in spring unharmed.",
+    "category": "Weird Nature",
+    "image": "images/frozen_frog3.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? The world’s longest fingernails on a single hand measured over 28 feet.",
+    "category": "Odd Records",
+    "image": "images/long_nails3.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Some humans can smell fear in others due to pheromones released by the body.",
+    "category": "Human Quirks",
+    "image": "images/smell_fear.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? In Victorian times, hair was sometimes used to create mourning jewelry.",
+    "category": "Bizarre History",
+    "image": "images/mourning_jewelry.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? There is a type of fungus that can zombify ants, controlling their behavior before killing them.",
+    "category": "Weird Nature",
+    "image": "images/zombie_ant_fungus.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? The world’s largest collection of yo-yos includes over 10,000 items.",
+    "category": "Odd Records",
+    "image": "images/yo_yo_collection2.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Some humans can remember every song they’ve ever heard with perfect accuracy.",
+    "category": "Human Quirks",
+    "image": "images/musical_memory.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? In the 18th century, people believed powdered pearls could cure mental illness.",
+    "category": "Bizarre History",
+    "image": "images/powdered_pearls.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Some species of spiders can survive underwater for up to 30 minutes by trapping air bubbles.",
+    "category": "Weird Nature",
+    "image": "images/spider_air_bubble.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? The world’s largest collection of Barbie dolls exceeds 15,000 dolls.",
+    "category": "Odd Records",
+    "image": "images/barbie_collection.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Some humans can voluntarily raise one eyebrow while keeping the other down for long periods.",
+    "category": "Human Quirks",
+    "image": "images/eyebrow_raise.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? In medieval Europe, people would sometimes consult dead animals for advice in legal matters.",
+    "category": "Bizarre History",
+    "image": "images/dead_animal_court.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? There are plants that can move rapidly to trap insects in milliseconds.",
+    "category": "Weird Nature",
+    "image": "images/rapid_plant_trap.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The world’s largest collection of comic book superhero figurines has over 12,000 pieces.",
+    "category": "Odd Records",
+    "image": "images/superhero_figures.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Some humans can detect magnetic fields due to iron particles in their brains.",
+    "category": "Human Quirks",
+    "image": "images/magnetic_sense.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? In 19th century Europe, people used to take photographs of imaginary friends to display alongside portraits.",
+    "category": "Random Curiosities",
+    "image": "images/imaginary_friend_photo.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? There’s a species of octopus that can mimic the shape and color of rocks, seaweed, and even other animals.",
+    "category": "Weird Nature",
+    "image": "images/mimic_octopus.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? The world’s largest yo-yo spin on a finger lasted over 3 hours.",
+    "category": "Odd Records",
+    "image": "images/yo_yo_spin_record.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Some humans can produce musical tones by cracking their joints in rhythm.",
+    "category": "Human Quirks",
+    "image": "images/joint_music.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? In medieval Europe, criminals were sometimes branded with hot irons as punishment.",
+    "category": "Bizarre History",
+    "image": "images/branding_punishment.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The axolotl can regrow not just limbs but also its spinal cord and parts of its brain.",
+    "category": "Weird Nature",
+    "image": "images/axolotl3.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? The world’s largest collection of miniature books has over 5,000 tiny books.",
+    "category": "Odd Records",
+    "image": "images/miniature_books.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Some humans can sense subtle changes in air pressure and predict weather changes.",
+    "category": "Human Quirks",
+    "image": "images/air_pressure_sense.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? In the 17th century, people sometimes drank mercury believing it would improve health.",
+    "category": "Bizarre History",
+    "image": "images/mercury_drink.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? There is a species of shrimp that can punch its prey with such force it stuns them instantly.",
+    "category": "Weird Nature",
+    "image": "images/shrimp_punch.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? The world’s largest Lego tower reached over 114 feet in height.",
+    "category": "Odd Records",
+    "image": "images/lego_tower.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Some humans can consciously control their dreams, a phenomenon called lucid dreaming.",
+    "category": "Human Quirks",
+    "image": "images/lucid_dream.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? In medieval Europe, people would sometimes burn animal effigies to celebrate festivals.",
+    "category": "Random Curiosities",
+    "image": "images/animal_effigy_burn.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Some plants can 'remember' past injuries and react faster to future threats.",
+    "category": "Weird Nature",
+    "image": "images/plant_memory.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? The world’s largest origami crane was over 40 feet tall.",
+    "category": "Odd Records",
+    "image": "images/origami_crane.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Some humans can identify dozens of subtle facial expressions in milliseconds.",
+    "category": "Human Quirks",
+    "image": "images/facial_expression_sense.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? In the 18th century, people sometimes kept live frogs in their homes for good luck.",
+    "category": "Random Curiosities",
+    "image": "images/frogs_luck.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? There is a species of beetle that can survive being completely frozen and thawed multiple times.",
+    "category": "Weird Nature",
+    "image": "images/frozen_beetle.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? The world’s largest collection of toy soldiers has over 250,000 pieces.",
+    "category": "Odd Records",
+    "image": "images/toy_soldiers_collection.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Some humans can remember detailed routes and navigate like GPS without technology.",
+    "category": "Human Quirks",
+    "image": "images/human_gps.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? In medieval times, people believed that eating live birds could cure asthma.",
+    "category": "Bizarre History",
+    "image": "images/live_bird_cure.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Some species of squid can change their skin texture to mimic the environment perfectly.",
+    "category": "Weird Nature",
+    "image": "images/squid_camouflage.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? The world’s largest collection of stamps contains over 5 million stamps.",
+    "category": "Odd Records",
+    "image": "images/stamp_collection.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Some humans can voluntarily produce goosebumps at will.",
+    "category": "Human Quirks",
+    "image": "images/goosebumps_control.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? In 17th century Europe, people believed that wearing a wolf’s teeth could cure toothaches.",
+    "category": "Bizarre History",
+    "image": "images/wolf_teeth_cure.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? There’s a species of octopus that can escape tanks by unscrewing lids.",
+    "category": "Weird Nature",
+    "image": "images/octopus_escape.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? The world’s largest collection of teapots contains over 7,000 unique pieces.",
+    "category": "Odd Records",
+    "image": "images/teapot_collection2.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Some humans can see afterimages of colors in complete darkness after staring at bright lights.",
+    "category": "Human Quirks",
+    "image": "images/color_afterimage.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? In medieval Europe, some people believed that wearing frog skins could ward off evil spirits.",
+    "category": "Random Curiosities",
+    "image": "images/frog_skin_talisman.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Some plants can release chemicals to warn neighboring plants of insect attacks.",
+    "category": "Weird Nature",
+    "image": "images/plant_warning.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? The world’s largest collection of teddy bears has over 8,000 bears.",
+    "category": "Odd Records",
+    "image": "images/teddy_bear_collection.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Some humans can move one eye independently to look in two directions simultaneously.",
+    "category": "Human Quirks",
+    "image": "images/independent_eye2.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? In 18th century Europe, people believed powdered unicorn horn could cure diseases.",
+    "category": "Bizarre History",
+    "image": "images/unicorn_powder.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? There’s a species of ant that can survive underwater for hours by forming a living raft.",
+    "category": "Weird Nature",
+    "image": "images/ant_raft.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? The world’s largest collection of keychains has over 10,000 items.",
+    "category": "Odd Records",
+    "image": "images/keychain_collection.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Some humans can naturally mimic accents perfectly after hearing them once.",
+    "category": "Human Quirks",
+    "image": "images/accents_mimic.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? In the 16th century, people believed that wearing dried snakeskin could protect from evil spirits.",
+    "category": "Random Curiosities",
+    "image": "images/snakeskin_talisman.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Some species of birds can sleep with one half of their brain awake and the other asleep.",
+    "category": "Weird Nature",
+    "image": "images/bird_half_sleep.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? The world’s largest collection of matchbox cars has over 20,000 pieces.",
+    "category": "Odd Records",
+    "image": "images/matchbox_collection.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Some humans can identify over 1,000 different smells with perfect accuracy.",
+    "category": "Human Quirks",
+    "image": "images/smell_expert.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? In Victorian England, some people kept mummies as curiosities in their homes.",
+    "category": "Bizarre History",
+    "image": "images/mummies_victorian.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? There’s a species of jellyfish that is biologically immortal and can revert to its juvenile state.",
+    "category": "Weird Nature",
+    "image": "images/immortal_jellyfish.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? The world’s largest collection of pencil sharpeners contains over 7,000 unique items.",
+    "category": "Odd Records",
+    "image": "images/pencil_sharpener_collection.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Some humans can smell diseases like diabetes and cancer due to chemical changes in the body.",
+    "category": "Human Quirks",
+    "image": "images/smell_disease.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? In 19th century Europe, people used to carry tiny coffins containing stillborn babies as charms.",
+    "category": "Random Curiosities",
+    "image": "images/tiny_coffin_charm.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Some plants can mimic other plants to avoid being eaten by herbivores.",
+    "category": "Weird Nature",
+    "image": "images/plant_mimic.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? The world’s largest collection of postcards has over 2 million items.",
+    "category": "Odd Records",
+    "image": "images/postcard_collection2.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Some humans can control the movement of individual hairs on their body voluntarily.",
+    "category": "Human Quirks",
+    "image": "images/control_hair.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? In the 17th century, people believed that powdered owl bones could improve night vision.",
+    "category": "Bizarre History",
+    "image": "images/owl_bone_powder.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? There is a species of spider that can fly through the air using silk threads and wind currents.",
+    "category": "Weird Nature",
+    "image": "images/flying_spider.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? The world’s largest collection of clocks has over 10,000 timepieces.",
+    "category": "Odd Records",
+    "image": "images/clock_collection.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Some humans can laugh and cry at the same time involuntarily in rare conditions.",
+    "category": "Human Quirks",
+    "image": "images/laugh_cry.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? In medieval Europe, people believed that witches could steal milk from cows with spells.",
+    "category": "Random Curiosities",
+    "image": "images/witch_milk.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Some plants produce sounds when under stress from predators or environmental damage.",
+    "category": "Weird Nature",
+    "image": "images/plant_sounds.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? The world’s largest collection of postcards featuring cats contains over 50,000 cards.",
+    "category": "Odd Records",
+    "image": "images/cat_postcards.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Some humans can produce different smells from their sweat based on diet or mood.",
+    "category": "Human Quirks",
+    "image": "images/sweat_smells.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? In 18th century Europe, people used to wear wigs powdered with flour and scented oils.",
+    "category": "Bizarre History",
+    "image": "images/powdered_wigs.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? There is a species of ant that can carry objects over 50 times their body weight.",
+    "category": "Weird Nature",
+    "image": "images/strong_ant.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? The world’s largest collection of rubber ducks exceeds 10,000 ducks.",
+    "category": "Odd Records",
+    "image": "images/rubber_duck_collection.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Some humans can produce involuntary shivers when hearing certain musical notes.",
+    "category": "Human Quirks",
+    "image": "images/music_shivers.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? In Victorian times, people sometimes used live spiders in jewelry for shock value.",
+    "category": "Random Curiosities",
+    "image": "images/spider_jewelry.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Some frogs can change color rapidly to communicate or camouflage themselves.",
+    "category": "Weird Nature",
+    "image": "images/color_changing_frog.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? The world’s largest collection of yo-yos for tricks exceeds 12,000 items.",
+    "category": "Odd Records",
+    "image": "images/yo_yo_collection3.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Some humans can voluntarily burp in musical patterns as a talent.",
+    "category": "Human Quirks",
+    "image": "images/musical_burp.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? In medieval Europe, people sometimes drank beer instead of water for safety, even as infants.",
+    "category": "Bizarre History",
+    "image": "images/beer_infant.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Some species of worms can survive being frozen for years and still revive later.",
+    "category": "Weird Nature",
+    "image": "images/frozen_worm.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? The world’s largest LEGO car replica is over 13 feet long.",
+    "category": "Odd Records",
+    "image": "images/lego_car.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Some humans can voluntarily dilate their pupils without light changes.",
+    "category": "Human Quirks",
+    "image": "images/pupil_dilation.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? In 19th century Europe, some people trained cats to pull tiny carriages for entertainment.",
+    "category": "Random Curiosities",
+    "image": "images/cat_carriage.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Some trees can 'walk' over centuries by slowly growing roots toward sunlight.",
+    "category": "Weird Nature",
+    "image": "images/walking_tree.jpg"
+  }
+]

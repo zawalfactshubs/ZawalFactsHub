@@ -1,0 +1,2103 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Eating foods rich in vitamin C helps the body absorb iron more efficiently.",
+    "category": "nutrition",
+    "image": "images/vitamin_c.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Apples float in water because they are made up of about 25% air.",
+    "category": "fruits",
+    "image": "images/apple.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Spinach becomes much smaller when cooked because it loses most of its water content.",
+    "category": "vegetables",
+    "image": "images/spinach.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Eggs are considered a complete protein because they contain all nine essential amino acids.",
+    "category": "meat & protein",
+    "image": "images/eggs.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? Brown rice contains more fiber than white rice because it retains the bran layer.",
+    "category": "grains & cereals",
+    "image": "images/brown_rice.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? Cheese is the most stolen food item in the world, according to global studies.",
+    "category": "dairy",
+    "image": "images/cheese.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Turmeric contains curcumin, a compound known for its anti-inflammatory properties.",
+    "category": "spices & herbs",
+    "image": "images/turmeric.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Sushi originally began as a way to preserve fish using fermented rice.",
+    "category": "global cuisine",
+    "image": "images/sushi.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? Fermentation can increase the shelf life and nutritional value of certain foods.",
+    "category": "food science",
+    "image": "images/fermentation.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? Honey never spoils, and jars found in ancient tombs are still edible.",
+    "category": "weird food facts",
+    "image": "images/honey.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Drinking enough water helps nutrients travel through the bloodstream more effectively.",
+    "category": "nutrition",
+    "image": "images/water.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Bananas are berries, but strawberries are not botanically classified as berries.",
+    "category": "fruits",
+    "image": "images/banana.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Broccoli contains more vitamin C per gram than oranges.",
+    "category": "vegetables",
+    "image": "images/broccoli.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Fish is considered brain food because it is rich in omega-3 fatty acids.",
+    "category": "meat & protein",
+    "image": "images/fish.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Oats can help lower cholesterol levels due to their high beta-glucan content.",
+    "category": "grains & cereals",
+    "image": "images/oats.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Yogurt contains live bacteria that support gut health and digestion.",
+    "category": "dairy",
+    "image": "images/yogurt.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? Garlic has been used for medicinal purposes for over 5,000 years.",
+    "category": "spices & herbs",
+    "image": "images/garlic.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Pizza originated in Italy as a simple dish for poor workers.",
+    "category": "global cuisine",
+    "image": "images/pizza.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Cooking tomatoes increases the amount of lycopene the body can absorb.",
+    "category": "food science",
+    "image": "images/tomatoes.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Peanuts are not nuts; they are legumes related to beans and lentils.",
+    "category": "weird food facts",
+    "image": "images/peanuts.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? Eating breakfast can help regulate blood sugar and improve concentration.",
+    "category": "nutrition",
+    "image": "images/breakfast.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Oranges were originally green in tropical climates before turning orange.",
+    "category": "fruits",
+    "image": "images/orange.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Carrots were originally purple before selective breeding made them orange.",
+    "category": "vegetables",
+    "image": "images/carrots.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Chicken is the most widely consumed meat in the world.",
+    "category": "meat & protein",
+    "image": "images/chicken.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Bread rises because yeast produces carbon dioxide during fermentation.",
+    "category": "grains & cereals",
+    "image": "images/bread.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Milk is one of the few drinks that naturally contains calcium and protein together.",
+    "category": "dairy",
+    "image": "images/milk.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Black pepper was once so valuable it was used as currency.",
+    "category": "spices & herbs",
+    "image": "images/black_pepper.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Curry is not a single spice but a blend of many spices.",
+    "category": "global cuisine",
+    "image": "images/curry.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Freezing food slows bacterial growth but does not kill all bacteria.",
+    "category": "food science",
+    "image": "images/freezing.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Mushrooms are fungi, not plants, and are closer to animals genetically.",
+    "category": "weird food facts",
+    "image": "images/mushrooms.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Fiber helps keep the digestive system healthy and prevents constipation.",
+    "category": "nutrition",
+    "image": "images/fiber.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Pineapples stop your tongue from tasting properly because they contain enzymes.",
+    "category": "fruits",
+    "image": "images/pineapple.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Potatoes were the first vegetable grown in space.",
+    "category": "vegetables",
+    "image": "images/potato.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Lentils are one of the oldest known protein-rich foods eaten by humans.",
+    "category": "meat & protein",
+    "image": "images/lentils.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Corn is used in thousands of food products, including sweeteners and oils.",
+    "category": "grains & cereals",
+    "image": "images/corn.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Butter was once used as a fuel source in ancient lamps.",
+    "category": "dairy",
+    "image": "images/butter.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Cinnamon was once more valuable than gold in ancient times.",
+    "category": "spices & herbs",
+    "image": "images/cinnamon.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Tacos date back to ancient Mexico, long before European contact.",
+    "category": "global cuisine",
+    "image": "images/tacos.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Caramelization happens when sugar is heated, creating new flavors and colors.",
+    "category": "food science",
+    "image": "images/caramel.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Ketchup was once sold as medicine in the 1800s.",
+    "category": "weird food facts",
+    "image": "images/ketchup.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Eating slowly helps the brain recognize fullness and prevents overeating.",
+    "category": "nutrition",
+    "image": "images/eating_slow.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Watermelons are about 92% water, making them very hydrating.",
+    "category": "fruits",
+    "image": "images/watermelon.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Onions can make you cry because they release sulfur compounds.",
+    "category": "vegetables",
+    "image": "images/onion.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? Tofu is made from soybeans and has been eaten for over 2,000 years.",
+    "category": "meat & protein",
+    "image": "images/tofu.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Quinoa is technically a seed, not a grain, but is eaten like one.",
+    "category": "grains & cereals",
+    "image": "images/quinoa.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Ice cream was once a luxury only available to royalty.",
+    "category": "dairy",
+    "image": "images/ice_cream.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Basil loses most of its flavor when overcooked.",
+    "category": "spices & herbs",
+    "image": "images/basil.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Noodles were eaten in China thousands of years before pasta appeared in Italy.",
+    "category": "global cuisine",
+    "image": "images/noodles.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Pressure cooking raises boiling points, allowing food to cook faster.",
+    "category": "food science",
+    "image": "images/pressure_cooking.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Chocolate was once used as a form of currency by ancient civilizations.",
+    "category": "weird food facts",
+    "image": "images/chocolate.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Protein helps repair body tissues and is essential for muscle growth.",
+    "category": "nutrition",
+    "image": "images/protein.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Grapes can explode when placed in a microwave due to plasma formation.",
+    "category": "fruits",
+    "image": "images/grapes.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Cabbage can stay fresh longer than most vegetables because of its dense leaves.",
+    "category": "vegetables",
+    "image": "images/cabbage.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Red meat is one of the richest natural sources of vitamin B12.",
+    "category": "meat & protein",
+    "image": "images/red_meat.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Wheat is grown on more land worldwide than any other crop.",
+    "category": "grains & cereals",
+    "image": "images/wheat.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Cheese gets its holes from carbon dioxide released by bacteria during aging.",
+    "category": "dairy",
+    "image": "images/cheese_holes.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Cloves contain one of the highest concentrations of antioxidants among spices.",
+    "category": "spices & herbs",
+    "image": "images/cloves.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Ramen became popular worldwide after World War II due to food shortages.",
+    "category": "global cuisine",
+    "image": "images/ramen.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Emulsions like mayonnaise are formed by mixing oil and water with an emulsifier.",
+    "category": "food science",
+    "image": "images/mayonnaise.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Popcorn is the only type of corn that can pop.",
+    "category": "weird food facts",
+    "image": "images/popcorn.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Healthy fats help absorb vitamins A, D, E, and K.",
+    "category": "nutrition",
+    "image": "images/healthy_fats.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Lemons contain more sugar than strawberries by weight.",
+    "category": "fruits",
+    "image": "images/lemons.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Bell peppers are technically fruits but commonly treated as vegetables.",
+    "category": "vegetables",
+    "image": "images/bell_pepper.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Beans were a major protein source before meat became widely available.",
+    "category": "meat & protein",
+    "image": "images/beans.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? Barley is one of the oldest cultivated grains in human history.",
+    "category": "grains & cereals",
+    "image": "images/barley.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Cream is made by separating fat from milk through centrifugation.",
+    "category": "dairy",
+    "image": "images/cream.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Ginger helps reduce nausea and supports digestion.",
+    "category": "spices & herbs",
+    "image": "images/ginger.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Paella originated in Spain as a farmer’s lunch cooked over open fires.",
+    "category": "global cuisine",
+    "image": "images/paella.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Sous-vide cooking keeps food tender by cooking it at controlled temperatures.",
+    "category": "food science",
+    "image": "images/sous_vide.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Strawberries have their seeds on the outside instead of inside.",
+    "category": "weird food facts",
+    "image": "images/strawberry_seeds.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Magnesium-rich foods help support muscle and nerve function.",
+    "category": "nutrition",
+    "image": "images/magnesium.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Avocados ripen faster when stored with bananas.",
+    "category": "fruits",
+    "image": "images/avocado.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Cucumbers are about 96% water, making them very refreshing.",
+    "category": "vegetables",
+    "image": "images/cucumber.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? Turkey makes people sleepy because it contains tryptophan.",
+    "category": "meat & protein",
+    "image": "images/turkey.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Millet is a drought-resistant grain used widely in Africa and Asia.",
+    "category": "grains & cereals",
+    "image": "images/millet.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Ice cream melts faster on warm plates due to heat transfer.",
+    "category": "dairy",
+    "image": "images/melting_icecream.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Rosemary can improve memory and concentration when smelled.",
+    "category": "spices & herbs",
+    "image": "images/rosemary.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Dumplings exist in nearly every culture around the world.",
+    "category": "global cuisine",
+    "image": "images/dumplings.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Maillard reaction is responsible for browning and flavor in cooked foods.",
+    "category": "food science",
+    "image": "images/maillard.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Blueberries can naturally change color depending on acidity.",
+    "category": "weird food facts",
+    "image": "images/blueberries.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Zinc-rich foods help support the immune system.",
+    "category": "nutrition",
+    "image": "images/zinc_foods.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Mangoes are related to cashews and pistachios.",
+    "category": "fruits",
+    "image": "images/mango.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Asparagus can change the smell of urine due to sulfur compounds.",
+    "category": "vegetables",
+    "image": "images/asparagus.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Soy protein is one of the few plant proteins considered complete.",
+    "category": "meat & protein",
+    "image": "images/soy.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? Rye bread stays fresh longer than white bread due to lower gluten content.",
+    "category": "grains & cereals",
+    "image": "images/rye_bread.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? Whey protein is a byproduct of cheese-making.",
+    "category": "dairy",
+    "image": "images/whey.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Cardamom is one of the most expensive spices in the world.",
+    "category": "spices & herbs",
+    "image": "images/cardamom.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Kimchi is a traditional Korean dish known for its probiotic benefits.",
+    "category": "global cuisine",
+    "image": "images/kimchi.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? Food browns differently depending on moisture and heat levels.",
+    "category": "food science",
+    "image": "images/browning_food.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? Apples can stay fresh for months in controlled storage environments.",
+    "category": "weird food facts",
+    "image": "images/apple_storage.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? Iron-rich foods help prevent fatigue and anemia.",
+    "category": "nutrition",
+    "image": "images/iron_foods.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? Kiwi fruits contain more vitamin C than oranges.",
+    "category": "fruits",
+    "image": "images/kiwi.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Lettuce loses nutrients quickly after being harvested.",
+    "category": "vegetables",
+    "image": "images/lettuce.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? Shrimp is one of the most popular seafood choices worldwide.",
+    "category": "meat & protein",
+    "image": "images/shrimp.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Buckwheat is gluten-free despite its name.",
+    "category": "grains & cereals",
+    "image": "images/buckwheat.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? Lactose-free milk still comes from cows but has added enzymes.",
+    "category": "dairy",
+    "image": "images/lactose_free_milk.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Mint can help soothe digestion and freshen breath naturally.",
+    "category": "spices & herbs",
+    "image": "images/mint.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Falafel is one of the oldest known street foods.",
+    "category": "global cuisine",
+    "image": "images/falafel.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? Food texture influences how flavorful something tastes.",
+    "category": "food science",
+    "image": "images/food_texture.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? Chili peppers trigger heat sensation by activating pain receptors.",
+    "category": "weird food facts",
+    "image": "images/chili_pepper.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? Vitamin A supports healthy vision, skin, and immune function.",
+    "category": "nutrition",
+    "image": "images/vitamin_a.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Pineapples contain enzymes that can prevent gelatin from setting.",
+    "category": "fruits",
+    "image": "images/pineapple.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Spinach becomes more nutritious when lightly cooked.",
+    "category": "vegetables",
+    "image": "images/spinach.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Fish is a major source of omega-3 fatty acids that support brain health.",
+    "category": "meat & protein",
+    "image": "images/fish.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Corn is used in more products worldwide than any other grain.",
+    "category": "grains & cereals",
+    "image": "images/corn.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Yogurt cultures help improve gut health and digestion.",
+    "category": "dairy",
+    "image": "images/yogurt.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Turmeric gets its bright yellow color from curcumin.",
+    "category": "spices & herbs",
+    "image": "images/turmeric.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Tacos date back to ancient Mexico and were originally eaten by miners.",
+    "category": "global cuisine",
+    "image": "images/tacos.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Fermentation preserves food by producing natural acids or alcohol.",
+    "category": "food science",
+    "image": "images/fermentation.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Chocolate was once used as a form of currency by ancient civilizations.",
+    "category": "weird food facts",
+    "image": "images/chocolate_currency.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Fiber helps control blood sugar levels and promotes gut health.",
+    "category": "nutrition",
+    "image": "images/fiber.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Apples float in water because they are 25% air.",
+    "category": "fruits",
+    "image": "images/apple_float.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Onions release sulfur compounds that cause tears when cut.",
+    "category": "vegetables",
+    "image": "images/onion.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Eggs are considered a complete protein containing all essential amino acids.",
+    "category": "meat & protein",
+    "image": "images/eggs.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Oats can help lower cholesterol levels naturally.",
+    "category": "grains & cereals",
+    "image": "images/oats.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Butter improves flavor by enhancing aroma compounds in food.",
+    "category": "dairy",
+    "image": "images/butter.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? Basil loses much of its flavor when cooked for too long.",
+    "category": "spices & herbs",
+    "image": "images/basil.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Sushi originally began as a way to preserve fish using fermented rice.",
+    "category": "global cuisine",
+    "image": "images/sushi.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Cooking food changes its chemical structure, making nutrients easier to absorb.",
+    "category": "food science",
+    "image": "images/cooking_science.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Honey never spoils and has been found edible in ancient tombs.",
+    "category": "weird food facts",
+    "image": "images/honey.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Calcium is essential for strong bones and teeth.",
+    "category": "nutrition",
+    "image": "images/calcium.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Watermelons are considered both a fruit and a vegetable.",
+    "category": "fruits",
+    "image": "images/watermelon.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Mushrooms are fungi, not plants, and absorb nutrients differently.",
+    "category": "vegetables",
+    "image": "images/mushrooms.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Lean meats help build muscle without excessive fat intake.",
+    "category": "meat & protein",
+    "image": "images/lean_meat.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Quinoa was considered sacred by the ancient Incas.",
+    "category": "grains & cereals",
+    "image": "images/quinoa.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Milk foam forms when proteins trap air bubbles.",
+    "category": "dairy",
+    "image": "images/milk_foam.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Thyme has antibacterial properties and was used medicinally in ancient times.",
+    "category": "spices & herbs",
+    "image": "images/thyme.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Couscous is traditionally hand-rolled in North African cuisine.",
+    "category": "global cuisine",
+    "image": "images/couscous.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Pressure cooking reduces cooking time by increasing boiling temperature.",
+    "category": "food science",
+    "image": "images/pressure_cooking.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Vanilla flavoring originally comes from orchids.",
+    "category": "weird food facts",
+    "image": "images/vanilla.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Antioxidants help protect the body from cellular damage.",
+    "category": "nutrition",
+    "image": "images/antioxidants.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Oranges were originally green before selective breeding.",
+    "category": "fruits",
+    "image": "images/green_orange.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Sweet potatoes are not closely related to regular potatoes.",
+    "category": "vegetables",
+    "image": "images/sweet_potato.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Grilled meat gets its flavor from chemical reactions at high heat.",
+    "category": "meat & protein",
+    "image": "images/grilled_meat.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Rice feeds more than half of the world’s population daily.",
+    "category": "grains & cereals",
+    "image": "images/rice.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Kefir contains more probiotic strains than yogurt.",
+    "category": "dairy",
+    "image": "images/kefir.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Oregano has one of the highest antioxidant levels among herbs.",
+    "category": "spices & herbs",
+    "image": "images/oregano.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? Pizza was originally eaten as a breakfast food in Italy.",
+    "category": "global cuisine",
+    "image": "images/pizza.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Freezing food slows bacterial growth but does not kill all bacteria.",
+    "category": "food science",
+    "image": "images/freezing_food.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Bananas are berries, but strawberries are not.",
+    "category": "weird food facts",
+    "image": "images/banana_berry.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Balanced meals help regulate metabolism and energy levels.",
+    "category": "nutrition",
+    "image": "images/balanced_meal.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Pears ripen better off the tree than on it.",
+    "category": "fruits",
+    "image": "images/pears.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Carrots were originally purple before orange varieties were bred.",
+    "category": "vegetables",
+    "image": "images/purple_carrot.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Lamb meat is commonly eaten during special celebrations worldwide.",
+    "category": "meat & protein",
+    "image": "images/lamb.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Spelt is an ancient grain that predates modern wheat.",
+    "category": "grains & cereals",
+    "image": "images/spelt.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Evaporated milk is made by removing about 60% of water from milk.",
+    "category": "dairy",
+    "image": "images/evaporated_milk.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Bay leaves are usually removed before eating because of their tough texture.",
+    "category": "spices & herbs",
+    "image": "images/bay_leaf.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Street food culture plays a major role in many Asian cities.",
+    "category": "global cuisine",
+    "image": "images/street_food.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Acidic ingredients can prevent browning in cut fruits.",
+    "category": "food science",
+    "image": "images/acidic_food.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Peanuts are legumes, not nuts.",
+    "category": "weird food facts",
+    "image": "images/peanut_legume.jpg"
+  },
+  
+  {
+    "id": 201,
+    "fact": "Did you know? Vitamin B12 is essential for nerve function and red blood cell formation.",
+    "category": "nutrition",
+    "image": "images/vitamin_b12.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Pomegranates have been symbols of fertility and abundance for centuries.",
+    "category": "fruits",
+    "image": "images/pomegranate.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Kale is considered a superfood because of its high nutrient density.",
+    "category": "vegetables",
+    "image": "images/kale.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Beef cattle are raised in nearly every country around the world.",
+    "category": "meat & protein",
+    "image": "images/beef.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Farro is an ancient grain that was a staple in Roman diets.",
+    "category": "grains & cereals",
+    "image": "images/farro.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Ice cream trucks became popular in the early 20th century.",
+    "category": "dairy",
+    "image": "images/icecream_truck.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Nutmeg should be used in small amounts, as large quantities can be toxic.",
+    "category": "spices & herbs",
+    "image": "images/nutmeg.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Thai cuisine is known for balancing sweet, sour, salty, and spicy flavors.",
+    "category": "global cuisine",
+    "image": "images/thai_cuisine.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Marinating food helps improve tenderness and flavor.",
+    "category": "food science",
+    "image": "images/marinating.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Cheese is the most stolen food item in the world.",
+    "category": "weird food facts",
+    "image": "images/cheese_theft.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Eating slowly can help improve digestion and portion control.",
+    "category": "nutrition",
+    "image": "images/eating_slowly.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Cranberries can bounce when ripe due to air pockets inside.",
+    "category": "fruits",
+    "image": "images/cranberries.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Artichokes are actually unopened flower buds.",
+    "category": "vegetables",
+    "image": "images/artichoke.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Venison is lower in fat than most farmed meats.",
+    "category": "meat & protein",
+    "image": "images/venison.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Bulgur is made from cracked wheat and cooks quickly.",
+    "category": "grains & cereals",
+    "image": "images/bulgur.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Cheese was accidentally discovered over 7,000 years ago.",
+    "category": "dairy",
+    "image": "images/cheese_history.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Coriander seeds and cilantro leaves come from the same plant.",
+    "category": "spices & herbs",
+    "image": "images/coriander.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Italian cuisine varies greatly between regions.",
+    "category": "global cuisine",
+    "image": "images/italian_cuisine.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Blanching vegetables helps preserve color and texture.",
+    "category": "food science",
+    "image": "images/blanching.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Peaches belong to the same family as roses.",
+    "category": "weird food facts",
+    "image": "images/peach_rose.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? A balanced breakfast can improve focus and memory.",
+    "category": "nutrition",
+    "image": "images/balanced_breakfast.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Blackberries are rich in antioxidants that support cell health.",
+    "category": "fruits",
+    "image": "images/blackberries.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Turnips were carved into lanterns before pumpkins were used.",
+    "category": "vegetables",
+    "image": "images/turnip.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Grilled fish cooks faster than red meat due to lower density.",
+    "category": "meat & protein",
+    "image": "images/grilled_fish.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Einkorn is one of the earliest cultivated forms of wheat.",
+    "category": "grains & cereals",
+    "image": "images/einkorn.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Milk pasteurization helps eliminate harmful bacteria.",
+    "category": "dairy",
+    "image": "images/pasteurized_milk.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Chives belong to the same family as onions and garlic.",
+    "category": "spices & herbs",
+    "image": "images/chives.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? Nigerian jollof rice is a popular West African dish.",
+    "category": "global cuisine",
+    "image": "images/jollof_rice.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? Slow cooking allows flavors to develop more deeply.",
+    "category": "food science",
+    "image": "images/slow_cooking.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Cucumbers can help neutralize bad breath when eaten.",
+    "category": "weird food facts",
+    "image": "images/cucumber_breath.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Eating a variety of foods helps prevent nutrient deficiencies.",
+    "category": "nutrition",
+    "image": "images/variety_foods.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Dates were one of the first cultivated fruits in history.",
+    "category": "fruits",
+    "image": "images/dates.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Celery has a negative calorie reputation because it requires more energy to digest.",
+    "category": "vegetables",
+    "image": "images/celery.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Goat meat is one of the most widely eaten meats globally.",
+    "category": "meat & protein",
+    "image": "images/goat_meat.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Semolina is commonly used to make pasta and couscous.",
+    "category": "grains & cereals",
+    "image": "images/semolina.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? Cheese pairing with wine is influenced by fat and acidity levels.",
+    "category": "dairy",
+    "image": "images/cheese_wine.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Lemongrass is commonly used in Southeast Asian cooking.",
+    "category": "spices & herbs",
+    "image": "images/lemongrass.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Greek cuisine emphasizes olive oil, vegetables, and grains.",
+    "category": "global cuisine",
+    "image": "images/greek_cuisine.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Food aromas play a major role in how we perceive taste.",
+    "category": "food science",
+    "image": "images/food_aroma.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? Tomatoes were once thought to be poisonous in Europe.",
+    "category": "weird food facts",
+    "image": "images/tomato_history.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Adequate hydration helps nutrients travel throughout the body.",
+    "category": "nutrition",
+    "image": "images/hydration.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Lychees have a sweet floral flavor and rough outer shell.",
+    "category": "fruits",
+    "image": "images/lychee.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Brussels sprouts taste less bitter when roasted instead of boiled.",
+    "category": "vegetables",
+    "image": "images/brussels_sprouts.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Bison meat is leaner than beef and high in protein.",
+    "category": "meat & protein",
+    "image": "images/bison.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Polenta is made from ground cornmeal.",
+    "category": "grains & cereals",
+    "image": "images/polenta.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Milk chocolate contains more sugar than dark chocolate.",
+    "category": "dairy",
+    "image": "images/milk_chocolate.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Star anise gets its name from its star-shaped appearance.",
+    "category": "spices & herbs",
+    "image": "images/star_anise.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? Caribbean cuisine often blends African, European, and Indigenous flavors.",
+    "category": "global cuisine",
+    "image": "images/caribbean_food.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Resting cooked meat helps redistribute its juices evenly.",
+    "category": "food science",
+    "image": "images/resting_meat.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Marshmallows were originally made from the marsh mallow plant.",
+    "category": "weird food facts",
+    "image": "images/marshmallow.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Iron helps transport oxygen in the blood and supports energy levels.",
+    "category": "nutrition",
+    "image": "images/iron_nutrition.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Guavas contain more vitamin C than oranges.",
+    "category": "fruits",
+    "image": "images/guava.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Beets can naturally improve blood flow due to their nitrate content.",
+    "category": "vegetables",
+    "image": "images/beets.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Turkey meat is often associated with increased sleepiness due to tryptophan.",
+    "category": "meat & protein",
+    "image": "images/turkey.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Barley was one of the first grains domesticated by humans.",
+    "category": "grains & cereals",
+    "image": "images/barley.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Yogurt cultures must be alive to be considered probiotic.",
+    "category": "dairy",
+    "image": "images/yogurt_cultures.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Allspice is named because it tastes like a mix of cinnamon, nutmeg, and cloves.",
+    "category": "spices & herbs",
+    "image": "images/allspice.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Middle Eastern cuisine commonly uses chickpeas and tahini.",
+    "category": "global cuisine",
+    "image": "images/middle_eastern_food.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Sous vide cooking uses precise temperature control for consistent results.",
+    "category": "food science",
+    "image": "images/sous_vide.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Ketchup was once sold as medicine in the 1800s.",
+    "category": "weird food facts",
+    "image": "images/ketchup_medicine.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Calcium works together with vitamin D to strengthen bones.",
+    "category": "nutrition",
+    "image": "images/calcium_vitamin_d.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Mulberries change color as they ripen from white to deep purple.",
+    "category": "fruits",
+    "image": "images/mulberries.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Zucchini is technically classified as a fruit botanically.",
+    "category": "vegetables",
+    "image": "images/zucchini.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Shellfish are a major source of zinc in many diets.",
+    "category": "meat & protein",
+    "image": "images/shellfish.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Millet is a drought-resistant grain grown in many parts of Africa.",
+    "category": "grains & cereals",
+    "image": "images/millet.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Butter contains small amounts of vitamins A and E.",
+    "category": "dairy",
+    "image": "images/butter.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Bay leaves are usually removed before serving due to their toughness.",
+    "category": "spices & herbs",
+    "image": "images/bay_leaf.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Ethiopian cuisine often features injera, a sourdough flatbread.",
+    "category": "global cuisine",
+    "image": "images/injera.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Emulsions like mayonnaise combine oil and water using an emulsifier.",
+    "category": "food science",
+    "image": "images/emulsion.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Apples float in water because they are 25% air.",
+    "category": "weird food facts",
+    "image": "images/apple_float.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Eating fiber regularly supports gut health and digestion.",
+    "category": "nutrition",
+    "image": "images/dietary_fiber.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Dragon fruit comes from several different species of cactus.",
+    "category": "fruits",
+    "image": "images/dragon_fruit.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Leeks are milder in flavor than onions and garlic.",
+    "category": "vegetables",
+    "image": "images/leeks.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Duck meat is darker than chicken due to higher myoglobin content.",
+    "category": "meat & protein",
+    "image": "images/duck_meat.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Sorghum is used to make both food and animal feed.",
+    "category": "grains & cereals",
+    "image": "images/sorghum.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Cream contains more fat than regular milk.",
+    "category": "dairy",
+    "image": "images/cream.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Fenugreek seeds are often used in spice blends and teas.",
+    "category": "spices & herbs",
+    "image": "images/fenugreek.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Korean cuisine is known for fermented foods like kimchi.",
+    "category": "global cuisine",
+    "image": "images/kimchi.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Caramelization occurs when sugar is heated and breaks down.",
+    "category": "food science",
+    "image": "images/caramelization.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Bananas are berries, but strawberries are not.",
+    "category": "weird food facts",
+    "image": "images/banana_berry.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Magnesium helps regulate muscle and nerve function.",
+    "category": "nutrition",
+    "image": "images/magnesium.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Papayas contain enzymes that aid protein digestion.",
+    "category": "fruits",
+    "image": "images/papaya.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Radishes grow quickly and can be harvested within weeks.",
+    "category": "vegetables",
+    "image": "images/radish.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Sardines are rich in omega-3 fatty acids.",
+    "category": "meat & protein",
+    "image": "images/sardines.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Oats contain beta-glucan, which helps lower cholesterol.",
+    "category": "grains & cereals",
+    "image": "images/oats.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Powdered milk has a longer shelf life than fresh milk.",
+    "category": "dairy",
+    "image": "images/powdered_milk.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Dill is commonly used to flavor pickles.",
+    "category": "spices & herbs",
+    "image": "images/dill.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Japanese cuisine emphasizes seasonal ingredients.",
+    "category": "global cuisine",
+    "image": "images/japanese_food.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Pressure cooking reduces cooking time by raising boiling temperature.",
+    "category": "food science",
+    "image": "images/pressure_cooking.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Peanuts are legumes, not nuts.",
+    "category": "weird food facts",
+    "image": "images/peanuts_legume.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Balanced meals help maintain stable blood sugar levels.",
+    "category": "nutrition",
+    "image": "images/balanced_meal.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Kiwi fruits were originally called Chinese gooseberries.",
+    "category": "fruits",
+    "image": "images/kiwi.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Mushrooms are fungi, not plants.",
+    "category": "vegetables",
+    "image": "images/mushrooms.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Eggs are considered a complete protein source.",
+    "category": "meat & protein",
+    "image": "images/eggs.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Rice feeds more than half of the world’s population.",
+    "category": "grains & cereals",
+    "image": "images/rice.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Cheese varieties number over 1,800 worldwide.",
+    "category": "dairy",
+    "image": "images/cheese_varieties.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Saffron is the most expensive spice by weight.",
+    "category": "spices & herbs",
+    "image": "images/saffron.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Mexican cuisine was recognized by UNESCO as cultural heritage.",
+    "category": "global cuisine",
+    "image": "images/mexican_food.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Freezing food slows down bacterial growth.",
+    "category": "food science",
+    "image": "images/freezing_food.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Honey never spoils when stored properly.",
+    "category": "weird food facts",
+    "image": "images/honey.jpg"
+  },
+  {
+    "id": 301,
+    "fact": "Did you know? Kylian Mbappé became the youngest player to reach 100 Ligue 1 goals for PSG.",
+    "category": "football",
+    "image": "images/football229.jpg"
+  },
+  {
+    "id": 302,
+    "fact": "Did you know? Neymar Jr. is the first player to score in 6 consecutive seasons in the UEFA Champions League for PSG.",
+    "category": "football",
+    "image": "images/football230.jpg"
+  },
+  {
+    "id": 303,
+    "fact": "Did you know? Lionel Messi has won 10 La Liga titles with Barcelona, the most by any player in the club’s history.",
+    "category": "football",
+    "image": "images/football231.jpg"
+  },
+  {
+    "id": 304,
+    "fact": "Did you know? Cristiano Ronaldo is the first player to score 100 goals in UEFA Champions League history for one club.",
+    "category": "football",
+    "image": "images/football232.jpg"
+  },
+  {
+    "id": 305,
+    "fact": "Did you know? Mohamed Salah scored in each of his first 8 Premier League matches for Liverpool in 2017.",
+    "category": "football",
+    "image": "images/football233.jpg"
+  },
+  {
+    "id": 306,
+    "fact": "Did you know? Robert Lewandowski has scored over 300 career goals for club and country combined.",
+    "category": "football",
+    "image": "images/football234.jpg"
+  },
+  {
+    "id": 307,
+    "fact": "Did you know? Erling Haaland became the first teenager to score in 5 consecutive Bundesliga matches for Dortmund.",
+    "category": "football",
+    "image": "images/football235.jpg"
+  },
+  {
+    "id": 308,
+    "fact": "Did you know? Manuel Neuer has captained Bayern Munich to multiple Bundesliga titles while remaining one of the top goalkeepers in the world.",
+    "category": "football",
+    "image": "images/football236.jpg"
+  },
+  {
+    "id": 309,
+    "fact": "Did you know? Neymar Jr. scored a last-minute winner against Marseille to clinch the Ligue 1 title in 2018–19.",
+    "category": "football",
+    "image": "images/football237.jpg"
+  },
+  {
+    "id": 310,
+    "fact": "Did you know? Lionel Messi scored in 21 consecutive home games in La Liga between 2012–2013, a club record.",
+    "category": "football",
+    "image": "images/football238.jpg"
+  },
+  {
+    "id": 311,
+    "fact": "Did you know? Kevin Durant scored 55 points in a playoff game against the Clippers in 2019.",
+    "category": "basketball",
+    "image": "images/basketball109.jpg"
+  },
+  {
+    "id": 312,
+    "fact": "Did you know? Eliud Kipchoge ran the first sub-2-hour marathon in 2019, though unofficially.",
+    "category": "athletics",
+    "image": "images/athletics109.jpg"
+  },
+  {
+    "id": 313,
+    "fact": "Did you know? Georges St-Pierre is widely considered one of the greatest MMA fighters of all time.",
+    "category": "combat",
+    "image": "images/combat109.jpg"
+  },
+  {
+    "id": 314,
+    "fact": "Did you know? Novak Djokovic has won each Grand Slam at least twice, making him one of the greatest tennis players ever.",
+    "category": "tennis",
+    "image": "images/tennis109.jpg"
+  },
+  {
+    "id": 315,
+    "fact": "Did you know? Virat Kohli holds the record for fastest 8000 runs in ODI cricket.",
+    "category": "cricket",
+    "image": "images/cricket109.jpg"
+  },
+  {
+    "id": 316,
+    "fact": "Did you know? Tony Hawk has over 100 skateboarding trick variations named after him.",
+    "category": "extreme",
+    "image": "images/extreme109.jpg"
+  },
+  {
+    "id": 317,
+    "fact": "Did you know? Proper sleep enhances muscle recovery and performance in professional athletes.",
+    "category": "sports_science",
+    "image": "images/science109.jpg"
+  },
+  {
+    "id": 318,
+    "fact": "Did you know? The first modern Olympic swimming competitions took place in 1896 in Athens, Greece.",
+    "category": "sports_history",
+    "image": "images/history109.jpg"
+  },
+  {
+    "id": 319,
+    "fact": "Did you know? Sepak Takraw players can kick the ball higher than 3 meters without touching it with hands.",
+    "category": "weird_sports",
+    "image": "images/weird109.jpg"
+  },
+  {
+    "id": 320,
+    "fact": "Did you know? Cristiano Ronaldo scored 4 goals in a single UEFA Champions League match against Atlético Madrid.",
+    "category": "football",
+    "image": "images/football239.jpg"
+  },
+  {
+    "id": 321,
+    "fact": "Did you know? Lionel Messi has provided more than 20 assists in a single La Liga season multiple times.",
+    "category": "football",
+    "image": "images/football240.jpg"
+  },
+  {
+    "id": 322,
+    "fact": "Did you know? Kylian Mbappé scored 7 goals in his first 5 Champions League matches for PSG.",
+    "category": "football",
+    "image": "images/football241.jpg"
+  },
+  {
+    "id": 323,
+    "fact": "Did you know? Neymar Jr. scored a hat-trick in his debut season for PSG in Ligue 1.",
+    "category": "football",
+    "image": "images/football242.jpg"
+  },
+  {
+    "id": 324,
+    "fact": "Did you know? Mohamed Salah became the fastest Liverpool player to reach 20 Premier League goals in a single season.",
+    "category": "football",
+    "image": "images/football243.jpg"
+  },
+  {
+    "id": 325,
+    "fact": "Did you know? Robert Lewandowski is the first player to win 5 consecutive Bundesliga top-scorer awards.",
+    "category": "football",
+    "image": "images/football244.jpg"
+  },
+  {
+    "id": 326,
+    "fact": "Did you know? Manuel Neuer captained Germany to win the 2014 FIFA World Cup.",
+    "category": "football",
+    "image": "images/football245.jpg"
+  },
+  {
+    "id": 327,
+    "fact": "Did you know? Erling Haaland scored in each of his first 8 Bundesliga matches for Dortmund.",
+    "category": "football",
+    "image": "images/football246.jpg"
+  },
+  {
+    "id": 328,
+    "fact": "Did you know? Lionel Messi scored 5 goals in a single Champions League match against Bayer Leverkusen.",
+    "category": "football",
+    "image": "images/football247.jpg"
+  },
+  {
+    "id": 329,
+    "fact": "Did you know? Cristiano Ronaldo has over 60 career hat-tricks across all competitions.",
+    "category": "football",
+    "image": "images/football248.jpg"
+  },
+  {
+    "id": 330,
+    "fact": "Did you know? Neymar Jr. is the youngest player to reach 100 appearances for Brazil.",
+    "category": "football",
+    "image": "images/football249.jpg"
+  },
+  {
+    "id": 331,
+    "fact": "Did you know? Giannis Antetokounmpo led the Milwaukee Bucks to the 2021 NBA Finals MVP.",
+    "category": "basketball",
+    "image": "images/basketball110.jpg"
+  },
+  {
+    "id": 332,
+    "fact": "Did you know? Hicham El Guerrouj set the 2000m world record in 1999 at 4:44.79 minutes.",
+    "category": "athletics",
+    "image": "images/athletics110.jpg"
+  },
+  {
+    "id": 333,
+    "fact": "Did you know? Conor McGregor became the first UFC fighter to hold two titles simultaneously.",
+    "category": "combat",
+    "image": "images/combat110.jpg"
+  },
+  {
+    "id": 334,
+    "fact": "Did you know? Serena Williams has won 4 Olympic gold medals, including doubles and singles.",
+    "category": "tennis",
+    "image": "images/tennis110.jpg"
+  },
+  {
+    "id": 335,
+    "fact": "Did you know? Shane Warne took 708 wickets in Test cricket, the second highest in history.",
+    "category": "cricket",
+    "image": "images/cricket110.jpg"
+  },
+  {
+    "id": 336,
+    "fact": "Did you know? Shaun White landed the first double McTwist 1260 in skateboarding.",
+    "category": "extreme",
+    "image": "images/extreme110.jpg"
+  },
+  {
+    "id": 337,
+    "fact": "Did you know? VO2 max testing is commonly used to measure cardiovascular fitness in elite athletes.",
+    "category": "sports_science",
+    "image": "images/science110.jpg"
+  },
+  {
+    "id": 338,
+    "fact": "Did you know? Jim Thorpe won Olympic gold in the pentathlon and decathlon in 1912.",
+    "category": "sports_history",
+    "image": "images/history110.jpg"
+  },
+  {
+    "id": 339,
+    "fact": "Did you know? Quidditch is played worldwide with teams racing on broomsticks inspired by Harry Potter.",
+    "category": "weird_sports",
+    "image": "images/weird110.jpg"
+  },
+  {
+    "id": 340,
+    "fact": "Did you know? Lionel Messi scored in 10 consecutive UEFA Champions League seasons.",
+    "category": "football",
+    "image": "images/football250.jpg"
+  },
+  {
+    "id": 341,
+    "fact": "Did you know? Cristiano Ronaldo scored his 100th goal for Real Madrid in only 105 appearances.",
+    "category": "football",
+    "image": "images/football251.jpg"
+  },
+  {
+    "id": 342,
+    "fact": "Did you know? Neymar Jr. became the youngest player to score 100 goals in Brazil’s Serie A.",
+    "category": "football",
+    "image": "images/football252.jpg"
+  },
+  {
+    "id": 343,
+    "fact": "Did you know? Mohamed Salah scored a perfect hat-trick in the Premier League against Watford in 2018.",
+    "category": "football",
+    "image": "images/football253.jpg"
+  },
+  {
+    "id": 344,
+    "fact": "Did you know? Robert Lewandowski scored 91 goals in a single calendar year across all competitions.",
+    "category": "football",
+    "image": "images/football254.jpg"
+  },
+  {
+    "id": 345,
+    "fact": "Did you know? Kylian Mbappé became the youngest player to score a Champions League hat-trick.",
+    "category": "football",
+    "image": "images/football255.jpg"
+  },
+  {
+    "id": 346,
+    "fact": "Did you know? Manuel Neuer has kept over 200 clean sheets in Bundesliga history.",
+    "category": "football",
+    "image": "images/football256.jpg"
+  },
+  {
+    "id": 347,
+    "fact": "Did you know? Lionel Messi has scored against every team in La Liga at least once.",
+    "category": "football",
+    "image": "images/football257.jpg"
+  },
+  {
+    "id": 348,
+    "fact": "Did you know? Cristiano Ronaldo became the first player to score 50 goals in 5 consecutive UEFA Champions League seasons.",
+    "category": "football",
+    "image": "images/football258.jpg"
+  },
+  {
+    "id": 349,
+    "fact": "Did you know? Neymar Jr. has scored over 200 goals in European club competitions for PSG.",
+    "category": "football",
+    "image": "images/football259.jpg"
+  },
+  {
+    "id": 350,
+    "fact": "Did you know? Mohamed Salah has the fastest recorded goal for Liverpool in the Premier League at 23 seconds.",
+    "category": "football",
+    "image": "images/football260.jpg"
+  },
+  {
+    "id": 351,
+    "fact": "Did you know? Pelé won three FIFA World Cups with Brazil in 1958, 1962, and 1970, a record no other player has matched.",
+    "category": "football",
+    "image": "images/football261.jpg"
+  },
+  {
+    "id": 352,
+    "fact": "Did you know? Cristiano Ronaldo scored a hat-trick in the 2018 FIFA World Cup, becoming the oldest player to do so.",
+    "category": "football",
+    "image": "images/football262.jpg"
+  },
+  {
+    "id": 353,
+    "fact": "Did you know? Lionel Messi scored his first goal for Barcelona at just 17 years old against Albacete in 2005.",
+    "category": "football",
+    "image": "images/football263.jpg"
+  },
+  {
+    "id": 354,
+    "fact": "Did you know? Zinedine Zidane scored two headers in the 1998 World Cup final to help France win their first title.",
+    "category": "football",
+    "image": "images/football264.jpg"
+  },
+  {
+    "id": 355,
+    "fact": "Did you know? Robert Lewandowski scored 41 Bundesliga goals in a single season, breaking Gerd Müller's long-standing record.",
+    "category": "football",
+    "image": "images/football265.jpg"
+  },
+  {
+    "id": 356,
+    "fact": "Did you know? Kylian Mbappé scored a hat-trick in the 2022 World Cup final, only the second player in history to do so.",
+    "category": "football",
+    "image": "images/football266.jpg"
+  },
+  {
+    "id": 357,
+    "fact": "Did you know? Andrea Pirlo was known for his deep-lying playmaker role and precise long-range passing.",
+    "category": "football",
+    "image": "images/football267.jpg"
+  },
+  {
+    "id": 358,
+    "fact": "Did you know? Ronaldinho won the Ballon d’Or in 2005 and received a standing ovation at the Santiago Bernabéu.",
+    "category": "football",
+    "image": "images/football268.jpg"
+  },
+  {
+    "id": 359,
+    "fact": "Did you know? Manchester United completed a dramatic comeback in the 1999 Champions League final by scoring twice in stoppage time.",
+    "category": "football",
+    "image": "images/football269.jpg"
+  },
+  {
+    "id": 360,
+    "fact": "Did you know? AC Milan holds the record for the second-most UEFA Champions League titles with 7 wins.",
+    "category": "football",
+    "image": "images/football270.jpg"
+  },
+  {
+    "id": 361,
+    "fact": "Did you know? Kobe Bryant scored 81 points in a single NBA game, the second-highest total in league history.",
+    "category": "basketball",
+    "image": "images/basketball111.jpg"
+  },
+  {
+    "id": 362,
+    "fact": "Did you know? Carl Lewis won 9 Olympic gold medals across four different Olympic Games.",
+    "category": "athletics",
+    "image": "images/athletics111.jpg"
+  },
+  {
+    "id": 363,
+    "fact": "Did you know? Manny Pacquiao is the only boxer to win world titles in eight different weight divisions.",
+    "category": "combat",
+    "image": "images/combat111.jpg"
+  },
+  {
+    "id": 364,
+    "fact": "Did you know? Rafael Nadal has won the French Open a record 14 times.",
+    "category": "tennis",
+    "image": "images/tennis111.jpg"
+  },
+  {
+    "id": 365,
+    "fact": "Did you know? Jacques Kallis is one of the greatest all-rounders in cricket history with over 10,000 runs and 250 wickets.",
+    "category": "cricket",
+    "image": "images/cricket111.jpg"
+  },
+  {
+    "id": 366,
+    "fact": "Did you know? Felix Baumgartner broke the sound barrier during a freefall jump from the stratosphere in 2012.",
+    "category": "extreme",
+    "image": "images/extreme111.jpg"
+  },
+  {
+    "id": 367,
+    "fact": "Did you know? Proper nutrition timing can significantly improve recovery and muscle growth in athletes.",
+    "category": "sports_science",
+    "image": "images/science111.jpg"
+  },
+  {
+    "id": 368,
+    "fact": "Did you know? The first Olympic marathon was inspired by the ancient Greek story of Pheidippides.",
+    "category": "sports_history",
+    "image": "images/history111.jpg"
+  },
+  {
+    "id": 369,
+    "fact": "Did you know? Toe wrestling is a real competitive sport that originated in England.",
+    "category": "weird_sports",
+    "image": "images/weird111.jpg"
+  },
+  {
+    "id": 370,
+    "fact": "Did you know? Lionel Messi provided more than 350 assists in his professional club career.",
+    "category": "football",
+    "image": "images/football271.jpg"
+  },
+  {
+    "id": 371,
+    "fact": "Did you know? Cristiano Ronaldo scored his first Champions League goal for Manchester United in 2007.",
+    "category": "football",
+    "image": "images/football272.jpg"
+  },
+  {
+    "id": 372,
+    "fact": "Did you know? Didier Drogba scored the winning penalty in Chelsea’s first-ever Champions League triumph in 2012.",
+    "category": "football",
+    "image": "images/football273.jpg"
+  },
+  {
+    "id": 373,
+    "fact": "Did you know? Xavi Hernandez completed over 90% of his passes throughout most of his Barcelona career.",
+    "category": "football",
+    "image": "images/football274.jpg"
+  },
+  {
+    "id": 374,
+    "fact": "Did you know? Sergio Ramos is the highest-scoring defender in Champions League history.",
+    "category": "football",
+    "image": "images/football275.jpg"
+  },
+  {
+    "id": 375,
+    "fact": "Did you know? Luka Modrić won the Ballon d’Or in 2018, breaking the Messi-Ronaldo dominance.",
+    "category": "football",
+    "image": "images/football276.jpg"
+  },
+  {
+    "id": 376,
+    "fact": "Did you know? Thierry Henry is Arsenal’s all-time leading goal scorer with 228 goals.",
+    "category": "football",
+    "image": "images/football277.jpg"
+  },
+  {
+    "id": 377,
+    "fact": "Did you know? Gianluigi Buffon played professional football for over 25 years at the top level.",
+    "category": "football",
+    "image": "images/football278.jpg"
+  },
+  {
+    "id": 378,
+    "fact": "Did you know? The fastest red card in football history was given just 2 seconds after kickoff.",
+    "category": "football",
+    "image": "images/football279.jpg"
+  },
+  {
+    "id": 379,
+    "fact": "Did you know? Barcelona’s Camp Nou is the largest stadium in Europe with a capacity of over 99,000.",
+    "category": "football",
+    "image": "images/football280.jpg"
+  },
+  {
+    "id": 380,
+    "fact": "Did you know? LeBron James is the NBA’s all-time leading scorer across regular season and playoffs combined.",
+    "category": "basketball",
+    "image": "images/basketball112.jpg"
+  },
+  {
+    "id": 381,
+    "fact": "Did you know? Wayde van Niekerk broke Michael Johnson’s 400m world record at the 2016 Olympics.",
+    "category": "athletics",
+    "image": "images/athletics112.jpg"
+  },
+  {
+    "id": 382,
+    "fact": "Did you know? Israel Adesanya defended his UFC middleweight title multiple times with elite striking skills.",
+    "category": "combat",
+    "image": "images/combat112.jpg"
+  },
+  {
+    "id": 383,
+    "fact": "Did you know? Andy Murray won Olympic gold medals in both 2012 and 2016.",
+    "category": "tennis",
+    "image": "images/tennis112.jpg"
+  },
+  {
+    "id": 384,
+    "fact": "Did you know? MS Dhoni is the only captain to win all three major ICC trophies.",
+    "category": "cricket",
+    "image": "images/cricket112.jpg"
+  },
+  {
+    "id": 385,
+    "fact": "Did you know? Base jumping is considered one of the most dangerous extreme sports in the world.",
+    "category": "extreme",
+    "image": "images/extreme112.jpg"
+  },
+  {
+    "id": 386,
+    "fact": "Did you know? Reaction time training can significantly improve performance in fast-paced sports.",
+    "category": "sports_science",
+    "image": "images/science112.jpg"
+  },
+  {
+    "id": 387,
+    "fact": "Did you know? The first FIFA World Cup trophy was called the Jules Rimet Trophy.",
+    "category": "sports_history",
+    "image": "images/history112.jpg"
+  },
+  {
+    "id": 388,
+    "fact": "Did you know? Cheese rolling injuries are so common that medical teams are always on standby.",
+    "category": "weird_sports",
+    "image": "images/weird112.jpg"
+  },
+  {
+    "id": 389,
+    "fact": "Did you know? Lionel Messi has captained both Barcelona and Argentina to major trophies.",
+    "category": "football",
+    "image": "images/football281.jpg"
+  },
+  {
+    "id": 390,
+    "fact": "Did you know? Cristiano Ronaldo has scored goals in every minute of a football match from 1 to 90.",
+    "category": "football",
+    "image": "images/football282.jpg"
+  },
+  {
+    "id": 391,
+    "fact": "Did you know? Neymar Jr. was named captain of Brazil’s national team before the age of 25.",
+    "category": "football",
+    "image": "images/football283.jpg"
+  },
+  {
+    "id": 392,
+    "fact": "Did you know? Zlatan Ibrahimović has scored goals in over 20 different football leagues and competitions.",
+    "category": "football",
+    "image": "images/football284.jpg"
+  },
+  {
+    "id": 393,
+    "fact": "Did you know? Erling Haaland reached 20 Champions League goals faster than any player in history.",
+    "category": "football",
+    "image": "images/football285.jpg"
+  },
+  {
+    "id": 394,
+    "fact": "Did you know? Kevin De Bruyne holds the record for most assists in a single Premier League season.",
+    "category": "football",
+    "image": "images/football286.jpg"
+  },
+  {
+    "id": 395,
+    "fact": "Did you know? Italy won the 2006 World Cup final after a penalty shootout against France.",
+    "category": "football",
+    "image": "images/football287.jpg"
+  },
+  {
+    "id": 396,
+    "fact": "Did you know? Germany scored 7 goals against Brazil in the 2014 World Cup semifinal.",
+    "category": "football",
+    "image": "images/football288.jpg"
+  },
+  {
+    "id": 397,
+    "fact": "Did you know? The Premier League is watched by over 3 billion people worldwide each season.",
+    "category": "football",
+    "image": "images/football289.jpg"
+  },
+  {
+    "id": 398,
+    "fact": "Did you know? The longest football match ever recorded lasted over 3 hours due to extra time and delays.",
+    "category": "football",
+    "image": "images/football290.jpg"
+  },
+  {
+    "id": 399,
+    "fact": "Did you know? Lionel Messi won the Golden Ball twice at the FIFA World Cup.",
+    "category": "football",
+    "image": "images/football291.jpg"
+  },
+  {
+    "id": 400,
+    "fact": "Did you know? Cristiano Ronaldo became the first player to score in five different World Cups.",
+    "category": "football",
+    "image": "images/football292.jpg"
+  }
+]

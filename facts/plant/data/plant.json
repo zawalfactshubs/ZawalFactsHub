@@ -1,0 +1,1803 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? The baobab tree can store up to 32,000 gallons of water in its trunk.",
+    "category": "tree",
+    "image": "images/baobab.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Sunflowers can track the movement of the sun from east to west each day.",
+    "category": "flower",
+    "image": "images/sunflower.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Basil leaves release chemicals that can repel mosquitoes naturally.",
+    "category": "herb",
+    "image": "images/basil.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Lavender shrubs can live for over 15 years if properly cared for.",
+    "category": "shrub",
+    "image": "images/lavender.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? The saguaro cactus can live over 150 years and grow arms after 75 years.",
+    "category": "cactus/succulent",
+    "image": "images/saguaro.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? Water lilies can regulate the temperature of their flowers to attract pollinators.",
+    "category": "aquatic",
+    "image": "images/waterlily.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Grapevines can produce fruit for over 50 years under optimal conditions.",
+    "category": "vine/climber",
+    "image": "images/grapevine.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Aloe vera is used for medicinal purposes for its healing gel.",
+    "category": "medicinal/edible",
+    "image": "images/aloe_vera.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? Oleander is highly poisonous, and all parts of the plant can be lethal if ingested.",
+    "category": "poisonous/toxic",
+    "image": "images/oleander.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? The corpse flower emits a smell similar to rotting flesh when blooming.",
+    "category": "fun/weird",
+    "image": "images/corpse_flower.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Mangrove trees stabilize coastlines and reduce erosion from storms.",
+    "category": "ecological/environmental",
+    "image": "images/mangrove.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Oak trees can live for over 1,000 years in the wild.",
+    "category": "tree",
+    "image": "images/oak.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Tulips can multiply underground through bulbs every season.",
+    "category": "flower",
+    "image": "images/tulip.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Mint spreads quickly and can take over a garden if not contained.",
+    "category": "herb",
+    "image": "images/mint.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Hydrangea flowers can change color depending on soil acidity.",
+    "category": "shrub",
+    "image": "images/hydrangea.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? The golden barrel cactus can live up to 100 years in desert conditions.",
+    "category": "cactus/succulent",
+    "image": "images/golden_barrel.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? Lotus plants can rise above muddy waters and stay clean due to natural self-cleaning leaves.",
+    "category": "aquatic",
+    "image": "images/lotus.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Climbing roses can grow up to 30 feet if supported by a trellis or structure.",
+    "category": "vine/climber",
+    "image": "images/climbing_rose.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Rosemary is edible, aromatic, and has been used for centuries in cooking and medicine.",
+    "category": "medicinal/edible",
+    "image": "images/rosemary.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Foxglove contains chemicals that can be fatal if consumed but are used in heart medicine.",
+    "category": "poisonous/toxic",
+    "image": "images/foxglove.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? Mimosa pudica, the 'sensitive plant', folds its leaves when touched.",
+    "category": "fun/weird",
+    "image": "images/mimosa.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Pine trees help reduce air pollution and provide habitats for many species.",
+    "category": "ecological/environmental",
+    "image": "images/pine.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Maple trees produce sap that can be boiled into maple syrup.",
+    "category": "tree",
+    "image": "images/maple.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Daffodils are toxic to humans and pets if ingested.",
+    "category": "flower",
+    "image": "images/daffodil.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Cilantro leaves are edible and commonly used in cooking around the world.",
+    "category": "herb",
+    "image": "images/cilantro.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Boxwood shrubs can be trimmed into geometric shapes for ornamental gardens.",
+    "category": "shrub",
+    "image": "images/boxwood.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Prickly pear cactus produces edible fruits called 'tunas'.",
+    "category": "cactus/succulent",
+    "image": "images/prickly_pear.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Water hyacinths can grow extremely fast, sometimes covering entire ponds in weeks.",
+    "category": "aquatic",
+    "image": "images/water_hyacinth.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Passionflower vines produce fruits called passionfruit and beautiful blossoms.",
+    "category": "vine/climber",
+    "image": "images/passionflower.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Chamomile is used to make calming teas and remedies for digestion.",
+    "category": "medicinal/edible",
+    "image": "images/chamomile.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Belladonna is extremely toxic and historically used as poison and in cosmetics.",
+    "category": "poisonous/toxic",
+    "image": "images/belladonna.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? The sensitive mimosa can move its leaves in response to touch.",
+    "category": "fun/weird",
+    "image": "images/mimosa2.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Mangroves prevent coastal erosion and provide shelter for aquatic life.",
+    "category": "ecological/environmental",
+    "image": "images/mangrove2.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Redwood trees are among the tallest living trees, reaching over 350 feet.",
+    "category": "tree",
+    "image": "images/redwood.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Orchids are highly diverse, with over 25,000 species worldwide.",
+    "category": "flower",
+    "image": "images/orchid.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Thyme is an herb that has been used since ancient times for medicinal purposes.",
+    "category": "herb",
+    "image": "images/thyme.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Azalea shrubs bloom in vibrant colors in spring and early summer.",
+    "category": "shrub",
+    "image": "images/azalea.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Echinocactus, the barrel cactus, stores water to survive extreme heat.",
+    "category": "cactus/succulent",
+    "image": "images/echinocactus.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Water lettuce floats on water surfaces and provides shelter for aquatic animals.",
+    "category": "aquatic",
+    "image": "images/water_lettuce.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Ivy vines can cling to walls and structures without damaging them.",
+    "category": "vine/climber",
+    "image": "images/ivy.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Sage is a herb used for cooking and spiritual cleansing in many cultures.",
+    "category": "medicinal/edible",
+    "image": "images/sage.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Castor bean plants are highly toxic due to ricin in the seeds.",
+    "category": "poisonous/toxic",
+    "image": "images/castor_bean.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Venus flytraps can snap shut in less than a second to catch insects.",
+    "category": "fun/weird",
+    "image": "images/venus_flytrap.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? Wetlands plants help purify water and reduce flooding by absorbing excess water.",
+    "category": "ecological/environmental",
+    "image": "images/wetlands.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Cedar trees are highly valued for their wood and aromatic properties.",
+    "category": "tree",
+    "image": "images/cedar.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Marigold flowers repel pests naturally and are often planted in gardens for protection.",
+    "category": "flower",
+    "image": "images/marigold.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Parsley is a common herb used worldwide in cooking and as garnish.",
+    "category": "herb",
+    "image": "images/parsley.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Rhododendron shrubs produce vibrant flowers and attract pollinators.",
+    "category": "shrub",
+    "image": "images/rhododendron.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? The prickly cactus Opuntia can survive extreme droughts with minimal water.",
+    "category": "cactus/succulent",
+    "image": "images/opuntia.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Water primrose provides food and shelter for many aquatic animals.",
+    "category": "aquatic",
+    "image": "images/water_primrose.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Morning glory vines can grow rapidly and cover structures beautifully.",
+    "category": "vine/climber",
+    "image": "images/morning_glory.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Lemon balm is an herb with calming effects and a citrus aroma.",
+    "category": "medicinal/edible",
+    "image": "images/lemon_balm.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Monkshood is a poisonous plant that can cause severe harm if ingested.",
+    "category": "poisonous/toxic",
+    "image": "images/monkshood.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? The sensitive plant reacts to touch by folding its leaves as a defense mechanism.",
+    "category": "fun/weird",
+    "image": "images/mimosa3.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Wetland plants like cattails help filter pollutants and maintain ecosystem balance.",
+    "category": "ecological/environmental",
+    "image": "images/cattails.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Willow trees are known for their flexibility and often grow near rivers.",
+    "category": "tree",
+    "image": "images/willow.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Peonies are perennial flowers known for their large, fragrant blooms.",
+    "category": "flower",
+    "image": "images/peony.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Oregano is a herb widely used in Mediterranean cuisine and has medicinal properties.",
+    "category": "herb",
+    "image": "images/oregano.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Holly shrubs have spiny leaves and bright red berries in winter.",
+    "category": "shrub",
+    "image": "images/holly.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Euphorbia cactus species can exude toxic latex to deter herbivores.",
+    "category": "cactus/succulent",
+    "image": "images/euphorbia.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Duckweed is a tiny aquatic plant that floats on water and grows rapidly.",
+    "category": "aquatic",
+    "image": "images/duckweed.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Clematis vines produce beautiful flowers and can climb trellises and fences.",
+    "category": "vine/climber",
+    "image": "images/clematis.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Mint is a herb that spreads easily and has a refreshing aroma.",
+    "category": "medicinal/edible",
+    "image": "images/mint2.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Poison ivy can cause allergic reactions and should be handled carefully.",
+    "category": "poisonous/toxic",
+    "image": "images/poison_ivy.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? The sensitive plant folds its leaves rapidly when touched as a defense.",
+    "category": "fun/weird",
+    "image": "images/mimosa4.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Seagrass meadows provide habitat and food for many marine creatures.",
+    "category": "ecological/environmental",
+    "image": "images/seagrass.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Elm trees can live for hundreds of years and are known for their strong wood.",
+    "category": "tree",
+    "image": "images/elm.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Gladiolus flowers bloom in summer and come in various colors and sizes.",
+    "category": "flower",
+    "image": "images/gladiolus.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Dill is a herb commonly used in pickling and cooking for its aromatic flavor.",
+    "category": "herb",
+    "image": "images/dill.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Forsythia shrubs produce bright yellow flowers in early spring.",
+    "category": "shrub",
+    "image": "images/forsythia.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? The corpse lily blooms only once every 40 to 50 years and emits a strong odor to attract pollinators.",
+    "category": "fun/weird",
+    "image": "images/corpse_lily.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? The titan arum can grow over 10 feet tall in cultivation under optimal conditions.",
+    "category": "fun/weird",
+    "image": "images/titan_arum.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? The bael tree produces fruit that is used in traditional medicine for digestion and immunity.",
+    "category": "medicinal/edible",
+    "image": "images/bael.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? The Japanese maple can have leaves that turn vibrant red, orange, or purple in autumn.",
+    "category": "tree",
+    "image": "images/japanese_maple.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Hibiscus flowers are edible and commonly used to make teas and jams.",
+    "category": "flower",
+    "image": "images/hibiscus.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? The peppermint plant produces essential oils that are widely used in food, cosmetics, and medicine.",
+    "category": "herb",
+    "image": "images/peppermint.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Forsythia is often used as a natural fence because of its dense, thorny branches.",
+    "category": "shrub",
+    "image": "images/forsythia2.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? The golden barrel cactus can survive long drought periods by storing water in its thick stem.",
+    "category": "cactus/succulent",
+    "image": "images/golden_barrel2.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? The water caltrop is an aquatic plant that produces unusual horn-shaped seeds eaten in parts of Asia.",
+    "category": "aquatic",
+    "image": "images/water_caltrop.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Wisteria vines can live for over 50 years and produce cascading clusters of purple flowers.",
+    "category": "vine/climber",
+    "image": "images/wisteria.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? The African tulip tree produces large, bright orange-red flowers that attract birds.",
+    "category": "tree",
+    "image": "images/african_tulip.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? The Baobab tree's fruit is rich in vitamin C and used in drinks and food.",
+    "category": "tree",
+    "image": "images/baobab_fruit.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? The Monkey Puzzle tree can live for over 1,000 years and has unique spiky leaves.",
+    "category": "tree",
+    "image": "images/monkey_puzzle.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? The Dawn Redwood was once thought extinct and is now grown in parks worldwide.",
+    "category": "tree",
+    "image": "images/dawn_redwood.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? The Cannonball tree produces large, round fruits that can weigh up to 11 kilograms.",
+    "category": "tree",
+    "image": "images/cannonball_tree.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? The Rainbow Eucalyptus sheds its bark in strips to reveal a rainbow-colored trunk.",
+    "category": "tree",
+    "image": "images/rainbow_eucalyptus.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? The Indian Laburnum tree blooms with yellow flowers and is used in traditional medicine.",
+    "category": "tree",
+    "image": "images/indian_laburnum.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? The Ginkgo tree is considered a living fossil and can live for over a thousand years.",
+    "category": "tree",
+    "image": "images/ginkgo.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The Kapok tree produces fluffy seed fibers used for pillows and mattresses.",
+    "category": "tree",
+    "image": "images/kapok.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? The Jacaranda tree produces abundant purple-blue flowers and is widely planted in tropical regions.",
+    "category": "tree",
+    "image": "images/jacaranda.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? The Passionflower produces exotic blooms and fruits that attract pollinators like bees and butterflies.",
+    "category": "flower",
+    "image": "images/passionflower_flower.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The Camellia flower blooms in winter and early spring with vibrant colors.",
+    "category": "flower",
+    "image": "images/camellia.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? The Hibiscus rosa-sinensis produces edible petals often used in teas and decorations.",
+    "category": "flower",
+    "image": "images/hibiscus_flower.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? The Bird of Paradise flower resembles a bird in flight and thrives in tropical climates.",
+    "category": "flower",
+    "image": "images/bird_of_paradise.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? The Snapdragon flower is popular in gardens and has medicinal uses in traditional remedies.",
+    "category": "flower",
+    "image": "images/snapdragon.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? The Plumeria tree produces fragrant flowers used in making leis and perfumes.",
+    "category": "flower",
+    "image": "images/plumeria.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? The Calendula flower has anti-inflammatory properties and is used in skincare remedies.",
+    "category": "flower",
+    "image": "images/calendula.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? The Nasturtium flower is edible and used in salads for its peppery flavor.",
+    "category": "flower",
+    "image": "images/nasturtium.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The Lavender flower is not only fragrant but also repels mosquitoes naturally.",
+    "category": "flower",
+    "image": "images/lavender_flower.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? The Sage herb is used worldwide for cooking and traditional medicine.",
+    "category": "herb",
+    "image": "images/sage_herb.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? The Cilantro herb is rich in antioxidants and used extensively in culinary dishes.",
+    "category": "herb",
+    "image": "images/cilantro_herb.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? The Lemongrass herb has a citrus scent and is widely used in teas and cuisine.",
+    "category": "herb",
+    "image": "images/lemongrass.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? The Tarragon herb is commonly used in French cuisine and has mild medicinal properties.",
+    "category": "herb",
+    "image": "images/tarragon.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? The Basil herb has antibacterial properties and is used fresh in cooking worldwide.",
+    "category": "herb",
+    "image": "images/basil_herb.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? The Fuchsia shrub produces vibrant, pendulous flowers that attract hummingbirds.",
+    "category": "shrub",
+    "image": "images/fuchsia.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? The Camellia shrub blooms in shades of pink, red, and white, often in winter.",
+    "category": "shrub",
+    "image": "images/camellia_shrub.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? The Forsythia shrub is one of the first to bloom in early spring with bright yellow flowers.",
+    "category": "shrub",
+    "image": "images/forsythia_shrub.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? The Barberry shrub produces red berries that are edible and used in cooking in some cultures.",
+    "category": "shrub",
+    "image": "images/barberry.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? The Gardenia shrub is known for fragrant white flowers used in perfumes and gardens.",
+    "category": "shrub",
+    "image": "images/gardenia.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? The Peyote cactus contains psychoactive alkaloids and is used in traditional rituals.",
+    "category": "cactus/succulent",
+    "image": "images/peyote.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? The Barrel cactus stores water in its thick stem to survive arid environments.",
+    "category": "cactus/succulent",
+    "image": "images/barrel_cactus.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? The Saguaro cactus develops arms only after several decades and can live for 200 years.",
+    "category": "cactus/succulent",
+    "image": "images/saguaro2.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? The Prickly Pear cactus produces edible pads called nopales used in Mexican cuisine.",
+    "category": "cactus/succulent",
+    "image": "images/prickly_pear2.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? The Christmas cactus blooms indoors with bright pink, red, or white flowers in winter.",
+    "category": "cactus/succulent",
+    "image": "images/christmas_cactus.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? The Water Hyacinth floats on water surfaces and helps remove pollutants naturally.",
+    "category": "aquatic",
+    "image": "images/water_hyacinth2.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? The Water Lily flower opens in the morning and closes at night, regulating its temperature.",
+    "category": "aquatic",
+    "image": "images/water_lily2.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? The Lotus flower rises above muddy waters and stays clean due to self-cleaning leaves.",
+    "category": "aquatic",
+    "image": "images/lotus2.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? The Duckweed is one of the smallest flowering plants and grows rapidly in still water.",
+    "category": "aquatic",
+    "image": "images/duckweed2.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? The Water Primrose provides food and shelter for aquatic animals and birds.",
+    "category": "aquatic",
+    "image": "images/water_primrose2.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? The Wisteria vine can grow over 30 feet and produces cascading purple flowers in spring.",
+    "category": "vine/climber",
+    "image": "images/wisteria2.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? The Clematis vine produces large, showy flowers and climbs trellises easily.",
+    "category": "vine/climber",
+    "image": "images/clematis2.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? The Morning Glory vine grows quickly and can cover fences or walls beautifully.",
+    "category": "vine/climber",
+    "image": "images/morning_glory2.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? The Passionflower vine produces edible passionfruit and intricate flowers that attract pollinators.",
+    "category": "vine/climber",
+    "image": "images/passionflower2.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? The Honeysuckle vine has sweet-scented flowers that attract hummingbirds and bees.",
+    "category": "vine/climber",
+    "image": "images/honeysuckle.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Lemon balm is a herb used in teas for its calming effect and fresh lemon aroma.",
+    "category": "medicinal/edible",
+    "image": "images/lemon_balm2.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Chamomile flowers are used for calming teas and have mild anti-inflammatory properties.",
+    "category": "medicinal/edible",
+    "image": "images/chamomile2.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Aloe vera gel is used to soothe burns and moisturize skin naturally.",
+    "category": "medicinal/edible",
+    "image": "images/aloe_vera2.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Rosemary has medicinal properties and is used as a culinary herb worldwide.",
+    "category": "medicinal/edible",
+    "image": "images/rosemary2.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Sage leaves are used for cooking and traditional medicinal purposes in many cultures.",
+    "category": "medicinal/edible",
+    "image": "images/sage2.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Poison ivy produces an oil called urushiol which can cause severe skin reactions.",
+    "category": "poisonous/toxic",
+    "image": "images/poison_ivy2.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Belladonna, also known as deadly nightshade, contains alkaloids that affect the nervous system.",
+    "category": "poisonous/toxic",
+    "image": "images/belladonna2.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Foxglove contains digitalis, which is used in heart medication but can be toxic if ingested.",
+    "category": "poisonous/toxic",
+    "image": "images/foxglove2.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Castor bean plants contain ricin, a highly toxic compound found in the seeds.",
+    "category": "poisonous/toxic",
+    "image": "images/castor_bean2.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Monkshood is extremely poisonous and has been used historically as a poison.",
+    "category": "poisonous/toxic",
+    "image": "images/monkshood2.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Venus flytraps can close their leaves in less than a second to trap insects for nutrition.",
+    "category": "fun/weird",
+    "image": "images/venus_flytrap2.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Mimosa pudica, the sensitive plant, folds its leaves rapidly when touched as a defense mechanism.",
+    "category": "fun/weird",
+    "image": "images/mimosa5.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? The Rafflesia flower is one of the largest in the world and emits a strong odor to attract pollinators.",
+    "category": "fun/weird",
+    "image": "images/rafflesia.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? The Corpse flower blooms rarely and releases a smell similar to decaying flesh to attract pollinators.",
+    "category": "fun/weird",
+    "image": "images/corpse_flower2.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? The Sensitive mimosa can move its leaves in response to touch and environmental stimuli.",
+    "category": "fun/weird",
+    "image": "images/mimosa6.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Mangrove trees help prevent coastal erosion and provide shelter for marine wildlife.",
+    "category": "ecological/environmental",
+    "image": "images/mangrove3.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Wetland plants, such as cattails and reeds, help purify water and reduce flooding.",
+    "category": "ecological/environmental",
+    "image": "images/wetlands2.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Seagrass meadows provide habitat for fish and invertebrates while stabilizing sediments.",
+    "category": "ecological/environmental",
+    "image": "images/seagrass2.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Pine trees improve air quality by filtering pollutants and producing oxygen.",
+    "category": "ecological/environmental",
+    "image": "images/pine2.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Cedar trees are resistant to insects and decay, making them ideal for construction.",
+    "category": "tree",
+    "image": "images/cedar2.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Elm trees are valued for their strong wood and can live for several centuries.",
+    "category": "tree",
+    "image": "images/elm2.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Willow trees are flexible and often grow near rivers, helping prevent soil erosion.",
+    "category": "tree",
+    "image": "images/willow2.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Maple trees produce sap used to make maple syrup, a natural sweetener.",
+    "category": "tree",
+    "image": "images/maple2.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Redwood trees are among the tallest living trees and can live for over 2,000 years.",
+    "category": "tree",
+    "image": "images/redwood2.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Oak trees support hundreds of species of insects, birds, and mammals in their ecosystem.",
+    "category": "tree",
+    "image": "images/oak2.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Baobab trees provide fruit, leaves, and bark that are used for food, medicine,and fiber.",
+        "category": "tree",
+    "image": "images/baobab2.jpg"
+    },
+
+  {
+    "id": 151,
+    "fact": "Did you know? The Japanese Maple tree produces beautiful red or green foliage and is often used in bonsai.",
+    "category": "tree",
+    "image": "images/japanese_maple.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? The Monkeypod tree provides shade and has wide-spreading branches, commonly found in tropical regions.",
+    "category": "tree",
+    "image": "images/monkeypod.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? The Baobab tree’s leaves are edible and used as vegetables in African cuisine.",
+    "category": "tree",
+    "image": "images/baobab_leaves.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? The Silver Birch tree has white peeling bark and is native to Europe and parts of Asia.",
+    "category": "tree",
+    "image": "images/silver_birch.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? The Mahogany tree is valued for its durable, reddish-brown timber used in furniture.",
+    "category": "tree",
+    "image": "images/mahogany.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? The Black Walnut tree produces edible nuts and rich dark wood for furniture.",
+    "category": "tree",
+    "image": "images/black_walnut.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? The Fig tree produces sweet edible fruits and is one of the first cultivated fruit trees.",
+    "category": "tree",
+    "image": "images/fig_tree.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? The Jacaranda tree’s vibrant purple flowers bloom annually, attracting bees and birds.",
+    "category": "tree",
+    "image": "images/jacaranda2.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? The Indian Rosewood tree produces aromatic timber widely used in musical instruments.",
+    "category": "tree",
+    "image": "images/indian_rosewood.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? The Redbud tree produces pink or purple flowers directly on its trunk in spring.",
+    "category": "tree",
+    "image": "images/redbud.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? The Dahlia flower comes in a wide variety of shapes and colors, from small to giant blooms.",
+    "category": "flower",
+    "image": "images/dahlia.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? The Magnolia flower produces large, fragrant blooms in spring and summer.",
+    "category": "flower",
+    "image": "images/magnolia.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? The Peony flower can live for decades and produces large, aromatic blooms.",
+    "category": "flower",
+    "image": "images/peony2.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? The Zinnia flower attracts butterflies and blooms throughout the summer in bright colors.",
+    "category": "flower",
+    "image": "images/zinnia.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? The Maranta, or Prayer Plant, has leaves that fold at night and open during the day.",
+    "category": "flower",
+    "image": "images/prayer_plant.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? The Cosmos flower is known for its daisy-like blooms and is easy to grow from seeds.",
+    "category": "flower",
+    "image": "images/cosmos.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? The Sweet Pea flower is fragrant and produces vibrant blooms used in gardens and bouquets.",
+    "category": "flower",
+    "image": "images/sweet_pea.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? The Nasturtium flower is edible and has a peppery flavor used in salads and garnishes.",
+    "category": "flower",
+    "image": "images/nasturtium2.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? The Chamomile herb is used to brew tea with calming effects and digestive benefits.",
+    "category": "herb",
+    "image": "images/chamomile3.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? The Thyme herb has antiseptic properties and is used both in cooking and medicine.",
+    "category": "herb",
+    "image": "images/thyme2.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? The Oregano herb is rich in antioxidants and widely used in Mediterranean cuisine.",
+    "category": "herb",
+    "image": "images/oregano2.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? The Dill herb has feathery leaves and seeds used for pickling and seasoning food.",
+    "category": "herb",
+    "image": "images/dill2.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? The Parsley herb is a culinary staple that also contains vitamins A, C, and K.",
+    "category": "herb",
+    "image": "images/parsley2.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? The Azalea shrub produces vibrant spring flowers and is often used in landscaping.",
+    "category": "shrub",
+    "image": "images/azalea2.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? The Rhododendron shrub has evergreen leaves and blooms in clusters of bright flowers.",
+    "category": "shrub",
+    "image": "images/rhododendron2.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? The Boxwood shrub can be shaped into hedges and topiaries for ornamental gardens.",
+    "category": "shrub",
+    "image": "images/boxwood2.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? The Holly shrub produces spiny leaves and red berries that persist through winter.",
+    "category": "shrub",
+    "image": "images/holly2.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? The Forsythia shrub is among the first to bloom in early spring with yellow flowers.",
+    "category": "shrub",
+    "image": "images/forsythia2.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? The Echinocactus stores water in its stem and survives extreme desert conditions.",
+    "category": "cactus/succulent",
+    "image": "images/echinocactus2.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? The Golden Barrel cactus is round and can survive for decades with minimal water.",
+    "category": "cactus/succulent",
+    "image": "images/golden_barrel2.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? The Prickly Pear cactus produces edible fruits and is a food source for wildlife.",
+    "category": "cactus/succulent",
+    "image": "images/prickly_pear3.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? The Christmas Cactus blooms indoors with colorful flowers during winter months.",
+    "category": "cactus/succulent",
+    "image": "images/christmas_cactus2.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? The Peyote cactus contains psychoactive compounds and has ceremonial use in some cultures.",
+    "category": "cactus/succulent",
+    "image": "images/peyote2.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? The Water Hyacinth grows rapidly and can cover large areas of water in weeks.",
+    "category": "aquatic",
+    "image": "images/water_hyacinth3.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The Lotus flower floats on water and repels dirt thanks to its self-cleaning leaves.",
+    "category": "aquatic",
+    "image": "images/lotus3.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? The Duckweed is one of the fastest-growing aquatic plants and floats on pond surfaces.",
+    "category": "aquatic",
+    "image": "images/duckweed3.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? The Water Primrose provides food for aquatic animals and supports biodiversity.",
+    "category": "aquatic",
+    "image": "images/water_primrose3.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? The Water Lettuce floats and creates habitat for fish and small aquatic creatures.",
+    "category": "aquatic",
+    "image": "images/water_lettuce2.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? The Wisteria vine produces cascading clusters of purple flowers and can grow up to 30 feet.",
+    "category": "vine/climber",
+    "image": "images/wisteria3.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? The Honeysuckle vine attracts pollinators with its fragrant flowers and can climb trellises easily.",
+    "category": "vine/climber",
+    "image": "images/honeysuckle2.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? The Clematis vine can produce large flowers and climb fences and walls without damage.",
+    "category": "vine/climber",
+    "image": "images/clematis3.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? The Passionflower vine produces edible fruits and intricate flowers that attract bees.",
+    "category": "vine/climber",
+    "image": "images/passionflower3.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? The Morning Glory vine grows rapidly and blooms in morning sun with colorful flowers.",
+    "category": "vine/climber",
+    "image": "images/morning_glory3.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Aloe vera leaves produce a gel used for burns, skin care, and medicinal purposes.",
+    "category": "medicinal/edible",
+    "image": "images/aloe_vera3.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Chamomile flowers are used in herbal teas that have calming and digestive benefits.",
+    "category": "medicinal/edible",
+    "image": "images/chamomile4.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Lemon Balm is used for teas and aromatherapy, providing a soothing effect and mild citrus scent.",
+    "category": "medicinal/edible",
+    "image": "images/lemon_balm3.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Rosemary is both a culinary and medicinal herb with antioxidant properties.",
+    "category": "medicinal/edible",
+    "image": "images/rosemary3.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Sage leaves are used in cooking and herbal remedies for their aromatic and antibacterial qualities.",
+    "category": "medicinal/edible",
+    "image": "images/sage3.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Poison Ivy produces urushiol, an oil that causes allergic skin reactions in many people.",
+    "category": "poisonous/toxic",
+    "image": "images/poison_ivy3.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Belladonna, or deadly nightshade, contains tropane alkaloids that can affect the nervous system.",
+    "category": "poisonous/toxic",
+    "image": "images/belladonna3.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Foxglove contains digitalis, which can treat heart conditions but is highly toxic if ingested improperly.",
+    "category": "poisonous/toxic",
+    "image": "images/foxglove3.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Castor bean plants contain ricin, a highly toxic compound found in seeds that can be deadly.",
+    "category": "poisonous/toxic",
+    "image": "images/castor_bean3.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Monkshood is a poisonous plant historically used in potions and as a poison.",
+    "category": "poisonous/toxic",
+    "image": "images/monkshood3.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Venus Flytraps snap shut to trap insects, aiding their nutrient intake in poor soils.",
+    "category": "fun/weird",
+    "image": "images/venus_flytrap3.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Rafflesia is one of the largest flowers and emits a strong odor to attract flies as pollinators.",
+    "category": "fun/weird",
+    "image": "images/rafflesia2.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Mimosa pudica quickly folds its leaves when touched as a natural defense mechanism.",
+    "category": "fun/weird",
+    "image": "images/mimosa7.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? The Corpse flower produces a pungent odor resembling rotting flesh to attract pollinators.",
+    "category": "fun/weird",
+    "image": "images/corpse_flower3.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Sensitive plants respond to touch, light, and temperature, moving their leaves for protection.",
+    "category": "fun/weird",
+    "image": "images/mimosa8.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Mangrove trees stabilize coastlines, reduce erosion, and provide shelter for aquatic life.",
+    "category": "ecological/environmental",
+    "image": "images/mangrove4.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Wetland plants, such as reeds and cattails, absorb excess water and purify ecosystems.",
+    "category": "ecological/environmental",
+    "image": "images/wetlands3.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Seagrass meadows improve water quality, provide habitats, and reduce coastal erosion.",
+    "category": "ecological/environmental",
+    "image": "images/seagrass3.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Pine forests help reduce air pollution and provide shelter and food for wildlife.",
+    "category": "ecological/environmental",
+    "image": "images/pine3.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Cedar trees produce aromatic wood that repels insects and is used in furniture and closets.",
+    "category": "tree",
+    "image": "images/cedar3.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Elm trees are resistant to wind damage and provide shade in parks and streets.",
+    "category": "tree",
+    "image": "images/elm3.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Willow trees have flexible branches and roots that prevent riverbank erosion.",
+    "category": "tree",
+    "image": "images/willow3.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Maple trees’ sap contains sugars that can be processed into natural maple syrup.",
+    "category": "tree",
+    "image": "images/maple3.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Redwood trees are massive, living for thousands of years, and can reach heights above 350 feet.",
+    "category": "tree",
+    "image": "images/redwood3.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Oak trees support diverse wildlife including insects, birds, and mammals in their ecosystem.",
+    "category": "tree",
+    "image": "images/oak3.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Baobab trees provide fruits, leaves, and bark for food, medicine, and fiber in Africa.",
+    "category": "tree",
+    "image": "images/baobab3.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? The African Mahogany tree produces strong, durable wood often used in boat building and furniture.",
+    "category": "tree",
+    "image": "images/african_mahogany.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? The Jacaranda tree produces stunning purple flowers and is native to South America.",
+    "category": "tree",
+    "image": "images/jacaranda3.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? The Black Locust tree produces fragrant white flowers and durable timber.",
+    "category": "tree",
+    "image": "images/black_locust.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? The Ginkgo tree is a living fossil and can live over 1,000 years.",
+    "category": "tree",
+    "image": "images/ginkgo.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? The Ironwood tree is extremely dense and provides durable wood for construction.",
+    "category": "tree",
+    "image": "images/ironwood.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? The Kapok tree can grow over 200 feet tall and produces lightweight fibers.",
+    "category": "tree",
+    "image": "images/kapok.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? The Rainbow Eucalyptus tree has bark that peels to reveal multicolored layers.",
+    "category": "tree",
+    "image": "images/rainbow_eucalyptus.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? The Sugar Maple tree’s leaves turn brilliant colors in autumn and provide sap for syrup.",
+    "category": "tree",
+    "image": "images/sugar_maple.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? The Baobab tree produces large, nutrient-rich fruits called monkey bread.",
+    "category": "tree",
+    "image": "images/baobab_fruit.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The Plane tree has distinctive bark that sheds in patches, revealing a mottled trunk.",
+    "category": "tree",
+    "image": "images/plane_tree.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? The Tulip tree produces large, yellow flowers in spring and can grow over 150 feet tall.",
+    "category": "tree",
+    "image": "images/tulip_tree.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? The Snapdragon flower is colorful and can be grown in a wide variety of climates.",
+    "category": "flower",
+    "image": "images/snapdragon.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? The Gardenia flower is fragrant and produces white blooms commonly used in perfumes.",
+    "category": "flower",
+    "image": "images/gardenia.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? The Hellebore flower blooms in winter and early spring and is sometimes called the Christmas Rose.",
+    "category": "flower",
+    "image": "images/hellebore.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? The Camellia flower has glossy leaves and blooms in winter with striking colors.",
+    "category": "flower",
+    "image": "images/camellia.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? The Gladiolus flower grows in tall spikes with funnel-shaped blooms in summer.",
+    "category": "flower",
+    "image": "images/gladiolus2.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The Peony flower is long-lived, sometimes thriving for decades in gardens.",
+    "category": "flower",
+    "image": "images/peony3.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? The Dahlia flower has over 20,000 registered varieties with different sizes and colors.",
+    "category": "flower",
+    "image": "images/dahlia2.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? The Sweet William flower attracts butterflies and bees with its fragrant blooms.",
+    "category": "flower",
+    "image": "images/sweet_william.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? The Mint herb can help relieve indigestion and is commonly used in teas and culinary dishes.",
+    "category": "herb",
+    "image": "images/mint3.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? The Basil herb is aromatic and used widely in Italian and Southeast Asian cooking.",
+    "category": "herb",
+    "image": "images/basil2.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? The Oregano herb has antibacterial properties and is rich in antioxidants.",
+    "category": "herb",
+    "image": "images/oregano3.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? The Cilantro herb is rich in vitamins and used in cuisines around the world.",
+    "category": "herb",
+    "image": "images/cilantro2.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? The Parsley herb is rich in nutrients and used for garnish, flavoring, and medicine.",
+    "category": "herb",
+    "image": "images/parsley3.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? The Boxwood shrub can be shaped into formal hedges and topiaries in gardens.",
+    "category": "shrub",
+    "image": "images/boxwood3.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? The Azalea shrub has colorful blooms and thrives in acidic soil with partial shade.",
+    "category": "shrub",
+    "image": "images/azalea3.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? The Forsythia shrub blooms early in spring with bright yellow flowers before leaves appear.",
+    "category": "shrub",
+    "image": "images/forsythia3.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? The Rhododendron shrub attracts pollinators and produces clusters of pink, white, or red flowers.",
+    "category": "shrub",
+    "image": "images/rhododendron3.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? The Holly shrub produces bright red berries that are a winter food source for birds.",
+    "category": "shrub",
+    "image": "images/holly3.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? The Saguaro cactus grows slowly but can reach heights of over 40 feet in its lifetime.",
+    "category": "cactus/succulent",
+    "image": "images/saguaro2.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? The Golden Barrel cactus is shaped like a globe and stores water to survive harsh deserts.",
+    "category": "cactus/succulent",
+    "image": "images/golden_barrel3.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? The Prickly Pear cactus produces colorful flowers and edible fruits called tunas.",
+    "category": "cactus/succulent",
+    "image": "images/prickly_pear4.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? The Echinocactus can live for decades and survive extreme desert heat due to water storage.",
+    "category": "cactus/succulent",
+    "image": "images/echinocactus3.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? The Aloe Vera cactus stores gel inside leaves that is used for burns, skincare, and healing.",
+    "category": "cactus/succulent",
+    "image": "images/aloe_vera4.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Lotus flowers rise above muddy water and remain clean due to natural self-cleaning leaves.",
+    "category": "aquatic",
+    "image": "images/lotus4.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Water Hyacinth can double in size within two weeks under ideal conditions.",
+    "category": "aquatic",
+    "image": "images/water_hyacinth4.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Duckweed is one of the fastest-growing plants and provides food for fish and waterfowl.",
+    "category": "aquatic",
+    "image": "images/duckweed4.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Water Lettuce floats on water and forms dense mats that shelter aquatic creatures.",
+    "category": "aquatic",
+    "image": "images/water_lettuce3.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Water Primrose produces bright flowers and supports aquatic wildlife.",
+    "category": "aquatic",
+    "image": "images/water_primrose4.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Wisteria vines produce cascades of purple flowers and can climb structures extensively.",
+    "category": "vine/climber",
+    "image": "images/wisteria4.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Morning Glory vines bloom in the morning sun and close at night, producing vibrant flowers.",
+    "category": "vine/climber",
+    "image": "images/morning_glory4.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Passionflower vines produce edible passionfruit and attract pollinators with unique blossoms.",
+    "category": "vine/climber",
+    "image": "images/passionflower4.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Clematis vines are versatile climbers with flowers in many shapes and colors.",
+    "category": "vine/climber",
+    "image": "images/clematis4.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Honeysuckle vines have sweet-smelling flowers that attract hummingbirds and bees.",
+    "category": "vine/climber",
+    "image": "images/honeysuckle3.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Aloe Vera gel is used medicinally for burns, wounds, and skin hydration.",
+    "category": "medicinal/edible",
+    "image": "images/aloe_vera5.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Chamomile tea has mild sedative effects and supports digestion and relaxation.",
+    "category": "medicinal/edible",
+    "image": "images/chamomile5.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Lemon Balm has calming properties and can reduce anxiety and promote sleep.",
+    "category": "medicinal/edible",
+    "image": "images/lemon_balm4.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Rosemary has antioxidant and antimicrobial properties and is used in cooking and medicine.",
+    "category": "medicinal/edible",
+    "image": "images/rosemary4.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Sage is used for seasoning, medicinal purposes, and spiritual cleansing.",
+    "category": "medicinal/edible",
+    "image": "images/sage4.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Poison Ivy produces an oil called urushiol that causes skin irritation in most people.",
+    "category": "poisonous/toxic",
+    "image": "images/poison_ivy4.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Belladonna berries are highly toxic and contain alkaloids that affect the nervous system.",
+    "category": "poisonous/toxic",
+    "image": "images/belladonna4.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Foxglove produces digitalis, a compound used in heart medication, but is poisonous if ingested.",
+    "category": "poisonous/toxic",
+    "image": "images/foxglove4.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Castor Bean plants produce ricin, a highly toxic protein, particularly in the seeds.",
+    "category": "poisonous/toxic",
+    "image": "images/castor_bean4.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Monkshood contains aconitine, a toxin that affects the heart and nervous system.",
+    "category": "poisonous/toxic",
+    "image": "images/monkshood4.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Venus Flytraps trap insects for nutrients, snapping shut in less than a second.",
+    "category": "fun/weird",
+    "image": "images/venus_flytrap4.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Mimosa Pudica folds its leaves when touched, providing a defense mechanism against predators.",
+    "category": "fun/weird",
+    "image": "images/mimosa9.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Rafflesia arnoldii is the largest flower in the world, emitting a strong odor to attract pollinators.",
+    "category": "fun/weird",
+    "image": "images/rafflesia3.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Corpse Flowers emit a rotting flesh smell to attract carrion beetles for pollination.",
+    "category": "fun/weird",
+    "image": "images/corpse_flower4.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Sensitive plants move leaves in response to touch, temperature, and light as a survival strategy.",
+    "category": "fun/weird",
+    "image": "images/mimosa10.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Mangrove forests reduce coastal erosion, provide habitats, and filter water pollutants.",
+    "category": "ecological/environmental",
+    "image": "images/mangrove5.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Wetland plants such as cattails and reeds stabilize soils and purify water ecosystems.",
+    "category": "ecological/environmental",
+    "image": "images/wetlands4.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Seagrass beds are essential habitats for fish and other marine species and help prevent erosion.",
+    "category": "ecological/environmental",
+    "image": "images/seagrass4.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Pine trees reduce air pollution, sequester carbon, and provide food and shelter for wildlife.",
+    "category": "ecological/environmental",
+    "image": "images/pine4.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Cedar trees have natural oils that make their wood resistant to decay and insects.",
+    "category": "tree",
+    "image": "images/cedar4.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Elm trees are resilient and can live for centuries while supporting diverse ecosystems.",
+    "category": "tree",
+    "image": "images/elm4.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Willow trees grow near water sources and help prevent riverbank erosion with their roots.",
+    "category": "tree",
+    "image": "images/willow4.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Maple trees produce sap that is collected to make natural maple syrup.",
+    "category": "tree",
+    "image": "images/maple4.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Redwood trees are among the tallest on Earth and can live for thousands of years.",
+    "category": "tree",
+    "image": "images/redwood4.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Oak trees provide acorns that feed wildlife and play a critical ecological role.",
+    "category": "tree",
+    "image": "images/oak4.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Baobab trees store water in their trunks and provide fruit, leaves, and bark used in Africa.",
+    "category": "tree",
+    "image": "images/baobab4.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? African Mahogany trees are valued for their strong, durable wood used in furniture and construction.",
+    "category": "tree",
+    "image": "images/african_mahogany2.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Jacaranda trees produce stunning purple flowers and are popular in urban landscaping.",
+    "category": "tree",
+    "image": "images/jacaranda4.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Camellia flowers bloom in late winter to spring and are prized for ornamental gardens.",
+    "category": "flower",
+    "image": "images/camellia2.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Dahlia flowers have a wide range of colors and shapes and bloom from summer to frost.",
+    "category": "flower",
+    "image": "images/dahlia3.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Snapdragon flowers open and close their 'mouths,' which can be used as a playful toy.",
+    "category": "flower",
+    "image": "images/snapdragon2.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Sweet Pea flowers are fragrant climbers often grown in gardens for ornamental purposes.",
+    "category": "flower",
+    "image": "images/sweet_pea.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Morning Glory flowers open in the morning and close in the afternoon, following sunlight.",
+    "category": "flower",
+    "image": "images/morning_glory5.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Marigold flowers repel insects and are often planted alongside vegetables in gardens.",
+    "category": "flower",
+    "image": "images/marigold2.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Gladiolus flowers are named after the Latin word for sword due to their leaf shape.",
+    "category": "flower",
+    "image": "images/gladiolus3.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Peony flowers can live for decades and symbolize wealth, honor, and romance in cultures.",
+    "category": "flower",
+    "image": "images/peony4.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Tulip flowers originated in Central Asia and became iconic in Dutch gardens and festivals.",
+    "category": "flower",
+    "image": "images/tulip2.jpg"
+  }
+]

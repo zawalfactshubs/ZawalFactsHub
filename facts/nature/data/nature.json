@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Tornadoes can reach speeds of over 300 miles per hour.",
+    "category": "weather",
+    "image": "images/tornado.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Lightning strikes the Earth about 100 times every second.",
+    "category": "weather",
+    "image": "images/lightning.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? The Sahara Desert is expanding at about 0.8 km per month.",
+    "category": "geology",
+    "image": "images/sahara.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? The Amazon rainforest produces 20% of the world's oxygen.",
+    "category": "environment/ecology",
+    "image": "images/amazon.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? The Great Barrier Reef is the largest living structure on Earth.",
+    "category": "environment/ecology",
+    "image": "images/reef.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? Snowflakes can take up to an hour to reach the ground from clouds.",
+    "category": "weather",
+    "image": "images/snowflake.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Volcanoes can create new land by cooling lava that reaches the ocean.",
+    "category": "geology",
+    "image": "images/volcano.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? The aurora borealis occurs when solar particles collide with Earth's atmosphere.",
+    "category": "phenomena",
+    "image": "images/aurora.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? Hurricanes are fueled by warm ocean waters and can travel thousands of miles.",
+    "category": "weather",
+    "image": "images/hurricane.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? Oceans cover 71% of the Earth's surface and contain 97% of Earth's water.",
+    "category": "water",
+    "image": "images/ocean.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Clouds are made of tiny water droplets or ice crystals suspended in the air.",
+    "category": "atmosphere",
+    "image": "images/clouds.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Earthquakes occur when stress along faults in the Earth's crust is released.",
+    "category": "phenomena",
+    "image": "images/earthquake.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Tsunamis are caused by underwater earthquakes, volcanic eruptions, or landslides.",
+    "category": "phenomena",
+    "image": "images/tsunami.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Ozone in the upper atmosphere protects life from harmful ultraviolet rays.",
+    "category": "atmosphere",
+    "image": "images/ozone.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? The deadliest natural disaster in recorded history was the 1931 China floods.",
+    "category": "phenomena",
+    "image": "images/flood.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Rainbows are caused by sunlight being refracted and reflected by raindrops.",
+    "category": "phenomena",
+    "image": "images/rainbow.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? The Earth's atmosphere is made of 78% nitrogen, 21% oxygen, and trace gases.",
+    "category": "atmosphere",
+    "image": "images/earth_atmosphere.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Sand dunes shift constantly due to wind, forming new shapes over time.",
+    "category": "geology",
+    "image": "images/sand_dunes.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Glaciers store about 69% of the world's freshwater.",
+    "category": "water",
+    "image": "images/glacier.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Earth has five major climate zones: tropical, arid, temperate, cold, polar.",
+    "category": "climate",
+    "image": "images/climate_zones.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? The strongest wind ever recorded on Earth reached 253 mph in Australia.",
+    "category": "weather",
+    "image": "images/strong_wind.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Waterfalls form when rivers flow over vertical drops in elevation.",
+    "category": "water",
+    "image": "images/waterfall.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Desert sand is mostly composed of silica and can form glass over millions of years.",
+    "category": "geology",
+    "image": "images/desert_sand.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Droughts occur when rainfall is below average for a prolonged period.",
+    "category": "climate",
+    "image": "images/drought.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? The ozone layer hole over Antarctica has been slowly shrinking due to global efforts.",
+    "category": "atmosphere",
+    "image": "images/ozone_hole.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Aurora australis, the southern lights, are similar to aurora borealis but in the south.",
+    "category": "phenomena",
+    "image": "images/aurora_south.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Coral reefs support around 25% of all marine species on Earth.",
+    "category": "environment/ecology",
+    "image": "images/coral_reef.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Earthquakes can trigger volcanic eruptions in nearby regions.",
+    "category": "phenomena",
+    "image": "images/earthquake_volcano.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Rain shadows occur when mountains block precipitation from reaching certain areas.",
+    "category": "climate",
+    "image": "images/rain_shadow.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? The Dead Sea is the lowest point on Earth's land surface, at over 400 meters below sea level.",
+    "category": "geology",
+    "image": "images/dead_sea.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Thunderstorms produce strong winds, lightning, and heavy rainfall simultaneously.",
+    "category": "weather",
+    "image": "images/thunderstorm.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Tsunamis can travel at speeds up to 500 mph in deep ocean waters.",
+    "category": "phenomena",
+    "image": "images/tsunami_speed.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Permafrost contains ancient carbon that can release greenhouse gases when thawed.",
+    "category": "climate",
+    "image": "images/permafrost.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? The strongest hailstones can reach the size of softballs.",
+    "category": "weather",
+    "image": "images/hail.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? The Mariana Trench is the deepest part of the world's oceans at nearly 11 km.",
+    "category": "water",
+    "image": "images/mariana_trench.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Tsunamis can cause more damage than earthquakes due to widespread flooding.",
+    "category": "phenomena",
+    "image": "images/tsunami_damage.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Cyclones, typhoons, and hurricanes are different names for the same storm phenomenon.",
+    "category": "weather",
+    "image": "images/cyclone.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Volcanoes release gases such as carbon dioxide and sulfur dioxide into the atmosphere.",
+    "category": "geology",
+    "image": "images/volcano_gas.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Ocean currents regulate climate by transporting heat from the equator to the poles.",
+    "category": "water",
+    "image": "images/ocean_currents.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? The highest recorded temperature on Earth was 56.7°C in Death Valley, USA.",
+    "category": "weather",
+    "image": "images/death_valley.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Natural disasters kill thousands of people worldwide each year, with earthquakes and floods leading.",
+    "category": "phenomena",
+    "image": "images/natural_disaster.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Air pressure differences cause winds, which move air from high to low-pressure areas.",
+    "category": "atmosphere",
+    "image": "images/air_pressure.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Monsoons bring seasonal heavy rains in South and Southeast Asia.",
+    "category": "climate",
+    "image": "images/monsoon.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? The highest waterfall in the world is Angel Falls in Venezuela at 979 meters.",
+    "category": "water",
+    "image": "images/angel_falls.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Tornadoes leave behind funnel-shaped debris paths due to rotating winds.",
+    "category": "weather",
+    "image": "images/tornado_path.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Dust storms can carry millions of tons of sand across continents.",
+    "category": "geology",
+    "image": "images/dust_storm.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Coral bleaching occurs when water temperatures rise, stressing coral ecosystems.",
+    "category": "environment/ecology",
+    "image": "images/coral_bleach.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Tsunamis can occur months after an underwater earthquake due to wave travel times.",
+    "category": "phenomena",
+    "image": "images/tsunami_delay.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Clouds can form in different shapes such as cirrus, cumulus, and stratus.",
+    "category": "atmosphere",
+    "image": "images/cloud_types.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Earth has over 1.3 million known species, many of which live in forests and oceans.",
+    "category": "environment/ecology",
+    "image": "images/species_diversity.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? The fastest gust of wind ever recorded on Earth reached 253 mph on Barrow Island, Australia.",
+    "category": "weather",
+    "image": "images/wind_gust.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Fog forms when tiny water droplets condense near the ground, reducing visibility.",
+    "category": "weather",
+    "image": "images/fog.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? The Antarctic ice sheet contains about 61% of all fresh water on Earth.",
+    "category": "water",
+    "image": "images/antarctic_ice.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? The Earth's crust is divided into tectonic plates that float on the mantle.",
+    "category": "geology",
+    "image": "images/tectonic_plates.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Hurricanes lose strength rapidly when they move over cooler waters or land.",
+    "category": "weather",
+    "image": "images/hurricane_decay.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Volcanic lava can reach temperatures of up to 1,200°C (2,192°F).",
+    "category": "geology",
+    "image": "images/lava_flow.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Sandstone is formed from compacted sand grains over millions of years.",
+    "category": "geology",
+    "image": "images/sandstone.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Natural hot springs are heated by geothermal energy from the Earth's interior.",
+    "category": "phenomena",
+    "image": "images/hot_spring.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? The Great Lakes contain about 21% of the world's surface fresh water.",
+    "category": "water",
+    "image": "images/great_lakes.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Rain gauges are used to measure precipitation amounts accurately.",
+    "category": "weather",
+    "image": "images/rain_gauge.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Thunder is the sound produced by rapidly expanding air around a lightning bolt.",
+    "category": "weather",
+    "image": "images/thunder.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Earth’s mantle extends nearly 2,900 kilometers below the surface and is mostly solid rock.",
+    "category": "geology",
+    "image": "images/mantle.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? The Gulf Stream is a powerful Atlantic ocean current that influences climate.",
+    "category": "water",
+    "image": "images/gulf_stream.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Tornadoes can create suction strong enough to lift cars off the ground.",
+    "category": "weather",
+    "image": "images/tornado_lift.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? The Dead Sea is so salty that swimmers can float effortlessly without swimming.",
+    "category": "water",
+    "image": "images/dead_sea_float.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Sandstorms can transport dust thousands of miles across continents.",
+    "category": "geology",
+    "image": "images/sandstorm.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? The Earth has five major oceans: Pacific, Atlantic, Indian, Southern, and Arctic.",
+    "category": "water",
+    "image": "images/oceans.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? A lightning bolt can reach temperatures hotter than the surface of the Sun, about 30,000 K.",
+    "category": "weather",
+    "image": "images/lightning_hot.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Mount Everest grows about 4 mm taller each year due to tectonic activity.",
+    "category": "geology",
+    "image": "images/everest.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Tornadoes most commonly occur in the central United States, called Tornado Alley.",
+    "category": "weather",
+    "image": "images/tornado_alley.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Ocean waves are generated by wind blowing across the water’s surface.",
+    "category": "water",
+    "image": "images/ocean_waves.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Erosion by wind, water, and ice constantly reshapes the Earth’s surface.",
+    "category": "geology",
+    "image": "images/erosion.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Clouds are classified into three main types: cumulus, stratus, and cirrus.",
+    "category": "atmosphere",
+    "image": "images/cloud_classification.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? Seasonal monsoons bring heavy rain and support agriculture in certain regions.",
+    "category": "climate",
+    "image": "images/monsoon_rain.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Natural geysers erupt due to water heating under pressure beneath the Earth's surface.",
+    "category": "phenomena",
+    "image": "images/geyser.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Sand grains can vary in size, shape, and color depending on their source rock.",
+    "category": "geology",
+    "image": "images/sand_grains.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Polar ice caps influence global climate by reflecting sunlight back into space.",
+    "category": "climate",
+    "image": "images/polar_ice.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Atmospheric pressure is lower at high altitudes, which is why water boils faster on mountains.",
+    "category": "atmosphere",
+    "image": "images/pressure_altitude.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? The Coriolis effect causes winds and ocean currents to curve due to Earth’s rotation.",
+    "category": "atmosphere",
+    "image": "images/coriolis.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Tsunamis can be triggered not only by earthquakes but also by landslides and volcanic eruptions.",
+    "category": "phenomena",
+    "image": "images/tsunami_trigger.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Microclimates can exist within a small region due to topography, vegetation, and water bodies.",
+    "category": "climate",
+    "image": "images/microclimate.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Waterspouts are tornado-like columns of rotating air over water.",
+    "category": "weather",
+    "image": "images/waterspout.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Rainforests help regulate global weather by recycling water through transpiration.",
+    "category": "environment/ecology",
+    "image": "images/rainforest_water.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Dust devils are small, rotating columns of air that pick up dust from the ground.",
+    "category": "weather",
+    "image": "images/dust_devil.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? Oxbow lakes form when a river creates a meander that gets cut off from the main flow.",
+    "category": "water",
+    "image": "images/oxbow_lake.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? Sinkholes occur when underground water dissolves rock, creating a sudden surface collapse.",
+    "category": "geology",
+    "image": "images/sinkhole.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Snow can be different colors: white, blue, or even pink due to algae or minerals.",
+    "category": "weather",
+    "image": "images/snow_colors.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Coral atolls are formed from coral growth on sinking volcanic islands over thousands of years.",
+    "category": "water",
+    "image": "images/atoll.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The ozone layer absorbs 97–99% of the Sun's harmful ultraviolet radiation.",
+    "category": "atmosphere",
+    "image": "images/ozone_absorb.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? The longest mountain range underwater is the Mid-Atlantic Ridge, stretching over 16,000 km.",
+    "category": "geology",
+    "image": "images/mid_atlantic_ridge.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? El Niño and La Niña are climate patterns caused by changes in Pacific Ocean temperatures.",
+    "category": "climate",
+    "image": "images/el_nino.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The Great Salt Lake is saltier than the ocean, allowing almost no life to survive in it.",
+    "category": "water",
+    "image": "images/great_salt_lake.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? A total solar eclipse occurs when the Moon completely blocks the Sun from Earth.",
+    "category": "phenomena",
+    "image": "images/solar_eclipse.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? The windward side of mountains receives more rain than the leeward side, creating rain shadows.",
+    "category": "climate",
+    "image": "images/rain_shadow2.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Natural rock formations like arches are created over thousands of years by erosion.",
+    "category": "geology",
+    "image": "images/rock_arch.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? The fastest recorded hailstone fell at over 110 mph in Bangladesh.",
+    "category": "weather",
+    "image": "images/hail_fast.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Mangroves protect coastlines by reducing erosion and acting as a buffer against storms.",
+    "category": "environment/ecology",
+    "image": "images/mangroves.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Ocean tides are caused by the gravitational pull of the Moon and Sun on Earth.",
+    "category": "phenomena",
+    "image": "images/tides.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? Microbursts are sudden, strong downdrafts of air in thunderstorms.",
+    "category": "weather",
+    "image": "images/microburst.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? Some natural caves contain formations called stalactites and stalagmites, formed by mineral deposits.",
+    "category": "geology",
+    "image": "images/cave_formations.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? The Amazon rainforest produces about 20% of the world's oxygen.",
+    "category": "environment/ecology",
+    "image": "images/amazon_rainforest.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? A single thunderstorm can release more than 1 billion joules of energy.",
+    "category": "weather",
+    "image": "images/thunderstorm_energy.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Glaciers move at an average speed of a few centimeters to a few meters per day.",
+    "category": "water",
+    "image": "images/glacier_movement.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? The Earth's equator is about 40,075 km long, the widest circle around the planet.",
+    "category": "climate",
+    "image": "images/equator.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? The aurora borealis occurs when charged particles from the Sun interact with Earth's magnetic field.",
+    "category": "phenomena",
+    "image": "images/aurora_borealis.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Soil is made up of minerals, organic matter, water, and air in different proportions.",
+    "category": "geology",
+    "image": "images/soil.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? The stratosphere contains the ozone layer which protects life by blocking harmful UV radiation.",
+    "category": "atmosphere",
+    "image": "images/stratosphere.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Some deserts experience frost due to cold nights, even in very dry climates.",
+    "category": "weather",
+    "image": "images/desert_frost.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Coral reefs support around 25% of all marine species despite covering less than 1% of the ocean floor.",
+    "category": "environment/ecology",
+    "image": "images/coral_reef.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Rain can sometimes contain dust particles from distant continents, changing its color.",
+    "category": "weather",
+    "image": "images/dust_rain.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Volcanoes release gases like carbon dioxide, water vapor, and sulfur dioxide into the atmosphere.",
+    "category": "geology",
+    "image": "images/volcano_gas.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? The Sahara Desert is expanding due to desertification caused by climate change and land use.",
+    "category": "climate",
+    "image": "images/sahara_desert.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Ocean currents like the Kuroshio Current carry warm water from the tropics to higher latitudes.",
+    "category": "water",
+    "image": "images/kuroshio_current.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Landslides occur when gravity pulls rocks, soil, or debris down slopes after heavy rain or earthquakes.",
+    "category": "phenomena",
+    "image": "images/landslide.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Atmospheric humidity affects how hot or cold the air feels to humans.",
+    "category": "atmosphere",
+    "image": "images/humidity.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Mangrove roots trap sediment, which prevents coastal erosion and provides a habitat for fish.",
+    "category": "environment/ecology",
+    "image": "images/mangrove_roots.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? Snowflakes are made entirely of water but no two snowflakes are exactly alike.",
+    "category": "weather",
+    "image": "images/snowflake.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Earthquakes occur when stress builds up along faults and is suddenly released as energy.",
+    "category": "phenomena",
+    "image": "images/earthquake.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? The Mariana Trench is the deepest part of the ocean, reaching about 11,034 meters.",
+    "category": "water",
+    "image": "images/mariana_trench.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Ocean tides are higher during full and new moons due to the alignment of the Sun, Moon, and Earth.",
+    "category": "phenomena",
+    "image": "images/high_tide.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Glacial ice can appear blue because dense ice absorbs other colors and scatters blue light.",
+    "category": "water",
+    "image": "images/blue_ice.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Acid rain forms when sulfur dioxide and nitrogen oxides react with water in the atmosphere.",
+    "category": "atmosphere",
+    "image": "images/acid_rain.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Volcanic ash can travel thousands of miles and affect climate temporarily.",
+    "category": "geology",
+    "image": "images/volcanic_ash.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? The jet stream is a high-altitude, fast-flowing air current that affects weather patterns.",
+    "category": "atmosphere",
+    "image": "images/jet_stream.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Certain plants like cacti store water in their stems to survive arid conditions.",
+    "category": "environment/ecology",
+    "image": "images/cactus_water.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? The Earth's axis tilt causes seasons, creating variation in sunlight and temperature.",
+    "category": "climate",
+    "image": "images/earth_tilt.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Icebergs float because freshwater ice is less dense than seawater.",
+    "category": "water",
+    "image": "images/iceberg.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? The ozone hole appears annually over Antarctica due to human-made chemicals depleting ozone.",
+    "category": "atmosphere",
+    "image": "images/ozone_hole.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Mud volcanoes release gas and mud instead of molten lava, often forming small cones.",
+    "category": "geology",
+    "image": "images/mud_volcano.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? The Sahara experiences extreme temperature swings, from freezing nights to scorching days.",
+    "category": "weather",
+    "image": "images/sahara_temp.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Coral bleaching occurs when water temperature rises, stressing coral and expelling algae.",
+    "category": "environment/ecology",
+    "image": "images/coral_bleach.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? The Pacific Ring of Fire is a region with frequent earthquakes and volcanic activity.",
+    "category": "geology",
+    "image": "images/ring_of_fire.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Seasonal wind patterns like the monsoon can cause floods and droughts across regions.",
+    "category": "climate",
+    "image": "images/seasonal_winds.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Some clouds, called lenticular clouds, form over mountains and resemble UFOs.",
+    "category": "atmosphere",
+    "image": "images/lenticular_cloud.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Geysers can erupt in predictable intervals due to underground water pressure and heat.",
+    "category": "phenomena",
+    "image": "images/old_faithful.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Mangrove forests can filter salt from seawater through their roots.",
+    "category": "environment/ecology",
+    "image": "images/mangrove_salt.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Hurricanes rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.",
+    "category": "weather",
+    "image": "images/hurricane_rotation.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? Soil erosion can be accelerated by deforestation and overgrazing.",
+    "category": "environment/ecology",
+    "image": "images/soil_erosion.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Lightning can strike the same place multiple times if it is tall and isolated.",
+    "category": "weather",
+    "image": "images/lightning_repeat.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Geysers can deposit silica to form geyserite around their vents.",
+    "category": "phenomena",
+    "image": "images/geyserite.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Ocean salinity varies in different regions due to evaporation and freshwater input.",
+    "category": "water",
+    "image": "images/ocean_salinity.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? The Sahara's sand dunes can reach heights of over 180 meters.",
+    "category": "geology",
+    "image": "images/sahara_dune.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Wildfires can influence local weather by creating their own wind patterns.",
+    "category": "phenomena",
+    "image": "images/wildfire_wind.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? The Earth's atmosphere is composed of 78% nitrogen, 21% oxygen, and trace gases.",
+    "category": "atmosphere",
+    "image": "images/atmosphere_composition.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? The tundra biome has permafrost, permanently frozen soil layers beneath the surface.",
+    "category": "environment/ecology",
+    "image": "images/tundra.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Ocean gyres are large systems of circulating currents that influence climate and marine life.",
+    "category": "water",
+    "image": "images/ocean_gyre.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? The hottest temperature recorded on Earth was 56.7°C (134°F) in Death Valley, USA.",
+    "category": "weather",
+    "image": "images/death_valley.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Natural arches can be carved by wind and water erosion over thousands of years.",
+    "category": "geology",
+    "image": "images/natural_arch.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Sea levels rise due to melting glaciers and thermal expansion from global warming.",
+    "category": "climate",
+    "image": "images/sea_level_rise.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Some geysers, called geyser pools, remain calm but periodically release bursts of steam.",
+    "category": "phenomena",
+    "image": "images/geyser_pool.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Tornadoes can have wind speeds exceeding 480 km/h, making them some of the most violent storms.",
+    "category": "weather",
+    "image": "images/tornado.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? The Great Barrier Reef is the world’s largest coral reef system, stretching over 2,300 km.",
+    "category": "environment/ecology",
+    "image": "images/great_barrier_reef.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Temperature inversion occurs when warm air traps cooler air near the ground, affecting pollution.",
+    "category": "atmosphere",
+    "image": "images/temperature_inversion.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Ocean trenches are the deepest parts of the ocean, created by tectonic plate subduction.",
+    "category": "water",
+    "image": "images/ocean_trench.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? Mount Everest grows about 4 millimeters taller every year due to tectonic activity.",
+    "category": "geology",
+    "image": "images/mount_everest.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? Hurricanes lose strength over land because they no longer have warm water to fuel them.",
+    "category": "weather",
+    "image": "images/hurricane_land.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? El Niño is a climate pattern that warms ocean surface temperatures in the Pacific, affecting global weather.",
+    "category": "climate",
+    "image": "images/el_nino.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Lightning produces ozone, which is why the air smells fresh after a storm.",
+    "category": "phenomena",
+    "image": "images/lightning_ozone.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? Rainforests contain half of all terrestrial species, making them biodiversity hotspots.",
+    "category": "environment/ecology",
+    "image": "images/rainforest_biodiversity.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Clouds can weigh millions of kilograms due to the water droplets they contain.",
+    "category": "atmosphere",
+    "image": "images/cloud_weight.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? Glacial melting contributes to sea level rise and can form glacial lakes over time.",
+    "category": "water",
+    "image": "images/glacial_melt.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Droughts occur when rainfall is significantly below average over an extended period.",
+    "category": "climate",
+    "image": "images/drought.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Some deserts, like the Atacama, receive less than 1 mm of rain per year.",
+    "category": "weather",
+    "image": "images/atacama_desert.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Earth’s lithosphere is broken into tectonic plates that move slowly over the mantle.",
+    "category": "geology",
+    "image": "images/tectonic_plates.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? Volcano eruptions can create new islands when lava cools and solidifies.",
+    "category": "geology",
+    "image": "images/volcano_island.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Tsunamis are caused by underwater earthquakes, landslides, or volcanic eruptions.",
+    "category": "phenomena",
+    "image": "images/tsunami.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? The ozone layer absorbs most of the Sun’s harmful ultraviolet radiation.",
+    "category": "atmosphere",
+    "image": "images/ozone_layer.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Coral reefs act as natural barriers, protecting coasts from storms and erosion.",
+    "category": "environment/ecology",
+    "image": "images/coral_barrier.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? The temperature at the top of Mount Everest can drop below -50°C.",
+    "category": "weather",
+    "image": "images/everest_cold.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? The Earth's rotation influences ocean currents and wind patterns.",
+    "category": "atmosphere",
+    "image": "images/earth_rotation.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Sand dunes shift over time due to wind erosion and deposition.",
+    "category": "geology",
+    "image": "images/sand_dunes.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Some plants, like mangroves, can survive in both saltwater and freshwater.",
+    "category": "environment/ecology",
+    "image": "images/mangrove_adapt.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? Monsoons bring seasonal heavy rains and are crucial for agriculture in many regions.",
+    "category": "climate",
+    "image": "images/monsoon.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Ice sheets in Antarctica contain about 61% of the world's fresh water.",
+    "category": "water",
+    "image": "images/antarctica_ice.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? Some volcanic eruptions produce lightning due to charged particles in ash clouds.",
+    "category": "phenomena",
+    "image": "images/volcano_lightning.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? Seasonal climate variations affect animal migration patterns and plant growth.",
+    "category": "climate",
+    "image": "images/seasonal_variation.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Ocean waves are formed by the wind transferring energy to the water surface.",
+    "category": "water",
+    "image": "images/ocean_waves.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? The highest recorded snowfall in 24 hours was 1.86 meters in Silver Lake, Colorado.",
+    "category": "weather",
+    "image": "images/snowfall_record.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Some clouds produce hail, which forms when updrafts carry raindrops into freezing regions of the atmosphere.",
+    "category": "weather",
+    "image": "images/hail_cloud.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Ocean trenches can be deeper than Mount Everest is tall, highlighting the scale of Earth’s features.",
+    "category": "water",
+    "image": "images/ocean_trench2.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Some earthquakes can trigger landslides or tsunamis depending on their location and magnitude.",
+    "category": "phenomena",
+    "image": "images/earthquake_landslide.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Global warming causes polar ice to melt faster, raising sea levels worldwide.",
+    "category": "climate",
+    "image": "images/global_warming.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Rainforest soil is nutrient-poor; most nutrients are in plants and decomposing matter.",
+    "category": "environment/ecology",
+    "image": "images/rainforest_soil.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Dust storms can transport sand and particles across continents and oceans.",
+    "category": "weather",
+    "image": "images/dust_storm.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? Volcanoes can create fertile soil due to the minerals in volcanic ash.",
+    "category": "geology",
+    "image": "images/volcanic_soil.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Ocean gyres collect floating debris and plastics, affecting marine life.",
+    "category": "water",
+    "image": "images/ocean_gyre2.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Tornadoes form from supercell thunderstorms with strong wind shear and instability.",
+    "category": "weather",
+    "image": "images/supercell_tornado.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? Aurora australis is the southern counterpart to the northern lights, visible in Antarctica.",
+    "category": "phenomena",
+    "image": "images/aurora_australis.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Earthquakes under the ocean floor are a primary cause of tsunamis.",
+    "category": "phenomena",
+    "image": "images/undersea_earthquake.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Climate zones determine the types of plants and animals that can thrive in an area.",
+    "category": "climate",
+    "image": "images/climate_zones.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Clouds can be classified into high, middle, and low types based on altitude and appearance.",
+    "category": "atmosphere",
+    "image": "images/cloud_types.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Natural arches and bridges are formed by erosion and weathering over thousands of years.",
+    "category": "geology",
+    "image": "images/natural_bridge.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? Coral polyps create reefs over thousands of years by depositing calcium carbonate.",
+    "category": "environment/ecology",
+    "image": "images/coral_polyps.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Lightning can heat air to 30,000 K, hotter than the surface of the Sun.",
+    "category": "phenomena",
+    "image": "images/lightning_hot.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Wind can shape landscapes by eroding rocks and transporting sand over long distances.",
+    "category": "weather",
+    "image": "images/wind_erosion.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Earthquakes are measured using the Richter scale, which quantifies magnitude based on seismic waves.",
+    "category": "phenomena",
+    "image": "images/richter_scale.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Polar ice caps help regulate global temperature by reflecting sunlight back into space.",
+    "category": "climate",
+    "image": "images/polar_ice_caps.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? The Amazon River carries about 20% of the world’s freshwater entering oceans.",
+    "category": "water",
+    "image": "images/amazon_river.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Some desert plants, like the saguaro cactus, bloom only during certain seasons to conserve energy.",
+    "category": "environment/ecology",
+    "image": "images/saguaro_bloom.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Snow can form beautiful patterns due to the symmetry of ice crystals at the molecular level.",
+    "category": "fun/weird nature facts",
+    "image": "images/snow_crystals.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? The Sahara Desert can reach temperatures above 50°C during the hottest months.",
+    "category": "weather",
+    "image": "images/sahara_heat.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Hurricanes in the Atlantic are named alphabetically each year to track and warn people.",
+    "category": "weather",
+    "image": "images/hurricane_name.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? The Pacific Ring of Fire is an area with frequent earthquakes and volcanic eruptions.",
+    "category": "geology",
+    "image": "images/ring_of_fire.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? The Mariana Trench is the deepest part of the ocean at nearly 11,000 meters deep.",
+    "category": "water",
+    "image": "images/mariana_trench.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Some areas experience polar night, where the sun does not rise for months in winter.",
+    "category": "climate",
+    "image": "images/polar_night.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Volcanic ash can travel thousands of kilometers and affect global air quality.",
+    "category": "phenomena",
+    "image": "images/volcanic_ash.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Ocean currents, like the Gulf Stream, transport warm water and affect regional climates.",
+    "category": "water",
+    "image": "images/gulf_stream.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? The ozone hole over Antarctica grows during the Southern Hemisphere’s spring.",
+    "category": "atmosphere",
+    "image": "images/ozone_hole.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Volcanoes can form lava tubes, natural tunnels created by flowing molten rock.",
+    "category": "geology",
+    "image": "images/lava_tube.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? The Amazon rainforest produces about 20% of the world's oxygen through photosynthesis.",
+    "category": "environment/ecology",
+    "image": "images/amazon_oxygen.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Thunder is the sound caused by rapid expansion of air heated by lightning.",
+    "category": "phenomena",
+    "image": "images/thunder.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Some deserts experience nighttime temperatures below freezing despite daytime heat.",
+    "category": "weather",
+    "image": "images/desert_cold.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? The ozone layer protects life on Earth from harmful ultraviolet radiation.",
+    "category": "atmosphere",
+    "image": "images/ozone_layer2.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Waterfalls form when rivers flow over layers of harder rock that resist erosion.",
+    "category": "water",
+    "image": "images/waterfall.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Seasonal wind patterns, like the monsoon, bring heavy rains and influence agriculture.",
+    "category": "climate",
+    "image": "images/seasonal_wind.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Glacial caves form when meltwater erodes tunnels through ice sheets and glaciers.",
+    "category": "geology",
+    "image": "images/glacial_cave.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Some volcanoes erupt underwater, creating islands and altering marine ecosystems.",
+    "category": "phenomena",
+    "image": "images/underwater_volcano.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Polar icebergs float in oceans and slowly melt, contributing to sea level changes.",
+    "category": "water",
+    "image": "images/polar_iceberg.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Some species of trees, like the bristlecone pine, can live for thousands of years.",
+    "category": "environment/ecology",
+    "image": "images/bristlecone_pine.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Earthquakes release energy in the form of seismic waves that travel through the planet.",
+    "category": "phenomena",
+    "image": "images/seismic_waves.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Rainbows form when sunlight refracts, reflects, and disperses through water droplets.",
+    "category": "fun/weird nature facts",
+    "image": "images/rainbow.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Climate zones determine ecosystems, from tropical rainforests to arctic tundras.",
+    "category": "climate",
+    "image": "images/ecosystems.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Thunderstorms can produce hailstones the size of baseballs in extreme cases.",
+    "category": "weather",
+    "image": "images/hailstones.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Ocean tides are caused primarily by the gravitational pull of the Moon.",
+    "category": "phenomena",
+    "image": "images/ocean_tides.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Rock formations like the Grand Canyon were carved over millions of years by erosion.",
+    "category": "geology",
+    "image": "images/grand_canyon.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Some cloud types, like cumulonimbus, can extend over 20 km into the atmosphere.",
+    "category": "atmosphere",
+    "image": "images/cumulonimbus.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Coral reefs provide shelter and breeding grounds for thousands of marine species.",
+    "category": "environment/ecology",
+    "image": "images/coral_shelter.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? Geysers erupt due to pressure buildup from heated groundwater underground.",
+    "category": "phenomena",
+    "image": "images/geyser.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? Seasonal ice in polar regions expands in winter and shrinks in summer.",
+    "category": "climate",
+    "image": "images/seasonal_ice.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Lightning strikes the Earth about 100 times per second worldwide.",
+    "category": "phenomena",
+    "image": "images/lightning_strike.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Volcanic rocks contain minerals like basalt and pumice, formed from cooled lava.",
+    "category": "geology",
+    "image": "images/volcanic_rock.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Rainforests maintain local climate by releasing water through transpiration.",
+    "category": "environment/ecology",
+    "image": "images/transpiration.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Dust devils are small whirlwinds that lift sand and dust from the ground.",
+    "category": "weather",
+    "image": "images/dust_devil.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? The Sun’s angle changes with seasons, affecting daylight length and climate.",
+    "category": "climate",
+    "image": "images/sun_angle.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Waterspouts are tornado-like columns forming over water bodies.",
+    "category": "weather",
+    "image": "images/waterspout.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? Some geysers erupt at regular intervals due to underground water heating cycles.",
+    "category": "phenomena",
+    "image": "images/periodic_geyser.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Earthquakes under the ocean can trigger massive tsunamis that travel across oceans.",
+    "category": "phenomena",
+    "image": "images/tsunami2.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Clouds contain tiny water droplets or ice crystals, forming shapes we can see in the sky.",
+    "category": "atmosphere",
+    "image": "images/cloud_droplets.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Some natural bridges are formed from erosion of limestone over thousands of years.",
+    "category": "geology",
+    "image": "images/limestone_bridge.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? Bioluminescent plankton glow at night in oceans due to chemical reactions.",
+    "category": "fun/weird nature facts",
+    "image": "images/bioluminescent_plankton.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Volcano eruptions can affect global temperatures temporarily by releasing ash into the atmosphere.",
+    "category": "phenomena",
+    "image": "images/volcano_climate.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Some rivers, like the Nile, have changed course over millennia due to sediment buildup.",
+    "category": "water",
+    "image": "images/nile_river.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Avalanches occur when snow and ice suddenly slide down mountains due to instability.",
+    "category": "phenomena",
+    "image": "images/avalanche.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Sandstone formations are shaped by wind and water erosion over millions of years.",
+    "category": "geology",
+    "image": "images/sandstone.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Some plants, like the Venus flytrap, have evolved to trap insects for nutrients.",
+    "category": "environment/ecology",
+    "image": "images/venus_flytrap.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Tornado alleys, like in the US Midwest, are regions with frequent tornadoes.",
+    "category": "weather",
+    "image": "images/tornado_alley.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Oceanic ridges are underwater mountain ranges formed by tectonic activity.",
+    "category": "geology",
+    "image": "images/ocean_ridge.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? Aurora borealis, or northern lights, are caused by charged particles colliding with Earth’s atmosphere.",
+    "category": "phenomena",
+    "image": "images/aurora_borealis.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Some deserts bloom with flowers after rare rainfall events, creating colorful landscapes.",
+    "category": "fun/weird nature facts",
+    "image": "images/desert_bloom.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? The jet stream is a high-altitude air current that affects weather patterns globally.",
+    "category": "atmosphere",
+    "image": "images/jet_stream.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Sand dunes shift over time due to the constant action of wind and sand movement.",
+    "category": "geology",
+    "image": "images/sand_dunes.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? The Great Barrier Reef is the largest coral reef system in the world, spanning over 2,300 km.",
+    "category": "environment/ecology",
+    "image": "images/great_barrier_reef.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Some clouds, called lenticular clouds, appear lens-shaped and often form near mountains.",
+    "category": "atmosphere",
+    "image": "images/lenticular_cloud.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Snowflakes are unique in structure, and no two are exactly alike.",
+    "category": "weather",
+    "image": "images/snowflake.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Ocean gyres are large systems of circular ocean currents formed by global wind patterns.",
+    "category": "water",
+    "image": "images/ocean_gyre.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Some areas experience permafrost, where soil remains frozen year-round.",
+    "category": "climate",
+    "image": "images/permafrost.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Meteor showers occur when Earth passes through debris left by comets.",
+    "category": "phenomena",
+    "image": "images/meteor_shower.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Gobi Desert is known for its cold winters, despite being a desert region.",
+    "category": "weather",
+    "image": "images/gobi_desert.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Volcanoes can form islands when lava erupts and cools above sea level.",
+    "category": "geology",
+    "image": "images/volcano_island.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Some species of fish can survive in frozen waters by producing antifreeze proteins.",
+    "category": "environment/ecology",
+    "image": "images/frozen_fish.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Dust storms can transport fine particles across continents, affecting air quality.",
+    "category": "weather",
+    "image": "images/dust_storm.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? The Coriolis effect causes moving air and water to turn due to Earth's rotation.",
+    "category": "atmosphere",
+    "image": "images/coriolis_effect.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Some caves are formed by chemical dissolution of limestone over thousands of years.",
+    "category": "geology",
+    "image": "images/limestone_cave.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? El Niño is a climate phenomenon causing warming of the Pacific Ocean, affecting weather globally.",
+    "category": "climate",
+    "image": "images/el_nino.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? The Dead Sea is one of the saltiest bodies of water in the world, allowing people to float easily.",
+    "category": "water",
+    "image": "images/dead_sea.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Some tornadoes can reach wind speeds over 300 mph, causing extreme destruction.",
+    "category": "weather",
+    "image": "images/tornado.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Natural hot springs occur when geothermally heated water emerges from the Earth’s crust.",
+    "category": "phenomena",
+    "image": "images/hot_spring.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Glacial lakes are formed when melting glaciers collect in depressions in the land.",
+    "category": "water",
+    "image": "images/glacial_lake.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? The tundra biome has permafrost and very low temperatures, supporting unique flora and fauna.",
+    "category": "climate",
+    "image": "images/tundra_biome.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Aurora australis, the southern lights, occur in the Antarctic regions like the northern auroras.",
+    "category": "phenomena",
+    "image": "images/aurora_australis.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Some beaches have black sand made from volcanic minerals and lava fragments.",
+    "category": "geology",
+    "image": "images/black_sand_beach.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Mangrove forests help prevent coastal erosion and provide habitats for marine life.",
+    "category": "environment/ecology",
+    "image": "images/mangrove_forest.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Some clouds, called cirrus, are thin and wispy and form at high altitudes.",
+    "category": "atmosphere",
+    "image": "images/cirrus_cloud.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Droughts occur when regions receive abnormally low precipitation for an extended period.",
+    "category": "weather",
+    "image": "images/drought.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Earth’s tectonic plates constantly move, causing earthquakes and mountain formation.",
+    "category": "geology",
+    "image": "images/tectonic_plates.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Some lakes, like Lake Baikal, are millions of years old and incredibly deep.",
+    "category": "water",
+    "image": "images/lake_baikal.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Climate change can cause shifts in weather patterns, affecting agriculture and ecosystems.",
+    "category": "climate",
+    "image": "images/climate_change.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Bioluminescent fungi glow in dark forests due to natural chemical reactions.",
+    "category": "fun/weird nature facts",
+    "image": "images/bioluminescent_fungi.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Earthquakes can trigger landslides, especially in mountainous and unstable regions.",
+    "category": "phenomena",
+    "image": "images/landslide.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Sandstone arches, like those in Arches National Park, are formed through erosion over millions of years.",
+    "category": "geology",
+    "image": "images/sandstone_arch.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Coral bleaching occurs when water temperatures rise, causing corals to expel symbiotic algae.",
+    "category": "environment/ecology",
+    "image": "images/coral_bleaching.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Hailstones form within strong thunderstorms when updrafts carry water droplets into freezing areas.",
+    "category": "weather",
+    "image": "images/hailstones2.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Some wind patterns, like the trade winds, are consistent and help sailors navigate the seas.",
+    "category": "atmosphere",
+    "image": "images/trade_winds.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Volcano calderas are formed when a volcano collapses after a major eruption.",
+    "category": "geology",
+    "image": "images/volcano_caldera.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Elkhorn coral grows like antlers underwater, creating habitats for marine animals.",
+    "category": "environment/ecology",
+    "image": "images/elkhorn_coral.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Some lightning strikes can heat the air to 30,000 K, hotter than the surface of the Sun.",
+    "category": "phenomena",
+    "image": "images/lightning.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Frozen waterfalls, or icefalls, occur when water freezes mid-flow during winter.",
+    "category": "water",
+    "image": "images/icefall.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Permafrost thawing releases methane, a greenhouse gas contributing to climate change.",
+    "category": "climate",
+    "image": "images/methane_release.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Fire rainbows occur when sunlight refracts through ice crystals in cirrus clouds.",
+    "category": "fun/weird nature facts",
+    "image": "images/fire_rainbow.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Tsunamis can travel at speeds over 800 km/h across deep oceans.",
+    "category": "phenomena",
+    "image": "images/tsunami.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? The Dead Vlei in Namibia is a white clay pan surrounded by ancient dead camel thorn trees.",
+    "category": "geology",
+    "image": "images/dead_vlei.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Wetlands filter water naturally and provide shelter for migratory birds.",
+    "category": "environment/ecology",
+    "image": "images/wetlands.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Sleet occurs when raindrops freeze before hitting the ground, forming icy precipitation.",
+    "category": "weather",
+    "image": "images/sleet.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Foehn winds are warm, dry winds descending the leeward side of mountains.",
+    "category": "atmosphere",
+    "image": "images/foehn_wind.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Canyons are deep valleys carved primarily by rivers over millions of years.",
+    "category": "geology",
+    "image": "images/canyon.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Some orchids have evolved to mimic insects to attract pollinators.",
+    "category": "environment/ecology",
+    "image": "images/orchid_mimic.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Waterspouts over the ocean can be both tornadoes and harmless funnel clouds.",
+    "category": "weather",
+    "image": "images/waterspout2.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Solar eclipses occur when the Moon blocks the Sun, casting a shadow on Earth.",
+    "category": "phenomena",
+    "image": "images/solar_eclipse.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Oxbow lakes form when a river changes course and leaves behind a crescent-shaped water body.",
+    "category": "water",
+    "image": "images/oxbow_lake.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Icebergs can originate from glaciers and carry trapped air bubbles dating thousands of years back.",
+    "category": "water",
+    "image": "images/iceberg2.jpg"
+  }
+]

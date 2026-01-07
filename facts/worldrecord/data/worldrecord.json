@@ -1,0 +1,2438 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Robert Wadlow is the tallest human ever recorded, standing at 8 feet 11 inches tall.",
+    "category": "human",
+    "image": "images/tallest-human.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Usain Bolt holds the world record for the fastest 100m sprint at 9.58 seconds.",
+    "category": "sports",
+    "image": "images/usain-bolt.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Mount Everest is the tallest mountain on Earth, rising 8,848 meters above sea level.",
+    "category": "nature",
+    "image": "images/mount-everest.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? The coldest temperature ever recorded on Earth was −89.2°C in Antarctica.",
+    "category": "science",
+    "image": "images/coldest-temperature.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? The world’s largest pizza was over 13,500 square feet in size.",
+    "category": "food",
+    "image": "images/largest-pizza.jpg"
+  },
+
+  {
+    "id": 6,
+    "fact": "Did you know? The cheetah is the fastest land animal, reaching speeds up to 70 mph.",
+    "category": "animals",
+    "image": "images/fastest-animal.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? The fastest supercomputer in the world can perform over a quintillion calculations per second.",
+    "category": "technology",
+    "image": "images/fastest-computer.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Burj Khalifa in Dubai is the tallest building ever constructed at 828 meters tall.",
+    "category": "architecture",
+    "image": "images/burj-khalifa.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The longest time a person stayed awake is 11 days without sleep.",
+    "category": "endurance",
+    "image": "images/longest-awake.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? The longest fingernails ever recorded measured over 28 feet combined.",
+    "category": "weird",
+    "image": "images/longest-nails.jpg"
+  },
+
+  {
+    "id": 11,
+    "fact": "Did you know? Jeanne Calment is the oldest verified human, living to 122 years old.",
+    "category": "human",
+    "image": "images/oldest-human.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Lionel Messi holds the record for the most goals scored in a single calendar year.",
+    "category": "sports",
+    "image": "images/messi-record.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? The Mariana Trench is the deepest known point in the world’s oceans.",
+    "category": "nature",
+    "image": "images/mariana-trench.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Voyager 1 is the farthest human-made object from Earth.",
+    "category": "science",
+    "image": "images/voyager1.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? The Carolina Reaper holds the record as the world’s hottest chili pepper.",
+    "category": "food",
+    "image": "images/spiciest-pepper.jpg"
+  },
+
+  {
+    "id": 16,
+    "fact": "Did you know? The blue whale is the largest animal ever known to have existed.",
+    "category": "animals",
+    "image": "images/blue-whale.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? The largest data center in the world covers millions of square feet.",
+    "category": "technology",
+    "image": "images/largest-datacenter.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? The longest bridge in the world stretches over 164 kilometers in China.",
+    "category": "architecture",
+    "image": "images/longest-bridge.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? The longest marathon run continuously lasted over 80 hours.",
+    "category": "endurance",
+    "image": "images/longest-marathon.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? The largest rubber duck ever made was over 60 feet tall.",
+    "category": "weird",
+    "image": "images/largest-rubber-duck.jpg"
+  },
+
+  {
+    "id": 21,
+    "fact": "Did you know? The person with the most tattoos has over 99% of their body covered.",
+    "category": "human",
+    "image": "images/most-tattoos.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Cristiano Ronaldo is one of the highest goal scorers in football history.",
+    "category": "sports",
+    "image": "images/ronaldo-record.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? The longest river in the world is the Nile, stretching over 6,650 kilometers.",
+    "category": "nature",
+    "image": "images/nile-river.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? The fastest particle ever recorded traveled close to the speed of light.",
+    "category": "science",
+    "image": "images/fastest-particle.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? The most expensive dish ever served cost over $25,000.",
+    "category": "food",
+    "image": "images/expensive-dish.jpg"
+  },
+
+  {
+    "id": 26,
+    "fact": "Did you know? The loudest animal sound comes from the sperm whale.",
+    "category": "animals",
+    "image": "images/loudest-animal.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? The most powerful rocket ever launched was NASA’s Saturn V.",
+    "category": "technology",
+    "image": "images/saturn-v.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? The largest stadium in the world can seat over 114,000 people.",
+    "category": "architecture",
+    "image": "images/largest-stadium.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? The longest plank exercise lasted over 9 hours.",
+    "category": "endurance",
+    "image": "images/longest-plank.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? The most spoons balanced on a human body at once is over 30.",
+    "category": "weird",
+    "image": "images/spoon-record.jpg"
+  },
+
+  {
+    "id": 31,
+    "fact": "Did you know? The person who speaks the most languages fluently knows over 40 languages.",
+    "category": "human",
+    "image": "images/most-languages.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? The longest tennis match in history lasted over 11 hours.",
+    "category": "sports",
+    "image": "images/longest-tennis-match.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? The strongest hurricane ever recorded had winds over 215 mph.",
+    "category": "nature",
+    "image": "images/strongest-hurricane.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? The oldest known material on Earth is over 4.4 billion years old.",
+    "category": "science",
+    "image": "images/oldest-material.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? The largest chocolate bar ever made weighed over 12,000 pounds.",
+    "category": "food",
+    "image": "images/largest-chocolate.jpg"
+  },
+
+  {
+    "id": 36,
+    "fact": "Did you know? The oldest living animal ever recorded was over 500 years old.",
+    "category": "animals",
+    "image": "images/oldest-animal.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? The fastest internet speed ever recorded exceeded 300 terabits per second.",
+    "category": "technology",
+    "image": "images/fastest-internet.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? The deepest tunnel in the world extends more than 2,000 meters underground.",
+    "category": "architecture",
+    "image": "images/deepest-tunnel.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? The longest underwater breath held by a human is over 24 minutes.",
+    "category": "endurance",
+    "image": "images/longest-breath.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? The most T-shirts worn at once by one person is over 250.",
+    "category": "weird",
+    "image": "images/most-tshirts.jpg"
+  },
+
+  {
+    "id": 41,
+    "fact": "Did you know? The heaviest person ever recorded weighed over 1,400 pounds.",
+    "category": "human",
+    "image": "images/heaviest-human.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? The most Olympic medals won by one athlete is over 25.",
+    "category": "sports",
+    "image": "images/most-olympic-medals.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? The hottest temperature ever recorded on Earth was 56.7°C in Death Valley.",
+    "category": "nature",
+    "image": "images/hottest-place.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? The largest explosion ever created by humans was the Tsar Bomba.",
+    "category": "science",
+    "image": "images/tsar-bomba.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? The fastest hot-dog eating record is over 70 hot dogs in 10 minutes.",
+    "category": "food",
+    "image": "images/hotdog-record.jpg"
+  },
+
+  {
+    "id": 46,
+    "fact": "Did you know? The longest migration by an animal is made by the Arctic tern.",
+    "category": "animals",
+    "image": "images/arctic-tern.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? The largest rocket engine ever built generated over 7 million pounds of thrust.",
+    "category": "technology",
+    "image": "images/largest-rocket.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? The biggest airport in the world covers over 770 square kilometers.",
+    "category": "architecture",
+    "image": "images/biggest-airport.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? The longest nonstop speech lasted over 200 hours.",
+    "category": "endurance",
+    "image": "images/longest-speech.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Some Guinness World Records are so strange they are banned from competition.",
+    "category": "weird",
+    "image": "images/weird-record.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? The longest beard ever recorded measured over 17 feet in length.",
+    "category": "human",
+    "image": "images/longest-beard.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Robert Lewandowski scored 5 goals in just 9 minutes, a Bundesliga world record.",
+    "category": "sports",
+    "image": "images/lewandowski-record.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Angel Falls in Venezuela is the tallest waterfall in the world at 979 meters.",
+    "category": "nature",
+    "image": "images/angel-falls.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? The hottest temperature ever measured on Earth was recorded in Death Valley.",
+    "category": "science",
+    "image": "images/extreme-heat.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? The largest hamburger ever made weighed over 2,000 pounds.",
+    "category": "food",
+    "image": "images/largest-burger.jpg"
+  },
+
+  {
+    "id": 56,
+    "fact": "Did you know? The peregrine falcon is the fastest animal on Earth, diving at over 240 mph.",
+    "category": "animals",
+    "image": "images/peregrine-falcon.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? The most powerful laser ever built produced more energy than the entire U.S. power grid momentarily.",
+    "category": "technology",
+    "image": "images/powerful-laser.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? The tallest statue in the world is the Statue of Unity in India.",
+    "category": "architecture",
+    "image": "images/statue-of-unity.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? The longest time holding a yoga pose lasted over 4 hours.",
+    "category": "endurance",
+    "image": "images/yoga-record.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? The most marshmallows caught in the mouth in one minute is over 25.",
+    "category": "weird",
+    "image": "images/marshmallow-record.jpg"
+  },
+
+  {
+    "id": 61,
+    "fact": "Did you know? The tallest living man today measures over 8 feet tall.",
+    "category": "human",
+    "image": "images/tallest-living-man.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Cristiano Ronaldo holds the record for most international goals in football history.",
+    "category": "sports",
+    "image": "images/ronaldo-international.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Lake Baikal is the deepest and oldest freshwater lake on Earth.",
+    "category": "nature",
+    "image": "images/lake-baikal.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? The fastest spacecraft ever launched was NASA’s Parker Solar Probe.",
+    "category": "science",
+    "image": "images/parker-probe.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? The most expensive pizza ever sold cost more than $12,000.",
+    "category": "food",
+    "image": "images/expensive-pizza.jpg"
+  },
+
+  {
+    "id": 66,
+    "fact": "Did you know? The elephant is the loudest land animal, producing sounds heard miles away.",
+    "category": "animals",
+    "image": "images/loudest-land-animal.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? The largest solar power plant in the world covers thousands of acres.",
+    "category": "technology",
+    "image": "images/solar-plant.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? The longest tunnel in the world stretches over 57 kilometers.",
+    "category": "architecture",
+    "image": "images/longest-tunnel.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? The longest cycling endurance ride lasted over 40 hours nonstop.",
+    "category": "endurance",
+    "image": "images/cycling-endurance.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? The world record for the largest collection of rubber ducks exceeds 8,000.",
+    "category": "weird",
+    "image": "images/rubber-duck-collection.jpg"
+  },
+
+  {
+    "id": 71,
+    "fact": "Did you know? The strongest human bite force ever measured exceeded 900 PSI.",
+    "category": "human",
+    "image": "images/bite-force.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Neymar is among the most expensive football transfers in history.",
+    "category": "sports",
+    "image": "images/neymar-transfer.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Antarctica is the driest, coldest, and windiest continent on Earth.",
+    "category": "nature",
+    "image": "images/antarctica.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? The largest atom smasher ever built is the Large Hadron Collider.",
+    "category": "science",
+    "image": "images/lhc.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? The largest ice cream dessert ever made weighed over 12 tons.",
+    "category": "food",
+    "image": "images/largest-icecream.jpg"
+  },
+
+  {
+    "id": 76,
+    "fact": "Did you know? The longest lifespan of a vertebrate animal belongs to the Greenland shark.",
+    "category": "animals",
+    "image": "images/greenland-shark.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? The fastest elevator in the world travels over 40 miles per hour.",
+    "category": "technology",
+    "image": "images/fastest-elevator.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? The largest palace complex in the world is the Forbidden City in China.",
+    "category": "architecture",
+    "image": "images/forbidden-city.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? The longest underwater walk without oxygen lasted over 4 minutes.",
+    "category": "endurance",
+    "image": "images/underwater-walk.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? The most coins balanced on one finger at once is over 20.",
+    "category": "weird",
+    "image": "images/coin-balance.jpg"
+  },
+
+  {
+    "id": 81,
+    "fact": "Did you know? The fastest typist in the world can exceed 200 words per minute.",
+    "category": "human",
+    "image": "images/fastest-typist.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Kylian Mbappé became the youngest player to score a World Cup final goal since Pelé.",
+    "category": "sports",
+    "image": "images/mbappe-worldcup.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? The Sahara Desert is the largest hot desert in the world.",
+    "category": "nature",
+    "image": "images/sahara.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? The fastest man-made object reached speeds over 430,000 mph.",
+    "category": "science",
+    "image": "images/fastest-object.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? The largest sandwich ever made weighed more than 5,000 pounds.",
+    "category": "food",
+    "image": "images/largest-sandwich.jpg"
+  },
+
+  {
+    "id": 86,
+    "fact": "Did you know? The strongest animal relative to its size is the dung beetle.",
+    "category": "animals",
+    "image": "images/dung-beetle.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? The largest airplane ever built is the Antonov An-225.",
+    "category": "technology",
+    "image": "images/antonov-225.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? The largest hotel in the world has over 7,000 rooms.",
+    "category": "architecture",
+    "image": "images/largest-hotel.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The longest ice bath endurance record lasted over 2 hours.",
+    "category": "endurance",
+    "image": "images/ice-bath.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? The most balloons inflated in one minute is over 60.",
+    "category": "weird",
+    "image": "images/balloon-record.jpg"
+  },
+
+  {
+    "id": 91,
+    "fact": "Did you know? The tallest woman ever recorded stood at over 7 feet 7 inches tall.",
+    "category": "human",
+    "image": "images/tallest-woman.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The fastest knockout in boxing history occurred in under 2 seconds.",
+    "category": "sports",
+    "image": "images/fastest-knockout.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? The Amazon Rainforest produces over 20% of the world’s oxygen.",
+    "category": "nature",
+    "image": "images/amazon-rainforest.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? The most distant galaxy ever observed is over 13 billion light-years away.",
+    "category": "science",
+    "image": "images/distant-galaxy.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? The most expensive coffee in the world comes from civet cats.",
+    "category": "food",
+    "image": "images/expensive-coffee.jpg"
+  },
+
+  {
+    "id": 96,
+    "fact": "Did you know? The largest living reptile is the saltwater crocodile.",
+    "category": "animals",
+    "image": "images/saltwater-crocodile.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? The fastest train in the world reached speeds over 600 km/h.",
+    "category": "technology",
+    "image": "images/fastest-train.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? The largest mosque in the world can hold over 2 million worshippers.",
+    "category": "architecture",
+    "image": "images/largest-mosque.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The longest time spent buried alive lasted over 10 days.",
+    "category": "endurance",
+    "image": "images/buried-alive.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? One of the strangest records includes juggling chainsaws while riding a unicycle.",
+    "category": "weird",
+    "image": "images/weird-juggling.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? The human with the longest fingernails ever recorded had nails measuring over 28 feet combined.",
+    "category": "human",
+    "image": "images/longest-fingernails.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Lionel Messi holds the record for most Ballon d'Or awards in football history.",
+    "category": "sports",
+    "image": "images/messi-ballon-dor.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Mount Everest grows about 4 millimeters taller every year due to tectonic activity.",
+    "category": "nature",
+    "image": "images/mount-everest.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? The coldest temperature ever recorded on Earth was −128.6°F in Antarctica.",
+    "category": "science",
+    "image": "images/coldest-temperature.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? The spiciest pepper ever measured is the Carolina Reaper.",
+    "category": "food",
+    "image": "images/carolina-reaper.jpg"
+  },
+
+  {
+    "id": 106,
+    "fact": "Did you know? The blue whale is the largest animal ever known to exist.",
+    "category": "animals",
+    "image": "images/blue-whale.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? The fastest internet speed ever recorded exceeded 300 terabits per second.",
+    "category": "technology",
+    "image": "images/fastest-internet.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? The longest bridge in the world spans over 164 kilometers in China.",
+    "category": "architecture",
+    "image": "images/longest-bridge.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? The longest plank hold record lasted over 9 hours.",
+    "category": "endurance",
+    "image": "images/longest-plank.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? The largest rubber band ball ever made weighed over 9,000 pounds.",
+    "category": "weird",
+    "image": "images/rubber-band-ball.jpg"
+  },
+
+  {
+    "id": 111,
+    "fact": "Did you know? The most languages spoken fluently by one person exceeds 40.",
+    "category": "human",
+    "image": "images/most-languages.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Pele remains the youngest footballer to score in a World Cup final.",
+    "category": "sports",
+    "image": "images/pele-worldcup.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? The deepest cave in the world extends over 2 kilometers underground.",
+    "category": "nature",
+    "image": "images/deepest-cave.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? The oldest known substance on Earth is older than the Sun itself.",
+    "category": "science",
+    "image": "images/oldest-material.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? The largest chocolate bar ever created weighed over 12,000 pounds.",
+    "category": "food",
+    "image": "images/largest-chocolate.jpg"
+  },
+
+  {
+    "id": 116,
+    "fact": "Did you know? The loudest animal on Earth is the sperm whale.",
+    "category": "animals",
+    "image": "images/sperm-whale.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? The most powerful supercomputer in the world performs quadrillions of calculations per second.",
+    "category": "technology",
+    "image": "images/supercomputer.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? The largest airport terminal in the world covers millions of square meters.",
+    "category": "architecture",
+    "image": "images/largest-airport.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? The longest nonstop speech lasted over 120 hours.",
+    "category": "endurance",
+    "image": "images/nonstop-speech.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? The most T-shirts worn at once is more than 260.",
+    "category": "weird",
+    "image": "images/most-tshirts.jpg"
+  },
+
+  {
+    "id": 121,
+    "fact": "Did you know? The strongest man competition features humans lifting over 500 kilograms.",
+    "category": "human",
+    "image": "images/strongest-man.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? The longest tennis match in history lasted over 11 hours.",
+    "category": "sports",
+    "image": "images/longest-tennis-match.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? The largest volcano on Earth is Mauna Loa in Hawaii.",
+    "category": "nature",
+    "image": "images/mauna-loa.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? The biggest explosion ever caused by humans was the Tsar Bomba.",
+    "category": "science",
+    "image": "images/tsar-bomba.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? The fastest hot-dog eating record exceeds 75 hot dogs in 10 minutes.",
+    "category": "food",
+    "image": "images/hotdog-record.jpg"
+  },
+
+  {
+    "id": 126,
+    "fact": "Did you know? The fastest land animal is the cheetah, reaching speeds over 70 mph.",
+    "category": "animals",
+    "image": "images/cheetah-speed.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? The largest rocket ever launched was NASA’s Saturn V.",
+    "category": "technology",
+    "image": "images/saturn-v.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? The largest stadium in the world can hold over 114,000 spectators.",
+    "category": "architecture",
+    "image": "images/largest-stadium.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? The longest breath held underwater exceeded 24 minutes.",
+    "category": "endurance",
+    "image": "images/breath-hold.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? The most spoons balanced on a face at once is over 30.",
+    "category": "weird",
+    "image": "images/spoons-face.jpg"
+  },
+
+  {
+    "id": 131,
+    "fact": "Did you know? The oldest living person verified lived beyond 120 years.",
+    "category": "human",
+    "image": "images/oldest-human.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? The highest football transfer fee ever exceeded €200 million.",
+    "category": "sports",
+    "image": "images/highest-transfer.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? The longest river in the world is the Nile.",
+    "category": "nature",
+    "image": "images/nile-river.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? The farthest human-made object from Earth is Voyager 1.",
+    "category": "science",
+    "image": "images/voyager-1.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? The most expensive dish ever served cost over $1 million.",
+    "category": "food",
+    "image": "images/expensive-dish.jpg"
+  },
+
+  {
+    "id": 136,
+    "fact": "Did you know? The oldest animal ever recorded was a clam over 500 years old.",
+    "category": "animals",
+    "image": "images/oldest-animal.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? The largest data center in the world spans millions of square feet.",
+    "category": "technology",
+    "image": "images/data-center.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? The deepest underwater tunnel reaches over 200 feet below sea level.",
+    "category": "architecture",
+    "image": "images/underwater-tunnel.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? The longest continuous swim lasted over 80 kilometers.",
+    "category": "endurance",
+    "image": "images/long-distance-swim.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? One Guinness record includes spinning over 200 hula hoops at once.",
+    "category": "weird",
+    "image": "images/hula-hoop-record.jpg"
+  },
+
+  {
+    "id": 141,
+    "fact": "Did you know? The heaviest weight ever lifted by a human exceeded 6,000 pounds.",
+    "category": "human",
+    "image": "images/heaviest-lift.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? The most Olympic medals won by one athlete is over 20.",
+    "category": "sports",
+    "image": "images/most-olympic-medals.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? The strongest hurricane ever recorded reached Category 5 intensity.",
+    "category": "nature",
+    "image": "images/strongest-hurricane.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? The fastest particle ever observed moves at nearly the speed of light.",
+    "category": "science",
+    "image": "images/fastest-particle.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? The largest bowl of soup ever made held thousands of liters.",
+    "category": "food",
+    "image": "images/largest-soup.jpg"
+  },
+
+  {
+    "id": 146,
+    "fact": "Did you know? The animal with the longest migration travels over 40,000 miles yearly.",
+    "category": "animals",
+    "image": "images/longest-migration.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? The most powerful computer chip contains tens of billions of transistors.",
+    "category": "technology",
+    "image": "images/computer-chip.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? The largest castle in the world covers more area than many cities.",
+    "category": "architecture",
+    "image": "images/largest-castle.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? The longest nonstop run without sleep lasted over 48 hours.",
+    "category": "endurance",
+    "image": "images/nonstop-run.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? One strange record includes the most socks put on one foot in 30 seconds.",
+    "category": "weird",
+    "image": "images/most-socks.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? The tallest person ever recorded stood over 8 feet 11 inches tall.",
+    "category": "human",
+    "image": "images/tallest-person.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? Cristiano Ronaldo holds the record for most international goals in men's football.",
+    "category": "sports",
+    "image": "images/ronaldo-international-goals.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? The largest desert in the world is Antarctica, not the Sahara.",
+    "category": "nature",
+    "image": "images/antarctica-desert.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? The fastest man-made object reached speeds over 390,000 mph.",
+    "category": "science",
+    "image": "images/fastest-object.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? The largest pizza ever made measured over 13,000 square feet.",
+    "category": "food",
+    "image": "images/largest-pizza.jpg"
+  },
+
+  {
+    "id": 156,
+    "fact": "Did you know? The longest-living vertebrate animals are Greenland sharks.",
+    "category": "animals",
+    "image": "images/greenland-shark.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? The most powerful laser ever built can produce over 10 petawatts.",
+    "category": "technology",
+    "image": "images/powerful-laser.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? The tallest tower ever built reaches over 1,000 meters high.",
+    "category": "architecture",
+    "image": "images/tallest-tower.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? The longest continuous cycling record lasted more than 60 hours.",
+    "category": "endurance",
+    "image": "images/longest-cycling.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? The largest collection of rubber ducks numbers over 5,000.",
+    "category": "weird",
+    "image": "images/rubber-duck-collection.jpg"
+  },
+
+  {
+    "id": 161,
+    "fact": "Did you know? The most tattoos on a single person cover over 99% of their body.",
+    "category": "human",
+    "image": "images/most-tattoos.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Robert Lewandowski scored five goals in just nine minutes in a Bundesliga match.",
+    "category": "sports",
+    "image": "images/lewandowski-record.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? The deepest lake in the world is Lake Baikal in Russia.",
+    "category": "nature",
+    "image": "images/lake-baikal.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? The oldest known galaxy formed just 300 million years after the Big Bang.",
+    "category": "science",
+    "image": "images/oldest-galaxy.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? The most expensive coffee in the world is made using civet digestion.",
+    "category": "food",
+    "image": "images/expensive-coffee.jpg"
+  },
+
+  {
+    "id": 166,
+    "fact": "Did you know? The fastest bird in the world is the peregrine falcon during a dive.",
+    "category": "animals",
+    "image": "images/peregrine-falcon.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? The first computer virus was created in the 1980s.",
+    "category": "technology",
+    "image": "images/first-computer-virus.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? The largest religious structure in the world is Angkor Wat.",
+    "category": "architecture",
+    "image": "images/angkor-wat.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? The longest time spent buried alive and survived exceeded 24 hours.",
+    "category": "endurance",
+    "image": "images/buried-alive-record.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? The most coins balanced on a head at once is over 250.",
+    "category": "weird",
+    "image": "images/coins-on-head.jpg"
+  },
+
+  {
+    "id": 171,
+    "fact": "Did you know? The longest beard ever recorded measured over 17 feet.",
+    "category": "human",
+    "image": "images/longest-beard.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? The fastest knockout in professional boxing happened in just 4 seconds.",
+    "category": "sports",
+    "image": "images/fastest-knockout.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? The largest coral reef system on Earth is the Great Barrier Reef.",
+    "category": "nature",
+    "image": "images/great-barrier-reef.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? The first photograph ever taken required an exposure time of several hours.",
+    "category": "science",
+    "image": "images/first-photograph.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? The largest burger ever made weighed more than 2,000 pounds.",
+    "category": "food",
+    "image": "images/largest-burger.jpg"
+  },
+
+  {
+    "id": 176,
+    "fact": "Did you know? The strongest bite force in animals belongs to the saltwater crocodile.",
+    "category": "animals",
+    "image": "images/crocodile-bite.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? The first mobile phone call was made in 1973.",
+    "category": "technology",
+    "image": "images/first-mobile-call.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? The longest railway tunnel in the world stretches over 57 kilometers.",
+    "category": "architecture",
+    "image": "images/longest-rail-tunnel.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? The longest time standing on one foot lasted over 76 hours.",
+    "category": "endurance",
+    "image": "images/one-foot-record.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? The largest shoe ever made was over 18 feet long.",
+    "category": "weird",
+    "image": "images/largest-shoe.jpg"
+  },
+
+  {
+    "id": 181,
+    "fact": "Did you know? The fastest typist can type over 200 words per minute.",
+    "category": "human",
+    "image": "images/fastest-typist.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? The most goals scored in a single World Cup tournament is 16.",
+    "category": "sports",
+    "image": "images/worldcup-goals-record.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? The wettest place on Earth receives over 11,000 mm of rain yearly.",
+    "category": "nature",
+    "image": "images/wettest-place.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? The most distant star visible to the naked eye is thousands of light-years away.",
+    "category": "science",
+    "image": "images/distant-star.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The largest bowl of noodles ever prepared weighed several tons.",
+    "category": "food",
+    "image": "images/largest-noodles.jpg"
+  },
+
+  {
+    "id": 186,
+    "fact": "Did you know? The fastest swimming fish is the sailfish.",
+    "category": "animals",
+    "image": "images/sailfish.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? The first email was sent in 1971.",
+    "category": "technology",
+    "image": "images/first-email.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? The largest palace in the world is the Palace of the Parliament in Romania.",
+    "category": "architecture",
+    "image": "images/palace-parliament.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? The longest continuous yoga session lasted over 48 hours.",
+    "category": "endurance",
+    "image": "images/yoga-record.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? The weirdest record includes popping over 300 balloons with the head.",
+    "category": "weird",
+    "image": "images/balloon-head.jpg"
+  },
+
+  {
+    "id": 191,
+    "fact": "Did you know? The most push-ups completed in one hour exceeds 3,000.",
+    "category": "human",
+    "image": "images/most-pushups.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? The longest unbeaten streak in football lasted over 100 matches.",
+    "category": "sports",
+    "image": "images/unbeaten-streak.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? The largest waterfall by volume is Victoria Falls.",
+    "category": "nature",
+    "image": "images/victoria-falls.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? The largest black hole discovered is billions of times heavier than the Sun.",
+    "category": "science",
+    "image": "images/largest-blackhole.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? The longest sandwich ever made stretched over a mile.",
+    "category": "food",
+    "image": "images/longest-sandwich.jpg"
+  },
+
+  {
+    "id": 196,
+    "fact": "Did you know? The longest-living insect species can survive for decades.",
+    "category": "animals",
+    "image": "images/longest-living-insect.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? The most downloaded mobile app surpassed 10 billion downloads.",
+    "category": "technology",
+    "image": "images/most-downloaded-app.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? The tallest statue in the world stands over 180 meters tall.",
+    "category": "architecture",
+    "image": "images/tallest-statue.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? The longest distance rowed nonstop exceeded 3,000 miles.",
+    "category": "endurance",
+    "image": "images/long-distance-row.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? The largest collection of traffic cones exceeds 500 cones.",
+    "category": "weird",
+    "image": "images/traffic-cones.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Robert Wadlow was the tallest human ever recorded at 8 ft 11 in.",
+    "category": "human",
+    "image": "images/robert_wadlow.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Jiroemon Kimura lived to 116 years and 54 days, making him the oldest verified male.",
+    "category": "human",
+    "image": "images/jiroemon_kimura.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Asafa Powell ran the 100m in 9.72 seconds, one of the fastest recorded times.",
+    "category": "sports",
+    "image": "images/asafa_powell.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Usain Bolt holds the record for the fastest 100m sprint at 9.58 seconds.",
+    "category": "sports",
+    "image": "images/usain_bolt.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Michael Phelps won 23 Olympic gold medals, the most in Olympic history.",
+    "category": "sports",
+    "image": "images/michael_phelps.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? The Great Barrier Reef is the largest coral reef system in the world.",
+    "category": "nature",
+    "image": "images/great_barrier_reef.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Mount Everest is the tallest mountain on Earth at 8,848 meters.",
+    "category": "nature",
+    "image": "images/mount_everest.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? The Mariana Trench is the deepest ocean trench at 10,994 meters.",
+    "category": "nature",
+    "image": "images/mariana_trench.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Voyager 1 is the farthest human-made object from Earth.",
+    "category": "science",
+    "image": "images/voyager1.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? The Hubble Space Telescope has captured images of galaxies billions of light-years away.",
+    "category": "science",
+    "image": "images/hubble.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? The coldest temperature ever recorded on Earth was -98.6°C in Antarctica.",
+    "category": "science",
+    "image": "images/antarctica_cold.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? The fastest supercomputer in 2023 achieved 1 exaflop performance.",
+    "category": "technology",
+    "image": "images/supercomputer.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? The Burj Khalifa in Dubai is the tallest building in the world at 828 meters.",
+    "category": "architecture",
+    "image": "images/burj_khalifa.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? The Golden Gate Bridge is one of the longest suspension bridges at 2,737 meters.",
+    "category": "architecture",
+    "image": "images/golden_gate.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? The fastest animal on land is the cheetah, reaching 120 km/h.",
+    "category": "animals",
+    "image": "images/cheetah_speed.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? The peregrine falcon is the fastest bird, diving at over 320 km/h.",
+    "category": "animals",
+    "image": "images/peregrine_falcon.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? The blue whale is the largest animal ever, reaching up to 30 meters in length.",
+    "category": "animals",
+    "image": "images/blue_whale.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? The Sahara Desert is the largest hot desert, covering 9.2 million km².",
+    "category": "nature",
+    "image": "images/sahara_desert.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? The Dead Sea is the lowest land point on Earth at 430 meters below sea level.",
+    "category": "nature",
+    "image": "images/dead_sea.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? The fastest hotdog eating record is 76 hotdogs in 10 minutes by Joey Chestnut.",
+    "category": "food",
+    "image": "images/joey_chestnut.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? The largest pizza ever made was 1261 m² in Italy in 2012.",
+    "category": "food",
+    "image": "images/largest_pizza.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? The spiciest chili pepper is the Carolina Reaper at over 2.2 million Scoville units.",
+    "category": "food",
+    "image": "images/carolina_reaper.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? The most expensive dish ever sold was a $100,000 caviar pizza in Italy.",
+    "category": "food",
+    "image": "images/expensive_pizza.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? The largest chocolate bar weighed 5,792 kg, made in Armenia.",
+    "category": "food",
+    "image": "images/largest_chocolate.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? The longest marathon lasted 54 hours, 27 minutes and 6 seconds.",
+    "category": "endurance",
+    "image": "images/longest_marathon.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? The longest plank held was 9 hours and 30 minutes by Mao Weidong.",
+    "category": "endurance",
+    "image": "images/longest_plank.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? The longest time spent underwater on one breath is 24 minutes by Budimir Šobat.",
+    "category": "endurance",
+    "image": "images/breath_hold.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? The longest non-stop speech lasted 124 hours 15 minutes by V. Suresh.",
+    "category": "endurance",
+    "image": "images/longest_speech.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The largest rubber duck is 26 meters tall, created by Florentijn Hofman.",
+    "category": "weird",
+    "image": "images/largest_rubber_duck.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? The most spoons balanced on a human body is 50 by Etibar Elchiyev.",
+    "category": "weird",
+    "image": "images/spoon_balancing.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? The longest fingernails ever recorded on one hand measured 909.6 cm.",
+    "category": "weird",
+    "image": "images/longest_nails.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? The most T-shirts worn at once is 257 by Sanath Bandara.",
+    "category": "weird",
+    "image": "images/most_tshirts.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? The fastest internet speed ever recorded was 319 Tbps by Japan’s National Institute of Information.",
+    "category": "technology",
+    "image": "images/fastest_internet.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? The biggest rocket ever built was the Saturn V at 111 meters tall.",
+    "category": "technology",
+    "image": "images/saturn_v.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? The largest data center in the world covers 1.3 million m² in China.",
+    "category": "technology",
+    "image": "images/data_center.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The fastest particle recorded in a lab is a neutrino approaching the speed of light.",
+    "category": "science",
+    "image": "images/fastest_particle.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? The oldest known material on Earth is a 4.4 billion-year-old zircon crystal.",
+    "category": "science",
+    "image": "images/zircon.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? The longest river in the world is the Nile at approximately 6,650 km.",
+    "category": "nature",
+    "image": "images/nile_river.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? The hottest temperature ever recorded on Earth was 56.7°C in Death Valley, USA.",
+    "category": "nature",
+    "image": "images/death_valley.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? The strongest hurricane ever recorded was Hurricane Patricia with 215 mph winds.",
+    "category": "nature",
+    "image": "images/hurricane_patricia.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Eliud Kipchoge ran a marathon in under 2 hours (1:59:40), the first person to do so.",
+    "category": "sports",
+    "image": "images/eliud_kipchoge.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? The longest tennis match lasted 11 hours and 5 minutes at Wimbledon 2010.",
+    "category": "sports",
+    "image": "images/longest_tennis.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? The fastest knockout in boxing history was 2 seconds by Mike Collins.",
+    "category": "sports",
+    "image": "images/fastest_knockout.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? The highest football transfer fee ever paid was €222 million for Neymar Jr.",
+    "category": "sports",
+    "image": "images/neymar_transfer.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? The most Olympic medals won by a single athlete is 28 by Michael Phelps.",
+    "category": "sports",
+    "image": "images/phelps_medals.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? The largest stadium in the world is Rungrado 1st of May Stadium in North Korea with 114,000 capacity.",
+    "category": "architecture",
+    "image": "images/rungrado_stadium.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? The longest bridge in the world is Danyang–Kunshan Grand Bridge in China, 164.8 km long.",
+    "category": "architecture",
+    "image": "images/danyang_bridge.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? The deepest tunnel in the world is the Gotthard Base Tunnel in Switzerland, 57 km long.",
+    "category": "architecture",
+    "image": "images/gotthard_tunnel.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? The oldest living animal recorded was Ming the clam at 507 years old.",
+    "category": "animals",
+    "image": "images/ming_clam.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? The loudest animal sound ever recorded was by the blue whale reaching 188 decibels.",
+    "category": "animals",
+    "image": "images/blue_whale_sound.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? The longest migration by an animal is by the Arctic tern, traveling 71,000 km annually.",
+    "category": "animals",
+    "image": "images/arctic_tern.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? The fastest marathon ever run by a woman is 2:14:04 by Brigid Kosgei.",
+    "category": "sports",
+    "image": "images/brigid_kosgei.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? The largest living lizard is the Komodo dragon, growing up to 3 meters long.",
+    "category": "animals",
+    "image": "images/komodo_dragon.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Felix Baumgartner jumped from 39,045 meters, breaking the sound barrier in free fall.",
+    "category": "endurance",
+    "image": "images/felix_baumgartner.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? The oldest known tree is a 9,550-year-old spruce named 'Old Tjikko' in Sweden.",
+    "category": "nature",
+    "image": "images/old_tjikko.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? The fastest 200m sprint record is 19.19 seconds by Usain Bolt.",
+    "category": "sports",
+    "image": "images/usain_bolt_200m.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? The most languages spoken by one person is 58 by Ziad Fazah.",
+    "category": "human",
+    "image": "images/ziad_fazah.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? The largest pizza commercially made weighed 12,000 kg in Rome, Italy.",
+    "category": "food",
+    "image": "images/largest_pizza2.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? The longest fingernails ever recorded on a pair of hands totaled 9 meters.",
+    "category": "weird",
+    "image": "images/longest_nails2.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? The fastest 50m swim in water is 20.91 seconds by César Cielo.",
+    "category": "sports",
+    "image": "images/cesar_cielo.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? The biggest chocolate sculpture ever made was 9 meters tall in Italy.",
+    "category": "food",
+    "image": "images/chocolate_sculpture.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? The heaviest human ever recorded was Jon Brower Minnoch at 635 kg.",
+    "category": "human",
+    "image": "images/jon_brower_minnoch.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? The deepest swimming pool is Deep Dive Dubai at 60 meters.",
+    "category": "architecture",
+    "image": "images/deep_dive_dubai.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? The most Olympic gold medals in a single Olympics is 8, held by Michael Phelps in 2008.",
+    "category": "sports",
+    "image": "images/phelps_2008.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? The oldest living insect recorded is a cicada that emerged after 17 years underground.",
+    "category": "animals",
+    "image": "images/cicada_17.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? The largest sandwich ever made weighed 5,440 kg in Iran.",
+    "category": "food",
+    "image": "images/largest_sandwich.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? The longest underwater swim was 5.8 km by Martin Strel in open water.",
+    "category": "endurance",
+    "image": "images/martin_strel.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? The largest collection of rubber ducks belongs to Charlotte Lee with over 9,000 ducks.",
+    "category": "weird",
+    "image": "images/charlotte_lee_ducks.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? The fastest 400m sprint is 43.03 seconds by Wayde van Niekerk.",
+    "category": "sports",
+    "image": "images/wayde_van_niekerk.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? The largest pumpkin ever grown weighed 1,190.5 kg in Belgium.",
+    "category": "food",
+    "image": "images/largest_pumpkin.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? The most tattoos on a single person is 1,635 by Lucky Diamond Rich.",
+    "category": "human",
+    "image": "images/lucky_diamond_rich.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? The highest waterfall is Angel Falls in Venezuela at 979 meters.",
+    "category": "nature",
+    "image": "images/angel_falls.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? The fastest 800m run is 1:40.91 by David Rudisha.",
+    "category": "sports",
+    "image": "images/david_rudisha.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? The largest ice cream cone weighed 2,480 kg in Norway.",
+    "category": "food",
+    "image": "images/largest_icecream.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? The fastest free-fall skydive from 41,419 meters was by Alan Eustace.",
+    "category": "endurance",
+    "image": "images/alan_eustace.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? The longest human tunnel traveled by a skateboarding dog is 30 dogs in a row.",
+    "category": "weird",
+    "image": "images/skateboarding_dog.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? The largest human-made diamond weighs 1,109 carats.",
+    "category": "science",
+    "image": "images/largest_diamond.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? The fastest 1500m run is 3:26.00 by Hicham El Guerrouj.",
+    "category": "sports",
+    "image": "images/hicham_el_gerrouj.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? The largest omelette ever made weighed 6,466 kg in Turkey.",
+    "category": "food",
+    "image": "images/largest_omelette.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? The fastest 10,000m run is 26:11.00 by Joshua Cheptegei.",
+    "category": "sports",
+    "image": "images/joshua_cheptegei.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? The largest robot built measures 15 meters tall in Japan.",
+    "category": "technology",
+    "image": "images/largest_robot.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? The largest flower is the Rafflesia arnoldii, growing over 1 meter in diameter.",
+    "category": "nature",
+    "image": "images/rafflesia.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? The most marathons completed in a lifetime is 607 by Ricardo Abad.",
+    "category": "endurance",
+    "image": "images/ricardo_abad.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? The longest moustache ever measured 4.29 meters in India.",
+    "category": "weird",
+    "image": "images/longest_moustache.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? The fastest mile ever run is 3:43.13 by Hicham El Guerrouj.",
+    "category": "sports",
+    "image": "images/hicham_mile.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? The most languages fluently spoken by a woman is 39 by Emilie de Ravin.",
+    "category": "human",
+    "image": "images/emilie_de_ravin.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? The largest hot dog ever made was 203 meters long in Paraguay.",
+    "category": "food",
+    "image": "images/largest_hotdog.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? The tallest statue in the world is the Statue of Unity in India at 182 meters.",
+    "category": "architecture",
+    "image": "images/statue_of_unity.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? The oldest known living animal is a 507-year-old clam named Ming.",
+    "category": "animals",
+    "image": "images/ming_clam2.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? The fastest 50km race walk was completed in 3:32:33 by Yohann Diniz.",
+    "category": "sports",
+    "image": "images/yohann_diniz.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? The largest burger ever made weighed 1,164 kg in Minnesota, USA.",
+    "category": "food",
+    "image": "images/largest_burger.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? The fastest 200m butterfly swim is 1:50.73 by Kristóf Milák.",
+    "category": "sports",
+    "image": "images/kristof_milak.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? The tallest tree ever recorded is a Hyperion redwood at 115.85 meters.",
+    "category": "nature",
+    "image": "images/hyperion_tree.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? The longest human hair recorded measured 5.627 meters in China.",
+    "category": "weird",
+    "image": "images/longest_hair.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? The fastest 100m freestyle swim is 46.91 seconds by César Cielo.",
+    "category": "sports",
+    "image": "images/cesar_cielo_100m.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? The largest pumpkin pie ever baked weighed 1,794 kg in the USA.",
+    "category": "food",
+    "image": "images/largest_pumpkin_pie.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? The heaviest dog ever recorded was an English Mastiff named Aicama Zorba at 155.6 kg.",
+    "category": "animals",
+    "image": "images/heaviest_dog.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? The fastest 400m freestyle swim is 3:40.07 by Paul Biedermann.",
+    "category": "sports",
+    "image": "images/paul_biedermann.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? The largest omelette cooked in one pan measured 6,466 kg in Turkey.",
+    "category": "food",
+    "image": "images/omelette_turkey.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? The tallest human recorded in living memory is Sultan Kösen at 2.51 meters.",
+    "category": "human",
+    "image": "images/sultan_kosen.jpg"
+  },
+  {
+    "id": 301,
+    "fact": "Did you know? The fastest 50m sprint by a woman is 5.67 seconds by Florence Griffith-Joyner.",
+    "category": "sports",
+    "image": "images/florence_griffith.jpg"
+  },
+  {
+    "id": 302,
+    "fact": "Did you know? The largest collection of comic books is owned by Bob Bretall with 103,000 comics.",
+    "category": "weird",
+    "image": "images/bob_bretall_comics.jpg"
+  },
+  {
+    "id": 303,
+    "fact": "Did you know? The longest fingernails on a single hand measured 576.4 cm in the USA.",
+    "category": "weird",
+    "image": "images/longest_fingernails3.jpg"
+  },
+  {
+    "id": 304,
+    "fact": "Did you know? The fastest 100m sprint by a woman is 10.49 seconds by Florence Griffith-Joyner.",
+    "category": "sports",
+    "image": "images/florence_100m.jpg"
+  },
+  {
+    "id": 305,
+    "fact": "Did you know? The largest human eye painting was created by Eloy Morales, measuring 57.7 m².",
+    "category": "weird",
+    "image": "images/elo_morales_eye.jpg"
+  },
+  {
+    "id": 306,
+    "fact": "Did you know? The largest balloon sculpture was made with 500,000 balloons in Mexico.",
+    "category": "weird",
+    "image": "images/balloon_sculpture.jpg"
+  },
+  {
+    "id": 307,
+    "fact": "Did you know? The fastest 200m sprint by a woman is 21.34 seconds by Florence Griffith-Joyner.",
+    "category": "sports",
+    "image": "images/florence_200m.jpg"
+  },
+  {
+    "id": 308,
+    "fact": "Did you know? The largest pizza commercially made in California weighed 12,000 kg.",
+    "category": "food",
+    "image": "images/largest_pizza_california.jpg"
+  },
+  {
+    "id": 309,
+    "fact": "Did you know? The tallest dog ever recorded was Zeus, a Great Dane, at 1.118 meters at the shoulder.",
+    "category": "animals",
+    "image": "images/zeus_great_dane.jpg"
+  },
+  {
+    "id": 310,
+    "fact": "Did you know? The longest skateboard ride by a woman is 241 km by Silvia Bertolotti in Italy.",
+    "category": "endurance",
+    "image": "images/silvia_skateboard.jpg"
+  },
+  {
+    "id": 311,
+    "fact": "Did you know? The most expensive chocolate bar ever sold was $260,000 in Dubai.",
+    "category": "food",
+    "image": "images/expensive_chocolate.jpg"
+  },
+  {
+    "id": 312,
+    "fact": "Did you know? The fastest mile run indoors is 3:49.44 by Yared Nuguse.",
+    "category": "sports",
+    "image": "images/yared_nuguse.jpg"
+  },
+  {
+    "id": 313,
+    "fact": "Did you know? The tallest roller coaster in the world is Kingda Ka at 139 meters in New Jersey.",
+    "category": "architecture",
+    "image": "images/kingda_ka.jpg"
+  },
+  {
+    "id": 314,
+    "fact": "Did you know? The largest human mattress domino chain consisted of 2,016 participants in China.",
+    "category": "weird",
+    "image": "images/mattress_domino.jpg"
+  },
+  {
+    "id": 315,
+    "fact": "Did you know? The longest distance swum by a dog underwater is 30 meters.",
+    "category": "animals",
+    "image": "images/underwater_dog.jpg"
+  },
+  {
+    "id": 316,
+    "fact": "Did you know? The heaviest pumpkin ever grown weighed 1,190.5 kg in Belgium.",
+    "category": "food",
+    "image": "images/heaviest_pumpkin2.jpg"
+  },
+  {
+    "id": 317,
+    "fact": "Did you know? The fastest time to eat a raw onion is 29.56 seconds by Yusuke Yamaguchi.",
+    "category": "food",
+    "image": "images/raw_onion_eating.jpg"
+  },
+  {
+    "id": 318,
+    "fact": "Did you know? The longest hopscotch game lasted 24 hours in Italy.",
+    "category": "weird",
+    "image": "images/hopscotch.jpg"
+  },
+  {
+    "id": 319,
+    "fact": "Did you know? The most tattooed senior is Charlotte Guttenberg, covering 98% of her body.",
+    "category": "human",
+    "image": "images/charlotte_guttenberg.jpg"
+  },
+  {
+    "id": 320,
+    "fact": "Did you know? The largest sushi roll weighed 1,782 kg in Japan.",
+    "category": "food",
+    "image": "images/largest_sushi_roll.jpg"
+  },
+  {
+    "id": 321,
+    "fact": "Did you know? The fastest 100m butterfly swim is 49.50 seconds by Caeleb Dressel.",
+    "category": "sports",
+    "image": "images/caeleb_dressel.jpg"
+  },
+  {
+    "id": 322,
+    "fact": "Did you know? The largest pumpkin pie ever baked weighed 1,794 kg in the USA.",
+    "category": "food",
+    "image": "images/largest_pumpkin_pie2.jpg"
+  },
+  {
+    "id": 323,
+    "fact": "Did you know? The fastest 200m freestyle swim is 1:42.00 by Paul Biedermann.",
+    "category": "sports",
+    "image": "images/paul_biedermann_200m.jpg"
+  },
+  {
+    "id": 324,
+    "fact": "Did you know? The largest chocolate bar ever created measured 9 meters long in Italy.",
+    "category": "food",
+    "image": "images/largest_chocolate_bar2.jpg"
+  },
+  {
+    "id": 325,
+    "fact": "Did you know? The longest pogo stick jump chain had 122 participants in Germany.",
+    "category": "weird",
+    "image": "images/pogo_chain.jpg"
+  },
+  {
+    "id": 326,
+    "fact": "Did you know? The tallest building in the world is Burj Khalifa at 828 meters in Dubai.",
+    "category": "architecture",
+    "image": "images/burj_khalifa.jpg"
+  },
+  {
+    "id": 327,
+    "fact": "Did you know? The fastest mile by a woman is 4:12.33 by Sifan Hassan.",
+    "category": "sports",
+    "image": "images/sifan_hassan.jpg"
+  },
+  {
+    "id": 328,
+    "fact": "Did you know? The largest pancake ever made measured 15 meters in diameter in the UK.",
+    "category": "food",
+    "image": "images/largest_pancake.jpg"
+  },
+  {
+    "id": 329,
+    "fact": "Did you know? The fastest time to peel and eat a banana is 8.45 seconds by Miki Sudo.",
+    "category": "food",
+    "image": "images/banana_eating.jpg"
+  },
+  {
+    "id": 330,
+    "fact": "Did you know? The fastest 400m hurdles time is 45.94 seconds by Karsten Warholm.",
+    "category": "sports",
+    "image": "images/karsten_warholm.jpg"
+  },
+  {
+    "id": 331,
+    "fact": "Did you know? The largest chocolate sculpture stands 9 meters tall in Italy.",
+    "category": "food",
+    "image": "images/chocolate_sculpture2.jpg"
+  },
+  {
+    "id": 332,
+    "fact": "Did you know? The most juggling catches in one minute is 1,294 by Anthony Gatto.",
+    "category": "weird",
+    "image": "images/anthony_gatto.jpg"
+  },
+  {
+    "id": 333,
+    "fact": "Did you know? The tallest human tree-climbing is 41.2 meters by Dan Osman.",
+    "category": "endurance",
+    "image": "images/dan_osman.jpg"
+  },
+  {
+    "id": 334,
+    "fact": "Did you know? The largest collection of teddy bears belongs to Jackie Miley with 8,025 bears.",
+    "category": "weird",
+    "image": "images/teddy_collection.jpg"
+  },
+  {
+    "id": 335,
+    "fact": "Did you know? The fastest 200m hurdles run is 22.20 seconds by Aries Merritt.",
+    "category": "sports",
+    "image": "images/aries_merritt.jpg"
+  },
+  {
+    "id": 336,
+    "fact": "Did you know? The heaviest apple ever grown weighed 1.849 kg in Japan.",
+    "category": "food",
+    "image": "images/heaviest_apple.jpg"
+  },
+  {
+    "id": 337,
+    "fact": "Did you know? The longest yoyo spin lasted 4 hours 39 minutes by Michael Torres.",
+    "category": "weird",
+    "image": "images/longest_yoyo.jpg"
+  },
+  {
+    "id": 338,
+    "fact": "Did you know? The tallest waterfall is Angel Falls at 979 meters in Venezuela.",
+    "category": "nature",
+    "image": "images/angel_falls2.jpg"
+  },
+  {
+    "id": 339,
+    "fact": "Did you know? The fastest 10km run by a woman is 29:17 by Joyciline Jepkosgei.",
+    "category": "sports",
+    "image": "images/joyciline_jepkosgei.jpg"
+  },
+  {
+    "id": 340,
+    "fact": "Did you know? The largest loaf of bread baked weighed 1,218 kg in Turkey.",
+    "category": "food",
+    "image": "images/largest_bread.jpg"
+  },
+  {
+    "id": 341,
+    "fact": "Did you know? The fastest 50km ultramarathon time is 3:32:33 by Yohann Diniz.",
+    "category": "endurance",
+    "image": "images/yohann_diniz2.jpg"
+  },
+  {
+    "id": 342,
+    "fact": "Did you know? The largest collection of rubber ducks is owned by Charlotte Lee with over 9,000 ducks.",
+    "category": "weird",
+    "image": "images/rubber_ducks.jpg"
+  },
+  {
+    "id": 343,
+    "fact": "Did you know? The longest handstand lasted 1 hour 2 minutes by Prahlad Jani.",
+    "category": "endurance",
+    "image": "images/prahlad_jani.jpg"
+  },
+  {
+    "id": 344,
+    "fact": "Did you know? The tallest sandcastle ever built measured 17.66 meters in Germany.",
+    "category": "architecture",
+    "image": "images/tallest_sandcastle.jpg"
+  },
+  {
+    "id": 345,
+    "fact": "Did you know? The largest pancake stack ever created had 1,500 pancakes in Canada.",
+    "category": "food",
+    "image": "images/pancake_stack.jpg"
+  },
+  {
+    "id": 346,
+    "fact": "Did you know? The fastest 3000m steeplechase time is 7:53.63 by Saif Saaeed Shaheen.",
+    "category": "sports",
+    "image": "images/saif_steeplechase.jpg"
+  },
+  {
+    "id": 347,
+    "fact": "Did you know? The largest collection of shoes belongs to Darlene Flynn with 16,000 pairs.",
+    "category": "weird",
+    "image": "images/shoes_collection.jpg"
+  },
+  {
+    "id": 348,
+    "fact": "Did you know? The heaviest watermelon ever grown weighed 159 kg in Japan.",
+    "category": "food",
+    "image": "images/heaviest_watermelon.jpg"
+  },
+  {
+    "id": 349,
+    "fact": "Did you know? The fastest 5000m run is 12:35.36 by Joshua Cheptegei.",
+    "category": "sports",
+    "image": "images/joshua_cheptegei_5000.jpg"
+  },
+  {
+    "id": 350,
+    "fact": "Did you know? The tallest human recorded in history is Robert Wadlow at 2.72 meters.",
+    "category": "human",
+    "image": "images/robert_wadlow.jpg"
+  },
+  {
+    "id": 351,
+    "fact": "Did you know? The fastest 800m run is 1:40.91 by David Rudisha.",
+    "category": "sports",
+    "image": "images/david_rudisha_800m.jpg"
+  },
+  {
+    "id": 352,
+    "fact": "Did you know? The largest ice cream cone measured 3.08 meters in Italy.",
+    "category": "food",
+    "image": "images/largest_ice_cream.jpg"
+  },
+  {
+    "id": 353,
+    "fact": "Did you know? The oldest living tree is Methuselah, over 4,800 years old in California.",
+    "category": "nature",
+    "image": "images/methuselah_tree.jpg"
+  },
+  {
+    "id": 354,
+    "fact": "Did you know? The fastest time to solve a Rubik's Cube is 3.47 seconds by Yusheng Du.",
+    "category": "weird",
+    "image": "images/rubiks_cube.jpg"
+  },
+  {
+    "id": 355,
+    "fact": "Did you know? The largest collection of toy cars is owned by Peter Nelson with 18,000 cars.",
+    "category": "weird",
+    "image": "images/toy_car_collection.jpg"
+  },
+  {
+    "id": 356,
+    "fact": "Did you know? The deepest cave ever explored is Veryovkina Cave at 2,212 meters in Georgia.",
+    "category": "nature",
+    "image": "images/veryovkina_cave.jpg"
+  },
+  {
+    "id": 357,
+    "fact": "Did you know? The longest marathon concert lasted 124 hours by the band Amiina.",
+    "category": "weird",
+    "image": "images/marathon_concert.jpg"
+  },
+  {
+    "id": 358,
+    "fact": "Did you know? The largest cup of coffee ever made contained 22,739 liters in Colombia.",
+    "category": "food",
+    "image": "images/largest_coffee.jpg"
+  },
+  {
+    "id": 359,
+    "fact": "Did you know? The longest highline walk without a safety harness was 430 meters by Alexander Schulz.",
+    "category": "endurance",
+    "image": "images/highline_walk.jpg"
+  },
+  {
+    "id": 360,
+    "fact": "Did you know? The fastest 1500m run by a woman is 3:50.07 by Genzebe Dibaba.",
+    "category": "sports",
+    "image": "images/genzebe_dibaba.jpg"
+  },
+  {
+    "id": 361,
+    "fact": "Did you know? The largest collection of teddy bears in a single location had 16,000 bears in Hong Kong.",
+    "category": "weird",
+    "image": "images/teddy_bears_collection2.jpg"
+  },
+  {
+    "id": 362,
+    "fact": "Did you know? The fastest freefall skydive from the highest altitude is 39,045 meters by Felix Baumgartner.",
+    "category": "endurance",
+    "image": "images/felix_baumgartner.jpg"
+  },
+  {
+    "id": 363,
+    "fact": "Did you know? The largest pancake measured 15 meters in diameter in the UK.",
+    "category": "food",
+    "image": "images/largest_pancake2.jpg"
+  },
+  {
+    "id": 364,
+    "fact": "Did you know? The fastest 3000m run by a woman is 8:06.11 by Wang Junxia.",
+    "category": "sports",
+    "image": "images/wang_junxia_3000m.jpg"
+  },
+  {
+    "id": 365,
+    "fact": "Did you know? The tallest indoor water slide is 38.35 meters at Chimelong Water Park, China.",
+    "category": "architecture",
+    "image": "images/tallest_water_slide.jpg"
+  },
+  {
+    "id": 366,
+    "fact": "Did you know? The longest juggling session with three objects lasted 7 hours 41 minutes by David Rush.",
+    "category": "endurance",
+    "image": "images/juggling_session.jpg"
+  },
+  {
+    "id": 367,
+    "fact": "Did you know? The most tattoos on a woman are 337, held by Julia Gnuse from the USA.",
+    "category": "human",
+    "image": "images/julia_gnuse.jpg"
+  },
+  {
+    "id": 368,
+    "fact": "Did you know? The longest duration balancing a bicycle on the chin is 6 hours 16 minutes by Ashrita Furman.",
+    "category": "endurance",
+    "image": "images/bike_chin_balance.jpg"
+  },
+  {
+    "id": 369,
+    "fact": "Did you know? The largest chocolate sculpture weighs 6,000 kg in Italy.",
+    "category": "food",
+    "image": "images/largest_chocolate_sculpture3.jpg"
+  },
+  {
+    "id": 370,
+    "fact": "Did you know? The fastest 50m butterfly swim by a woman is 24.43 seconds by Therese Alshammar.",
+    "category": "sports",
+    "image": "images/therese_alshammar.jpg"
+  },
+  {
+    "id": 371,
+    "fact": "Did you know? The longest continuous skateboard ride is 333 km by Rob Thomas in the UK.",
+    "category": "endurance",
+    "image": "images/long_skateboard_ride.jpg"
+  },
+  {
+    "id": 372,
+    "fact": "Did you know? The tallest Lego tower built reached 36 meters in Milan, Italy.",
+    "category": "architecture",
+    "image": "images/tallest_lego_tower.jpg"
+  },
+  {
+    "id": 373,
+    "fact": "Did you know? The largest collection of salt and pepper shakers has 20,000 sets in the USA.",
+    "category": "weird",
+    "image": "images/salt_pepper_collection.jpg"
+  },
+  {
+    "id": 374,
+    "fact": "Did you know? The fastest 10km run is 26:24 by Rhonex Kipruto.",
+    "category": "sports",
+    "image": "images/rhonex_kipruto.jpg"
+  },
+  {
+    "id": 375,
+    "fact": "Did you know? The largest burger ever made weighed 2,014 kg in Minnesota, USA.",
+    "category": "food",
+    "image": "images/largest_burger.jpg"
+  },
+  {
+    "id": 376,
+    "fact": "Did you know? The longest marathon drumming session lasted 124 hours in Switzerland.",
+    "category": "endurance",
+    "image": "images/marathon_drumming.jpg"
+  },
+  {
+    "id": 377,
+    "fact": "Did you know? The tallest flagpole is 171 meters in Jeddah, Saudi Arabia.",
+    "category": "architecture",
+    "image": "images/tallest_flagpole.jpg"
+  },
+  {
+    "id": 378,
+    "fact": "Did you know? The fastest 300m sprint indoors is 31.56 seconds by Pavel Maslak.",
+    "category": "sports",
+    "image": "images/pavel_maslak.jpg"
+  },
+  {
+    "id": 379,
+    "fact": "Did you know? The heaviest cheesecake weighed 1,354 kg in Mexico.",
+    "category": "food",
+    "image": "images/heaviest_cheesecake.jpg"
+  },
+  {
+    "id": 380,
+    "fact": "Did you know? The longest paper plane flight lasted 29.2 seconds in Japan.",
+    "category": "weird",
+    "image": "images/longest_paper_plane.jpg"
+  },
+  {
+    "id": 381,
+    "fact": "Did you know? The largest omelette ever made weighed 6,466 kg in Turkey.",
+    "category": "food",
+    "image": "images/largest_omelette.jpg"
+  },
+  {
+    "id": 382,
+    "fact": "Did you know? The tallest human pyramid consisted of 10 levels in India.",
+    "category": "human",
+    "image": "images/tallest_pyramid.jpg"
+  },
+  {
+    "id": 383,
+    "fact": "Did you know? The fastest 2000m steeplechase time is 5:10.68 by Soufiane El Bakkali.",
+    "category": "sports",
+    "image": "images/soufiane_steeplechase.jpg"
+  },
+  {
+    "id": 384,
+    "fact": "Did you know? The longest continuous hula hooping lasted 100 hours by Maria Palm.",
+    "category": "endurance",
+    "image": "images/hula_hooping.jpg"
+  },
+  {
+    "id": 385,
+    "fact": "Did you know? The largest lasagna ever made weighed 4,865 kg in Poland.",
+    "category": "food",
+    "image": "images/largest_lasagna.jpg"
+  },
+  {
+    "id": 386,
+    "fact": "Did you know? The fastest 60m indoor sprint is 6.34 seconds by Christian Coleman.",
+    "category": "sports",
+    "image": "images/christian_coleman_60m.jpg"
+  },
+  {
+    "id": 387,
+    "fact": "Did you know? The longest marathon chess game lasted 50 hours and 15 minutes in Germany.",
+    "category": "endurance",
+    "image": "images/marathon_chess.jpg"
+  },
+  {
+    "id": 388,
+    "fact": "Did you know? The largest croissant measured 78 meters in length in France.",
+    "category": "food",
+    "image": "images/largest_croissant.jpg"
+  },
+  {
+    "id": 389,
+    "fact": "Did you know? The tallest ferris wheel is the Ain Dubai at 250 meters.",
+    "category": "architecture",
+    "image": "images/ain_dubai.jpg"
+  },
+  {
+    "id": 390,
+    "fact": "Did you know? The fastest 800m swim by a woman is 8:04.79 by Katie Ledecky.",
+    "category": "sports",
+    "image": "images/katie_ledecky_800m.jpg"
+  },
+  {
+    "id": 391,
+    "fact": "Did you know? The largest burger patty ever made weighed 1,164 kg in Germany.",
+    "category": "food",
+    "image": "images/largest_burger_patty.jpg"
+  },
+  {
+    "id": 392,
+    "fact": "Did you know? The longest rope climbing session lasted 7 hours 32 minutes by Pavel Andrejev.",
+    "category": "endurance",
+    "image": "images/rope_climbing.jpg"
+  },
+  {
+    "id": 393,
+    "fact": "Did you know? The tallest lighthouse is the Jeddah Light at 133 meters.",
+    "category": "architecture",
+    "image": "images/jeddah_lighthouse.jpg"
+  },
+  {
+    "id": 394,
+    "fact": "Did you know? The fastest 4x100m relay team time is 36.84 seconds by Jamaica.",
+    "category": "sports",
+    "image": "images/jamaica_relay.jpg"
+  },
+  {
+    "id": 395,
+    "fact": "Did you know? The heaviest cupcake ever baked weighed 1,019 kg in the USA.",
+    "category": "food",
+    "image": "images/heaviest_cupcake.jpg"
+  },
+  {
+    "id": 396,
+    "fact": "Did you know? The longest time holding breath underwater is 24 minutes 37 seconds by Budimir Šobat.",
+    "category": "endurance",
+    "image": "images/hold_breath.jpg"
+  },
+  {
+    "id": 397,
+    "fact": "Did you know? The largest coffee cup pyramid consisted of 2,016 cups in Austria.",
+    "category": "weird",
+    "image": "images/coffee_cup_pyramid.jpg"
+  },
+  {
+    "id": 398,
+    "fact": "Did you know? The tallest stack of pancakes reached 101 layers in the USA.",
+    "category": "food",
+    "image": "images/pancake_stack_101.jpg"
+  },
+  {
+    "id": 399,
+    "fact": "Did you know? The fastest marathon for a woman is 2:14:04 by Brigid Kosgei.",
+    "category": "sports",
+    "image": "images/brigid_kosgei.jpg"
+  },
+  {
+    "id": 400,
+    "fact": "Did you know? The oldest living person ever recorded was Jeanne Calment at 122 years 164 days.",
+    "category": "human",
+    "image": "images/jeanne_calment.jpg"
+  }
+]

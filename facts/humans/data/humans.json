@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? The human stomach can dissolve razor blades over time due to strong gastric acids.",
+    "category": "weird",
+    "image": "images/stomach.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Your tongue has a unique print, like a fingerprint, which can be used to identify you.",
+    "category": "weird",
+    "image": "images/tongue.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Skin is the largest organ of the human body, protecting you from bacteria and regulating temperature.",
+    "category": "body",
+    "image": "images/skin.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Humans share about 60% of their DNA with bananas, showing how evolution connects all life.",
+    "category": "fun",
+    "image": "images/fun.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? Your brain generates about 20 watts of electrical power while awake, enough to power a small light bulb.",
+    "category": "brain",
+    "image": "images/brain.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? Fingernails grow faster on your dominant hand because of more blood flow and activity.",
+    "category": "body",
+    "image": "images/fingers.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Your bones are constantly being rebuilt; every 10 years you have a new skeleton as old bone is replaced.",
+    "category": "body",
+    "image": "images/bones.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Humans shed about 600,000 particles of skin every hour, contributing to dust in your home.",
+    "category": "weird",
+    "image": "images/skin_shed.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The brain cannot feel pain, which is why brain surgery can sometimes be done on awake patients.",
+    "category": "brain",
+    "image": "images/brain2.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? Humans blink about 15–20 times per minute to keep the eyes lubricated and protect them from dust.",
+    "category": "body",
+    "image": "images/eyes.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Your liver can regenerate itself; even 25% of a liver can grow back to full size.",
+    "category": "medical",
+    "image": "images/liver.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Your bones are stronger than concrete ounce for ounce because of their calcium structure.",
+    "category": "body",
+    "image": "images/bones2.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? The human heart beats about 100,000 times per day, pumping 5 liters of blood every minute.",
+    "category": "body",
+    "image": "images/heart.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Your stomach produces a new layer of mucus every two weeks to prevent digesting itself.",
+    "category": "body",
+    "image": "images/stomach2.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Humans have about 5 million hairs on their body, but only about 100,000 on the scalp.",
+    "category": "body",
+    "image": "images/hair.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Your small intestine is about 22 feet long to absorb maximum nutrients from food.",
+    "category": "body",
+    "image": "images/intestine.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? The human brain contains around 86 billion neurons, allowing complex thoughts and memory.",
+    "category": "brain",
+    "image": "images/brain3.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Your body has enough iron to make a small nail, showing how minerals are distributed.",
+    "category": "body",
+    "image": "images/iron.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Human bones are constantly remodeling with osteoclasts and osteoblasts to stay strong.",
+    "category": "medical",
+    "image": "images/bones3.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Your ears continue to grow slowly throughout life due to cartilage expansion.",
+    "category": "weird",
+    "image": "images/ears.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? Your eyes can distinguish about 10 million different colors, amazing for visual processing.",
+    "category": "body",
+    "image": "images/eyes2.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Goosebumps occur when tiny muscles at the base of hairs contract, a leftover from evolution.",
+    "category": "weird",
+    "image": "images/goosebumps.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Humans produce about 1–1.5 liters of saliva per day to aid digestion and protect teeth.",
+    "category": "body",
+    "image": "images/saliva.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Your brain is about 75% water, which helps transmit signals efficiently.",
+    "category": "brain",
+    "image": "images/brain4.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Humans have about 20 square feet of skin if flattened, highlighting the body’s protective layer.",
+    "category": "body",
+    "image": "images/skin2.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Your fingerprints are formed in the womb and never change, unique to each person.",
+    "category": "body",
+    "image": "images/fingerprints.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? The cornea is the only part of the body without blood vessels; it gets oxygen directly from air.",
+    "category": "weird",
+    "image": "images/cornea.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Human bones are slightly elastic, allowing them to absorb impact without breaking easily.",
+    "category": "body",
+    "image": "images/bones4.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Your stomach can expand to hold up to 1 liter of food when fully stretched.",
+    "category": "body",
+    "image": "images/stomach3.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Humans can distinguish over a trillion different smells due to olfactory receptors.",
+    "category": "body",
+    "image": "images/nose.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? The human brain can generate new neurons throughout life in a process called neurogenesis.",
+    "category": "brain",
+    "image": "images/brain5.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Your lips have the highest concentration of sensory nerve endings on the body.",
+    "category": "body",
+    "image": "images/lips.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Teeth are harder than bones, which is why enamel protects them from wear and tear.",
+    "category": "body",
+    "image": "images/teeth.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Your brain uses about 20% of your body’s total oxygen and energy at rest.",
+    "category": "brain",
+    "image": "images/brain6.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Your intestines contain trillions of bacteria that help digest food and produce vitamins.",
+    "category": "medical",
+    "image": "images/intestine2.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Humans can survive several weeks without food but only a few days without water.",
+    "category": "shocking",
+    "image": "images/water.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? The human body contains enough carbon to make about 900 pencils.",
+    "category": "fun",
+    "image": "images/carbon.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Your hair grows about 6 inches per year, but growth slows with age.",
+    "category": "body",
+    "image": "images/hair2.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Humans can hear sounds from 20 Hz to 20,000 Hz, but hearing declines with age.",
+    "category": "body",
+    "image": "images/ears2.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Babies are born with around 300 bones, but some fuse together to become 206 in adults.",
+    "category": "body",
+    "image": "images/bones5.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Your kidneys filter about 50 gallons of blood every day to remove waste.",
+    "category": "medical",
+    "image": "images/kidneys.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? The average person produces about 25,000 quarts of saliva in a lifetime.",
+    "category": "fun",
+    "image": "images/saliva2.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? The human body glows faintly in the dark due to biochemical reactions.",
+    "category": "weird",
+    "image": "images/glow.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? Human nails continue growing after death for a short period due to skin dehydration.",
+    "category": "weird",
+    "image": "images/nails.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? The left lung is smaller than the right lung to make space for the heart.",
+    "category": "body",
+    "image": "images/lungs.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Humans are the only animals that blush, a reaction controlled by the nervous system.",
+    "category": "weird",
+    "image": "images/blush.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Your blood travels about 12,000 miles every day through vessels in the body.",
+    "category": "body",
+    "image": "images/blood.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Your bones are constantly producing blood cells in the bone marrow.",
+    "category": "body",
+    "image": "images/bones6.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Human teeth can withstand forces up to 200 pounds per square inch when chewing.",
+    "category": "body",
+    "image": "images/teeth2.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Your sense of smell is closely linked to memory, helping you recall past experiences.",
+    "category": "brain",
+    "image": "images/nose2.jpg"
+  },
+
+  {
+    "id": 51,
+    "fact": "Did you know? Your tongue print is unique — its papillae pattern is as distinct as fingerprints.",
+    "category": "body",
+    "image": "images/human51.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Short bursts of exercise boost memory and learning for up to two hours.",
+    "category": "brain",
+    "image": "images/human52.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Some people can move their ears using small, rarely active ear muscles.",
+    "category": "rare",
+    "image": "images/human53.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Laughter releases endorphins that naturally reduce pain and lift your mood.",
+    "category": "psychology",
+    "image": "images/human54.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Your gut has its own nervous system, often called the 'second brain.'",
+    "category": "medical",
+    "image": "images/human55.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Some people experience synesthesia, where senses blend — like 'seeing' sounds.",
+    "category": "rare",
+    "image": "images/human56.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Familiar scents can instantly bring back vivid memories and emotions.",
+    "category": "psychology",
+    "image": "images/human57.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Human bones are lightweight yet strong thanks to collagen and minerals.",
+    "category": "body",
+    "image": "images/human58.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? The human eye can detect a single photon in perfect darkness.",
+    "category": "brain",
+    "image": "images/human59.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Some people are born with an extra rib in the neck called a cervical rib.",
+    "category": "rare",
+    "image": "images/human60.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Dark chocolate contains mild stimulants that can increase alertness.",
+    "category": "fun",
+    "image": "images/human61.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Your natural body clock runs a little longer than 24 hours and resets with light.",
+    "category": "medical",
+    "image": "images/human62.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Mirror-touch synesthesia makes some people feel touch they see on others.",
+    "category": "rare",
+    "image": "images/human63.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? The appendix supports immune function and helps maintain healthy gut bacteria.",
+    "category": "evolution",
+    "image": "images/human64.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? Repeated practice rewires your brain — a process known as neuroplasticity.",
+    "category": "brain",
+    "image": "images/human65.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Sleeping under six hours regularly increases the risk of memory decline.",
+    "category": "medical",
+    "image": "images/human66.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Your nose can remember around 50,000 different scents.",
+    "category": "fun",
+    "image": "images/human67.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Stress triggers adrenaline, boosting alertness for 'fight or flight' moments.",
+    "category": "psychology",
+    "image": "images/human68.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Supertasters have genes that make certain flavors—especially bitter ones—much stronger.",
+    "category": "rare",
+    "image": "images/human69.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Goosebumps occur when tiny muscles around hair follicles contract.",
+    "category": "evolution",
+    "image": "images/human70.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? The jaw muscle (masseter) is the strongest by bite force.",
+    "category": "body",
+    "image": "images/human71.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Chronic stress can shrink the hippocampus, the brain’s memory center.",
+    "category": "brain",
+    "image": "images/human72.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Heterochromia gives some people two different eye colors.",
+    "category": "rare",
+    "image": "images/human73.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? The placebo effect can create real physical and emotional improvements.",
+    "category": "psychology",
+    "image": "images/human74.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Digestion begins in the mouth thanks to enzymes in your saliva.",
+    "category": "body",
+    "image": "images/human75.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? A few people can recall nearly every day of their life — a rare skill called HSAM.",
+    "category": "rare",
+    "image": "images/human76.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Skin bacteria help protect you and train your immune system.",
+    "category": "medical",
+    "image": "images/human77.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? You can get stronger before muscles grow because your nerves adapt first.",
+    "category": "body",
+    "image": "images/human78.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Sweat glands on your forehead help keep your brain cool.",
+    "category": "body",
+    "image": "images/human79.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Language skills are usually controlled by the left side of the brain.",
+    "category": "evolution",
+    "image": "images/human80.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Your immune system remembers past infections, creating long-term immunity.",
+    "category": "medical",
+    "image": "images/human81.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Smiling sends signals to your brain that can boost your mood.",
+    "category": "psychology",
+    "image": "images/human82.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? The spleen filters old blood cells and stores platelets.",
+    "category": "body",
+    "image": "images/human83.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Exercise boosts serotonin and dopamine, improving mood and reducing stress.",
+    "category": "psychology",
+    "image": "images/human84.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? When fasting, your brain can run on ketones made from fat.",
+    "category": "survival",
+    "image": "images/human85.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? Most people have small natural asymmetries in their body.",
+    "category": "evolution",
+    "image": "images/human86.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? The adult brain weighs about 1.3–1.4 kg but uses a lot of your energy.",
+    "category": "brain",
+    "image": "images/human87.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Humans produce three types of tears — basal, reflex, and emotional.",
+    "category": "body",
+    "image": "images/human88.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? Placebos work better when they look more expensive or professional.",
+    "category": "psychology",
+    "image": "images/human89.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? Muscle cells contain many mitochondria to meet high energy demands.",
+    "category": "body",
+    "image": "images/human90.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? Long-term loneliness increases the risk of heart problems and cognitive decline.",
+    "category": "psychology",
+    "image": "images/human91.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? Taste sensitivity decreases with age, especially for sweet and salty flavors.",
+    "category": "body",
+    "image": "images/human92.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Your DNA contains remnants of ancient viruses from past evolutionary events.",
+    "category": "evolution",
+    "image": "images/human93.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? A 10–20 minute nap can refresh your mind without making you groggy.",
+    "category": "medical",
+    "image": "images/human94.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Some people react strongly to mosquito bites due to sensitive immune responses.",
+    "category": "medical",
+    "image": "images/human95.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? A baby’s heart starts beating just three weeks after conception.",
+    "category": "evolution",
+    "image": "images/human96.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Most of what you taste actually comes from smell.",
+    "category": "body",
+    "image": "images/human97.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? People living at high altitudes develop natural adaptations for low oxygen.",
+    "category": "evolution",
+    "image": "images/human98.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The brain removes weak neural connections during development to improve efficiency.",
+    "category": "brain",
+    "image": "images/human99.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? You can train your nose — experts like perfumers smell far better through practice.",
+    "category": "psychology",
+    "image": "images/human100.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? The microbes in your gut weigh about as much as your brain.",
+    "category": "medical",
+    "image": "images/human101.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Your bones are living tissue that repair and strengthen themselves.",
+    "category": "body",
+    "image": "images/human102.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Most of your body’s serotonin is produced in the gut, not the brain.",
+    "category": "medical",
+    "image": "images/human103.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Spending time in nature lowers stress and boosts mental clarity.",
+    "category": "psychology",
+    "image": "images/human104.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Some of your neurons last your entire life without being replaced.",
+    "category": "evolution",
+    "image": "images/human105.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Better heart and lung fitness is linked to stronger cognition in aging.",
+    "category": "medical",
+    "image": "images/human106.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? A few people have absolute pitch, allowing them to identify notes instantly.",
+    "category": "rare",
+    "image": "images/human107.jpg"
+  },
+
+  {
+    "id": 108,
+    "fact": "Did you know? The human hand has 27 bones, making it one of the most dexterous parts of the body.",
+    "category": "body",
+    "image": "images/human108.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Your brain can store around 2.5 petabytes of information, equivalent to 3 million hours of TV shows.",
+    "category": "brain",
+    "image": "images/human109.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Some people have a rare condition called 'Ehlers-Danlos syndrome' that makes their skin extremely stretchy.",
+    "category": "rare",
+    "image": "images/human110.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Sneezing while asleep is nearly impossible because your nervous system is less responsive.",
+    "category": "weird",
+    "image": "images/human111.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Tickling releases a mix of laughter and mild panic due to nerve stimulation.",
+    "category": "fun",
+    "image": "images/human112.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Your liver can process over 1 liter of blood per minute to remove toxins.",
+    "category": "medical",
+    "image": "images/human113.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Humans can survive temperatures as low as −40°C and as high as 70°C in extreme conditions for short periods.",
+    "category": "survival",
+    "image": "images/human114.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Fear can trigger the release of glucose into your bloodstream, preparing your muscles for action.",
+    "category": "psychology",
+    "image": "images/human115.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? The human appendix may have once been used for digesting cellulose-rich plants during evolution.",
+    "category": "evolution",
+    "image": "images/human116.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? The human nose can detect changes as small as a few parts per trillion in the air.",
+    "category": "body",
+    "image": "images/human117.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Meditation can increase gray matter in the brain, improving memory and emotional regulation.",
+    "category": "brain",
+    "image": "images/human118.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Some people can voluntarily wiggle their ears due to extra ear muscles.",
+    "category": "rare",
+    "image": "images/human119.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Your stomach sometimes growls even when you aren’t hungry due to intestinal muscle contractions.",
+    "category": "fun",
+    "image": "images/human120.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? The average adult heart pumps about 2,000 gallons of blood every day.",
+    "category": "body",
+    "image": "images/human121.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Sleep deprivation can reduce cognitive performance as much as being legally drunk.",
+    "category": "brain",
+    "image": "images/human122.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Some people have a condition called 'mirror-touch synesthesia,' feeling sensations they see on others.",
+    "category": "rare",
+    "image": "images/human123.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Humans can involuntarily shiver to generate heat even when asleep.",
+    "category": "survival",
+    "image": "images/human124.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Laughter can increase pain tolerance by releasing endorphins and relaxing muscles.",
+    "category": "psychology",
+    "image": "images/human125.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? The human foot contains 26 bones, 33 joints, and over 100 muscles, tendons, and ligaments.",
+    "category": "body",
+    "image": "images/human126.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Brain scans show that imagining an action activates almost the same neurons as actually performing it.",
+    "category": "brain",
+    "image": "images/human127.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Some people can hear their heartbeat in their ears — a rare phenomenon called pulsatile tinnitus.",
+    "category": "rare",
+    "image": "images/human128.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Humans are capable of fainting in response to emotional stress or sudden pain — a natural protective mechanism.",
+    "category": "weird",
+    "image": "images/human129.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? People can laugh at their own mistakes, which may strengthen social bonds and reduce stress.",
+    "category": "fun",
+    "image": "images/human130.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? The cornea regenerates itself every 7–10 days to maintain clear vision.",
+    "category": "medical",
+    "image": "images/human131.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Extreme dehydration can reduce blood volume by over 20%, risking organ failure.",
+    "category": "shocking",
+    "image": "images/human132.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Regular exercise can increase the size of the hippocampus, enhancing memory retention.",
+    "category": "brain",
+    "image": "images/human133.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Some people can voluntarily change their eye color temporarily due to certain lighting effects — a rare trait.",
+    "category": "rare",
+    "image": "images/human134.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Humans can survive in total darkness for days if mental focus is maintained.",
+    "category": "survival",
+    "image": "images/human135.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Feeling gratitude regularly can rewire your brain, improving happiness and resilience.",
+    "category": "psychology",
+    "image": "images/human136.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? The human spine has 33 vertebrae, providing structural support and flexibility.",
+    "category": "body",
+    "image": "images/human137.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? Multitasking can reduce efficiency because your brain switches rapidly between tasks instead of doing them simultaneously.",
+    "category": "brain",
+    "image": "images/human138.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Some individuals have hyperthymesia, the ability to recall nearly every event of their life.",
+    "category": "rare",
+    "image": "images/human139.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Goosebumps also appear when you experience strong emotions, not just cold.",
+    "category": "weird",
+    "image": "images/human140.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Watching funny videos can release dopamine and serotonin, improving mood and motivation.",
+    "category": "fun",
+    "image": "images/human141.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? The pancreas produces insulin to regulate blood sugar and maintain energy balance.",
+    "category": "medical",
+    "image": "images/human142.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Humans can hold their breath for over 10 minutes with training, thanks to the mammalian dive reflex.",
+    "category": "survival",
+    "image": "images/human143.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Fear and anxiety can shrink certain areas of the brain, but mindfulness can reverse this effect.",
+    "category": "psychology",
+    "image": "images/human144.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? The human rib cage has 24 ribs, protecting vital organs like the heart and lungs.",
+    "category": "body",
+    "image": "images/human145.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Brain training games can enhance problem-solving skills and memory, especially in older adults.",
+    "category": "brain",
+    "image": "images/human146.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Some people are tetrachromats, able to see up to 100 million colors due to a rare eye pigment.",
+    "category": "rare",
+    "image": "images/human147.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Yawning helps cool the brain and improve alertness, not just indicate tiredness.",
+    "category": "weird",
+    "image": "images/human148.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Smiling at strangers can increase their happiness and reduce your own stress.",
+    "category": "fun",
+    "image": "images/human149.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Regular checkups can detect silent diseases early, increasing survival rates.",
+    "category": "medical",
+    "image": "images/human150.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Humans can survive extreme cold if properly insulated and physiologically adapted.",
+    "category": "survival",
+    "image": "images/human151.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? Practicing empathy can increase activity in the brain regions associated with understanding others.",
+    "category": "psychology",
+    "image": "images/human152.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? The human skull is made of 22 bones fused together to protect the brain.",
+    "category": "body",
+    "image": "images/human153.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Certain smells can instantly transport you back to early childhood memories due to brain connections.",
+    "category": "brain",
+    "image": "images/human154.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? Some people have a rare condition called congenital insensitivity to pain and cannot feel physical pain.",
+    "category": "rare",
+    "image": "images/human155.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? People can experience sleepwalking during deep sleep stages without remembering it in the morning.",
+    "category": "weird",
+    "image": "images/human156.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Music can elevate mood, reduce stress, and even synchronize heartbeats in groups of listeners.",
+    "category": "fun",
+    "image": "images/human157.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? The adrenal glands release cortisol during stress, affecting metabolism and immune response.",
+    "category": "medical",
+    "image": "images/human158.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? People can survive without food for more than a month, but only days without water.",
+    "category": "survival",
+    "image": "images/human159.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Practicing mindfulness can change brain structure, increasing focus and emotional stability.",
+    "category": "psychology",
+    "image": "images/human160.jpg"
+  },
+
+  {
+    "id": 161,
+    "fact": "Did you know? The average human brain generates about 50,000 thoughts per day.",
+    "category": "brain",
+    "image": "images/human161.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Your liver contains over 500 vital functions, including detoxification and protein synthesis.",
+    "category": "medical",
+    "image": "images/human162.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Humans are born with the ability to swim instinctively for the first few months of life.",
+    "category": "survival",
+    "image": "images/human163.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? The human hand can distinguish more than 100,000 different textures by touch alone.",
+    "category": "body",
+    "image": "images/human164.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? When stressed, your brain releases corticotropin, affecting memory and decision-making.",
+    "category": "psychology",
+    "image": "images/human165.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Some people can see UV light due to a rare lens mutation, giving them an extra visual dimension.",
+    "category": "rare",
+    "image": "images/human166.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? Your stomach lining renews itself every three to four days to prevent self-digestion.",
+    "category": "body",
+    "image": "images/human167.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Listening to music can improve your brain's processing speed and coordination.",
+    "category": "brain",
+    "image": "images/human168.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? Some people can consciously control one side of their face muscles due to rare neuromuscular control.",
+    "category": "rare",
+    "image": "images/human169.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Yawning increases oxygen intake and cools the brain, improving alertness.",
+    "category": "weird",
+    "image": "images/human170.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? People who smile often have lower blood pressure and improved heart health.",
+    "category": "fun",
+    "image": "images/human171.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Your kidneys filter about 1 liter of blood every 5 minutes, removing waste efficiently.",
+    "category": "medical",
+    "image": "images/human172.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? Humans can survive up to 120 hours without sleep in extreme circumstances, though cognitive function drops.",
+    "category": "survival",
+    "image": "images/human173.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Chronic meditation can increase gray matter density in the brain, improving focus and learning.",
+    "category": "brain",
+    "image": "images/human174.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? Some people are polymathic, able to excel in multiple unrelated fields due to unique cognitive wiring.",
+    "category": "rare",
+    "image": "images/human175.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? Sneezing helps expel irritants from your nasal passages at speeds over 100 mph.",
+    "category": "weird",
+    "image": "images/human176.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Laughter can increase pain tolerance and improve immunity by releasing endorphins.",
+    "category": "fun",
+    "image": "images/human177.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? The small intestine is about 7 meters long, absorbing nutrients with a massive surface area.",
+    "category": "body",
+    "image": "images/human178.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Your brain can rewire itself after injuries, a phenomenon known as neural plasticity.",
+    "category": "brain",
+    "image": "images/human179.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Some people have an extra vertebra in their spine, a rare anatomical variation.",
+    "category": "rare",
+    "image": "images/human180.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? The human body can produce up to 1.5 liters of mucus per day to trap dust and bacteria.",
+    "category": "weird",
+    "image": "images/human181.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Playing games releases dopamine in the brain, improving motivation and learning.",
+    "category": "fun",
+    "image": "images/human182.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? The human lungs have about 300 million alveoli, providing a massive surface area for gas exchange.",
+    "category": "body",
+    "image": "images/human183.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Long-term stress can physically shrink the hippocampus, affecting memory and emotion.",
+    "category": "psychology",
+    "image": "images/human184.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? Some people have super memory called eidetic memory, able to recall images vividly for minutes or hours.",
+    "category": "rare",
+    "image": "images/human185.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Humans can endure up to 10 minutes underwater without oxygen thanks to the mammalian dive reflex.",
+    "category": "survival",
+    "image": "images/human186.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Meditation lowers cortisol levels and can improve overall brain function.",
+    "category": "psychology",
+    "image": "images/human187.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? The human tongue has 8,000–10,000 taste buds, which regenerate approximately every two weeks.",
+    "category": "body",
+    "image": "images/human188.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Certain smells can trigger strong emotional responses because the olfactory bulb is directly connected to the limbic system.",
+    "category": "brain",
+    "image": "images/human189.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Some individuals are born with extra fingers or toes, a rare condition called polydactyly.",
+    "category": "rare",
+    "image": "images/human190.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Human eyes can dilate in response to exciting or stressful situations.",
+    "category": "weird",
+    "image": "images/human191.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Watching comedy can reduce stress hormones and improve mood temporarily.",
+    "category": "fun",
+    "image": "images/human192.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? The human spine can support up to 800 pounds of weight due to its interlocking vertebrae and ligaments.",
+    "category": "body",
+    "image": "images/human193.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Reading fiction can improve empathy by stimulating brain regions associated with social understanding.",
+    "category": "psychology",
+    "image": "images/human194.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Some people have a rare condition called anhidrosis, where they cannot sweat normally.",
+    "category": "rare",
+    "image": "images/human195.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Humans can survive for weeks without food, but only days without water under extreme conditions.",
+    "category": "survival",
+    "image": "images/human196.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Practicing deep breathing can activate the parasympathetic nervous system, lowering stress.",
+    "category": "psychology",
+    "image": "images/human197.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? The human skull can withstand forces up to 1,100 pounds per square inch, protecting the brain.",
+    "category": "body",
+    "image": "images/human198.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Brain activity can increase by up to 20% when listening to music compared to silence.",
+    "category": "brain",
+    "image": "images/human199.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Some people can voluntarily control their heartbeat and body temperature through intense meditation.",
+    "category": "rare",
+    "image": "images/human200.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? The human brain can process images in as little as 13 milliseconds.",
+    "category": "brain",
+    "image": "images/human201.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Humans blink asymmetrically, meaning one eye blinks slightly before the other.",
+    "category": "weird",
+    "image": "images/human202.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? The human heart creates enough pressure when pumping to squirt blood up to 30 feet.",
+    "category": "body",
+    "image": "images/human203.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Some people have double-jointed thumbs due to hypermobility in their joints.",
+    "category": "rare",
+    "image": "images/human204.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Humans can sense magnetic fields in certain rare conditions, although the mechanism is not fully understood.",
+    "category": "rare",
+    "image": "images/human205.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Your brain continues to develop until around age 25, especially the prefrontal cortex responsible for decision-making.",
+    "category": "brain",
+    "image": "images/human206.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Humans can detect over 1 trillion smells, far more than was previously thought.",
+    "category": "body",
+    "image": "images/human207.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Some people can naturally produce high levels of vitamin D through skin conversion with minimal sun exposure.",
+    "category": "medical",
+    "image": "images/human208.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Your liver can survive even if 75% of it is removed, as it regenerates rapidly.",
+    "category": "medical",
+    "image": "images/human209.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Humans have a microscopic layer of bacteria called the microbiome that weighs about 2–3 pounds.",
+    "category": "medical",
+    "image": "images/human210.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Your bones are constantly releasing calcium to maintain blood mineral balance.",
+    "category": "body",
+    "image": "images/human211.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Some humans can taste water differently based on their genetic taste receptors.",
+    "category": "rare",
+    "image": "images/human212.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? The human nose can distinguish thousands of subtle variations in a single scent molecule.",
+    "category": "body",
+    "image": "images/human213.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Humans can unconsciously mimic facial expressions of others to strengthen social bonds.",
+    "category": "psychology",
+    "image": "images/human214.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Your stomach produces about 2–3 liters of gastric juice every day to aid digestion.",
+    "category": "body",
+    "image": "images/human215.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Some people can hear ultrasonic frequencies slightly above the normal human range due to rare auditory sensitivity.",
+    "category": "rare",
+    "image": "images/human216.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Playing music or singing can synchronize brain waves and improve emotional states.",
+    "category": "psychology",
+    "image": "images/human217.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Your gut produces neurotransmitters like serotonin, influencing mood and digestion simultaneously.",
+    "category": "medical",
+    "image": "images/human218.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Humans can experience phantom vibrations when expecting phone notifications due to neural anticipation.",
+    "category": "psychology",
+    "image": "images/human219.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? The human body contains trace elements like gold and silver, though in minute quantities.",
+    "category": "body",
+    "image": "images/human220.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Humans shed around 600,000 particles of skin every hour.",
+    "category": "body",
+    "image": "images/human221.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Your brain generates about 20 watts of electrical power while awake.",
+    "category": "brain",
+    "image": "images/human222.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Some people can wiggle their ears due to tiny muscles called auricularis.",
+    "category": "rare",
+    "image": "images/human223.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Humans have a unique tongue print, similar to fingerprints.",
+    "category": "rare",
+    "image": "images/human224.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Your stomach lining renews itself every 3–4 days to prevent self-digestion.",
+    "category": "body",
+    "image": "images/human225.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Human bones are five times stronger than steel of the same density.",
+    "category": "body",
+    "image": "images/human226.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Humans can survive without food for weeks but only a few days without water.",
+    "category": "survival",
+    "image": "images/human227.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? The cornea of the eye has no blood vessels and gets oxygen directly from air.",
+    "category": "body",
+    "image": "images/human228.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? Your sense of smell is closely linked to memory, which is why scents trigger vivid recollections.",
+    "category": "psychology",
+    "image": "images/human229.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Some people have a rare condition called synesthesia, where senses mix, like seeing sounds as colors.",
+    "category": "rare",
+    "image": "images/human230.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Humans blink around 15–20 times per minute, which totals up to 10,000 blinks a day.",
+    "category": "body",
+    "image": "images/human231.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Your liver has over 500 functions, including detoxification, protein synthesis, and metabolism.",
+    "category": "medical",
+    "image": "images/human232.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Humans can hear sounds in the range of 20 Hz to 20,000 Hz, though this declines with age.",
+    "category": "body",
+    "image": "images/human233.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? People with higher emotional intelligence tend to live longer and healthier lives.",
+    "category": "psychology",
+    "image": "images/human234.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? Human hair can support up to 100 grams of weight on average before breaking.",
+    "category": "body",
+    "image": "images/human235.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The human immune system can recognize and remember millions of pathogens to fight infections efficiently.",
+    "category": "medical",
+    "image": "images/human236.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Humans have tiny muscles in their skin that make goosebumps, a remnant from evolutionary ancestors.",
+    "category": "evolution",
+    "image": "images/human237.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Some people can naturally detect changes in barometric pressure due to sensitive inner ear systems.",
+    "category": "rare",
+    "image": "images/human238.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Laughter increases endorphins, reducing pain and boosting mood.",
+    "category": "psychology",
+    "image": "images/human239.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? Humans have a blind spot in each eye where the optic nerve passes through the retina.",
+    "category": "body",
+    "image": "images/human240.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Your taste buds are replaced approximately every 10–14 days.",
+    "category": "body",
+    "image": "images/human241.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Some humans have heterochromia, where each eye has a different color.",
+    "category": "rare",
+    "image": "images/human242.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? The human body produces about 1–1.5 liters of saliva every day.",
+    "category": "body",
+    "image": "images/human243.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Humans can sense the Earth's magnetic field subtly, though most are unaware of it.",
+    "category": "rare",
+    "image": "images/human244.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Deep sleep helps consolidate memories and remove toxins from the brain.",
+    "category": "brain",
+    "image": "images/human245.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Your skin is the body's largest organ and can cover an area of about 20 square feet.",
+    "category": "body",
+    "image": "images/human246.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Humans have a dominant hand due to asymmetry in the brain's motor cortex.",
+    "category": "brain",
+    "image": "images/human247.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? Regular exposure to nature improves cognitive function and reduces stress levels.",
+    "category": "psychology",
+    "image": "images/human248.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Humans can go without sleep longer than without food, but severe sleep deprivation causes hallucinations.",
+    "category": "survival",
+    "image": "images/human249.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Human bones are constantly being broken down and rebuilt in a process called remodeling.",
+    "category": "body",
+    "image": "images/human250.jpg"
+  }
+]

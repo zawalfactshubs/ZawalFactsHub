@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Facts Quiz | Zawal Facts Hub</title>
+
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="quiz-play.css">
+</head>
+<body>
+
+<!-- HEADER (UNCHANGED – FULL MENU) -->
+<header>
+  <h1>
+    <img src="/logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+
+  <nav id="nav-menu" class="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="/facts/facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech.html">Tech Tips</a>
+    <a href="/tutorials.html">Life Hacks</a>
+    <a href="premium.html">Premium Facts</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html">Contact</a>
+  </nav>
+</header>
+
+<!-- GAME TITLE -->
+<section class="game-header">
+  <h2>Facts Quiz</h2>
+  <p>Select a category and start playing</p>
+</section>
+
+<!-- CATEGORY BAR (STRAIGHT LINE LIKE W3SCHOOLS) -->
+<div class="quiz-tabs">
+  <button class="tab active" onclick="loadCategory('animal', this)">Animal</button>
+  <button class="tab" onclick="loadCategory('human', this)">Human</button>
+  <button class="tab" onclick="loadCategory('plant', this)">Plant</button>
+  <button class="tab" onclick="loadCategory('nature', this)">Nature</button>
+  <button class="tab" onclick="loadCategory('science', this)">Science</button>
+  <button class="tab" onclick="loadCategory('history', this)">History</button>
+  <button class="tab" onclick="loadCategory('fun', this)">Fun</button>
+  <button class="tab" onclick="loadCategory('tech', this)">Tech</button>
+  <button class="tab" onclick="loadCategory('space', this)">Space</button>
+  <button class="tab" onclick="loadCategory('geography', this)">Geography</button>
+  <button class="tab" onclick="loadCategory('psychology', this)">Psychology</button>
+  <button class="tab" onclick="loadCategory('food', this)">Food</button>
+  <button class="tab" onclick="loadCategory('sports', this)">Sports</button>
+  <button class="tab" onclick="loadCategory('records', this)">Records</button>
+</div>
+
+<!-- QUIZ AREA -->
+<section class="quiz-box">
+
+  <h2 id="question">Loading question...</h2>
+
+  <div class="options" id="options"></div>
+
+  <p id="feedback"></p>
+
+  <button class="next" onclick="nextQuestion()">Next</button>
+
+</section>
+
+<script src="quiz-play.js"></script>
+<script>
+const hamburger = document.getElementById("hamburger");
+const navMenu = document.getElementById("nav-menu");
+hamburger.onclick = () => navMenu.classList.toggle("open");
+</script>
+
+</body>
+</html>

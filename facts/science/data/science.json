@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Light can behave as both a particle and a wave depending on how it is observed.",
+    "category": "physics",
+    "image": "images/light_wave.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Absolute zero is the lowest possible temperature where atomic motion nearly stops.",
+    "category": "physics",
+    "image": "images/absolute_zero.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Water expands when it freezes, which is why ice floats on liquid water.",
+    "category": "chemistry",
+    "image": "images/ice_water.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Atoms are mostly empty space, with electrons orbiting a tiny nucleus.",
+    "category": "chemistry",
+    "image": "images/atom_structure.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? Every living organism on Earth is made of one or more cells.",
+    "category": "biology",
+    "image": "images/cells.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? DNA carries genetic instructions that determine how organisms grow and function.",
+    "category": "biology",
+    "image": "images/dna.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Earth’s tectonic plates move a few centimeters each year, reshaping the planet slowly.",
+    "category": "earth science",
+    "image": "images/tectonic_plates.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Fossils form when plants or animals are buried quickly and preserved over millions of years.",
+    "category": "earth science",
+    "image": "images/fossils.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? Ecosystems depend on a balance between plants, animals, and microorganisms.",
+    "category": "environmental science",
+    "image": "images/ecosystem.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? Deforestation reduces biodiversity and affects global climate patterns.",
+    "category": "environmental science",
+    "image": "images/deforestation.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Vaccines work by training the immune system to recognize and fight diseases.",
+    "category": "medicine",
+    "image": "images/vaccine.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? Antibiotics kill bacteria but do not work against viruses.",
+    "category": "medicine",
+    "image": "images/antibiotics.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Energy cannot be created or destroyed, only converted from one form to another.",
+    "category": "energy",
+    "image": "images/energy_conservation.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Solar energy comes from nuclear reactions happening inside the Sun.",
+    "category": "energy",
+    "image": "images/solar_energy.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Some metals can return to their original shape after being bent, known as shape-memory alloys.",
+    "category": "materials science",
+    "image": "images/shape_memory_metal.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Glass is an amorphous solid, meaning it lacks a regular crystal structure.",
+    "category": "materials science",
+    "image": "images/glass_structure.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? Bananas are naturally radioactive due to their potassium content.",
+    "category": "weird science",
+    "image": "images/banana_radioactive.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Some materials glow in the dark because they store and slowly release energy.",
+    "category": "weird science",
+    "image": "images/glow_material.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? Sound travels faster in water than in air due to particle density.",
+    "category": "physics",
+    "image": "images/sound_water.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Friction generates heat when two surfaces rub against each other.",
+    "category": "physics",
+    "image": "images/friction_heat.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? Chemical reactions occur faster at higher temperatures.",
+    "category": "chemistry",
+    "image": "images/chemical_reaction.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Acids have a pH below 7, while bases have a pH above 7.",
+    "category": "chemistry",
+    "image": "images/ph_scale.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? Photosynthesis allows plants to convert sunlight into usable energy.",
+    "category": "biology",
+    "image": "images/photosynthesis.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Microorganisms play a vital role in nutrient recycling in nature.",
+    "category": "biology",
+    "image": "images/microorganisms.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Volcanoes release gases that help form Earth’s atmosphere over time.",
+    "category": "earth science",
+    "image": "images/volcanic_gases.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Minerals have specific crystal structures that define their shape.",
+    "category": "earth science",
+    "image": "images/minerals.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Pollution in rivers can affect ecosystems far downstream.",
+    "category": "environmental science",
+    "image": "images/river_pollution.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Recycling reduces the need for raw materials and saves energy.",
+    "category": "environmental science",
+    "image": "images/recycling.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? MRI scanners use strong magnetic fields to create images of the body.",
+    "category": "medicine",
+    "image": "images/mri.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Blood carries oxygen using a protein called hemoglobin.",
+    "category": "medicine",
+    "image": "images/hemoglobin.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Wind energy is created by uneven heating of Earth’s surface by the Sun.",
+    "category": "energy",
+    "image": "images/wind_energy.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Hydropower uses moving water to generate electricity.",
+    "category": "energy",
+    "image": "images/hydropower.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Carbon fiber is stronger than steel but much lighter.",
+    "category": "materials science",
+    "image": "images/carbon_fiber.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Rubber becomes brittle in cold temperatures and flexible when warm.",
+    "category": "materials science",
+    "image": "images/rubber.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? Some metals explode when placed in water due to rapid chemical reactions.",
+    "category": "weird science",
+    "image": "images/reactive_metals.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Slime-like substances can behave like both solids and liquids.",
+    "category": "weird science",
+    "image": "images/non_newtonian.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Gravity affects time slightly, causing clocks to tick differently at heights.",
+    "category": "physics",
+    "image": "images/gravity_time.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? Electric charges repel or attract depending on their type.",
+    "category": "physics",
+    "image": "images/electric_charge.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Rust forms when iron reacts with oxygen and moisture.",
+    "category": "chemistry",
+    "image": "images/rust.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Catalysts speed up chemical reactions without being consumed.",
+    "category": "chemistry",
+    "image": "images/catalyst.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Some animals can regenerate lost body parts through cellular processes.",
+    "category": "biology",
+    "image": "images/regeneration.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Mutations in DNA can lead to evolution over long periods of time.",
+    "category": "biology",
+    "image": "images/mutation.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Sedimentary rocks form from layers of deposited material over time.",
+    "category": "earth science",
+    "image": "images/sedimentary_rocks.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? Soil contains living organisms that help plants grow.",
+    "category": "earth science",
+    "image": "images/soil_life.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Climate change affects weather patterns and sea levels globally.",
+    "category": "environmental science",
+    "image": "images/climate_change.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? Greenhouse gases trap heat in Earth’s atmosphere.",
+    "category": "environmental science",
+    "image": "images/greenhouse_gases.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? The human body produces antibodies to fight infections.",
+    "category": "medicine",
+    "image": "images/antibodies.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Anesthesia allows patients to undergo surgery without feeling pain.",
+    "category": "medicine",
+    "image": "images/anesthesia.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Geothermal energy comes from heat stored beneath Earth’s surface.",
+    "category": "energy",
+    "image": "images/geothermal.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Some materials become superconductors at extremely low temperatures.",
+    "category": "materials science",
+    "image": "images/superconductor.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Neutrinos are tiny particles that pass through your body by the billions every second.",
+    "category": "physics",
+    "image": "images/neutrinos.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? Sound cannot travel in a vacuum because there are no particles to carry vibrations.",
+    "category": "physics",
+    "image": "images/sound_vacuum.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Helium is the only element that cannot solidify under normal pressure.",
+    "category": "chemistry",
+    "image": "images/helium.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Chemical bonds store energy that can be released during reactions.",
+    "category": "chemistry",
+    "image": "images/chemical_bonds.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? The human body hosts trillions of beneficial bacteria that aid digestion.",
+    "category": "biology",
+    "image": "images/gut_bacteria.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? Some plants can communicate stress signals through chemical releases.",
+    "category": "biology",
+    "image": "images/plant_signals.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Igneous rocks form when molten magma cools and solidifies.",
+    "category": "earth science",
+    "image": "images/igneous_rocks.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? Earth’s magnetic field is generated by the movement of molten iron in its core.",
+    "category": "earth science",
+    "image": "images/magnetic_field.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Wetlands act as natural water filters by trapping pollutants.",
+    "category": "environmental science",
+    "image": "images/wetlands.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Coral bleaching occurs when stressed corals expel algae living inside them.",
+    "category": "environmental science",
+    "image": "images/coral_bleaching.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? The placebo effect can cause real physical improvements without active medication.",
+    "category": "medicine",
+    "image": "images/placebo.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? X-rays can pass through soft tissue but are blocked by dense materials like bone.",
+    "category": "medicine",
+    "image": "images/xray.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Batteries store energy through chemical reactions that produce electricity.",
+    "category": "energy",
+    "image": "images/battery_energy.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Tidal energy is generated by the gravitational pull between Earth and the Moon.",
+    "category": "energy",
+    "image": "images/tidal_energy.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? Graphene is one of the strongest materials ever discovered.",
+    "category": "materials science",
+    "image": "images/graphene.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Ceramics can withstand extremely high temperatures without melting.",
+    "category": "materials science",
+    "image": "images/ceramics.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? There are materials that become colder when exposed to pressure.",
+    "category": "weird science",
+    "image": "images/cold_material.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Humans glow faintly due to biochemical reactions emitting light.",
+    "category": "weird science",
+    "image": "images/human_glow.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? The speed of light slows down when passing through water or glass.",
+    "category": "physics",
+    "image": "images/light_refraction.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? Pressure increases with depth in liquids due to gravity.",
+    "category": "physics",
+    "image": "images/liquid_pressure.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Noble gases rarely react with other elements because of stable electron shells.",
+    "category": "chemistry",
+    "image": "images/noble_gases.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Fermentation is a chemical process used to produce bread, yogurt, and alcohol.",
+    "category": "chemistry",
+    "image": "images/fermentation.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Some animals can sense Earth’s magnetic field for navigation.",
+    "category": "biology",
+    "image": "images/animal_navigation.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? Enzymes speed up biological reactions essential for life.",
+    "category": "biology",
+    "image": "images/enzymes.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Metamorphic rocks change structure due to heat and pressure.",
+    "category": "earth science",
+    "image": "images/metamorphic_rocks.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Earth’s rotation causes day and night cycles.",
+    "category": "earth science",
+    "image": "images/earth_rotation.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Acid rain forms when pollutants mix with atmospheric moisture.",
+    "category": "environmental science",
+    "image": "images/acid_rain.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Overfishing can disrupt entire marine ecosystems.",
+    "category": "environmental science",
+    "image": "images/overfishing.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? The human brain consumes about 20% of the body’s energy.",
+    "category": "medicine",
+    "image": "images/brain_energy.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Ultrasound imaging uses sound waves to view internal organs.",
+    "category": "medicine",
+    "image": "images/ultrasound.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? Nuclear energy comes from splitting atomic nuclei.",
+    "category": "energy",
+    "image": "images/nuclear_energy.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Energy-efficient buildings reduce heat loss using insulation.",
+    "category": "energy",
+    "image": "images/insulation.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Smart materials change properties in response to temperature or pressure.",
+    "category": "materials science",
+    "image": "images/smart_materials.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Aerogels are among the lightest solid materials ever made.",
+    "category": "materials science",
+    "image": "images/aerogel.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? Time can slow down at very high speeds due to relativity.",
+    "category": "weird science",
+    "image": "images/time_dilation.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? Some substances can flow uphill against gravity due to surface tension.",
+    "category": "weird science",
+    "image": "images/capillary_action.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Electric currents create magnetic fields around conductors.",
+    "category": "physics",
+    "image": "images/electric_magnetic.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Heat always flows from hotter objects to cooler ones.",
+    "category": "physics",
+    "image": "images/heat_transfer.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? Chemical indicators change color based on acidity or alkalinity.",
+    "category": "chemistry",
+    "image": "images/chemical_indicators.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? Electrolysis uses electricity to split water into hydrogen and oxygen.",
+    "category": "chemistry",
+    "image": "images/electrolysis.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? Stem cells can develop into many different cell types.",
+    "category": "biology",
+    "image": "images/stem_cells.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? Circadian rhythms regulate sleep and wake cycles in organisms.",
+    "category": "biology",
+    "image": "images/circadian_rhythm.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Earth’s layers include the crust, mantle, and core.",
+    "category": "earth science",
+    "image": "images/earth_layers.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? Weathering breaks down rocks through physical and chemical processes.",
+    "category": "earth science",
+    "image": "images/weathering.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Renewable energy sources reduce carbon emissions.",
+    "category": "environmental science",
+    "image": "images/renewable_energy.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? Plastic pollution can persist in the environment for hundreds of years.",
+    "category": "environmental science",
+    "image": "images/plastic_pollution.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? The immune system can remember past infections.",
+    "category": "medicine",
+    "image": "images/immune_memory.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Blood pressure measures the force of blood against artery walls.",
+    "category": "medicine",
+    "image": "images/blood_pressure.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? Biofuels are produced from organic materials like plants.",
+    "category": "energy",
+    "image": "images/biofuel.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? Phase-change materials absorb and release heat during state changes.",
+    "category": "materials science",
+    "image": "images/phase_change.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? Gravity is the weakest of the four fundamental forces but has infinite range.",
+    "category": "physics",
+    "image": "images/gravity_force.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Friction converts kinetic energy into heat energy.",
+    "category": "physics",
+    "image": "images/friction.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Acids donate protons while bases accept protons in chemical reactions.",
+    "category": "chemistry",
+    "image": "images/acids_bases.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Rust forms when iron reacts with oxygen and moisture.",
+    "category": "chemistry",
+    "image": "images/rust.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? DNA carries genetic instructions used in growth and reproduction.",
+    "category": "biology",
+    "image": "images/dna.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Photosynthesis converts sunlight into chemical energy.",
+    "category": "biology",
+    "image": "images/photosynthesis.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Sedimentary rocks are formed from compressed layers of sediments.",
+    "category": "earth science",
+    "image": "images/sedimentary_rocks.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Plate tectonics explains the movement of Earth’s continents.",
+    "category": "earth science",
+    "image": "images/plate_tectonics.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Deforestation reduces biodiversity and disrupts ecosystems.",
+    "category": "environmental science",
+    "image": "images/deforestation.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? Recycling aluminum saves up to 95% of the energy needed to make new aluminum.",
+    "category": "environmental science",
+    "image": "images/recycling_aluminum.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Antibiotics work by stopping bacteria from growing or reproducing.",
+    "category": "medicine",
+    "image": "images/antibiotics.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Vaccines train the immune system to recognize harmful pathogens.",
+    "category": "medicine",
+    "image": "images/vaccine.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Hydropower generates electricity using flowing water.",
+    "category": "energy",
+    "image": "images/hydropower.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? Wind turbines convert kinetic energy from wind into electricity.",
+    "category": "energy",
+    "image": "images/wind_turbine.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Carbon fiber is lighter and stronger than steel.",
+    "category": "materials science",
+    "image": "images/carbon_fiber.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Shape-memory alloys return to their original shape when heated.",
+    "category": "materials science",
+    "image": "images/shape_memory.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? Quantum particles can exist in multiple states at once.",
+    "category": "weird science",
+    "image": "images/quantum_superposition.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Water can boil at room temperature under low pressure.",
+    "category": "weird science",
+    "image": "images/low_pressure_boil.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Light behaves both as a wave and as a particle.",
+    "category": "physics",
+    "image": "images/wave_particle.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? Momentum depends on an object’s mass and velocity.",
+    "category": "physics",
+    "image": "images/momentum.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Catalysts speed up chemical reactions without being consumed.",
+    "category": "chemistry",
+    "image": "images/catalyst.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? pH measures how acidic or basic a substance is.",
+    "category": "chemistry",
+    "image": "images/ph_scale.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Mitochondria are known as the powerhouses of the cell.",
+    "category": "biology",
+    "image": "images/mitochondria.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Blood cells are produced in bone marrow.",
+    "category": "biology",
+    "image": "images/bone_marrow.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Fossils provide evidence of ancient life on Earth.",
+    "category": "earth science",
+    "image": "images/fossils.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Soil forms over thousands of years from weathered rock and organic matter.",
+    "category": "earth science",
+    "image": "images/soil_formation.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Climate change increases the frequency of extreme weather events.",
+    "category": "environmental science",
+    "image": "images/extreme_weather.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Mangroves protect coastlines from erosion and storm surges.",
+    "category": "environmental science",
+    "image": "images/mangroves.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? MRI scans use magnetic fields to create detailed body images.",
+    "category": "medicine",
+    "image": "images/mri.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Dehydration can affect concentration and physical performance.",
+    "category": "medicine",
+    "image": "images/dehydration.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Solar panels convert sunlight directly into electricity.",
+    "category": "energy",
+    "image": "images/solar_panels.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Geothermal energy uses heat from beneath Earth’s surface.",
+    "category": "energy",
+    "image": "images/geothermal.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Kevlar is used in bulletproof vests due to its high tensile strength.",
+    "category": "materials science",
+    "image": "images/kevlar.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Glass is an amorphous solid, not a true crystal.",
+    "category": "materials science",
+    "image": "images/glass_structure.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Time perception can slow down during emergencies.",
+    "category": "weird science",
+    "image": "images/time_perception.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Some metals explode when exposed to water.",
+    "category": "weird science",
+    "image": "images/reactive_metals.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Newton’s first law describes inertia.",
+    "category": "physics",
+    "image": "images/inertia.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? Electric charge comes in positive and negative forms.",
+    "category": "physics",
+    "image": "images/electric_charge.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Polymers are long chains of repeating molecules.",
+    "category": "chemistry",
+    "image": "images/polymers.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Distillation separates substances based on boiling points.",
+    "category": "chemistry",
+    "image": "images/distillation.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Evolution explains how species adapt over generations.",
+    "category": "biology",
+    "image": "images/evolution.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Hormones act as chemical messengers in the body.",
+    "category": "biology",
+    "image": "images/hormones.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Earth’s tilt causes seasonal changes.",
+    "category": "earth science",
+    "image": "images/earth_tilt.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Landslides are often triggered by heavy rainfall.",
+    "category": "earth science",
+    "image": "images/landslide.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Endangered species loss disrupts food chains.",
+    "category": "environmental science",
+    "image": "images/endangered_species.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Composting reduces waste sent to landfills.",
+    "category": "environmental science",
+    "image": "images/composting.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Anesthesia allows surgery without pain sensation.",
+    "category": "medicine",
+    "image": "images/anesthesia.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Heart rate increases during physical activity to supply more oxygen.",
+    "category": "medicine",
+    "image": "images/heart_rate.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? Energy cannot be created or destroyed, only transformed.",
+    "category": "energy",
+    "image": "images/energy_conservation.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Superconductors conduct electricity with zero resistance at low temperatures.",
+    "category": "materials science",
+    "image": "images/superconductor.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Sound travels faster through solids than through gases.",
+    "category": "physics",
+    "image": "images/sound_solids.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? A vacuum does not conduct sound because there are no particles to vibrate.",
+    "category": "physics",
+    "image": "images/vacuum_sound.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Chemical bonds form when atoms share or transfer electrons.",
+    "category": "chemistry",
+    "image": "images/chemical_bonds.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Sodium reacts violently with water because it releases hydrogen gas.",
+    "category": "chemistry",
+    "image": "images/sodium_water.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? Enzymes speed up biological reactions without being consumed.",
+    "category": "biology",
+    "image": "images/enzymes.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? White blood cells defend the body against infections.",
+    "category": "biology",
+    "image": "images/white_blood_cells.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Igneous rocks form from cooled magma or lava.",
+    "category": "earth science",
+    "image": "images/igneous_rocks.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Earth’s core is hotter than the surface of the Sun.",
+    "category": "earth science",
+    "image": "images/earth_core.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? Plastic pollution can take hundreds of years to decompose.",
+    "category": "environmental science",
+    "image": "images/plastic_pollution.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? Wetlands act as natural water filters for ecosystems.",
+    "category": "environmental science",
+    "image": "images/wetlands.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? Blood pressure measures the force of blood against artery walls.",
+    "category": "medicine",
+    "image": "images/blood_pressure.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? Pain signals are transmitted to the brain through nerve fibers.",
+    "category": "medicine",
+    "image": "images/pain_signals.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Biofuels are made from organic materials like plants and waste.",
+    "category": "energy",
+    "image": "images/biofuel.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Batteries store energy using chemical reactions.",
+    "category": "energy",
+    "image": "images/battery_energy.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? Titanium is strong, lightweight, and resistant to corrosion.",
+    "category": "materials science",
+    "image": "images/titanium.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Aerogel is one of the lightest solid materials ever created.",
+    "category": "materials science",
+    "image": "images/aerogel.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? Some particles can appear to move backward in time mathematically.",
+    "category": "weird science",
+    "image": "images/time_particles.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Humans glow faintly due to biochemical reactions in the body.",
+    "category": "weird science",
+    "image": "images/human_glow.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? Pressure increases as depth increases underwater.",
+    "category": "physics",
+    "image": "images/water_pressure.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Magnets have north and south poles that attract or repel.",
+    "category": "physics",
+    "image": "images/magnetism.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Chemical reactions often release or absorb energy.",
+    "category": "chemistry",
+    "image": "images/chemical_energy.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Electrolysis uses electricity to split water into hydrogen and oxygen.",
+    "category": "chemistry",
+    "image": "images/electrolysis.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? The nervous system sends signals using electrical impulses.",
+    "category": "biology",
+    "image": "images/nervous_system.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Muscles contract by sliding protein filaments past each other.",
+    "category": "biology",
+    "image": "images/muscle_contraction.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? Erosion slowly reshapes landscapes through wind and water.",
+    "category": "earth science",
+    "image": "images/erosion.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? Earth has a magnetic field that protects it from solar radiation.",
+    "category": "earth science",
+    "image": "images/magnetic_field.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Overfishing can collapse entire marine ecosystems.",
+    "category": "environmental science",
+    "image": "images/overfishing.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? Trees absorb carbon dioxide and release oxygen.",
+    "category": "environmental science",
+    "image": "images/trees_carbon.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Sleep helps the brain consolidate memories.",
+    "category": "medicine",
+    "image": "images/sleep_brain.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? The immune system can remember past infections.",
+    "category": "medicine",
+    "image": "images/immune_memory.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Nuclear energy comes from splitting atomic nuclei.",
+    "category": "energy",
+    "image": "images/nuclear_energy.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Energy-efficient appliances reduce electricity consumption.",
+    "category": "energy",
+    "image": "images/energy_efficiency.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Graphene is a single layer of carbon atoms arranged in a hexagon pattern.",
+    "category": "materials science",
+    "image": "images/graphene.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Ceramics can withstand extremely high temperatures.",
+    "category": "materials science",
+    "image": "images/ceramics.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The placebo effect can cause real physical changes in the body.",
+    "category": "weird science",
+    "image": "images/placebo.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Brain activity changes depending on emotions and thoughts.",
+    "category": "weird science",
+    "image": "images/brain_activity.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? Objects in free fall accelerate at the same rate regardless of mass.",
+    "category": "physics",
+    "image": "images/free_fall.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? Electrical resistance converts energy into heat.",
+    "category": "physics",
+    "image": "images/electrical_resistance.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Mixtures can be separated using filtration or evaporation.",
+    "category": "chemistry",
+    "image": "images/mixture_separation.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Noble gases are chemically stable and rarely react.",
+    "category": "chemistry",
+    "image": "images/noble_gases.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Stem cells can develop into many different cell types.",
+    "category": "biology",
+    "image": "images/stem_cells.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? The human body replaces most of its cells over time.",
+    "category": "biology",
+    "image": "images/cell_replacement.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? River deltas form when sediment builds up at river mouths.",
+    "category": "earth science",
+    "image": "images/river_delta.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Earth’s crust is broken into several large tectonic plates.",
+    "category": "earth science",
+    "image": "images/tectonic_plates.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Pollution can affect air, water, and soil quality.",
+    "category": "environmental science",
+    "image": "images/pollution.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Sustainable farming helps preserve soil fertility.",
+    "category": "environmental science",
+    "image": "images/sustainable_farming.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? The brain consumes about 20% of the body’s energy.",
+    "category": "medicine",
+    "image": "images/brain_energy.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Proper hydration supports organ function and circulation.",
+    "category": "medicine",
+    "image": "images/hydration.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? Energy storage is essential for renewable power systems.",
+    "category": "energy",
+    "image": "images/energy_storage.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Composite materials combine properties of different substances.",
+    "category": "materials science",
+    "image": "images/composite_materials.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Light bends when it passes through materials with different densities.",
+    "category": "physics",
+    "image": "images/light_refraction.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Friction converts motion energy into heat.",
+    "category": "physics",
+    "image": "images/friction_heat.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Catalysts speed up chemical reactions without being consumed.",
+    "category": "chemistry",
+    "image": "images/catalyst.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Acids donate hydrogen ions while bases accept them.",
+    "category": "chemistry",
+    "image": "images/acids_bases.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? DNA carries genetic instructions for all living organisms.",
+    "category": "biology",
+    "image": "images/dna.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Photosynthesis converts sunlight into chemical energy.",
+    "category": "biology",
+    "image": "images/photosynthesis.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Sedimentary rocks form from compacted layers of sediment.",
+    "category": "earth science",
+    "image": "images/sedimentary_rocks.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? Earth’s mantle slowly flows, driving plate tectonics.",
+    "category": "earth science",
+    "image": "images/earth_mantle.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Recycling aluminum saves up to 95% of the energy needed to make new aluminum.",
+    "category": "environmental science",
+    "image": "images/recycling_aluminum.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Mangrove forests protect coastlines from erosion and storms.",
+    "category": "environmental science",
+    "image": "images/mangroves.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Antibiotics fight bacterial infections but not viral ones.",
+    "category": "medicine",
+    "image": "images/antibiotics.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Vaccines train the immune system to recognize diseases.",
+    "category": "medicine",
+    "image": "images/vaccine.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Hydroelectric power generates electricity from moving water.",
+    "category": "energy",
+    "image": "images/hydroelectric.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Wind turbines convert wind energy into electrical energy.",
+    "category": "energy",
+    "image": "images/wind_turbine.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Smart materials can change properties in response to their environment.",
+    "category": "materials science",
+    "image": "images/smart_materials.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Kevlar is stronger than steel by weight.",
+    "category": "materials science",
+    "image": "images/kevlar.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Time can pass at different speeds depending on gravity and motion.",
+    "category": "weird science",
+    "image": "images/time_dilation.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Humans can subconsciously sense magnetic fields under certain conditions.",
+    "category": "weird science",
+    "image": "images/human_magnetism.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Electric currents produce magnetic fields.",
+    "category": "physics",
+    "image": "images/electric_magnetic.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? Energy cannot be created or destroyed, only transformed.",
+    "category": "physics",
+    "image": "images/energy_conservation.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Rust forms when iron reacts with oxygen and moisture.",
+    "category": "chemistry",
+    "image": "images/rust.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Distillation separates liquids based on boiling points.",
+    "category": "chemistry",
+    "image": "images/distillation.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? The human gut contains trillions of beneficial bacteria.",
+    "category": "biology",
+    "image": "images/gut_bacteria.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Hormones act as chemical messengers in the body.",
+    "category": "biology",
+    "image": "images/hormones.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? Fossils provide evidence of life from millions of years ago.",
+    "category": "earth science",
+    "image": "images/fossils.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Soil forms over thousands of years through weathering.",
+    "category": "earth science",
+    "image": "images/soil_formation.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Deforestation contributes significantly to climate change.",
+    "category": "environmental science",
+    "image": "images/deforestation.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? Renewable resources can naturally replenish over time.",
+    "category": "environmental science",
+    "image": "images/renewable_resources.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The liver can regenerate damaged tissue.",
+    "category": "medicine",
+    "image": "images/liver_regeneration.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Dehydration can affect brain function and mood.",
+    "category": "medicine",
+    "image": "images/dehydration.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Solar panels work best under direct sunlight.",
+    "category": "energy",
+    "image": "images/solar_panels.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Energy efficiency reduces greenhouse gas emissions.",
+    "category": "energy",
+    "image": "images/energy_emissions.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Carbon fiber is both lightweight and extremely strong.",
+    "category": "materials science",
+    "image": "images/carbon_fiber.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Glass is technically an amorphous solid, not a true solid.",
+    "category": "materials science",
+    "image": "images/glass_structure.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? The human brain generates enough electricity to power a small light bulb.",
+    "category": "weird science",
+    "image": "images/brain_electricity.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? Some metals can heal small cracks on their own.",
+    "category": "weird science",
+    "image": "images/self_healing_metals.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Gravity affects time by slowing it near massive objects.",
+    "category": "physics",
+    "image": "images/gravity_time.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Waves transfer energy without permanently moving matter.",
+    "category": "physics",
+    "image": "images/waves_energy.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Chemical equilibrium occurs when reaction rates balance.",
+    "category": "chemistry",
+    "image": "images/chemical_equilibrium.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? pH measures how acidic or basic a solution is.",
+    "category": "chemistry",
+    "image": "images/ph_scale.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Mitochondria are known as the powerhouses of the cell.",
+    "category": "biology",
+    "image": "images/mitochondria.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Blood carries oxygen using hemoglobin molecules.",
+    "category": "biology",
+    "image": "images/hemoglobin.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Mountain ranges form through tectonic plate collisions.",
+    "category": "earth science",
+    "image": "images/mountain_formation.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Earth’s rotation causes day and night.",
+    "category": "earth science",
+    "image": "images/earth_rotation.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Ocean currents help regulate global climate.",
+    "category": "environmental science",
+    "image": "images/ocean_currents.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Biodiversity strengthens ecosystem resilience.",
+    "category": "environmental science",
+    "image": "images/biodiversity.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? Regular exercise improves heart and lung function.",
+    "category": "medicine",
+    "image": "images/exercise_health.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? The brain continues developing into early adulthood.",
+    "category": "medicine",
+    "image": "images/brain_development.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Energy audits help identify ways to save power.",
+    "category": "energy",
+    "image": "images/energy_audit.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? Heat pumps transfer thermal energy efficiently.",
+    "category": "energy",
+    "image": "images/heat_pump.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Shape-memory alloys return to their original shape when heated.",
+    "category": "materials science",
+    "image": "images/shape_memory_alloy.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Nanomaterials have unique properties due to their tiny size.",
+    "category": "materials science",
+    "image": "images/nanomaterials.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? The human body produces small amounts of light through chemical reactions.",
+    "category": "weird science",
+    "image": "images/bioluminescence_human.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Quantum particles can exist in multiple states at once.",
+    "category": "weird science",
+    "image": "images/quantum_states.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Air resistance increases with speed.",
+    "category": "physics",
+    "image": "images/air_resistance.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Thermal expansion causes materials to expand when heated.",
+    "category": "physics",
+    "image": "images/thermal_expansion.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Chemical indicators change color based on pH.",
+    "category": "chemistry",
+    "image": "images/chemical_indicator.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Combustion reactions release heat and light.",
+    "category": "chemistry",
+    "image": "images/combustion.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? The circulatory system transports nutrients and oxygen.",
+    "category": "biology",
+    "image": "images/circulatory_system.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Skin is the body’s largest organ.",
+    "category": "biology",
+    "image": "images/skin_organ.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Earth’s axis tilt causes the seasons.",
+    "category": "earth science",
+    "image": "images/earth_tilt.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Volcanoes release gases trapped deep within the Earth.",
+    "category": "earth science",
+    "image": "images/volcanic_gases.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? Clean water access improves public health outcomes.",
+    "category": "environmental science",
+    "image": "images/clean_water.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Composting reduces landfill waste significantly.",
+    "category": "environmental science",
+    "image": "images/composting.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? The brain uses neurotransmitters to send signals.",
+    "category": "medicine",
+    "image": "images/neurotransmitters.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Balanced diets help maintain strong immune systems.",
+    "category": "medicine",
+    "image": "images/balanced_diet.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Smart grids improve electricity distribution efficiency.",
+    "category": "energy",
+    "image": "images/smart_grid.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Thermal insulation reduces heat loss in buildings.",
+    "category": "energy",
+    "image": "images/thermal_insulation.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Biodegradable materials break down naturally over time.",
+    "category": "materials science",
+    "image": "images/biodegradable_materials.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Metallic glasses combine properties of metals and glass.",
+    "category": "materials science",
+    "image": "images/metallic_glass.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Some animals can regenerate lost body parts.",
+    "category": "weird science",
+    "image": "images/regeneration.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? The brain can rewire itself through neuroplasticity.",
+    "category": "weird science",
+    "image": "images/neuroplasticity.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Motion sensors detect changes in infrared radiation.",
+    "category": "physics",
+    "image": "images/motion_sensor.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? Pressure waves create sound.",
+    "category": "physics",
+    "image": "images/sound_waves.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Chemical reactions can be reversible under certain conditions.",
+    "category": "chemistry",
+    "image": "images/reversible_reactions.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Salts form from acid-base neutralization reactions.",
+    "category": "chemistry",
+    "image": "images/salt_formation.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Cells communicate using chemical signals.",
+    "category": "biology",
+    "image": "images/cell_signaling.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Bones constantly remodel themselves over time.",
+    "category": "biology",
+    "image": "images/bone_remodeling.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? Earth’s atmosphere protects life from harmful radiation.",
+    "category": "earth science",
+    "image": "images/atmosphere_protection.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Weathering breaks rocks into smaller pieces.",
+    "category": "earth science",
+    "image": "images/weathering.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? Greenhouse gases trap heat in Earth’s atmosphere.",
+    "category": "environmental science",
+    "image": "images/greenhouse_effect.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Urban trees help reduce air pollution.",
+    "category": "environmental science",
+    "image": "images/urban_trees.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? The heart pumps blood continuously throughout life.",
+    "category": "medicine",
+    "image": "images/heart_pump.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Mental health is closely linked to physical health.",
+    "category": "medicine",
+    "image": "images/mental_health.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? Energy storage improves reliability of renewable power.",
+    "category": "energy",
+    "image": "images/renewable_storage.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? LED lighting uses less energy than traditional bulbs.",
+    "category": "energy",
+    "image": "images/led_lighting.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Polymers are long chains of repeating molecular units.",
+    "category": "materials science",
+    "image": "images/polymers.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Stainless steel resists rust due to chromium content.",
+    "category": "materials science",
+    "image": "images/stainless_steel.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? The brain can generate vivid experiences during dreams.",
+    "category": "weird science",
+    "image": "images/dreams.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Some bacteria can survive in extreme environments.",
+    "category": "weird science",
+    "image": "images/extreme_bacteria.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Acceleration measures how quickly velocity changes.",
+    "category": "physics",
+    "image": "images/acceleration.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Electric charges can attract or repel each other.",
+    "category": "physics",
+    "image": "images/electric_charge.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? Solutions can be saturated or unsaturated.",
+    "category": "chemistry",
+    "image": "images/solutions.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Reaction rates increase with temperature.",
+    "category": "chemistry",
+    "image": "images/reaction_rate.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? The respiratory system exchanges oxygen and carbon dioxide.",
+    "category": "biology",
+    "image": "images/respiratory_system.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? Taste buds regenerate every few weeks.",
+    "category": "biology",
+    "image": "images/taste_buds.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Earth’s oceans influence weather patterns worldwide.",
+    "category": "earth science",
+    "image": "images/ocean_weather.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Volcanic ash can fertilize soil.",
+    "category": "earth science",
+    "image": "images/volcanic_ash.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? Sustainable energy reduces dependence on fossil fuels.",
+    "category": "environmental science",
+    "image": "images/sustainable_energy.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Scientific discoveries often begin with curiosity and observation.",
+    "category": "weird science",
+    "image": "images/scientific_curiosity.jpg"
+  }
+]

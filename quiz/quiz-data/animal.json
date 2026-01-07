@@ -1,0 +1,942 @@
+[
+  {
+    "q": "Which is the largest land animal?",
+    "options": ["Hippo", "Elephant", "Rhino", "Giraffe"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine animal sleeps with one eye open?",
+    "options": ["Octopus", "Dolphin", "Sea Lion", "Shark"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird can fly backwards?",
+    "options": ["Sparrow", "Penguin", "Owl", "Hummingbird"],
+    "answer": 3
+  },
+  {
+    "q": "A group of crows is called a?",
+    "options": ["Swarm", "Murder", "Flock", "Gaggle"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has existed for over 400 million years?",
+    "options": ["Jellyfish", "Sea Turtle", "Octopus", "Shark"],
+    "answer": 3
+  },
+  {
+    "q": "How many neck vertebrae do giraffes have?",
+    "options": ["5, less than humans", "12, more than humans", "7, same as humans", "9, more than humans"],
+    "answer": 2
+  },
+  {
+    "q": "Which marine animal has three hearts and blue blood?",
+    "options": ["Squid", "Octopus", "Lobster", "Shark"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird can drink seawater due to a special gland?",
+    "options": ["Albatross", "Seagull", "Penguin", "Pelican"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal can hold its breath longer than dolphins?",
+    "options": ["Otter", "Elephant", "Sloth", "Whale"],
+    "answer": 0
+  },
+  {
+    "q": "Which is the largest cat species?",
+    "options": ["Lion", "Leopard", "Cheetah", "Tiger"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal sleeps up to 20 hours a day?",
+    "options": ["Owl", "Tiger", "Sloth", "Koala"],
+    "answer": 2
+  },
+  {
+    "q": "Which insect tastes with its feet?",
+    "options": ["Ant", "Grasshopper", "Butterfly", "Bee"],
+    "answer": 2
+  },
+  {
+    "q": "A group of flamingos is called?",
+    "options": ["Flamboyance", "Swarm", "Flock", "Colony"],
+    "answer": 0
+  },
+  {
+    "q": "Which farm animal has best friends and gets stressed when separated?",
+    "options": ["Sheep", "Goat", "Pig", "Cow"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird can rotate its neck up to 270 degrees?",
+    "options": ["Swan", "Eagle", "Hawk", "Owl"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine animal can change both color and texture to hide?",
+    "options": ["Cuttlefish", "Shark", "Octopus", "Squid"],
+    "answer": 2
+  },
+  {
+    "q": "Which amphibian can survive freezing temperatures by stopping its heart?",
+    "options": ["Newt", "Salamander", "Toad", "Frog"],
+    "answer": 3
+  },
+  {
+    "q": "Which insect communicates by dancing?",
+    "options": ["Butterfly", "Grasshopper", "Ant", "Bee"],
+    "answer": 3
+  },
+  {
+    "q": "Which desert mammal can survive weeks without water?",
+    "options": ["Kangaroo Rat", "Fennec Fox", "Meerkat", "Camel"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine animal holds hands while sleeping to prevent drifting apart?",
+    "options": ["Manatee", "Sea Otter", "Seal", "Dolphin"],
+    "answer": 1
+  },
+  {
+    "q": "A group of lions is called a?",
+    "options": ["Troop", "Pride", "Herd", "Pack"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal laughs when tickled?",
+    "options": ["Cat", "Rabbit", "Rat", "Dog"],
+    "answer": 2
+  },
+  {
+    "q": "Which shark can detect a single drop of blood in 25 gallons of water?",
+    "options": ["Bull Shark", "Tiger Shark", "Hammerhead", "Great White"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird has special feathers for silent flight?",
+    "options": ["Falcon", "Hawk", "Eagle", "Owl"],
+    "answer": 3
+  },
+  {
+    "q": "Which reptile can move its eyes independently?",
+    "options": ["Iguana", "Gecko", "Snake", "Chameleon"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine mammal has unique names to identify each other?",
+    "options": ["Seal", "Dolphin", "Otter", "Whale"],
+    "answer": 1
+  },
+  {
+    "q": "Which reptile can sense earthquakes via ground vibrations?",
+    "options": ["Turtle", "Lizard", "Snake", "Crocodile"],
+    "answer": 1
+  },
+  {
+    "q": "Elephants can hear with which body part besides their ears?",
+    "options": ["Trunk", "Tail", "Tusks", "Feet"],
+    "answer": 3
+  },
+  {
+    "q": "Which mammal can see behind them without turning their heads?",
+    "options": ["Goat", "Horse", "Rabbit", "Deer"],
+    "answer": 2
+  },
+  {
+    "q": "Which insect can carry objects 50 times its body weight?",
+    "options": ["Beetle", "Bee", "Ant", "Grasshopper"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird proposes with pebbles to attract mates?",
+    "options": ["Swan", "Albatross", "Seagull", "Penguin"],
+    "answer": 3
+  },
+  {
+    "q": "A group of jellyfish is called a?",
+    "options": ["Cluster", "Flock", "Swarm", "Smack"],
+    "answer": 3
+  },
+  {
+    "q": "Which reptile can breathe through its rear end underwater?",
+    "options": ["Iguana", "Snake", "Crocodile", "Turtle"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird can recognize human faces for years?",
+    "options": ["Sparrow", "Parrot", "Owl", "Crow"],
+    "answer": 3
+  },
+  {
+    "q": "Which mammal cannot walk backward due to leg structure?",
+    "options": ["Elephant", "Horse", "Giraffe", "Kangaroo"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine animal migrates thousands of miles to lay eggs?",
+    "options": ["Whale", "Shark", "Octopus", "Sea Turtle"],
+    "answer": 3
+  },
+  {
+    "q": "Which insect can see ultraviolet light?",
+    "options": ["Bee", "Grasshopper", "Butterfly", "Dragonfly"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal secretes red-colored sunscreen to protect its skin?",
+    "options": ["Pig", "Camel", "Elephant", "Hippo"],
+    "answer": 3
+  },
+  {
+    "q": "Fastest land animal?",
+    "options": ["Lion", "Tiger", "Leopard", "Cheetah"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine animal is monogamous and mates for life?",
+    "options": ["Seal", "Otter", "Seahorse", "Dolphin"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird can see in near-total darkness?",
+    "options": ["Falcon", "Hawk", "Owl", "Eagle"],
+    "answer": 2
+  },
+  {
+    "q": "Which crustacean can live over 50 years?",
+    "options": ["Shrimp", "Crab", "Lobster", "Crayfish"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal can hear frequencies up to 45,000 Hz?",
+    "options": ["Fox", "Cat", "Dog", "Bat"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal has whiskers on their legs in addition to their face?",
+    "options": ["Lion", "Tiger", "Cat", "Dog"],
+    "answer": 2
+  },
+  {
+    "q": "Which insect produces light through bioluminescence?",
+    "options": ["Glow Worm", "Ant", "Firefly", "Bee"],
+    "answer": 2
+  },
+  {
+    "q": "Which amphibian absorbs water through its skin instead of drinking?",
+    "options": ["Newt", "Salamander", "Toad", "Frog"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal has the strongest bite force relative to its size?",
+    "options": ["Lion", "Crocodile", "Hyena", "Hippopotamus"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal lays eggs?",
+    "options": ["Bat", "Platypus", "Kangaroo", "Otter"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has fingerprints almost identical to humans?",
+    "options": ["Koala", "Chimpanzee", "Gorilla", "Monkey"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal can sleep standing up?",
+    "options": ["Cow", "Horse", "Elephant", "Deer"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has the longest lifespan?",
+    "options": ["Elephant", "Bowhead Whale", "Tortoise", "Parrot"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal can regenerate lost limbs?",
+    "options": ["Frog", "Salamander", "Snake", "Lizard"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird is the largest in the world?",
+    "options": ["Eagle", "Emu", "Ostrich", "Albatross"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal has no vocal cords?",
+    "options": ["Elephant", "Giraffe", "Sloth", "Rhino"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal uses echolocation to navigate?",
+    "options": ["Bat", "Owl", "Eagle", "Dog"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal has the longest tongue relative to body size?",
+    "options": ["Anteater", "Chameleon", "Frog", "Lizard"],
+    "answer": 1
+  },
+  {
+    "q": "Which fish can inflate itself when threatened?",
+    "options": ["Clownfish", "Pufferfish", "Swordfish", "Tuna"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal has the thickest fur?",
+    "options": ["Polar Bear", "Sea Otter", "Fox", "Wolf"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal never sleeps?",
+    "options": ["Bullfrog", "Shark", "Ant", "Dolphin"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal can survive without its head for days?",
+    "options": ["Ant", "Spider", "Cockroach", "Beetle"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird has the largest wingspan?",
+    "options": ["Eagle", "Condor", "Albatross", "Pelican"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal sweats through its paws?",
+    "options": ["Dog", "Cat", "Bear", "Fox"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal has a heart located in its head?",
+    "options": ["Shrimp", "Octopus", "Squid", "Lobster"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal can taste with its entire body?",
+    "options": ["Starfish", "Jellyfish", "Worm", "Snail"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal has the best memory?",
+    "options": ["Dog", "Elephant", "Dolphin", "Horse"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal can run shortly after birth?",
+    "options": ["Human", "Cat", "Giraffe", "Dog"],
+    "answer": 2
+  },
+  {
+    "q": "Which animal has blue skin?",
+    "options": ["Elephant", "Whale", "Hippopotamus", "Frog"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal has the slowest metabolism?",
+    "options": ["Koala", "Sloth", "Bear", "Panda"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal can change gender?",
+    "options": ["Clownfish", "Shark", "Tuna", "Seal"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal has the most teeth?",
+    "options": ["Shark", "Snail", "Crocodile", "Hippo"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird cannot walk?",
+    "options": ["Swift", "Penguin", "Ostrich", "Kiwi"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal can survive radiation better than humans?",
+    "options": ["Rat", "Ant", "Cockroach", "Spider"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal has the highest blood pressure?",
+    "options": ["Elephant", "Giraffe", "Whale", "Hippo"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal can jump the highest relative to size?",
+    "options": ["Kangaroo", "Flea", "Frog", "Grasshopper"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has transparent blood?",
+    "options": ["Octopus", "Jellyfish", "Icefish", "Squid"],
+    "answer": 2
+  },
+  {
+    "q": "Which animal has the fastest reaction time?",
+    "options": ["Snake", "Frog", "Fly", "Cat"],
+    "answer": 2
+  },
+  {
+    "q": "Which animal uses its tail for balance while running?",
+    "options": ["Dog", "Kangaroo", "Horse", "Elephant"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal has no teeth?",
+    "options": ["Anteater", "Sloth", "Armadillo", "Bat"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal can live both in water and on land?",
+    "options": ["Reptile", "Amphibian", "Mammal", "Bird"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has the longest pregnancy?",
+    "options": ["Whale", "Elephant", "Rhino", "Hippo"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has the largest eyes?",
+    "options": ["Squid", "Owl", "Shark", "Whale"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal uses tools in the wild?",
+    "options": ["Dolphin", "Crow", "Chimpanzee", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal can survive without oxygen for hours?",
+    "options": ["Turtle", "Frog", "Snake", "Lizard"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal has the largest brain?",
+    "options": ["Human", "Elephant", "Whale", "Dolphin"],
+    "answer": 2
+  },
+  {
+    "q": "Which animal can slow its heart rate to survive winter?",
+    "options": ["Bear", "Snake", "Frog", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal communicates using ultrasound?",
+    "options": ["Dog", "Bat", "Cat", "Mouse"],
+    "answer": 1
+  },
+  {
+    "q": "Which animal has the hardest shell?",
+    "options": ["Turtle", "Crab", "Snail", "Beetle"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal can see 360 degrees?",
+    "options": ["Horse", "Rabbit", "Chameleon", "Goat"],
+    "answer": 2
+  },
+  {
+    "q": "Which animal has the most powerful kick?",
+    "options": ["Horse", "Zebra", "Kangaroo", "Giraffe"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal can live the longest without food?",
+    "options": ["Snake", "Camel", "Scorpion", "Bear"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal can glide without wings?",
+    "options": ["Bat", "Flying Squirrel", "Sugar Glider", "Both B and C"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal has no bones?",
+    "options": ["Jellyfish", "Octopus", "Squid", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which amphibian can survive being frozen and thawed?",
+    "options": ["Frog", "Salamander", "Snake", "Turtle"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird is known for its mimicry of other animals’ sounds?",
+    "options": ["Parrot", "Crow", "Lyrebird", "Sparrow"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal has the ability to echolocate?",
+    "options": ["Bat", "Dolphin", "Shrew", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine animal can regenerate lost limbs?",
+    "options": ["Starfish", "Lobster", "Octopus", "Crab"],
+    "answer": 0
+  },
+  {
+    "q": "Which bird can hover in place while feeding?",
+    "options": ["Hummingbird", "Owl", "Sparrow", "Falcon"],
+    "answer": 0
+  },
+  {
+    "q": "Which reptile has a third eye on top of its head to detect light changes?",
+    "options": ["Iguana", "Tuataras", "Gecko", "Chameleon"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal can rotate its ankles to climb down trees headfirst?",
+    "options": ["Squirrel", "Koala", "Opossum", "Cat"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine animal uses ink to escape predators?",
+    "options": ["Octopus", "Squid", "Cuttlefish", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird migrates the longest distance each year?",
+    "options": ["Arctic Tern", "Goose", "Swallow", "Albatross"],
+    "answer": 0
+  },
+  {
+    "q": "Which reptile can survive for months without food by lowering its metabolism?",
+    "options": ["Snake", "Lizard", "Turtle", "Crocodile"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal laughs when tickled?",
+    "options": ["Rat", "Chimpanzee", "Otter", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine mammal can sleep with one hemisphere of its brain at a time?",
+    "options": ["Seal", "Dolphin", "Whale", "Manatee"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird uses tools to extract insects from tree bark?",
+    "options": ["Crow", "Woodpecker", "Parrot", "Raven"],
+    "answer": 0
+  },
+  {
+    "q": "Which amphibian can breathe through its skin as well as lungs?",
+    "options": ["Frog", "Salamander", "Toad", "Newt"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal can see behind itself without turning its head?",
+    "options": ["Rabbit", "Horse", "Deer", "Goat"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine animal can walk on land for short periods?",
+    "options": ["Crab", "Lobster", "Mudskipper", "Seal"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird has the largest wingspan?",
+    "options": ["Albatross", "Condor", "Eagle", "Pelican"],
+    "answer": 0
+  },
+  {
+    "q": "Which reptile has independently moving eyes?",
+    "options": ["Chameleon", "Gecko", "Iguana", "Snake"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal has the longest gestation period?",
+    "options": ["Elephant", "Whale", "Giraffe", "Rhino"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine animal uses camouflage to avoid predators?",
+    "options": ["Octopus", "Cuttlefish", "Seahorse", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird can mimic human speech?",
+    "options": ["Parrot", "Crow", "Raven", "Sparrow"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal has the longest tongue relative to body size?",
+    "options": ["Anteater", "Chameleon", "Giraffe", "Hummingbird"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine animal can generate electricity to stun prey?",
+    "options": ["Electric Eel", "Stingray", "Electric Ray", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which reptile can survive without food for months?",
+    "options": ["Turtle", "Snake", "Lizard", "Crocodile"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird migrates the farthest distance each year?",
+    "options": ["Arctic Tern", "Swallow", "Goose", "Albatross"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal sleeps while standing up?",
+    "options": ["Horse", "Elephant", "Cow", "Giraffe"],
+    "answer": 0
+  },
+  {
+    "q": "Which amphibian can survive freezing temperatures?",
+    "options": ["Frog", "Salamander", "Toad", "Newt"],
+    "answer": 1
+  },
+  {
+    "q": "Which insect communicates using dances?",
+    "options": ["Ant", "Bee", "Butterfly", "Grasshopper"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine mammal holds hands while sleeping?",
+    "options": ["Otter", "Seal", "Manatee", "Dolphin"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal can rotate its neck almost 270 degrees?",
+    "options": ["Giraffe", "Sloth", "Koala", "Tiger"],
+    "answer": 1
+  },
+  {
+    "q": "Which reptile can move its eyes independently?",
+    "options": ["Gecko", "Iguana", "Chameleon", "Snake"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal can see behind without turning its head?",
+    "options": ["Rabbit", "Horse", "Deer", "Goat"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine animal can walk on land temporarily?",
+    "options": ["Mudskipper", "Crab", "Seal", "Lobster"],
+    "answer": 0
+  },
+  {
+    "q": "Which insect can carry 50 times its weight?",
+    "options": ["Ant", "Beetle", "Grasshopper", "Bee"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal has cube-shaped poop?",
+    "options": ["Wombat", "Koala", "Sloth", "Armadillo"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal secretes oil to waterproof its fur?",
+    "options": ["Otter", "Beaver", "Seal", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird recognizes human faces for years?",
+    "options": ["Crow", "Parrot", "Owl", "Sparrow"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal curls into a tight ball for protection?",
+    "options": ["Squirrel", "Hedgehog", "Porcupine", "Armadillo"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine animal uses cnidocytes to sting its prey?",
+    "options": ["Starfish", "Octopus", "Jellyfish", "Anemone"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird can turn its head almost completely around?",
+    "options": ["Hawk", "Owl", "Eagle", "Parrot"],
+    "answer": 1
+  },
+  {
+    "q": "Which reptile uses claws and strong tails for climbing and defense?",
+    "options": ["Chameleon", "Komodo Dragon", "Gecko", "Iguana"],
+    "answer": 3
+  },
+  {
+    "q": "Which mammal’s tusks continue growing throughout its life?",
+    "options": ["Narwhal", "Elephant", "Moose", "Walrus"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine mammal forms alliances to hunt for food?",
+    "options": ["Seal", "Orca", "Dolphin", "Whale"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird changes diet seasonally from insects to berries?",
+    "options": ["Bluebird", "Robin", "Sparrow", "Cardinal"],
+    "answer": 1
+  },
+  {
+    "q": "Which amphibian can regenerate heart and spinal tissue?",
+    "options": ["Salamander", "Newt", "Frog", "Caecilian"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal communicates with barks, screams, and howls?",
+    "options": ["Coyote", "Wolf", "Dog", "Fox"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine animal uses compound eyes to detect motion?",
+    "options": ["Squid", "Crab", "Lobster", "Shrimp"],
+    "answer": 2
+  },
+  {
+    "q": "Which bird thrives in social groups and vocalizes together?",
+    "options": ["Finch", "Parakeet", "Sparrow", "Crow"],
+    "answer": 1
+  },
+  {
+    "q": "Which reptile has the strongest jaw of all animals?",
+    "options": ["Komodo Dragon", "Alligator", "Anaconda", "Crocodile"],
+    "answer": 3
+  },
+  {
+    "q": "Which mammal’s teeth never stop growing?",
+    "options": ["Beaver", "Squirrel", "Rabbit", "Porcupine"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine animal moves using a hydraulic water vascular system?",
+    "options": ["Sea Cucumber", "Starfish", "Jellyfish", "Sea Urchin"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird’s bright red feathers signal health and vitality?",
+    "options": ["Robin", "Scarlet Macaw", "Cardinal", "Northern Flicker"],
+    "answer": 2
+  },
+  {
+    "q": "Which reptile has a forked tongue to smell its environment?",
+    "options": ["Komodo Dragon", "Iguana", "Snake", "Monitor Lizard"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal has hollow spines for protection?",
+    "options": ["Echidna", "Hedgehog", "Armadillo", "Porcupine"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine animal propels itself by pulsating its body?",
+    "options": ["Jellyfish", "Squid", "Octopus", "Cuttlefish"],
+    "answer": 0
+  },
+  {
+    "q": "Which bird has fixed eyes requiring head rotation to see around?",
+    "options": ["Falcon", "Eagle", "Owl", "Hawk"],
+    "answer": 2
+  },
+  {
+    "q": "Which reptile uses its tail as a whip against predators?",
+    "options": ["Chameleon", "Komodo Dragon", "Monitor Lizard", "Iguana"],
+    "answer": 3
+  },
+  {
+    "q": "Which mammal has a memory so strong it remembers water holes for decades?",
+    "options": ["Dolphin", "Horse", "Whale", "Elephant"],
+    "answer": 3
+  },
+  {
+    "q": "Which marine mammal can detect fish hiding in sand using echolocation?",
+    "options": ["Seal", "Dolphin", "Whale", "Manatee"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird navigates migration routes using landmarks?",
+    "options": ["Goose", "Robin", "Swallow", "Albatross"],
+    "answer": 1
+  },
+  {
+    "q": "Which amphibian uses its tail as fat storage?",
+    "options": ["Salamander", "Newt", "Frog", "Caecilian"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal adapts hunting techniques based on prey availability?",
+    "options": ["Lion", "Fox", "Wolf", "Coyote"],
+    "answer": 1
+  },
+  {
+    "q": "Which marine animal detects chemical signals from prey hundreds of meters away?",
+    "options": ["Lobster", "Crab", "Shrimp", "Octopus"],
+    "answer": 0
+  },
+  {
+    "q": "Which bird enjoys interacting with toys and mirrors for mental stimulation?",
+    "options": ["Cockatoo", "Canary", "Budgerigar", "Parakeet"],
+    "answer": 3
+  },
+  {
+    "q": "Which reptile can replace teeth throughout its life?",
+    "options": ["Komodo Dragon", "Crocodile", "Alligator", "Snake"],
+    "answer": 1
+  },
+  {
+    "q": "Which mammal has an exceptional memory for hidden nuts?",
+    "options": ["Squirrel", "Mouse", "Beaver", "Chipmunk"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal can climb fences and small walls despite short legs?",
+    "options": ["Hedgehog", "Squirrel", "Rabbit", "Opossum"],
+    "answer": 0
+  },
+  {
+    "q": "Which jellyfish can glow in the dark using bioluminescence?",
+    "options": ["Lion’s Mane", "Jellyfish", "Box Jellyfish", "Moon Jelly"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird can hunt silently because of specialized feathers?",
+    "options": ["Owl", "Hawk", "Falcon", "Eagle"],
+    "answer": 0
+  },
+  {
+    "q": "Which reptile can detach its tail to escape predators?",
+    "options": ["Iguana", "Chameleon", "Gecko", "Komodo Dragon"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal forms strong family bonds and cares for orphaned calves?",
+    "options": ["Elephant", "Whale", "Dolphin", "Moose"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine mammal sleeps with half its brain awake?",
+    "options": ["Seal", "Dolphin", "Whale", "Manatee"],
+    "answer": 1
+  },
+  {
+    "q": "Which bird uses landmarks for annual migration navigation?",
+    "options": ["Swallow", "Robin", "Goose", "Albatross"],
+    "answer": 1
+  },
+  {
+    "q": "Which amphibian can store fat in its tail for scarcity periods?",
+    "options": ["Salamander", "Frog", "Newt", "Caecilian"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal adapts hunting strategies according to prey availability?",
+    "options": ["Fox", "Wolf", "Coyote", "Lion"],
+    "answer": 0
+  },
+  {
+    "q": "Which lobster can detect chemical signals from prey at a distance?",
+    "options": ["Lobster", "Crab", "Shrimp", "Octopus"],
+    "answer": 0
+  },
+  {
+    "q": "Which parakeet enjoys interacting with toys and mirrors?",
+    "options": ["Parakeet", "Budgerigar", "Cockatoo", "Canary"],
+    "answer": 0
+  },
+  {
+    "q": "Which crocodile can replace teeth throughout life?",
+    "options": ["Crocodile", "Alligator", "Komodo Dragon", "Snake"],
+    "answer": 0
+  },
+  {
+    "q": "Which mammal has exceptional memory for hidden nuts?",
+    "options": ["Squirrel", "Chipmunk", "Mouse", "Beaver"],
+    "answer": 0
+  },
+  {
+    "q": "Which starfish has no brain but can sense light and touch?",
+    "options": ["Starfish", "Sea Urchin", "Sea Cucumber", "Jellyfish"],
+    "answer": 0
+  },
+  {
+    "q": "Which cardinal’s mating success links to bright plumage?",
+    "options": ["Cardinal", "Robin", "Blue Jay", "Scarlet Macaw"],
+    "answer": 0
+  },
+  {
+    "q": "Which Komodo dragon hunts in groups for large prey?",
+    "options": ["Komodo Dragon", "Monitor Lizard", "Alligator", "Iguana"],
+    "answer": 0
+  },
+  {
+    "q": "Which fox uses whiskers to navigate in darkness?",
+    "options": ["Fox", "Wolf", "Coyote", "Dog"],
+    "answer": 0
+  },
+  {
+    "q": "Which squirrel uses its tail for communication and as an umbrella?",
+    "options": ["Squirrel", "Chipmunk", "Beaver", "Rat"],
+    "answer": 0
+  },
+  {
+    "q": "Which animal can sleep while standing and lying down?",
+    "options": ["Horse", "Cow", "Elephant", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which bird can fly at the highest altitude?",
+    "options": ["Albatross", "Eagle", "Bar-headed Goose", "Condor"],
+    "answer": 2
+  },
+  {
+    "q": "Which insect can survive extreme cold by producing antifreeze proteins?",
+    "options": ["Ladybug", "Ant", "Beetle", "Grasshopper"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal can echolocate like bats?",
+    "options": ["Dolphin", "Shrew", "Blind Mole Rat", "All of these"],
+    "answer": 3
+  },
+  {
+    "q": "Which animal has the fastest wingbeat?",
+    "options": ["Hummingbird", "Bee", "Dragonfly", "Mosquito"],
+    "answer": 0
+  },
+  {
+    "q": "Which reptile can survive long periods without water by storing fat?",
+    "options": ["Tortoise", "Camel", "Monitor Lizard", "Gecko"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine animal can produce a sonic blast to stun prey?",
+    "options": ["Shrimp", "Squid", "Octopus", "Dolphin"],
+    "answer": 0
+  },
+  {
+    "q": "Which bird uses echolocation to navigate in dark caves?",
+    "options": ["Owl", "Swift", "Oilbird", "Parrot"],
+    "answer": 2
+  },
+  {
+    "q": "Which mammal can survive in extreme desert heat without water for weeks?",
+    "options": ["Camel", "Fennec Fox", "Kangaroo Rat", "Meerkat"],
+    "answer": 2
+  },
+  {
+    "q": "Which amphibian can regrow its brain tissue?",
+    "options": ["Salamander", "Newt", "Frog", "Caecilian"],
+    "answer": 0
+  },
+  {
+    "q": "Which insect has compound eyes that cover nearly its entire head?",
+    "options": ["Dragonfly", "Fly", "Beetle", "Moth"],
+    "answer": 0
+  },
+  {
+    "q": "Which marine mammal has the thickest blubber for insulation?",
+    "options": ["Seal", "Walrus", "Whale", "Dolphin"],
+    "answer": 2
+  }
+]

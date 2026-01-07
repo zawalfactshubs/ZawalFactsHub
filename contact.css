@@ -1,0 +1,178 @@
+/* ===========================
+   CONTACT PAGE STYLES
+=========================== */
+
+.contact-page {
+  background: #1C2B2D;
+  color: #F5F5F5;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* PAGE HEADER */
+.contact-header {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #CD7F32;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 900px;
+  margin: 2rem auto;
+  color: #fff;
+  box-shadow: 0 4px 20px rgba(205, 127, 50, 0.4);
+}
+
+.contact-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact-header p {
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+/* MAIN CONTAINER */
+.contact-container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+
+/* GRID OF CONTACT BOXES */
+.contact-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+/* CONTACT BOXES */
+.contact-card {
+  background: #283a3c;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.4);
+  transition: 0.3s ease;
+}
+
+.contact-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 18px rgba(205, 127, 50, 0.6);
+}
+
+.contact-card h3 {
+  color: #CD7F32;
+  margin-bottom: 0.5rem;
+}
+
+.contact-card p {
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+/* CONTACT BUTTONS */
+.contact-btn {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  background: #CD7F32;
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  transition: 0.3s;
+}
+
+.contact-btn:hover {
+  background: #b56f29;
+  transform: scale(1.05);
+}
+
+/* CONTACT FORM BOX */
+.contact-form-box {
+  margin-top: 3rem;
+  background: #283a3c;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(205, 127, 50, 0.4);
+}
+
+.contact-form-box h2 {
+  text-align: center;
+  color: #CD7F32;
+  margin-bottom: 0.5rem;
+}
+
+.contact-form-box p {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+}
+
+/* FORM */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.8rem;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  background: #1C2B2D;
+  color: #F5F5F5;
+  font-size: 1rem;
+}
+
+.contact-form button {
+  background: #CD7F32;
+  padding: 0.9rem;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.contact-form button:hover {
+  background: #b56f29;
+  box-shadow: 0 0 12px rgba(205, 127, 50, 0.8);
+}
+
+/* RESPONSIVE */
+@media (max-width: 600px) {
+  .contact-header h1 {
+    font-size: 1.6rem;
+  }
+/* =============================
+   CONTACT FORM SELECT STYLE
+==============================*/
+
+.contact-form select {
+  width: 100%;
+  padding: 1rem;               /* Bigger height */
+  border-radius: 8px;          /* Rounded corners */
+  border: none;
+  outline: none;
+  background: #1C2B2D;         /* Matches your inputs */
+  color: #F5F5F5;
+  font-size: 1.05rem;          /* Slightly bigger text */
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  appearance: none;            /* Remove default ugly arrow */
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='white' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5 7L10 12L15 7' stroke='white' stroke-width='2'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 15px center;  /* Custom arrow */
+  background-size: 18px;
+}
+
+/* Optional hover effect */
+.contact-form select:hover {
+  background-color: #223335;
+}
+}

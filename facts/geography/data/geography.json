@@ -1,0 +1,1803 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? Asia is the largest continent in the world, covering about 44.58 million square kilometers.",
+    "category": "Continents",
+    "image": "continents1.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Russia is the largest country by area, spanning 17.1 million square kilometers.",
+    "category": "Countries",
+    "image": "countries1.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? Tokyo is the most populous capital city in the world, with over 37 million people in its metro area.",
+    "category": "Capitals",
+    "image": "capitals1.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Mount Everest is the tallest mountain on Earth, standing at 8,848 meters above sea level.",
+    "category": "Mountains",
+    "image": "mountains1.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? The Nile is the longest river in the world, stretching over 6,650 kilometers.",
+    "category": "Rivers",
+    "image": "rivers1.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? The Pacific Ocean is the largest ocean, covering more than 63 million square miles.",
+    "category": "Oceans & Seas",
+    "image": "oceans1.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Greenland is the world's largest island, spanning over 2.1 million square kilometers.",
+    "category": "Islands",
+    "image": "islands1.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? The Sahara is the largest hot desert in the world, covering 9.2 million square kilometers.",
+    "category": "Deserts",
+    "image": "deserts1.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The Caspian Sea is the world's largest inland body of water, often called a lake.",
+    "category": "Lakes",
+    "image": "lakes1.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? Death Valley in the USA holds the record for the highest air temperature on Earth at 56.7°C (134°F).",
+    "category": "Climate & Weather",
+    "image": "climate1.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Saudi Arabia is one of the largest producers of petroleum in the world.",
+    "category": "Natural Resources",
+    "image": "resources1.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? The Great Wall of China stretches over 21,000 kilometers across northern China.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks1.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? China has the largest population in the world, with over 1.4 billion people.",
+    "category": "Population & Demographics",
+    "image": "population1.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Vatican City is the smallest country in the world, with an area of just 44 hectares.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical1.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Mauna Loa in Hawaii is the largest volcano on Earth by volume.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano1.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? Africa is the second largest continent, home to 54 countries and over 1.3 billion people.",
+    "category": "Continents",
+    "image": "continents2.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? Canada is the second largest country by area, covering 9.98 million square kilometers.",
+    "category": "Countries",
+    "image": "countries2.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Brasília is the capital of Brazil and was built in just 41 months.",
+    "category": "Capitals",
+    "image": "capitals2.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? K2 is the second highest mountain in the world at 8,611 meters.",
+    "category": "Mountains",
+    "image": "mountains2.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? The Amazon River carries more water than any other river in the world.",
+    "category": "Rivers",
+    "image": "rivers2.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? The Atlantic Ocean is the second largest ocean on Earth, covering 41 million square miles.",
+    "category": "Oceans & Seas",
+    "image": "oceans2.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? Borneo is the third largest island in the world, shared by three countries.",
+    "category": "Islands",
+    "image": "islands2.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? The Gobi Desert spans northern China and southern Mongolia.",
+    "category": "Deserts",
+    "image": "deserts2.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? Lake Superior is the largest of the Great Lakes in North America.",
+    "category": "Lakes",
+    "image": "lakes2.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Siberia experiences some of the coldest temperatures outside Antarctica, reaching -67.7°C (-89.9°F).",
+    "category": "Climate & Weather",
+    "image": "climate2.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? Australia is rich in natural resources such as iron ore, gold, and coal.",
+    "category": "Natural Resources",
+    "image": "resources2.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? The Taj Mahal in India is one of the New Seven Wonders of the World.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks2.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? India is the second most populous country, with over 1.4 billion people.",
+    "category": "Population & Demographics",
+    "image": "population2.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? Monaco has the highest population density of any country in the world.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical2.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Mount Fuji is Japan's highest and most iconic volcano.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano2.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? Europe is the third largest continent, with over 44 countries.",
+    "category": "Continents",
+    "image": "continents3.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? Germany is the largest economy in Europe by GDP.",
+    "category": "Countries",
+    "image": "countries3.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Ottawa is the capital city of Canada.",
+    "category": "Capitals",
+    "image": "capitals3.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Mount Kilimanjaro in Tanzania is the highest peak in Africa at 5,895 meters.",
+    "category": "Mountains",
+    "image": "mountains3.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? The Mississippi River is one of the longest rivers in North America.",
+    "category": "Rivers",
+    "image": "rivers3.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? The Indian Ocean is the third largest ocean, covering 70.56 million square kilometers.",
+    "category": "Oceans & Seas",
+    "image": "oceans3.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? Madagascar is the fourth largest island in the world and is famous for its unique wildlife.",
+    "category": "Islands",
+    "image": "islands3.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? The Kalahari Desert covers much of Botswana and parts of Namibia and South Africa.",
+    "category": "Deserts",
+    "image": "deserts3.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? Lake Baikal in Russia is the world's deepest freshwater lake.",
+    "category": "Lakes",
+    "image": "lakes3.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? The Amazon Rainforest experiences heavy rainfall, with some areas getting over 3,000 mm per year.",
+    "category": "Climate & Weather",
+    "image": "climate3.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? The Democratic Republic of Congo is rich in cobalt and copper.",
+    "category": "Natural Resources",
+    "image": "resources3.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? Christ the Redeemer in Brazil is a famous landmark overlooking Rio de Janeiro.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks3.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? Nigeria has the largest population in Africa, with over 223 million people.",
+    "category": "Population & Demographics",
+    "image": "population3.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? San Marino is one of the world's smallest countries by area.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical3.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Mount St. Helens in the USA erupted catastrophically in 1980.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano3.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? South America is home to 12 countries and the Andes Mountains, the longest continental mountain range.",
+    "category": "Continents",
+    "image": "continents4.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Argentina is the second largest country in South America.",
+    "category": "Countries",
+    "image": "countries4.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Buenos Aires is the capital of Argentina.",
+    "category": "Capitals",
+    "image": "capitals4.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? The Andes include over 50 peaks taller than 6,000 meters.",
+    "category": "Mountains",
+    "image": "mountains4.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? The Amazon Basin spans 7 million square kilometers, containing thousands of rivers and tributaries.",
+    "category": "Rivers",
+    "image": "rivers4.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? Antarctica is the coldest continent, with temperatures dropping below -80°C in some areas.",
+    "category": "Continents",
+    "image": "continents5.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? United States is the third largest country by area, covering 9.83 million square kilometers.",
+    "category": "Countries",
+    "image": "countries5.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Canberra is the capital city of Australia.",
+    "category": "Capitals",
+    "image": "capitals5.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Mont Blanc is the highest mountain in the Alps, standing at 4,808 meters.",
+    "category": "Mountains",
+    "image": "mountains5.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? Yangtze River is the longest river in Asia, stretching over 6,300 kilometers.",
+    "category": "Rivers",
+    "image": "rivers5.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? The Arctic Ocean is the smallest and shallowest of the world's oceans.",
+    "category": "Oceans & Seas",
+    "image": "oceans4.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Iceland is an island country known for its volcanoes, glaciers, and geothermal activity.",
+    "category": "Islands",
+    "image": "islands4.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? The Atacama Desert in Chile is one of the driest places on Earth.",
+    "category": "Deserts",
+    "image": "deserts4.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Lake Tanganyika is the second deepest lake in the world and the longest in Africa.",
+    "category": "Lakes",
+    "image": "lakes4.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? Mount Washington in the USA holds the record for the highest wind speed ever recorded on Earth at 372 km/h.",
+    "category": "Climate & Weather",
+    "image": "climate4.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? Venezuela has some of the world's largest oil reserves.",
+    "category": "Natural Resources",
+    "image": "resources4.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? The Pyramids of Giza in Egypt are over 4,500 years old and among the oldest monuments in the world.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks4.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? Bangladesh is one of the most densely populated countries in the world.",
+    "category": "Population & Demographics",
+    "image": "population4.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Liechtenstein is a microstate nestled between Switzerland and Austria.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical4.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? Mount Vesuvius in Italy erupted in 79 AD, burying the cities of Pompeii and Herculaneum.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano4.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Oceania is a continent comprising Australasia, Melanesia, Micronesia, and Polynesia.",
+    "category": "Continents",
+    "image": "continents6.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? Brazil is the largest country in South America by both area and population.",
+    "category": "Countries",
+    "image": "countries6.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Pretoria is one of South Africa's three capitals, serving as the administrative capital.",
+    "category": "Capitals",
+    "image": "capitals6.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Denali, also known as Mount McKinley, is the tallest mountain in North America at 6,190 meters.",
+    "category": "Mountains",
+    "image": "mountains6.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? The Mekong River flows through six countries in Southeast Asia, including Vietnam and Thailand.",
+    "category": "Rivers",
+    "image": "rivers6.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? The Southern Ocean surrounds Antarctica and is recognized as the fourth largest ocean.",
+    "category": "Oceans & Seas",
+    "image": "oceans5.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Baffin Island is the largest island in Canada and the fifth largest in the world.",
+    "category": "Islands",
+    "image": "islands5.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? The Mojave Desert in the USA is home to Death Valley, the lowest point in North America.",
+    "category": "Deserts",
+    "image": "deserts5.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? Lake Victoria in Africa is the second largest freshwater lake by surface area in the world.",
+    "category": "Lakes",
+    "image": "lakes5.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? The Sahel region experiences extreme droughts and variable rainfall patterns.",
+    "category": "Climate & Weather",
+    "image": "climate5.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? Chile is rich in copper, producing over a third of the world's total.",
+    "category": "Natural Resources",
+    "image": "resources5.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? Stonehenge in England is a prehistoric monument dating back to 3000 BC.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks5.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? Indonesia has the largest population in Southeast Asia.",
+    "category": "Population & Demographics",
+    "image": "population5.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Monaco is a city-state with a population of around 39,000 people.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical5.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? Mount Etna in Sicily is one of the most active volcanoes in the world.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano5.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? North America includes 23 countries and several territories.",
+    "category": "Continents",
+    "image": "continents7.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? Mexico is the 13th largest country in the world and third largest in North America.",
+    "category": "Countries",
+    "image": "countries7.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Washington, D.C. is the capital of the United States of America.",
+    "category": "Capitals",
+    "image": "capitals7.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? The Alps stretch across eight countries including France, Switzerland, and Italy.",
+    "category": "Mountains",
+    "image": "mountains7.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? The Rhine River flows through six countries in Europe, including Germany and the Netherlands.",
+    "category": "Rivers",
+    "image": "rivers7.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? The Caribbean Sea contains over 700 islands and is known for its turquoise waters.",
+    "category": "Oceans & Seas",
+    "image": "oceans6.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? Sumatra is one of Indonesia's largest islands and has diverse wildlife.",
+    "category": "Islands",
+    "image": "islands6.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? The Namib Desert in Namibia is considered the world's oldest desert.",
+    "category": "Deserts",
+    "image": "deserts6.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? Lake Michigan is the only Great Lake located entirely within the United States.",
+    "category": "Lakes",
+    "image": "lakes6.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? Monsoon rains affect much of South Asia, especially India and Bangladesh.",
+    "category": "Climate & Weather",
+    "image": "climate6.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? South Africa is rich in gold and diamond resources.",
+    "category": "Natural Resources",
+    "image": "resources6.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The Colosseum in Rome, Italy, was used for gladiatorial contests and public spectacles.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks6.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? Japan has a population of over 125 million people.",
+    "category": "Population & Demographics",
+    "image": "population6.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? Vatican City is a sovereign city-state surrounded by Rome, Italy.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical6.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Krakatoa erupted in 1883 and caused massive tsunamis in Indonesia.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano6.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? South America has 12 sovereign countries and the Amazon rainforest.",
+    "category": "Continents",
+    "image": "continents8.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? Colombia is the fourth largest country in South America by area.",
+    "category": "Countries",
+    "image": "countries8.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Lima is the capital city of Peru, founded in 1535.",
+    "category": "Capitals",
+    "image": "capitals8.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? The Rockies extend over 4,800 km from Canada to the United States.",
+    "category": "Mountains",
+    "image": "mountains8.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? The Orinoco River in Venezuela spans over 2,140 km, making it one of South America's longest rivers.",
+    "category": "Rivers",
+    "image": "rivers8.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? Africa is the second largest continent and home to over 1.3 billion people.",
+    "category": "Continents",
+    "image": "continents9.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? Russia is the largest country in the world by area, covering more than 17 million square kilometers.",
+    "category": "Countries",
+    "image": "countries9.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? Ottawa is the capital city of Canada.",
+    "category": "Capitals",
+    "image": "capitals9.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Mount Kilimanjaro in Tanzania is the tallest mountain in Africa at 5,895 meters.",
+    "category": "Mountains",
+    "image": "mountains9.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? The Nile River is the longest river in the world, flowing over 6,650 kilometers through eleven countries.",
+    "category": "Rivers",
+    "image": "rivers9.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? The Indian Ocean is the third largest ocean in the world, covering 70.56 million square kilometers.",
+    "category": "Oceans & Seas",
+    "image": "oceans7.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Greenland is the world's largest island that is not a continent.",
+    "category": "Islands",
+    "image": "islands7.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? The Sahara Desert is the largest hot desert in the world, spanning 9.2 million square kilometers.",
+    "category": "Deserts",
+    "image": "deserts7.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Lake Baikal in Russia is the world's deepest and oldest freshwater lake.",
+    "category": "Lakes",
+    "image": "lakes7.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? The Amazon rainforest experiences heavy rainfall throughout the year, with some areas receiving over 2,000 mm annually.",
+    "category": "Climate & Weather",
+    "image": "climate7.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? Saudi Arabia is the largest oil producer in the Middle East.",
+    "category": "Natural Resources",
+    "image": "resources7.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? The Great Wall of China stretches over 21,000 kilometers.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks7.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? India has the second largest population in the world after China.",
+    "category": "Population & Demographics",
+    "image": "population7.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? San Marino is a microstate landlocked within Italy.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical7.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? Mount Fuji in Japan last erupted in 1707.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano7.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Europe is the second smallest continent but has over 44 countries.",
+    "category": "Continents",
+    "image": "continents10.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? France is the largest country in the European Union by area.",
+    "category": "Countries",
+    "image": "countries10.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Berlin is the capital of Germany.",
+    "category": "Capitals",
+    "image": "capitals10.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Mount Kosciuszko is the highest mountain in mainland Australia at 2,228 meters.",
+    "category": "Mountains",
+    "image": "mountains10.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? The Danube River flows through ten countries in Europe, more than any other river.",
+    "category": "Rivers",
+    "image": "rivers10.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? The Mediterranean Sea connects Europe, Asia, and Africa.",
+    "category": "Oceans & Seas",
+    "image": "oceans8.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Madagascar is the fourth largest island in the world and home to unique wildlife.",
+    "category": "Islands",
+    "image": "islands8.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? The Kalahari Desert covers parts of Botswana, Namibia, and South Africa.",
+    "category": "Deserts",
+    "image": "deserts8.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Great Bear Lake in Canada is the largest lake entirely in Canada.",
+    "category": "Lakes",
+    "image": "lakes8.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? Monsoon rains shape the agriculture and culture of countries like India and Bangladesh.",
+    "category": "Climate & Weather",
+    "image": "climate8.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Australia has vast reserves of iron ore and coal.",
+    "category": "Natural Resources",
+    "image": "resources8.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Machu Picchu in Peru is a famous Incan citadel located high in the Andes mountains.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks8.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Nigeria is the most populous country in Africa.",
+    "category": "Population & Demographics",
+    "image": "population8.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Gibraltar is a British Overseas Territory located at the southern tip of Spain.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical8.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Mount Stromboli in Italy has been erupting almost continuously for the past 2,000 years.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano8.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Asia is the largest continent, covering 30% of Earth's land area.",
+    "category": "Continents",
+    "image": "continents11.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? China is the most populous country in the world with over 1.4 billion people.",
+    "category": "Countries",
+    "image": "countries11.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? Tokyo is the capital of Japan and one of the world's largest metropolitan areas.",
+    "category": "Capitals",
+    "image": "capitals11.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Mount Elbrus in Russia is the highest peak in Europe at 5,642 meters.",
+    "category": "Mountains",
+    "image": "mountains11.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? The Congo River is the second longest river in Africa, flowing 4,700 km.",
+    "category": "Rivers",
+    "image": "rivers11.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? The Red Sea separates Africa and Asia.",
+    "category": "Oceans & Seas",
+    "image": "oceans9.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Borneo is the third largest island in the world and shared by Indonesia, Malaysia, and Brunei.",
+    "category": "Islands",
+    "image": "islands9.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? The Gobi Desert spans northern China and southern Mongolia.",
+    "category": "Deserts",
+    "image": "deserts9.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Lake Superior is the largest of the Great Lakes and the largest freshwater lake by surface area in the world.",
+    "category": "Lakes",
+    "image": "lakes9.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? Siberia in Russia has a subarctic climate with extremely cold winters.",
+    "category": "Climate & Weather",
+    "image": "climate9.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? Venezuela is rich in petroleum, the country’s main export.",
+    "category": "Natural Resources",
+    "image": "resources9.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Petra in Jordan is an archaeological site famous for its rock-cut architecture.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks9.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Pakistan has a population of over 230 million people.",
+    "category": "Population & Demographics",
+    "image": "population9.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? Brunei is a small country located on the island of Borneo in Southeast Asia.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical9.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Mount Teide in Tenerife, Spain, is the highest peak in Spain at 3,718 meters.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano9.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Antarctica has no permanent population, only research stations.",
+    "category": "Continents",
+    "image": "continents12.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Argentina is the second largest country in South America by area.",
+    "category": "Countries",
+    "image": "countries12.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Buenos Aires is the capital city of Argentina.",
+    "category": "Capitals",
+    "image": "capitals12.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? The Andes is the longest continental mountain range in the world, stretching 7,000 km.",
+    "category": "Mountains",
+    "image": "mountains12.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? The Amazon River discharges more water than any other river in the world.",
+    "category": "Rivers",
+    "image": "rivers12.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? South America is the fourth largest continent and home to the Amazon rainforest.",
+    "category": "Continents",
+    "image": "continents13.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? Brazil is the largest country in South America by area.",
+    "category": "Countries",
+    "image": "countries13.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Brasília is the capital city of Brazil, inaugurated in 1960.",
+    "category": "Capitals",
+    "image": "capitals13.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? Aconcagua in Argentina is the highest mountain in South America at 6,961 meters.",
+    "category": "Mountains",
+    "image": "mountains13.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? The Paraná River is the second longest river in South America.",
+    "category": "Rivers",
+    "image": "rivers13.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? The Caribbean Sea is home to over 7,000 islands, islets, and cays.",
+    "category": "Oceans & Seas",
+    "image": "oceans10.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? Iceland is a volcanic island country in the North Atlantic Ocean.",
+    "category": "Islands",
+    "image": "islands10.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? The Namib Desert in Namibia is considered the world's oldest desert.",
+    "category": "Deserts",
+    "image": "deserts10.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? Lake Victoria is the largest lake in Africa by surface area.",
+    "category": "Lakes",
+    "image": "lakes10.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? The Maldives experiences tropical monsoon climate with consistent temperatures throughout the year.",
+    "category": "Climate & Weather",
+    "image": "climate10.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? Saudi Arabia has vast oil reserves, making it one of the world's top oil producers.",
+    "category": "Natural Resources",
+    "image": "resources10.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? The Colosseum in Rome, Italy, could hold up to 80,000 spectators in ancient times.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks10.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Bangladesh has a population of over 165 million people, making it one of the most densely populated countries.",
+    "category": "Population & Demographics",
+    "image": "population10.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? Monaco is the second smallest country in the world after Vatican City.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical10.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? Mount Vesuvius in Italy famously erupted in 79 AD, burying Pompeii.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano10.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? North America is the third largest continent by area and population.",
+    "category": "Continents",
+    "image": "continents14.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? Canada is the second largest country in the world by area.",
+    "category": "Countries",
+    "image": "countries14.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Washington, D.C. is the capital of the United States.",
+    "category": "Capitals",
+    "image": "capitals14.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? Denali in Alaska is the highest mountain in North America at 6,190 meters.",
+    "category": "Mountains",
+    "image": "mountains14.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? The Mississippi River is the second longest river in North America, stretching 3,766 km.",
+    "category": "Rivers",
+    "image": "rivers14.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Hudson Bay in Canada is the largest bay in the world by area.",
+    "category": "Oceans & Seas",
+    "image": "oceans11.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Greenland is technically part of the Kingdom of Denmark and is the world’s largest island.",
+    "category": "Islands",
+    "image": "islands11.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? The Mojave Desert in the United States is known for its extreme temperatures.",
+    "category": "Deserts",
+    "image": "deserts11.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? Great Slave Lake in Canada is the deepest lake in North America.",
+    "category": "Lakes",
+    "image": "lakes11.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? The Pacific Northwest experiences a temperate oceanic climate with mild summers and wet winters.",
+    "category": "Climate & Weather",
+    "image": "climate11.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? Venezuela’s Orinoco River basin is rich in petroleum and other natural resources.",
+    "category": "Natural Resources",
+    "image": "resources11.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? The Statue of Liberty in New York was a gift from France in 1886.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks11.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? Japan has a population of approximately 125 million people.",
+    "category": "Population & Demographics",
+    "image": "population11.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? Liechtenstein is a tiny landlocked country between Switzerland and Austria.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical11.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? Mount Etna in Italy is one of the most active volcanoes in the world.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano11.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Oceania includes Australia, New Zealand, and thousands of Pacific islands.",
+    "category": "Continents",
+    "image": "continents15.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? Australia is the only country that is also a continent.",
+    "category": "Countries",
+    "image": "countries15.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? Canberra is the capital of Australia.",
+    "category": "Capitals",
+    "image": "capitals15.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? The Southern Alps on New Zealand’s South Island include Aoraki/Mount Cook, the highest peak at 3,724 meters.",
+    "category": "Mountains",
+    "image": "mountains15.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The Murray River is Australia’s longest river at 2,508 kilometers.",
+    "category": "Rivers",
+    "image": "rivers15.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? The Coral Sea is home to the Great Barrier Reef, the world’s largest coral reef system.",
+    "category": "Oceans & Seas",
+    "image": "oceans12.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? New Guinea is the world’s second largest island and split between Indonesia and Papua New Guinea.",
+    "category": "Islands",
+    "image": "islands12.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? The Simpson Desert in Australia is known for its red sand dunes and arid climate.",
+    "category": "Deserts",
+    "image": "deserts12.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Lake Eyre in Australia is a large endorheic lake that fills only during rare floods.",
+    "category": "Lakes",
+    "image": "lakes12.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? Fiji experiences a tropical marine climate with consistent temperatures year-round.",
+    "category": "Climate & Weather",
+    "image": "climate12.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Papua New Guinea is rich in natural resources, including gold, copper, and timber.",
+    "category": "Natural Resources",
+    "image": "resources12.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? Sydney Opera House is one of the most famous landmarks in Australia.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks12.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? New Zealand has a population of approximately 5 million people.",
+    "category": "Population & Demographics",
+    "image": "population12.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Nauru is the third smallest country in the world and located in Micronesia.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical12.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Mount Yasur in Vanuatu is one of the world’s most accessible active volcanoes.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano12.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? Antarctica is covered by the Antarctic ice sheet, the largest single mass of ice on Earth.",
+    "category": "Continents",
+    "image": "continents16.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Chile is the longest north-to-south country in the world, stretching 4,300 km.",
+    "category": "Countries",
+    "image": "countries16.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? Santiago is the capital of Chile.",
+    "category": "Capitals",
+    "image": "capitals16.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? The Andes Mountains also contain over 50 peaks higher than 6,000 meters.",
+    "category": "Mountains",
+    "image": "mountains16.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? The Orinoco River in Venezuela spans over 2,140 km and has extensive floodplains.",
+    "category": "Rivers",
+    "image": "rivers16.jpg"
+  },
+  
+  {
+    "id": 201,
+    "fact": "Did you know? The Caribbean island of Hispaniola is shared by Haiti and the Dominican Republic.",
+    "category": "Continents",
+    "image": "continents17.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? Mexico is the 13th largest country in the world by area.",
+    "category": "Countries",
+    "image": "countries17.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Ottawa is the capital of Canada.",
+    "category": "Capitals",
+    "image": "capitals17.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? Mount Logan in Canada is the highest peak in the country at 5,959 meters.",
+    "category": "Mountains",
+    "image": "mountains17.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? The Yukon River runs through both Canada and Alaska and is 3,190 km long.",
+    "category": "Rivers",
+    "image": "rivers17.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? The Mediterranean Sea is almost completely enclosed by Europe, Asia, and Africa.",
+    "category": "Oceans & Seas",
+    "image": "oceans13.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? Madagascar is the fourth largest island in the world and famous for its biodiversity.",
+    "category": "Islands",
+    "image": "islands13.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? The Kalahari Desert covers parts of Botswana, Namibia, and South Africa.",
+    "category": "Deserts",
+    "image": "deserts13.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? Lake Tanganyika is the second deepest lake in the world and lies in East Africa.",
+    "category": "Lakes",
+    "image": "lakes13.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Mumbai, India experiences a tropical wet and dry climate with heavy monsoon rains.",
+    "category": "Climate & Weather",
+    "image": "climate13.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? Russia holds some of the largest natural gas reserves in the world.",
+    "category": "Natural Resources",
+    "image": "resources13.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? The Eiffel Tower in Paris was completed in 1889 and is one of the most visited landmarks in the world.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks13.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? Nigeria has a population exceeding 220 million people, the largest in Africa.",
+    "category": "Population & Demographics",
+    "image": "population13.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? Bhutan is a landlocked country located in the Eastern Himalayas between India and China.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical13.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? Krakatoa, located in Indonesia, erupted catastrophically in 1883 causing global climate effects.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano13.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Europe is the second smallest continent by area but has a high population density.",
+    "category": "Continents",
+    "image": "continents18.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Germany is the most populous country in the European Union.",
+    "category": "Countries",
+    "image": "countries18.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Berlin is the capital city of Germany.",
+    "category": "Capitals",
+    "image": "capitals18.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Mont Blanc is the highest mountain in the Alps at 4,808 meters.",
+    "category": "Mountains",
+    "image": "mountains18.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? The Danube River flows through 10 European countries and is the second longest river in Europe.",
+    "category": "Rivers",
+    "image": "rivers18.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? The North Sea borders the UK, Norway, Denmark, Germany, the Netherlands, Belgium, and France.",
+    "category": "Oceans & Seas",
+    "image": "oceans14.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? Sicily is the largest island in the Mediterranean Sea and part of Italy.",
+    "category": "Islands",
+    "image": "islands14.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? The Atacama Desert in Chile is the driest non-polar desert in the world.",
+    "category": "Deserts",
+    "image": "deserts14.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Lake Baikal in Russia is the deepest and oldest freshwater lake in the world.",
+    "category": "Lakes",
+    "image": "lakes14.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? The Sahara Desert has extreme temperatures, ranging from below freezing at night to over 50°C during the day.",
+    "category": "Climate & Weather",
+    "image": "climate14.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Saudi Arabia is the largest oil exporter in the world.",
+    "category": "Natural Resources",
+    "image": "resources14.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? Machu Picchu in Peru is an ancient Incan city located 2,430 meters above sea level.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks14.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? Egypt has a population of over 110 million people, making it the most populous country in the Arab world.",
+    "category": "Population & Demographics",
+    "image": "population14.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? Liechtenstein is a principality located between Switzerland and Austria.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical14.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Mount Pinatubo in the Philippines erupted in 1991 and affected global climate.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano14.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? Africa is the second largest continent and contains 54 recognized countries.",
+    "category": "Continents",
+    "image": "continents19.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Kenya is known for its wildlife safaris and diverse landscapes.",
+    "category": "Countries",
+    "image": "countries19.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Nairobi is the capital of Kenya.",
+    "category": "Capitals",
+    "image": "capitals19.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? Mount Kilimanjaro in Tanzania is the highest peak in Africa at 5,895 meters.",
+    "category": "Mountains",
+    "image": "mountains19.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? The Nile River is the longest river in the world at 6,650 km.",
+    "category": "Rivers",
+    "image": "rivers19.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? The Red Sea separates Africa and Asia and is known for its coral reefs.",
+    "category": "Oceans & Seas",
+    "image": "oceans15.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? Borneo is the third largest island in the world and shared by Malaysia, Indonesia, and Brunei.",
+    "category": "Islands",
+    "image": "islands15.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? The Namib Desert is known for its striking red sand dunes.",
+    "category": "Deserts",
+    "image": "deserts15.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? Lake Volta in Ghana is one of the largest man-made lakes in the world.",
+    "category": "Lakes",
+    "image": "lakes15.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? The Amazon rainforest experiences an equatorial climate with high humidity and rainfall.",
+    "category": "Climate & Weather",
+    "image": "climate15.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? South Africa has rich deposits of gold, platinum, and diamonds.",
+    "category": "Natural Resources",
+    "image": "resources15.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? The Pyramids of Giza are among the most iconic ancient structures in the world.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks15.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Ethiopia has a population of over 120 million people.",
+    "category": "Population & Demographics",
+    "image": "population15.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? Vatican City is the smallest independent state in the world.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical15.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? Mount Nyiragongo in the Democratic Republic of Congo has one of the world’s largest lava lakes.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano15.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Asia is the largest continent by both area and population.",
+    "category": "Continents",
+    "image": "continents20.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? China is the most populous country in the world.",
+    "category": "Countries",
+    "image": "countries20.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? Beijing is the capital city of China.",
+    "category": "Capitals",
+    "image": "capitals20.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Mount Everest on the Nepal-China border is the highest peak on Earth at 8,848 meters.",
+    "category": "Mountains",
+    "image": "mountains20.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? The Yangtze River is the longest river in Asia, spanning over 6,300 km.",
+    "category": "Rivers",
+    "image": "rivers20.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? The Gobi Desert spans northern China and southern Mongolia and is known for its harsh climate.",
+    "category": "Deserts",
+    "image": "deserts16.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Lake Superior is the largest of North America’s Great Lakes by surface area.",
+    "category": "Lakes",
+    "image": "lakes16.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Mumbai experiences a tropical climate with heavy monsoon rains each year.",
+    "category": "Climate & Weather",
+    "image": "climate16.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? Venezuela has some of the largest proven oil reserves in the world.",
+    "category": "Natural Resources",
+    "image": "resources16.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? Christ the Redeemer in Rio de Janeiro is one of the New Seven Wonders of the World.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks16.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Bangladesh has a population of over 165 million people.",
+    "category": "Population & Demographics",
+    "image": "population16.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Monaco is a city-state on the French Riviera and the second smallest country in the world.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical16.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? Mount St. Helens in the USA erupted catastrophically in 1980.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano16.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? Antarctica is the coldest continent with an average temperature of -49°C.",
+    "category": "Continents",
+    "image": "continents21.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Greenland is the world’s largest island and part of the Kingdom of Denmark.",
+    "category": "Countries",
+    "image": "countries21.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? Reykjavik is the capital city of Iceland.",
+    "category": "Capitals",
+    "image": "capitals21.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Denali (Mount McKinley) in Alaska is the tallest mountain in North America at 6,190 meters.",
+    "category": "Mountains",
+    "image": "mountains21.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? The Colorado River carved the Grand Canyon over millions of years.",
+    "category": "Rivers",
+    "image": "rivers21.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? The Caribbean Sea is bounded by North, Central, and South America and is famous for its turquoise waters.",
+    "category": "Oceans & Seas",
+    "image": "oceans16.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Baffin Island in Canada is the fifth largest island in the world.",
+    "category": "Islands",
+    "image": "islands16.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? The Sonoran Desert spans parts of the southwestern USA and northwestern Mexico.",
+    "category": "Deserts",
+    "image": "deserts17.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? Lake Victoria in Africa is the largest lake by surface area on the continent.",
+    "category": "Lakes",
+    "image": "lakes17.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Singapore experiences a tropical rainforest climate with uniform temperatures and high humidity.",
+    "category": "Climate & Weather",
+    "image": "climate17.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? Australia is rich in minerals such as iron, coal, and gold.",
+    "category": "Natural Resources",
+    "image": "resources17.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Stonehenge in the United Kingdom is an ancient prehistoric monument of massive stones.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks17.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Japan has a population of over 125 million people.",
+    "category": "Population & Demographics",
+    "image": "population17.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? San Marino is one of the world’s oldest republics and is completely landlocked by Italy.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical17.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? Mount Fuji is an iconic volcano and the highest peak in Japan at 3,776 meters.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano17.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? South America contains 12 countries and is home to the Amazon rainforest.",
+    "category": "Continents",
+    "image": "continents22.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Brazil is the largest country in South America both by area and population.",
+    "category": "Countries",
+    "image": "countries22.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? Buenos Aires is the capital city of Argentina.",
+    "category": "Capitals",
+    "image": "capitals22.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? Aconcagua in Argentina is the highest mountain in South America at 6,960 meters.",
+    "category": "Mountains",
+    "image": "mountains22.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? The Orinoco River flows through Venezuela and Colombia.",
+    "category": "Rivers",
+    "image": "rivers22.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? The South Pacific Ocean is the largest and deepest ocean region on Earth.",
+    "category": "Oceans & Seas",
+    "image": "oceans17.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? New Guinea is the world’s second largest island, shared by Papua New Guinea and Indonesia.",
+    "category": "Islands",
+    "image": "islands17.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? The Thar Desert is located in India and Pakistan and is one of the largest deserts in Asia.",
+    "category": "Deserts",
+    "image": "deserts18.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? Lake Malawi in Africa is known for its high biodiversity of cichlid fish.",
+    "category": "Lakes",
+    "image": "lakes18.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? London has a temperate oceanic climate with mild winters and cool summers.",
+    "category": "Climate & Weather",
+    "image": "climate18.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Chile is the world’s largest producer of copper.",
+    "category": "Natural Resources",
+    "image": "resources18.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? The Acropolis of Athens in Greece is an ancient citadel dating back to the 5th century BC.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks18.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Indonesia has a population exceeding 275 million people, making it the fourth most populous country.",
+    "category": "Population & Demographics",
+    "image": "population18.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? Singapore is a sovereign city-state and island country in Southeast Asia.",
+    "category": "Geopolitical Facts",
+    "image": "geopolitical18.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Mount Vesuvius in Italy famously erupted in 79 AD burying the city of Pompeii.",
+    "category": "Volcanoes & Earthquakes",
+    "image": "volcano18.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? Oceania is made up of thousands of islands and includes Australia, New Zealand, and the Pacific islands.",
+    "category": "Continents",
+    "image": "continents23.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Fiji is an island country in Melanesia, part of Oceania.",
+    "category": "Countries",
+    "image": "countries23.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? Wellington is the capital city of New Zealand.",
+    "category": "Capitals",
+    "image": "capitals23.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Puncak Jaya in Indonesia is the highest mountain in Oceania at 4,884 meters.",
+    "category": "Mountains",
+    "image": "mountains23.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? The Murray River is the longest river in Australia at 2,508 km.",
+    "category": "Rivers",
+    "image": "rivers23.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? The Coral Sea, northeast of Australia, is known for the Great Barrier Reef.",
+    "category": "Oceans & Seas",
+    "image": "oceans18.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? Tasmania is an island state of Australia, known for its wilderness.",
+    "category": "Islands",
+    "image": "islands18.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? The Great Victoria Desert is the largest desert in Australia.",
+    "category": "Deserts",
+    "image": "deserts19.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Lake Eyre in Australia is the country’s largest salt lake.",
+    "category": "Lakes",
+    "image": "lakes19.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Papua New Guinea has a tropical climate with high rainfall and humidity.",
+    "category": "Climate & Weather",
+    "image": "climate19.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? New Caledonia has large deposits of nickel.",
+    "category": "Natural Resources",
+    "image": "resources19.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Uluru, also known as Ayers Rock, is a massive sandstone monolith in central Australia.",
+    "category": "Landmarks & Monuments",
+    "image": "landmarks19.jpg"
+  }
+]

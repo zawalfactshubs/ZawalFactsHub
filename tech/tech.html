@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zawal Facts Hub - Tech Tips</title>
+  <meta name="description" content="Stay updated with Zawal Facts Hub Tech Tips! Explore gadgets, apps, AI, programming, cybersecurity, cloud, networking, and future tech insights.">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="tech.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>
+      <img src="/logo.png" alt="Zawal Facts Hub Logo">
+      Zawal Facts Hub
+    </h1>
+    <div class="hamburger" id="hamburger">☰</div>
+    <nav class="nav-menu" id="nav-menu">
+      <a href="../index.html">Home</a>
+      <a href="../facts/facts.html">Facts</a>
+      <a href="../motivation/motivation.html">Motivation</a>
+      <a href="../health/health.html">Health Tips</a>
+      <a href="tech.html" class="active">Tech Tips</a>
+      <a href="../tutorials.html">Life Hacks</a>
+      <a href="../premium-facts.html">Premium Facts</a>
+      <a href="/quiz/quiz-home.html">Quizzes</a>
+      <a href="../about.html">About</a>
+      <a href="../privacy.html">Privacy Policy</a>
+      <a href="../contact.html">Contact Us</a>
+      
+    </nav>
+  </header>
+
+  <!-- Tech Tip of the Day -->
+  <section class="fact-of-day">
+    <h2>Tech Tip of the Day</h2>
+    <p id="tip-text">Loading...</p>
+    <button id="generate-tip" class="generate-fact">Generate Tip</button>
+  </section>
+
+  <!-- Category Links -->
+  <div class="categories">
+    <a class="category" href="../index.html">Home</a>
+    <a class="category" href="../facts/facts.html">Facts</a>
+    <a class="category" href="../motivation/motivation.html">Motivation</a>
+    <a class="category" href="../health/health.html">Health Tips</a>
+    <a class="category active" href="tech.html">Tech Tips</a>
+    <a class="category" href="../tutorials.html">Life Hacks</a>
+  </div>
+
+  <!-- Tech Categories -->
+  <!-- Tech Categories -->
+  <section class="posts tech-posts">
+    <div class="card">
+      <img src="gadgets.jpg" alt="Gadgets">
+      <div class="card-content">
+        <h3>Gadgets</h3>
+        <p>Latest devices, reviews, and innovations in tech gadgets.</p>
+        <a href="gadgets/gadgets.html">View Tips</a>
+      </div>
+    </div>
+    
+    <div class="card">
+      <img src="apps.jpg" alt="Apps">
+      <div class="card-content">
+        <h3>Apps</h3>
+        <p>Top apps for productivity, entertainment, and lifestyle.</p>
+        <a href="apps/apps.html">View Tips</a>
+      </div>
+    </div>
+    
+    <div class="card">
+      <img src="ai.jpg" alt="Artificial Intelligence">
+      <div class="card-content">
+        <h3>Artificial Intelligence</h3>
+        <p>Insights on AI, machine learning, and future tech trends.</p>
+        <a href="ai/ai.html">View Tips</a>
+      </div>
+    </div>
+    
+    <div class="card">
+      <img src="programming.jpg" alt="Programming">
+      <div class="card-content">
+        <h3>Programming</h3>
+        <p>Learn coding tips, best practices, and tutorials.</p>
+        <a href="programming/programming.html">View Tips</a>
+      </div>
+    </div>
+    
+    <div class="card">
+      <img src="cybersecurity.jpg" alt="Cybersecurity">
+      <div class="card-content">
+        <h3>Cybersecurity</h3>
+        <p>Protect your devices, accounts, and online privacy.</p>
+        <a href="cybersecurity/cybersecurity.html">View Tips</a>
+      </div>
+    </div>
+    
+    <div class="card">
+      <img src="cloud.jpg" alt="Cloud Tech">
+      <div class="card-content">
+        <h3>Cloud Tech</h3>
+        <p>Explore cloud computing, storage, and remote solutions.</p>
+        <a href="cloud/cloud.html">View Tips</a>
+      </div>
+    </div>
+    
+    <div class="card">
+      <img src="future.jpg" alt="Future Tech">
+      <div class="card-content">
+        <h3>Future Tech</h3>
+        <p>Learn about futuristic technologies shaping tomorrow.</p>
+        <a href="future/future.html">View Tips</a>
+      </div>
+    </div>
+    
+
+    <div class="card">
+      <img src="networking.jpg" alt="Networking & Internet">
+      <div class="card-content">
+        <h3>Networking & Internet</h3>
+        <p>Optimize Wi-Fi, routers, LAN/WAN setups, and improve your online connectivity.</p>
+        <a href="networking/networking.html">View Tips</a>
+      </div>
+    </div>
+    </section>
+  <!-- JS -->
+  <script>
+    const hamburger = document.getElementById('hamburger');
+    const navMenu = document.getElementById('nav-menu');
+    hamburger.addEventListener('click', () => navMenu.classList.toggle('open'));
+
+    const tips = [
+      "Keep your software updated for security and performance.",
+      "Use keyboard shortcuts to save time on daily tasks.",
+      "Organize your files in folders to stay productive.",
+      "Clear your cache regularly to improve browser speed.",
+      "Back up your data in cloud or external drives.",
+      "Use strong, unique passwords for each account.",
+      "Learn basic coding to improve problem-solving skills.",
+      "Keep your devices charged and avoid overcharging.",
+      "Use two-factor authentication for added security.",
+      "Explore new apps and tools to boost efficiency."
+    ];
+
+    const tipText = document.getElementById('tip-text');
+    const generateBtn = document.getElementById('generate-tip');
+
+    function showTip() {
+      const randomIndex = Math.floor(Math.random() * tips.length);
+      tipText.textContent = tips[randomIndex];
+    }
+
+    generateBtn.addEventListener('click', showTip);
+    showTip();
+  </script>
+<!-- Include the menu JS & CSS -->
+<link rel="stylesheet" href="../menu.css">
+<script src="../menu.js"></script>
+<script src="../lazyload.js" defer></script>
+</body>
+</html>

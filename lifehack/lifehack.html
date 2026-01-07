@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zawal Facts Hub - Life Hacks</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>
+      <img src="/logo.png" alt="Zawal Facts Hub Logo">
+      Zawal Facts Hub
+    </h1>
+
+    <!-- Hamburger Menu -->
+    <div class="hamburger" id="hamburger">☰</div>
+    <nav class="nav-menu" id="nav-menu">
+      <a href="../index.html">Home</a>
+      <a href="../facts/facts.html">Facts</a>
+      <a href="../motivation/motivation.html">Motivation</a>
+      <a href="../tech/tech.html">Tech Tips</a>
+      <a href="../health/health.html">Health Tips</a>
+      <a href="lifehack.html" class="active">Life Hacks</a>
+      <a href="../about.html">About</a>
+      <a href="../privacy.html">Privacy Policy</a>
+      <a href="../contact.html">Contact Us</a>
+      <a href="../premium-facts.html">Premium Facts</a>
+    </nav>
+  </header>
+
+  <!-- Tip of the Day -->
+  <section class="fact-of-day">
+    <h2>Life Hack of the Day</h2>
+    <p id="tip-text">Loading...</p>
+    <button id="generate-tip" class="generate-fact">Generate Tip</button>
+  </section>
+
+  <!-- Category Links -->
+  <div class="categories">
+    <a class="category" href="../index.html">Home</a>
+    <a class="category" href="../facts/facts.html">Facts</a>
+    <a class="category" href="../motivation/motivation.html">Motivation</a>
+    <a class="category" href="../tech.html">Tech Tips</a>
+    <a class="category" href="../health/health.html">Health Tips</a>
+    <a class="category active" href="lifehack.html">Life Hacks</a>
+  </div>
+
+  <!-- Life Hack Categories -->
+  <section class="posts">
+    <div class="card">
+      <img src="images/daily.jpg" alt="Daily Hacks">
+      <div class="card-content">
+        <h3>Daily Hacks</h3>
+        <p>Quick everyday tips to make your life easier and more productive.</p>
+        <a href="daily/daily.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/money.jpg" alt="Money Hacks">
+      <div class="card-content">
+        <h3>Money Hacks</h3>
+        <p>Save money, budget smarter, and maximize your finances.</p>
+        <a href="money/money.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/phone.jpg" alt="Phone Hacks">
+      <div class="card-content">
+        <h3>Phone Hacks</h3>
+        <p>Make your smartphone work smarter with hidden tips & tricks.</p>
+        <a href="phone/phone.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/home.jpg" alt="Home Hacks">
+      <div class="card-content">
+        <h3>Home Hacks</h3>
+        <p>Organize, clean, and simplify your home life efficiently.</p>
+        <a href="home/home.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/study.jpg" alt="Study Hacks">
+      <div class="card-content">
+        <h3>Study Hacks</h3>
+        <p>Improve focus, memorize better, and boost your learning skills.</p>
+        <a href="study/study.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/emergency.jpg" alt="Emergency Hacks">
+      <div class="card-content">
+        <h3>Emergency Hacks</h3>
+        <p>Practical tips to handle emergencies smartly and safely.</p>
+        <a href="emergency/emergency.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/productivity.jpg" alt="Productivity Hacks">
+      <div class="card-content">
+        <h3>Productivity Hacks</h3>
+        <p>Work faster, smarter, and make the most of your time.</p>
+        <a href="productivity/productivity.html">View Tips</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/health.jpg" alt="Health Hacks">
+      <div class="card-content">
+        <h3>Health Hacks</h3>
+        <p>Simple tips to stay healthy, active, and feel your best daily.</p>
+        <a href="health-hacks/health-hacks.html">View Tips</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- JS -->
+  <script>
+    // Hamburger menu toggle
+    const hamburger = document.getElementById('hamburger');
+    const navMenu = document.getElementById('nav-menu');
+    hamburger.addEventListener('click', () => navMenu.classList.toggle('open'));
+
+    // Life Hack Tip of the Day Generator
+    const tips = [
+      "Wake up 15 minutes earlier to plan your day.",
+      "Use a checklist to increase productivity.",
+      "Unsubscribe from unnecessary emails.",
+      "Drink water first thing in the morning.",
+      "Take short breaks while working to improve focus.",
+      "Keep a notepad to capture random ideas.",
+      "Declutter one small area each day.",
+      "Use keyboard shortcuts to save time.",
+      "Learn one new thing every day.",
+      "Batch similar tasks to work efficiently."
+    ];
+
+    const tipText = document.getElementById('tip-text');
+    const generateBtn = document.getElementById('generate-tip');
+
+    function showTip() {
+      const randomIndex = Math.floor(Math.random() * tips.length);
+      tipText.textContent = tips[randomIndex];
+    }
+
+    generateBtn.addEventListener('click', showTip);
+    showTip();
+  </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - Zawal Facts Hub</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <h1>
+    <img src="logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+  <div class="hamburger" id="hamburger">☰</div>
+  <nav id="nav-menu" class="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="/facts/facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech/tech.html">Tech Tips</a>
+    <a href="/lifehack.html">Life Hacks</a>
+    <a href="premium.html">Premium Facts</a>
+    <a href="about.html">About</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="team" style="max-width:1000px; margin:2rem auto; padding:2rem; background-color: var(--card-bg); border-radius:12px; box-shadow:0 4px 15px rgba(205,127,50,0.4); text-align:center;">
+  <h2 style="color: var(--accent); margin-bottom:1rem;">premium plan</h2>
+  <p style="color: var(--light-text); margin-bottom:1rem;">
+    <strong>coming soon</strong><br>Zawal facts hub are on the mission of bringing interesting, verified, and educational facts in multiple categories including motivation, life hacks, tech tips, and health tips but all this are arranged in premium plan which you will unlock by just watching ads and the facts are given to only you if you watch and ads
+  </p>
+  <a href="/index.html" class="category" style="display:inline-block; margin-top:1rem;">back to homepage</a>
+</section>
+
+<!-- CALL TO ACTION -->
+<section class="cta" style="max-width:1000px; margin:2rem auto; text-align:center;">
+  <a href="/facts/facts.html" class="generate-fact" style="padding:1rem 2rem; font-size:1.1rem;">Start Exploring Facts Now</a>
+</section>
+
+<!-- FOOTER -->
+<footer class="modern-footer">
+  <div class="footer-top">
+    <h3>Join Our Daily Fact Newsletter</h3>
+    <form onsubmit="subscribe(event)">
+      <input type="email" id="subscriber-email" placeholder="Enter your email">
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+  
+  <div class="footer-links">
+    <a href="about.html">About</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="contact.html">Contact</a>
+    <a href="sitemap.xml">Sitemap</a>
+  </div>
+  
+  <p class="copy">© 2025 Zawal Facts Hub • All rights reserved.</p>
+</footer>
+
+<script>
+  // Hamburger Menu
+  const hamburger = document.getElementById("hamburger");
+  const navMenu = document.getElementById("nav-menu");
+  hamburger.addEventListener("click", () => navMenu.classList.toggle("open"));
+  
+  // Newsletter
+  function subscribe(event) {
+    event.preventDefault();
+    const email = document.getElementById("subscriber-email").value;
+    if (email) alert(`Thank you! ${email} has been subscribed.`);
+    document.getElementById("subscriber-email").value = "";
+  }
+</script>
+  <!-- Include the menu JS & CSS -->
+  <link rel="stylesheet" href="menu.css">
+  <script src="menu.js"></script>

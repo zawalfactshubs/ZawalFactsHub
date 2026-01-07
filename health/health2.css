@@ -1,0 +1,63 @@
+/* =========================
+   SHARED HEALTH CARDS
+   ========================= */
+
+.health-card {
+  background: linear-gradient(135deg, #1C2B2D, #2E8B8B);
+  color: #F5F5F5;
+  border-radius: 14px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* TEXT */
+.health-text {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+/* FORCE SHORT TIP TO BE BIG & BOLD */
+.health-card .health-text.health-short {
+  font-size: 1.22rem;
+  font-weight: 900;
+  line-height: 1.35;
+  margin-bottom: 14px;
+}
+/* BUTTONS */
+.health-card .card-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.health-card .card-buttons button {
+  flex: 1;
+  padding: 8px;
+  background: #CD7F32;
+  color: #1C2B2D;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.health-card .card-buttons button:hover {
+  opacity: 0.9;
+}
+
+/* LOAD MORE */
+.load-more {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #CD7F32;
+  color: #1C2B2D;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+}

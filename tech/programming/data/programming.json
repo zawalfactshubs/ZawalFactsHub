@@ -1,0 +1,523 @@
+[
+  {
+    "category": "Best Practices",
+    "short": "Write self-documenting code.",
+    "long": "Self-documenting code uses clear names, straightforward logic, and readable structure so that the code explains itself without excessive comments. This improves maintainability and reduces the learning curve for new developers joining a project."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Keep functions pure when possible.",
+    "long": "Pure functions always produce the same output for the same input and have no side effects. They make code easier to test, debug, and reason about, particularly in functional programming or when dealing with concurrency."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Use meaningful constants instead of magic numbers.",
+    "long": "Replacing unexplained literal values with named constants clarifies the purpose of values in your code, makes maintenance easier, and prevents errors when values need to change in multiple places."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use conditional breakpoints.",
+    "long": "Conditional breakpoints pause execution only when certain conditions are met. This saves time when debugging loops or large datasets, allowing you to focus on the exact scenarios causing issues."
+  },
+  {
+    "category": "Debugging",
+    "short": "Keep a debugging checklist.",
+    "long": "A checklist of common causes—such as null references, incorrect data types, or failed API calls—helps systematically identify bugs, reduces frustration, and ensures no basic issues are overlooked."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Avoid unnecessary object creation.",
+    "long": "Repeatedly creating new objects can increase memory usage and slow down your application. Reuse objects or use object pools for frequently used entities to improve performance."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use string builders for concatenation in loops.",
+    "long": "String concatenation in loops can be inefficient due to repeated memory allocation. Using string builders or buffers minimizes overhead and improves performance, especially in languages like Java or C#."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Preallocate memory for large data structures.",
+    "long": "When working with large arrays or collections, preallocating memory reduces the need for dynamic resizing during runtime, improving performance and avoiding fragmentation."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Organize imports logically.",
+    "long": "Group imports by standard library, third-party packages, and internal modules. This makes code cleaner, easier to navigate, and reduces merge conflicts in collaborative projects."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Use descriptive function names.",
+    "long": "Function names should clearly indicate their purpose. This improves readability, reduces the need for comments, and helps others quickly understand your code's functionality."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Keep related constants together.",
+    "long": "Grouping constants in a dedicated section or file improves maintainability, makes changes easier, and helps avoid accidental duplication or inconsistencies."
+  },
+  {
+    "category": "Security",
+    "short": "Use input validation libraries.",
+    "long": "Instead of manually checking input, use well-tested validation libraries. They provide consistent, secure, and efficient ways to validate user data, reducing the risk of injection attacks or malformed input."
+  },
+  {
+    "category": "Security",
+    "short": "Limit sensitive data exposure in APIs.",
+    "long": "Only include necessary fields in API responses. Avoid sending sensitive or internal data, as it reduces security risks and ensures minimal exposure if the API is compromised."
+  },
+  {
+    "category": "Version Control",
+    "short": "Write descriptive pull request titles.",
+    "long": "Clear PR titles explain the purpose of changes and make code reviews faster. They improve collaboration and help maintain a well-documented version history."
+  },
+  {
+    "category": "Version Control",
+    "short": "Rebase instead of merging for cleaner history.",
+    "long": "Rebasing keeps commit history linear and easier to read, which simplifies debugging and understanding the progression of features and fixes in your project."
+  },
+  {
+    "category": "Version Control",
+    "short": "Review changes before committing.",
+    "long": "Double-checking your changes before committing ensures that only intended modifications are included. This reduces mistakes, broken builds, and unnecessary commits."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use live templates in IDEs.",
+    "long": "Live templates allow you to insert frequently used code patterns quickly, reducing repetitive typing, errors, and speeding up development."
+  },
+  {
+    "category": "Productivity",
+    "short": "Track coding tasks in a to-do list.",
+    "long": "Keeping a list of tasks, bugs, and features helps you stay organized, prioritize work, and maintain focus, particularly in complex projects."
+  },
+  {
+    "category": "Productivity",
+    "short": "Set up automated builds.",
+    "long": "Automated builds compile code, run tests, and generate artifacts consistently. This reduces human errors and ensures that the application is always in a deployable state."
+  },
+  {
+    "category": "Debugging",
+    "short": "Check log files for patterns.",
+    "long": "Analyzing logs for recurring errors, warnings, or anomalies helps identify systemic issues faster than inspecting code line by line."
+  },
+  {
+    "category": "Debugging",
+    "short": "Test code in isolation.",
+    "long": "Isolating components during testing ensures that errors are traced to the correct source, avoids interference from other modules, and simplifies debugging complex systems."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Refactor code continuously.",
+    "long": "Regularly improving code readability, structure, and efficiency prevents technical debt from accumulating and keeps the codebase maintainable over time."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Use clear error messages.",
+    "long": "Error messages should provide enough detail for developers to identify the cause without revealing sensitive information. Clear messages speed up debugging and improve user experience."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Avoid blocking calls in async code.",
+    "long": "Blocking operations in asynchronous code can stall execution and degrade performance. Use non-blocking alternatives to maintain responsiveness and efficiency."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Profile CPU usage.",
+    "long": "Analyzing which parts of code consume the most CPU helps identify bottlenecks. Optimizing these hotspots improves application performance and resource efficiency."
+  },
+  {
+    "category": "Security",
+    "short": "Use multi-factor authentication for services.",
+    "long": "Enabling MFA for developer tools and cloud services prevents unauthorized access even if passwords are compromised, adding a strong layer of protection for your code and infrastructure."
+  },
+  {
+    "category": "Security",
+    "short": "Regularly audit permissions.",
+    "long": "Reviewing access rights for code repositories, servers, and databases ensures that only authorized users have access, reducing security risks and accidental modifications."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Use design patterns where appropriate.",
+    "long": "Design patterns offer proven solutions to common problems, making code more maintainable, reusable, and easier for other developers to understand."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Avoid circular dependencies.",
+    "long": "Circular dependencies make code difficult to maintain and test. Refactoring modules to remove them improves modularity and prevents runtime errors or build issues."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use memory profilers.",
+    "long": "Memory profiling tools help detect leaks, excessive usage, or inefficient structures, which improves application stability and performance."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use keyboard macros.",
+    "long": "Keyboard macros automate repetitive sequences in coding or IDE operations, saving time and reducing errors."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Separate test and production data.",
+    "long": "Keeping test data isolated from production data prevents accidental corruption and allows safe testing without affecting real users or critical systems."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Use descriptive commit messages.",
+    "long": "Commit messages should explain what and why a change was made, improving collaboration, tracking, and historical understanding of code changes."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use asynchronous I/O for network calls.",
+    "long": "Asynchronous I/O prevents blocking the main thread, allowing other operations to continue while waiting for network responses, improving responsiveness."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Avoid deep recursion when possible.",
+    "long": "Deep recursive calls can lead to stack overflow and performance issues. Iterative solutions or tail recursion optimization can improve safety and efficiency."
+  },
+  {
+    "category": "Security",
+    "short": "Keep secrets out of source control.",
+    "long": "Never commit API keys, passwords, or tokens directly in code. Use environment variables or secret managers to maintain security and prevent leaks."
+  },
+  {
+    "category": "Security",
+    "short": "Use secure protocols for data transfer.",
+    "long": "Always use HTTPS, SSH, or other secure protocols to encrypt data in transit and protect against interception or tampering."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Group related classes together.",
+    "long": "Organizing classes by feature or functionality improves readability, maintainability, and navigation, making it easier for developers to find and understand related components."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Document complex algorithms.",
+    "long": "Provide explanations for non-obvious algorithms to make the code understandable for future developers, aiding maintenance and reducing the risk of errors during modifications."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use automated error reporting.",
+    "long": "Tools that automatically capture exceptions, stack traces, and context information help diagnose issues faster and improve reliability in production environments."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use containerization for consistent environments.",
+    "long": "Containers like Docker ensure your code runs consistently across development, testing, and production, reducing environment-related bugs and simplifying deployment."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Keep code modular.",
+    "long": "Breaking code into small, independent modules improves readability, testability, and reuse, making maintenance easier and collaboration more efficient."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use efficient algorithms.",
+    "long": "Selecting appropriate algorithms based on time and space complexity can drastically improve performance, particularly for large datasets or computationally intensive tasks."
+  },
+  {
+    "category": "Debugging",
+    "short": "Replicate concurrency issues carefully.",
+    "long": "Race conditions or deadlocks are often hard to reproduce. Use controlled environments, logging, and thread analysis tools to safely identify and fix concurrency problems."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Use dependency injection where appropriate.",
+    "long": "Dependency injection reduces coupling between components, makes testing easier, and allows swapping implementations without modifying dependent code."
+  },
+  {
+    "category": "Productivity",
+    "short": "Automate documentation generation.",
+    "long": "Tools that generate documentation from code comments or annotations save time, reduce manual errors, and ensure documentation stays in sync with code changes."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Practice code katas.",
+    "long": "Code katas are small, repeated exercises that improve coding skills, problem-solving, and familiarity with language features, enhancing overall programming proficiency."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Reduce object copying.",
+    "long": "Copying large objects unnecessarily can consume memory and processing time. Pass by reference when safe and feasible to improve performance."
+  },
+  {
+    "category": "Security",
+    "short": "Validate file uploads.",
+    "long": "Check file types, sizes, and contents before storing or processing uploads to prevent malware execution, resource exhaustion, or unexpected behavior."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use time-travel debugging where available.",
+    "long": "Some advanced debugging tools allow stepping forward and backward in code execution, helping identify the root cause of complex issues more efficiently than traditional methods."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Use feature flags for new functionality.",
+    "long": "Feature flags allow enabling or disabling new features without deploying new code. This facilitates testing, gradual rollouts, and quick rollback in case of issues."
+  },
+  {
+    "category": "Productivity",
+    "short": "Keep a personal coding journal.",
+    "long": "Documenting daily learning, challenges, and solutions helps reinforce knowledge, track progress, and provides a reference for future coding tasks or debugging scenarios."
+  },
+  
+  {
+    "category": "Best Practices",
+    "short": "Keep functions short and readable.",
+    "long": "Short functions are easier to read, test, and maintain. Each function should ideally perform a single task, avoiding complex or nested logic."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Use consistent naming conventions.",
+    "long": "Follow consistent naming rules for variables, functions, classes, and files. This improves readability, reduces errors, and helps team collaboration."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Avoid premature optimization.",
+    "long": "Focus on writing clear and correct code first. Optimize only after identifying actual performance bottlenecks through profiling."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use step-through debugging.",
+    "long": "Step-through debugging lets you execute code line by line, inspect variables, and understand control flow to identify issues effectively."
+  },
+  {
+    "category": "Debugging",
+    "short": "Check assumptions in code.",
+    "long": "Verify that your expectations about input, output, and program state hold true. Incorrect assumptions are often the cause of subtle bugs."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Minimize nested loops.",
+    "long": "Nested loops increase time complexity exponentially. Consider alternative data structures or algorithms to reduce iterations."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use indexing to speed up lookups.",
+    "long": "Indexing in databases or data structures accelerates searches and reduces query time, improving overall performance."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Avoid repeated string concatenation.",
+    "long": "Repeated concatenation creates new strings each time, increasing memory usage. Use buffers, builders, or join methods for efficiency."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Keep a clear project structure.",
+    "long": "Organize files and directories logically based on functionality or module type. This simplifies navigation and reduces confusion."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Document code with docstrings.",
+    "long": "Docstrings explain the purpose, parameters, and return values of functions or classes, improving readability and maintainability."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Avoid tightly coupled modules.",
+    "long": "Minimize dependencies between modules. Loose coupling allows independent changes and easier testing."
+  },
+  {
+    "category": "Security",
+    "short": "Use parameter validation.",
+    "long": "Always validate incoming parameters to prevent unexpected behavior or security vulnerabilities."
+  },
+  {
+    "category": "Security",
+    "short": "Rotate credentials regularly.",
+    "long": "Regularly change API keys, passwords, and tokens to minimize risks if credentials are exposed."
+  },
+  {
+    "category": "Version Control",
+    "short": "Use meaningful branch names.",
+    "long": "Branch names should reflect the feature, bug, or task being worked on, improving clarity and collaboration."
+  },
+  {
+    "category": "Version Control",
+    "short": "Review diffs before merging.",
+    "long": "Checking code changes before merging ensures that only intended modifications are applied and reduces the chance of introducing bugs."
+  },
+  {
+    "category": "Version Control",
+    "short": "Keep commits atomic.",
+    "long": "Each commit should represent a single logical change. This makes reviewing, reverting, and understanding changes easier."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use IDE refactoring tools.",
+    "long": "Refactoring tools automate renaming, extracting methods, and restructuring code safely, saving time and reducing errors."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use code completion and suggestions.",
+    "long": "Leveraging code completion features in IDEs speeds up coding, reduces syntax errors, and improves productivity."
+  },
+  {
+    "category": "Productivity",
+    "short": "Track time spent on coding tasks.",
+    "long": "Time tracking helps identify productivity patterns, manage effort, and plan development more effectively."
+  },
+  {
+    "category": "Debugging",
+    "short": "Isolate failing code paths.",
+    "long": "Narrow down the code that causes a bug to quickly identify the root cause and fix it efficiently."
+  },
+  {
+    "category": "Debugging",
+    "short": "Check environment configurations.",
+    "long": "Many bugs arise from misconfigured environments. Verify settings, dependencies, and variables when debugging."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Use assertions to validate assumptions.",
+    "long": "Assertions help catch incorrect assumptions during development, reducing runtime errors and debugging time."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Prefer immutability when safe.",
+    "long": "Immutable objects prevent unintended side effects and make code easier to reason about, particularly in concurrent applications."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Avoid unnecessary type conversions.",
+    "long": "Repeated type casting can slow down code and increase memory usage. Convert types only when necessary."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Batch operations when possible.",
+    "long": "Processing multiple items in a batch reduces overhead from repeated calls and improves performance."
+  },
+  {
+    "category": "Security",
+    "short": "Implement session expiration.",
+    "long": "Automatically expire user sessions after inactivity to reduce the risk of unauthorized access."
+  },
+  {
+    "category": "Security",
+    "short": "Use security linters.",
+    "long": "Security linters analyze code for vulnerabilities, providing early detection and prevention of potential security risks."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Use clear module boundaries.",
+    "long": "Define explicit module interfaces and responsibilities to improve maintainability, testing, and collaboration."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Separate test helpers from production code.",
+    "long": "Keep utilities used for testing separate to maintain clarity and prevent accidental inclusion in production builds."
+  },
+  {
+    "category": "Debugging",
+    "short": "Reproduce bugs with minimal code.",
+    "long": "Creating a minimal reproducible example simplifies debugging and makes it easier to communicate the issue to others."
+  },
+  {
+    "category": "Productivity",
+    "short": "Automate repetitive code tasks with scripts.",
+    "long": "Scripts reduce repetitive work, prevent errors, and free developers to focus on more complex tasks."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Encapsulate related data and behavior.",
+    "long": "Grouping related data and methods improves readability, modularity, and maintainability."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Keep code DRY (Don’t Repeat Yourself).",
+    "long": "Avoid duplicating logic. Reuse functions, classes, or modules to reduce maintenance overhead and potential bugs."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Optimize hot paths.",
+    "long": "Focus optimization on code paths executed frequently. Optimizing rarely used code has minimal impact on performance."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use lazy initialization.",
+    "long": "Delay creating objects or computing values until they are needed, reducing memory usage and startup time."
+  },
+  {
+    "category": "Security",
+    "short": "Use content security policies for web apps.",
+    "long": "CSPs prevent malicious scripts from executing, improving security against XSS and data injection attacks."
+  },
+  {
+    "category": "Security",
+    "short": "Regularly rotate encryption keys.",
+    "long": "Changing keys periodically reduces the risk if a key is compromised, keeping encrypted data secure."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Apply separation of concerns.",
+    "long": "Different parts of your code should have distinct responsibilities. This simplifies maintenance, testing, and debugging."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Use standardized folder names.",
+    "long": "Consistent folder naming conventions make it easier to navigate projects and locate files quickly."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use error codes consistently.",
+    "long": "Standardized error codes allow easier identification, handling, and logging of errors in large applications."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use containerized environments for testing.",
+    "long": "Containers like Docker replicate environments consistently, avoiding 'works on my machine' issues."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Keep logic declarative when possible.",
+    "long": "Writing code in a declarative style (expressing what to do rather than how) improves readability and reduces errors."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use thread pools for concurrency.",
+    "long": "Thread pools manage threads efficiently, reducing overhead and improving performance in multi-threaded applications."
+  },
+  {
+    "category": "Debugging",
+    "short": "Log contextual information.",
+    "long": "Including context like user ID, request ID, or variable states in logs helps trace issues faster."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Keep configuration centralized.",
+    "long": "Centralized configuration improves maintainability and allows easy changes without touching multiple files."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use automated testing for regression.",
+    "long": "Automated regression tests ensure new changes don’t break existing functionality, maintaining code reliability."
+  },
+  {
+    "category": "Best Practices",
+    "short": "Prefer explicit over implicit behavior.",
+    "long": "Explicit code is clearer and easier to maintain. Avoid relying on implicit behaviors that may confuse developers or introduce bugs."
+  },
+  {
+    "category": "Performance Optimization",
+    "short": "Use vectorized operations for data processing.",
+    "long": "Vectorized operations in libraries like NumPy or Pandas reduce loops, improve readability, and significantly boost performance."
+  },
+  {
+    "category": "Security",
+    "short": "Implement proper logging and monitoring.",
+    "long": "Monitor for unusual activity or errors. Logging provides insight for debugging and detecting security incidents."
+  },
+  {
+    "category": "Debugging",
+    "short": "Use reproducible environments.",
+    "long": "Ensure that code runs in the same environment across machines to prevent environment-related bugs."
+  },
+  {
+    "category": "Code Organization",
+    "short": "Keep unit tests close to code under test.",
+    "long": "Placing tests near the code they test improves maintainability, encourages testing, and simplifies navigation."
+  },
+  {
+    "category": "Productivity",
+    "short": "Use a consistent development workflow.",
+    "long": "Following a standardized workflow for coding, testing, and deployment improves team efficiency and reduces mistakes."
+  }
+]

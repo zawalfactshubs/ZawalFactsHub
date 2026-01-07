@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Sleep Better, Wake Stronger | Zawal Facts Hub</title>
+  <meta name="description" content="Improve your sleep with calming night routines, science-backed tips, and healthy habits for deeper rest.">
+
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="sleep.css">
+  <link rel="stylesheet" href="../health2.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>
+    <img src="/logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+  <nav class="nav-menu" id="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="../facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech/tech.html">tech tips</a>
+    <a href="../tutorials.html">Life Hacks</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html">Contact Us</a>
+    <a href="/premium-facts.html">Premium Facts</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+
+
+<!-- SLEEP TIP OF THE DAY (HUSTLE STYLE) -->
+<section class="fact-of-day">
+  <h2>Tonight’s Sleep Tip</h2>
+
+  <div class="card sleep-card" id="sleep-tip-card">
+    <div class="card-content">
+      <p id="sleep-tip-text" class="sleep-text">Loading...</p>
+    </div>
+  </div>
+
+<p id="sleep-no-results" class="no-results" style="display:none;text-align:center;margin-top:1rem;color:#CD7F32;">No results found.</p>
+  <button id="generate-sleep-tip" class="generate-fact">
+    New Sleep Tip
+  </button>
+
+</section>
+
+<!-- Sleep Search -->
+<div class="search-bar">
+  <input type="text" id="sleep-search-input" placeholder="Search sleep tips...">
+  <button onclick="searchSleepTips()">Search</button>
+</div>
+<p id="sleep-no-results" class="no-results" style="display:none;text-align:center;margin-top:1rem;color:#CD7F32;">No results found.</p>
+<!-- TIPS GRID -->
+<!-- Article-style tips -->
+  <!-- Categories -->
+  <div class="categories">
+    <a class="category" href="../index.html">Home</a>
+    <a class="category" href="../facts.html">Facts</a>
+    <a class="category" href="/motivation/motivation.html">Motivation</a>
+    <a class="category" href="/tech/tech.html">Tech Tips</a>
+    <a class="category" href="/health/health.html">Health Tips</a>
+    <a class="category" href="../tutorials.html">Life Hacks</a>
+  </div>
+<section class="posts" id="sleep-tips-grid"></section>
+
+<script src="sleep.js"></script>
+  <script src="../../main.js" defer></script>
+    <!-- Include the menu JS & CSS -->
+  <link rel="stylesheet" href="../../menu.css">
+  <script src="../../menu.js"></script>
+  <script src="/stats.js"></script>
+  <script src="/lazyload.js" defer></script>
+</body>
+</html>

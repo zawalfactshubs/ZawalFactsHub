@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "fact": "Did you know? The Sun accounts for 99.86% of the mass in our solar system.",
+    "category": "astronomy",
+    "image": "images/sun.jpg"
+  },
+  {
+    "id": 2,
+    "fact": "Did you know? Jupiter is so large that all other planets in the solar system could fit inside it.",
+    "category": "planets",
+    "image": "images/jupiter.jpg"
+  },
+  {
+    "id": 3,
+    "fact": "Did you know? The Hubble Space Telescope has taken over 1.3 million observations since 1990.",
+    "category": "space-technology",
+    "image": "images/hubble.jpg"
+  },
+  {
+    "id": 4,
+    "fact": "Did you know? Black holes can warp space and time so much that light cannot escape them.",
+    "category": "cosmology",
+    "image": "images/blackhole.jpg"
+  },
+  {
+    "id": 5,
+    "fact": "Did you know? Astronauts aboard the ISS experience 16 sunrises and sunsets every day.",
+    "category": "astronauts",
+    "image": "images/iss.jpg"
+  },
+  {
+    "id": 6,
+    "fact": "Did you know? Saturn has the most spectacular rings, made mostly of ice and rock particles.",
+    "category": "planets",
+    "image": "images/saturn.jpg"
+  },
+  {
+    "id": 7,
+    "fact": "Did you know? Voyager 1, launched in 1977, is the farthest human-made object from Earth.",
+    "category": "space-missions",
+    "image": "images/voyager1.jpg"
+  },
+  {
+    "id": 8,
+    "fact": "Did you know? Neutron stars are so dense that a sugar-cube-sized amount of material would weigh billions of tons on Earth.",
+    "category": "astronomy",
+    "image": "images/neutron_star.jpg"
+  },
+  {
+    "id": 9,
+    "fact": "Did you know? The first human in space was Yuri Gagarin in 1961.",
+    "category": "astronauts",
+    "image": "images/gagarin.jpg"
+  },
+  {
+    "id": 10,
+    "fact": "Did you know? The Milky Way contains over 100 billion stars.",
+    "category": "astronomy",
+    "image": "images/milkyway.jpg"
+  },
+  {
+    "id": 11,
+    "fact": "Did you know? Mars has the tallest volcano in the solar system, Olympus Mons, three times taller than Mount Everest.",
+    "category": "planets",
+    "image": "images/olympus_mons.jpg"
+  },
+  {
+    "id": 12,
+    "fact": "Did you know? The James Webb Space Telescope observes infrared light to see distant galaxies.",
+    "category": "space-technology",
+    "image": "images/jwst.jpg"
+  },
+  {
+    "id": 13,
+    "fact": "Did you know? Dark matter makes up about 27% of the universe, but we cannot see it directly.",
+    "category": "cosmology",
+    "image": "images/dark_matter.jpg"
+  },
+  {
+    "id": 14,
+    "fact": "Did you know? Astronauts grow slightly taller in space due to the lack of gravity compressing their spine.",
+    "category": "astronauts",
+    "image": "images/astronaut_tall.jpg"
+  },
+  {
+    "id": 15,
+    "fact": "Did you know? Mercury is the fastest orbiting planet, completing a trip around the Sun in just 88 Earth days.",
+    "category": "planets",
+    "image": "images/mercury.jpg"
+  },
+  {
+    "id": 16,
+    "fact": "Did you know? The first human-made satellite, Sputnik 1, was launched in 1957 by the Soviet Union.",
+    "category": "space-missions",
+    "image": "images/sputnik.jpg"
+  },
+  {
+    "id": 17,
+    "fact": "Did you know? The universe is about 13.8 billion years old.",
+    "category": "cosmology",
+    "image": "images/universe.jpg"
+  },
+  {
+    "id": 18,
+    "fact": "Did you know? Venus has a surface temperature hot enough to melt lead, around 465°C (869°F).",
+    "category": "planets",
+    "image": "images/venus.jpg"
+  },
+  {
+    "id": 19,
+    "fact": "Did you know? The first woman in space was Valentina Tereshkova in 1963.",
+    "category": "astronauts",
+    "image": "images/tereshkova.jpg"
+  },
+  {
+    "id": 20,
+    "fact": "Did you know? Pulsars are rotating neutron stars that emit beams of radiation like cosmic lighthouses.",
+    "category": "astronomy",
+    "image": "images/pulsar.jpg"
+  },
+  {
+    "id": 21,
+    "fact": "Did you know? The Moon is moving away from Earth at a rate of about 3.8 cm per year.",
+    "category": "planets",
+    "image": "images/moon.jpg"
+  },
+  {
+    "id": 22,
+    "fact": "Did you know? The Apollo 11 mission in 1969 was the first time humans landed on the Moon.",
+    "category": "space-missions",
+    "image": "images/apollo11.jpg"
+  },
+  {
+    "id": 23,
+    "fact": "Did you know? A light-year is the distance light travels in one year, about 9.46 trillion kilometers.",
+    "category": "cosmology",
+    "image": "images/light_year.jpg"
+  },
+  {
+    "id": 24,
+    "fact": "Did you know? The International Space Station has been continuously occupied since 2000.",
+    "category": "astronauts",
+    "image": "images/iss2.jpg"
+  },
+  {
+    "id": 25,
+    "fact": "Did you know? Uranus rotates on its side, making its seasons extreme.",
+    "category": "planets",
+    "image": "images/uranus.jpg"
+  },
+  {
+    "id": 26,
+    "fact": "Did you know? The first spacecraft to leave the solar system was Voyager 1 in 2012.",
+    "category": "space-missions",
+    "image": "images/voyager2.jpg"
+  },
+  {
+    "id": 27,
+    "fact": "Did you know? Galaxies can collide and merge, forming new galaxies over billions of years.",
+    "category": "astronomy",
+    "image": "images/galaxy_collision.jpg"
+  },
+  {
+    "id": 28,
+    "fact": "Did you know? Black holes can evaporate slowly over time via Hawking radiation.",
+    "category": "cosmology",
+    "image": "images/hawking_radiation.jpg"
+  },
+  {
+    "id": 29,
+    "fact": "Did you know? SpaceX’s Falcon 9 rocket is reusable, reducing the cost of access to space.",
+    "category": "space-technology",
+    "image": "images/falcon9.jpg"
+  },
+  {
+    "id": 30,
+    "fact": "Did you know? Mars has two moons, Phobos and Deimos, which are thought to be captured asteroids.",
+    "category": "planets",
+    "image": "images/mars_moons.jpg"
+  },
+  {
+    "id": 31,
+    "fact": "Did you know? The Andromeda Galaxy is on a collision course with the Milky Way in about 4 billion years.",
+    "category": "astronomy",
+    "image": "images/andromeda.jpg"
+  },
+  {
+    "id": 32,
+    "fact": "Did you know? The James Webb Space Telescope launched in 2021 to study the early universe.",
+    "category": "space-technology",
+    "image": "images/jwst2.jpg"
+  },
+  {
+    "id": 33,
+    "fact": "Did you know? Mercury has almost no atmosphere, so temperatures swing drastically from day to night.",
+    "category": "planets",
+    "image": "images/mercury2.jpg"
+  },
+  {
+    "id": 34,
+    "fact": "Did you know? Astronauts' hearts can shrink slightly after spending extended time in microgravity.",
+    "category": "astronauts",
+    "image": "images/astronaut_heart.jpg"
+  },
+  {
+    "id": 35,
+    "fact": "Did you know? The first probe to reach Pluto was NASA’s New Horizons in 2015.",
+    "category": "space-missions",
+    "image": "images/new_horizons.jpg"
+  },
+  {
+    "id": 36,
+    "fact": "Did you know? Saturn’s moon Titan has lakes of liquid methane and ethane.",
+    "category": "planets",
+    "image": "images/titan.jpg"
+  },
+  {
+    "id": 37,
+    "fact": "Did you know? The universe is expanding, and distant galaxies are moving away from us.",
+    "category": "cosmology",
+    "image": "images/universe_expanding.jpg"
+  },
+  {
+    "id": 38,
+    "fact": "Did you know? The Milky Way is part of a cluster of galaxies called the Local Group.",
+    "category": "astronomy",
+    "image": "images/local_group.jpg"
+  },
+  {
+    "id": 39,
+    "fact": "Did you know? The first rover on Mars was Sojourner, part of the Mars Pathfinder mission in 1997.",
+    "category": "space-missions",
+    "image": "images/sojourner.jpg"
+  },
+  {
+    "id": 40,
+    "fact": "Did you know? Jupiter’s Great Red Spot is a giant storm larger than Earth and has lasted for centuries.",
+    "category": "planets",
+    "image": "images/great_red_spot.jpg"
+  },
+  {
+    "id": 41,
+    "fact": "Did you know? Astronauts need to exercise in space to prevent muscle atrophy.",
+    "category": "astronauts",
+    "image": "images/space_exercise.jpg"
+  },
+  {
+    "id": 42,
+    "fact": "Did you know? The Moon has moonquakes caused by tidal forces from Earth.",
+    "category": "planets",
+    "image": "images/moonquake.jpg"
+  },
+  {
+    "id": 43,
+    "fact": "Did you know? The universe may contain more than 2 trillion galaxies.",
+    "category": "cosmology",
+    "image": "images/trillion_galaxies.jpg"
+  },
+  {
+    "id": 44,
+    "fact": "Did you know? The first artificial satellite to orbit Earth was Sputnik 1 in 1957.",
+    "category": "space-missions",
+    "image": "images/sputnik2.jpg"
+  },
+  {
+    "id": 45,
+    "fact": "Did you know? Venus rotates backward compared to most planets in the solar system.",
+    "category": "planets",
+    "image": "images/venus2.jpg"
+  },
+  {
+    "id": 46,
+    "fact": "Did you know? The International Space Station orbits Earth at about 28,000 km/h.",
+    "category": "astronauts",
+    "image": "images/iss_speed.jpg"
+  },
+  {
+    "id": 47,
+    "fact": "Did you know? Black holes are detected indirectly by observing their effects on nearby stars and gas.",
+    "category": "cosmology",
+    "image": "images/blackhole2.jpg"
+  },
+  {
+    "id": 48,
+    "fact": "Did you know? Neptune has supersonic winds reaching over 2,000 km/h.",
+    "category": "planets",
+    "image": "images/neptune.jpg"
+  },
+  {
+    "id": 49,
+    "fact": "Did you know? Astronauts’ bones lose density in microgravity if not exercised regularly.",
+    "category": "astronauts",
+    "image": "images/astronaut_bones.jpg"
+  },
+  {
+    "id": 50,
+    "fact": "Did you know? Space telescopes avoid atmospheric distortion, allowing them to capture clearer images than Earth-based telescopes.",
+    "category": "space-technology",
+    "image": "images/space_telescope.jpg"
+  },
+  {
+    "id": 51,
+    "fact": "Did you know? The largest volcano in the solar system, Olympus Mons, is on Mars and is about 22 km high.",
+    "category": "planets",
+    "image": "images/olympus_mons2.jpg"
+  },
+  {
+    "id": 52,
+    "fact": "Did you know? The first human to perform a spacewalk was Alexei Leonov in 1965.",
+    "category": "astronauts",
+    "image": "images/leonov.jpg"
+  },
+  {
+    "id": 53,
+    "fact": "Did you know? Neutron stars can spin up to 700 times per second, emitting powerful beams of radiation.",
+    "category": "astronomy",
+    "image": "images/neutron_star2.jpg"
+  },
+  {
+    "id": 54,
+    "fact": "Did you know? Saturn is less dense than water; if there were a giant bathtub, it would float!",
+    "category": "planets",
+    "image": "images/saturn2.jpg"
+  },
+  {
+    "id": 55,
+    "fact": "Did you know? The Parker Solar Probe, launched in 2018, travels closer to the Sun than any spacecraft before it.",
+    "category": "space-missions",
+    "image": "images/parker_probe.jpg"
+  },
+  {
+    "id": 56,
+    "fact": "Did you know? A light-minute is the distance light travels in one minute, about 18 million km.",
+    "category": "cosmology",
+    "image": "images/light_minute.jpg"
+  },
+  {
+    "id": 57,
+    "fact": "Did you know? Astronauts’ taste buds can change in space, making food taste blander.",
+    "category": "astronauts",
+    "image": "images/astronaut_food.jpg"
+  },
+  {
+    "id": 58,
+    "fact": "Did you know? The Sun’s core temperature reaches about 15 million °C.",
+    "category": "astronomy",
+    "image": "images/sun_core.jpg"
+  },
+  {
+    "id": 59,
+    "fact": "Did you know? Mercury experiences extreme temperature changes: up to 430°C in the day and -180°C at night.",
+    "category": "planets",
+    "image": "images/mercury3.jpg"
+  },
+  {
+    "id": 60,
+    "fact": "Did you know? The first reusable spacecraft was the Space Shuttle, which flew from 1981 to 2011.",
+    "category": "space-technology",
+    "image": "images/space_shuttle.jpg"
+  },
+  {
+    "id": 61,
+    "fact": "Did you know? The Milky Way has a supermassive black hole at its center called Sagittarius A*.",
+    "category": "cosmology",
+    "image": "images/sagittarius_a.jpg"
+  },
+  {
+    "id": 62,
+    "fact": "Did you know? Mars has the largest canyon in the solar system, Valles Marineris, over 4,000 km long.",
+    "category": "planets",
+    "image": "images/valles_marineris.jpg"
+  },
+  {
+    "id": 63,
+    "fact": "Did you know? The first woman to perform a spacewalk was Svetlana Savitskaya in 1984.",
+    "category": "astronauts",
+    "image": "images/savitskaya.jpg"
+  },
+  {
+    "id": 64,
+    "fact": "Did you know? Cosmic rays are high-energy particles from space that can penetrate Earth's atmosphere.",
+    "category": "astronomy",
+    "image": "images/cosmic_rays.jpg"
+  },
+  {
+    "id": 65,
+    "fact": "Did you know? The James Webb Space Telescope can observe light from 13 billion years ago.",
+    "category": "space-technology",
+    "image": "images/jwst3.jpg"
+  },
+  {
+    "id": 66,
+    "fact": "Did you know? Venus is the hottest planet in the solar system due to its thick greenhouse gas atmosphere.",
+    "category": "planets",
+    "image": "images/venus3.jpg"
+  },
+  {
+    "id": 67,
+    "fact": "Did you know? The first orbital flight by humans was Vostok 1 with Yuri Gagarin in 1961.",
+    "category": "space-missions",
+    "image": "images/vostok1.jpg"
+  },
+  {
+    "id": 68,
+    "fact": "Did you know? Pulsars emit radio waves at extremely regular intervals, which can be used as cosmic clocks.",
+    "category": "astronomy",
+    "image": "images/pulsar2.jpg"
+  },
+  {
+    "id": 69,
+    "fact": "Did you know? Jupiter has 95 known moons, including the largest, Ganymede, bigger than Mercury.",
+    "category": "planets",
+    "image": "images/ganymede.jpg"
+  },
+  {
+    "id": 70,
+    "fact": "Did you know? SpaceX’s Starship is designed to carry over 100 people to Mars in the future.",
+    "category": "space-technology",
+    "image": "images/starship.jpg"
+  },
+  {
+    "id": 71,
+    "fact": "Did you know? Black holes can spin at near the speed of light, warping spacetime around them.",
+    "category": "cosmology",
+    "image": "images/spinning_blackhole.jpg"
+  },
+  {
+    "id": 72,
+    "fact": "Did you know? Saturn has 82 confirmed moons, each with unique features.",
+    "category": "planets",
+    "image": "images/saturn_moons.jpg"
+  },
+  {
+    "id": 73,
+    "fact": "Did you know? Astronauts often exercise two hours daily to counteract muscle and bone loss in microgravity.",
+    "category": "astronauts",
+    "image": "images/astronaut_exercise2.jpg"
+  },
+  {
+    "id": 74,
+    "fact": "Did you know? The Hubble Space Telescope helped determine the universe is expanding at an accelerating rate.",
+    "category": "space-technology",
+    "image": "images/hubble2.jpg"
+  },
+  {
+    "id": 75,
+    "fact": "Did you know? Uranus has a ring system, but it is faint and difficult to see from Earth.",
+    "category": "planets",
+    "image": "images/uranus2.jpg"
+  },
+  {
+    "id": 76,
+    "fact": "Did you know? The Voyager probes carry a golden record with sounds and images of Earth for potential extraterrestrial life.",
+    "category": "space-missions",
+    "image": "images/voyager_record.jpg"
+  },
+  {
+    "id": 77,
+    "fact": "Did you know? The universe may be infinite, with no boundary or edge.",
+    "category": "cosmology",
+    "image": "images/infinite_universe.jpg"
+  },
+  {
+    "id": 78,
+    "fact": "Did you know? The Sun rotates faster at the equator than at its poles, a phenomenon called differential rotation.",
+    "category": "astronomy",
+    "image": "images/sun_rotation.jpg"
+  },
+  {
+    "id": 79,
+    "fact": "Did you know? Mars has the largest dust storms in the solar system, sometimes covering the entire planet.",
+    "category": "planets",
+    "image": "images/mars_duststorm.jpg"
+  },
+  {
+    "id": 80,
+    "fact": "Did you know? The ISS has a cupola module, allowing astronauts a panoramic view of Earth and space.",
+    "category": "astronauts",
+    "image": "images/iss_cupola.jpg"
+  },
+  {
+    "id": 81,
+    "fact": "Did you know? The Milky Way is estimated to have over 100 billion planets.",
+    "category": "astronomy",
+    "image": "images/milkyway2.jpg"
+  },
+  {
+    "id": 82,
+    "fact": "Did you know? The first reusable rocket to reach orbit was SpaceX Falcon 9 in 2015.",
+    "category": "space-missions",
+    "image": "images/falcon9_2.jpg"
+  },
+  {
+    "id": 83,
+    "fact": "Did you know? Mercury has a magnetic field, though much weaker than Earth's.",
+    "category": "planets",
+    "image": "images/mercury_magnetic.jpg"
+  },
+  {
+    "id": 84,
+    "fact": "Did you know? Astronauts can suffer from 'space fog,' a temporary cognitive slowdown in microgravity.",
+    "category": "astronauts",
+    "image": "images/space_fog.jpg"
+  },
+  {
+    "id": 85,
+    "fact": "Did you know? The Crab Nebula is the remnant of a supernova that exploded in 1054 AD.",
+    "category": "astronomy",
+    "image": "images/crab_nebula.jpg"
+  },
+  {
+    "id": 86,
+    "fact": "Did you know? Neptune has 14 known moons, with Triton being the largest.",
+    "category": "planets",
+    "image": "images/triton.jpg"
+  },
+  {
+    "id": 87,
+    "fact": "Did you know? The first private spacecraft to reach orbit was SpaceShipOne in 2004.",
+    "category": "space-missions",
+    "image": "images/spaceshipone.jpg"
+  },
+  {
+    "id": 88,
+    "fact": "Did you know? Quasars are extremely bright and distant active galactic nuclei powered by supermassive black holes.",
+    "category": "cosmology",
+    "image": "images/quasar.jpg"
+  },
+  {
+    "id": 89,
+    "fact": "Did you know? The first astronaut to stay over a year in space was Valeri Polyakov aboard Mir.",
+    "category": "astronauts",
+    "image": "images/polyakov.jpg"
+  },
+  {
+    "id": 90,
+    "fact": "Did you know? The Sun’s corona is hotter than its surface, reaching millions of degrees Celsius.",
+    "category": "astronomy",
+    "image": "images/sun_corona.jpg"
+  },
+  {
+    "id": 91,
+    "fact": "Did you know? Pluto was reclassified as a dwarf planet in 2006.",
+    "category": "planets",
+    "image": "images/pluto.jpg"
+  },
+  {
+    "id": 92,
+    "fact": "Did you know? The first satellite to map the cosmic microwave background was COBE in 1989.",
+    "category": "space-technology",
+    "image": "images/cobe.jpg"
+  },
+  {
+    "id": 93,
+    "fact": "Did you know? The fastest spinning planet is Jupiter, rotating once every 10 hours.",
+    "category": "planets",
+    "image": "images/jupiter2.jpg"
+  },
+  {
+    "id": 94,
+    "fact": "Did you know? The first rover to drill into Martian rock was Curiosity, in 2012.",
+    "category": "space-missions",
+    "image": "images/curiosity.jpg"
+  },
+  {
+    "id": 95,
+    "fact": "Did you know? Astronauts can grow hair differently in space due to microgravity effects.",
+    "category": "astronauts",
+    "image": "images/astronaut_hair.jpg"
+  },
+  {
+    "id": 96,
+    "fact": "Did you know? The Andromeda Galaxy contains about one trillion stars.",
+    "category": "astronomy",
+    "image": "images/andromeda2.jpg"
+  },
+  {
+    "id": 97,
+    "fact": "Did you know? The Moon is the only celestial body humans have visited besides Earth.",
+    "category": "planets",
+    "image": "images/moon2.jpg"
+  },
+  {
+    "id": 98,
+    "fact": "Did you know? Voyager 2 is the only spacecraft to have visited Uranus and Neptune up close.",
+    "category": "space-missions",
+    "image": "images/voyager2_2.jpg"
+  },
+  {
+    "id": 99,
+    "fact": "Did you know? Black holes are invisible, but their presence is inferred by the gravitational effects on nearby matter.",
+    "category": "cosmology",
+    "image": "images/blackhole3.jpg"
+  },
+  {
+    "id": 100,
+    "fact": "Did you know? Space telescopes like Chandra detect X-rays that are blocked by Earth's atmosphere.",
+    "category": "space-technology",
+    "image": "images/chandra.jpg"
+  },
+  {
+    "id": 101,
+    "fact": "Did you know? Mercury’s day is longer than its year, taking 59 Earth days to rotate once and 88 days to orbit the Sun.",
+    "category": "planets",
+    "image": "images/mercury_day.jpg"
+  },
+  {
+    "id": 102,
+    "fact": "Did you know? The first woman in space was Valentina Tereshkova aboard Vostok 6 in 1963.",
+    "category": "astronauts",
+    "image": "images/tereshkova.jpg"
+  },
+  {
+    "id": 103,
+    "fact": "Did you know? The Crab Pulsar spins around 30 times per second.",
+    "category": "astronomy",
+    "image": "images/crab_pulsar.jpg"
+  },
+  {
+    "id": 104,
+    "fact": "Did you know? Mars has polar ice caps made of water and carbon dioxide ice.",
+    "category": "planets",
+    "image": "images/mars_ice_caps.jpg"
+  },
+  {
+    "id": 105,
+    "fact": "Did you know? Sputnik 1, launched in 1957, was the first artificial satellite to orbit Earth.",
+    "category": "space-missions",
+    "image": "images/sputnik1.jpg"
+  },
+  {
+    "id": 106,
+    "fact": "Did you know? Dark matter makes up about 27% of the universe, but we cannot see it directly.",
+    "category": "cosmology",
+    "image": "images/dark_matter.jpg"
+  },
+  {
+    "id": 107,
+    "fact": "Did you know? Astronauts’ bones lose about 1% mass per month in microgravity.",
+    "category": "astronauts",
+    "image": "images/astronaut_bones.jpg"
+  },
+  {
+    "id": 108,
+    "fact": "Did you know? Betelgeuse is a red supergiant star in Orion that could go supernova anytime in the next 100,000 years.",
+    "category": "astronomy",
+    "image": "images/betelgeuse.jpg"
+  },
+  {
+    "id": 109,
+    "fact": "Did you know? Neptune’s atmosphere contains supersonic winds reaching up to 2,100 km/h.",
+    "category": "planets",
+    "image": "images/neptune_wind.jpg"
+  },
+  {
+    "id": 110,
+    "fact": "Did you know? The Hubble Deep Field images show galaxies billions of light-years away, revealing the early universe.",
+    "category": "space-technology",
+    "image": "images/hubble_deep_field.jpg"
+  },
+  {
+    "id": 111,
+    "fact": "Did you know? The first American in space was Alan Shepard in 1961 aboard Freedom 7.",
+    "category": "astronauts",
+    "image": "images/alan_shepard.jpg"
+  },
+  {
+    "id": 112,
+    "fact": "Did you know? Black holes can grow by merging with other black holes or absorbing nearby matter.",
+    "category": "cosmology",
+    "image": "images/blackhole_growth.jpg"
+  },
+  {
+    "id": 113,
+    "fact": "Did you know? Venus rotates in the opposite direction to most planets, a retrograde rotation.",
+    "category": "planets",
+    "image": "images/venus_retrograde.jpg"
+  },
+  {
+    "id": 114,
+    "fact": "Did you know? The James Webb Space Telescope observes the universe in infrared light, allowing us to see early galaxies.",
+    "category": "space-technology",
+    "image": "images/jwst4.jpg"
+  },
+  {
+    "id": 115,
+    "fact": "Did you know? The Sun’s core fuses about 600 million tons of hydrogen into helium every second.",
+    "category": "astronomy",
+    "image": "images/sun_fusion.jpg"
+  },
+  {
+    "id": 116,
+    "fact": "Did you know? Earth’s magnetic field is generated by the motion of molten iron in its outer core.",
+    "category": "planets",
+    "image": "images/earth_magnetic.jpg"
+  },
+  {
+    "id": 117,
+    "fact": "Did you know? The International Space Station orbits Earth at about 28,000 km/h, completing 16 orbits per day.",
+    "category": "astronauts",
+    "image": "images/iss_orbit.jpg"
+  },
+  {
+    "id": 118,
+    "fact": "Did you know? Galaxy collisions are common in the universe; our Milky Way will collide with Andromeda in 4 billion years.",
+    "category": "astronomy",
+    "image": "images/galaxy_collision.jpg"
+  },
+  {
+    "id": 119,
+    "fact": "Did you know? Titan, Saturn’s largest moon, has lakes of liquid methane and ethane.",
+    "category": "planets",
+    "image": "images/titan_lakes.jpg"
+  },
+  {
+    "id": 120,
+    "fact": "Did you know? The first rover on the Moon was the Soviet Lunokhod 1 in 1970.",
+    "category": "space-missions",
+    "image": "images/lunokhod1.jpg"
+  },
+  {
+    "id": 121,
+    "fact": "Did you know? Dark energy makes up about 68% of the universe and is driving its accelerating expansion.",
+    "category": "cosmology",
+    "image": "images/dark_energy.jpg"
+  },
+  {
+    "id": 122,
+    "fact": "Did you know? Astronauts on long missions often experience vision changes due to fluid shifts in microgravity.",
+    "category": "astronauts",
+    "image": "images/astronaut_vision.jpg"
+  },
+  {
+    "id": 123,
+    "fact": "Did you know? Sirius, the brightest star in the night sky, is actually a binary system.",
+    "category": "astronomy",
+    "image": "images/sirius.jpg"
+  },
+  {
+    "id": 124,
+    "fact": "Did you know? Mars has seasons similar to Earth because of its axial tilt of 25 degrees.",
+    "category": "planets",
+    "image": "images/mars_seasons.jpg"
+  },
+  {
+    "id": 125,
+    "fact": "Did you know? The New Horizons probe flew past Pluto in 2015, sending back the first close-up images.",
+    "category": "space-missions",
+    "image": "images/new_horizons.jpg"
+  },
+  {
+    "id": 126,
+    "fact": "Did you know? Cosmic microwave background radiation is a relic of the Big Bang.",
+    "category": "cosmology",
+    "image": "images/cmb.jpg"
+  },
+  {
+    "id": 127,
+    "fact": "Did you know? Jupiter’s Great Red Spot is a storm larger than Earth that has lasted for centuries.",
+    "category": "planets",
+    "image": "images/jupiter_red_spot.jpg"
+  },
+  {
+    "id": 128,
+    "fact": "Did you know? Astronauts can survive only a few minutes in space without a spacesuit.",
+    "category": "astronauts",
+    "image": "images/spacesuit.jpg"
+  },
+  {
+    "id": 129,
+    "fact": "Did you know? Pulsars are neutron stars that emit radiation in pulses, like a cosmic lighthouse.",
+    "category": "astronomy",
+    "image": "images/pulsar3.jpg"
+  },
+  {
+    "id": 130,
+    "fact": "Did you know? Mercury’s surface has craters from meteor impacts similar to the Moon.",
+    "category": "planets",
+    "image": "images/mercury_craters.jpg"
+  },
+  {
+    "id": 131,
+    "fact": "Did you know? Saturn’s rings are made of ice and rock particles ranging from tiny grains to huge chunks.",
+    "category": "planets",
+    "image": "images/saturn_rings.jpg"
+  },
+  {
+    "id": 132,
+    "fact": "Did you know? Yuri Gagarin was the first human to orbit the Earth in 1961 aboard Vostok 1.",
+    "category": "astronauts",
+    "image": "images/yuri_gagarin.jpg"
+  },
+  {
+    "id": 133,
+    "fact": "Did you know? The Milky Way galaxy contains over 100 billion stars.",
+    "category": "astronomy",
+    "image": "images/milky_way.jpg"
+  },
+  {
+    "id": 134,
+    "fact": "Did you know? Uranus rotates on its side, making its seasons extreme and unusual.",
+    "category": "planets",
+    "image": "images/uranus_tilt.jpg"
+  },
+  {
+    "id": 135,
+    "fact": "Did you know? Apollo 11 was the first mission to land humans on the Moon in 1969.",
+    "category": "space-missions",
+    "image": "images/apollo11.jpg"
+  },
+  {
+    "id": 136,
+    "fact": "Did you know? Wormholes are theoretical tunnels connecting distant points in space-time.",
+    "category": "cosmology",
+    "image": "images/wormhole.jpg"
+  },
+  {
+    "id": 137,
+    "fact": "Did you know? Astronauts can grow up to 2 inches taller in space due to spinal decompression.",
+    "category": "astronauts",
+    "image": "images/astronaut_growth.jpg"
+  },
+  {
+    "id": 138,
+    "fact": "Did you know? The Andromeda galaxy is on a collision course with the Milky Way, expected in 4 billion years.",
+    "category": "astronomy",
+    "image": "images/andromeda.jpg"
+  },
+  {
+    "id": 139,
+    "fact": "Did you know? Jupiter has at least 79 known moons, including the four large Galilean moons.",
+    "category": "planets",
+    "image": "images/jupiter_moons.jpg"
+  },
+  {
+    "id": 140,
+    "fact": "Did you know? The Hubble Space Telescope was launched in 1990 and has helped measure the expansion rate of the universe.",
+    "category": "space-technology",
+    "image": "images/hubble_launch.jpg"
+  },
+  {
+    "id": 141,
+    "fact": "Did you know? The first American woman in space was Sally Ride aboard Challenger in 1983.",
+    "category": "astronauts",
+    "image": "images/sally_ride.jpg"
+  },
+  {
+    "id": 142,
+    "fact": "Did you know? Neutron stars can have a mass greater than the Sun but a diameter of only about 20 km.",
+    "category": "astronomy",
+    "image": "images/neutron_star.jpg"
+  },
+  {
+    "id": 143,
+    "fact": "Did you know? Venus is the hottest planet in the solar system, with surface temperatures reaching 465°C.",
+    "category": "planets",
+    "image": "images/venus_hot.jpg"
+  },
+  {
+    "id": 144,
+    "fact": "Did you know? The Voyager 1 spacecraft, launched in 1977, is the farthest human-made object from Earth.",
+    "category": "space-missions",
+    "image": "images/voyager1.jpg"
+  },
+  {
+    "id": 145,
+    "fact": "Did you know? Cosmic rays are high-energy particles from space that constantly bombard Earth.",
+    "category": "cosmology",
+    "image": "images/cosmic_rays.jpg"
+  },
+  {
+    "id": 146,
+    "fact": "Did you know? Astronauts exercise in space to prevent muscle atrophy and bone loss.",
+    "category": "astronauts",
+    "image": "images/space_exercise.jpg"
+  },
+  {
+    "id": 147,
+    "fact": "Did you know? Proxima Centauri is the closest star to the Sun at about 4.24 light-years away.",
+    "category": "astronomy",
+    "image": "images/proxima_centauri.jpg"
+  },
+  {
+    "id": 148,
+    "fact": "Did you know? Saturn has a very low density; it could float on water if a giant ocean existed.",
+    "category": "planets",
+    "image": "images/saturn_float.jpg"
+  },
+  {
+    "id": 149,
+    "fact": "Did you know? The Mars Rover Perseverance carries a small helicopter named Ingenuity for aerial exploration.",
+    "category": "space-missions",
+    "image": "images/perseverance_ingenuity.jpg"
+  },
+  {
+    "id": 150,
+    "fact": "Did you know? Gravitational waves are ripples in space-time caused by massive cosmic events.",
+    "category": "cosmology",
+    "image": "images/gravitational_waves.jpg"
+  },
+  {
+    "id": 151,
+    "fact": "Did you know? Astronauts in space experience a condition called 'space adaptation syndrome' similar to motion sickness.",
+    "category": "astronauts",
+    "image": "images/space_sickness.jpg"
+  },
+  {
+    "id": 152,
+    "fact": "Did you know? The Orion Nebula is one of the brightest nebulae and visible to the naked eye.",
+    "category": "astronomy",
+    "image": "images/orion_nebula.jpg"
+  },
+  {
+    "id": 153,
+    "fact": "Did you know? Earth is the only planet in the solar system known to have liquid water on its surface.",
+    "category": "planets",
+    "image": "images/earth_water.jpg"
+  },
+  {
+    "id": 154,
+    "fact": "Did you know? The Soviet Luna 2 mission in 1959 was the first human-made object to reach the Moon.",
+    "category": "space-missions",
+    "image": "images/luna2.jpg"
+  },
+  {
+    "id": 155,
+    "fact": "Did you know? The observable universe is approximately 93 billion light-years in diameter.",
+    "category": "cosmology",
+    "image": "images/observable_universe.jpg"
+  },
+  {
+    "id": 156,
+    "fact": "Did you know? Astronauts’ sense of taste changes in space, making foods seem blander.",
+    "category": "astronauts",
+    "image": "images/astronaut_food.jpg"
+  },
+  {
+    "id": 157,
+    "fact": "Did you know? The Andromeda galaxy is expected to merge with the Milky Way, forming a giant elliptical galaxy.",
+    "category": "astronomy",
+    "image": "images/andromeda_merge.jpg"
+  },
+  {
+    "id": 158,
+    "fact": "Did you know? Jupiter emits more heat than it receives from the Sun, due to gravitational contraction.",
+    "category": "planets",
+    "image": "images/jupiter_heat.jpg"
+  },
+  {
+    "id": 159,
+    "fact": "Did you know? The first successful soft landing on the Moon was by Luna 9 in 1966.",
+    "category": "space-missions",
+    "image": "images/luna9.jpg"
+  },
+  {
+    "id": 160,
+    "fact": "Did you know? The Big Bang occurred about 13.8 billion years ago, creating space and time.",
+    "category": "cosmology",
+    "image": "images/big_bang.jpg"
+  },
+  {
+    "id": 161,
+    "fact": "Did you know? The longest time a human has spent continuously in space is 437 days by Valeri Polyakov.",
+    "category": "astronauts",
+    "image": "images/polyakov.jpg"
+  },
+  {
+    "id": 162,
+    "fact": "Did you know? The Whirlpool Galaxy (M51) is a classic spiral galaxy about 23 million light-years away.",
+    "category": "astronomy",
+    "image": "images/whirlpool_galaxy.jpg"
+  },
+  {
+    "id": 163,
+    "fact": "Did you know? Mars has the largest volcano in the solar system, Olympus Mons, standing 22 km high.",
+    "category": "planets",
+    "image": "images/olympus_mons.jpg"
+  },
+  {
+    "id": 164,
+    "fact": "Did you know? SpaceX’s Falcon 9 is the first orbital class rocket designed for reuse.",
+    "category": "space-technology",
+    "image": "images/falcon9.jpg"
+  },
+  {
+    "id": 165,
+    "fact": "Did you know? The cosmic microwave background provides a snapshot of the universe when it was only 380,000 years old.",
+    "category": "cosmology",
+    "image": "images/cmb_snapshot.jpg"
+  },
+  {
+    "id": 166,
+    "fact": "Did you know? Astronauts often experience difficulty sleeping in space due to microgravity.",
+    "category": "astronauts",
+    "image": "images/astronaut_sleep.jpg"
+  },
+  {
+    "id": 167,
+    "fact": "Did you know? The Eagle Nebula’s 'Pillars of Creation' are vast clouds of gas and dust where new stars form.",
+    "category": "astronomy",
+    "image": "images/pillars_of_creation.jpg"
+  },
+  {
+    "id": 168,
+    "fact": "Did you know? Venus’ thick atmosphere traps heat, causing a runaway greenhouse effect.",
+    "category": "planets",
+    "image": "images/venus_greenhouse.jpg"
+  },
+  {
+    "id": 169,
+    "fact": "Did you know? The Voyager probes carry a Golden Record containing sounds and images representing Earth.",
+    "category": "space-missions",
+    "image": "images/golden_record.jpg"
+  },
+  {
+    "id": 170,
+    "fact": "Did you know? Quasars are extremely bright galactic nuclei powered by supermassive black holes.",
+    "category": "cosmology",
+    "image": "images/quasar.jpg"
+  },
+  {
+    "id": 171,
+    "fact": "Did you know? Astronauts’ immune systems can weaken in microgravity, requiring careful monitoring.",
+    "category": "astronauts",
+    "image": "images/astronaut_immune.jpg"
+  },
+  {
+    "id": 172,
+    "fact": "Did you know? Betelgeuse is expected to explode as a supernova within the next 100,000 years.",
+    "category": "astronomy",
+    "image": "images/betelgeuse_explosion.jpg"
+  },
+  {
+    "id": 173,
+    "fact": "Did you know? Neptune has faint rings made of ice particles mixed with dust.",
+    "category": "planets",
+    "image": "images/neptune_rings.jpg"
+  },
+  {
+    "id": 174,
+    "fact": "Did you know? The James Webb Space Telescope can observe exoplanet atmospheres to study their composition.",
+    "category": "space-technology",
+    "image": "images/jwst_exoplanet.jpg"
+  },
+  {
+    "id": 175,
+    "fact": "Did you know? The first humans to walk on the Moon were Neil Armstrong and Buzz Aldrin in 1969.",
+    "category": "astronauts",
+    "image": "images/armstrong_aldrin.jpg"
+  },
+  {
+    "id": 176,
+    "fact": "Did you know? The Milky Way contains a supermassive black hole at its center called Sagittarius A*.",
+    "category": "astronomy",
+    "image": "images/sagittarius_a.jpg"
+  },
+  {
+    "id": 177,
+    "fact": "Did you know? Uranus has 27 known moons, all named after characters from Shakespeare and Alexander Pope.",
+    "category": "planets",
+    "image": "images/uranus_moons.jpg"
+  },
+  {
+    "id": 178,
+    "fact": "Did you know? SpaceX’s Starship is designed to carry humans to Mars and beyond.",
+    "category": "space-technology",
+    "image": "images/starship.jpg"
+  },
+  {
+    "id": 179,
+    "fact": "Did you know? The first spacewalk was performed by Alexei Leonov in 1965.",
+    "category": "astronauts",
+    "image": "images/alexei_leonov.jpg"
+  },
+  {
+    "id": 180,
+    "fact": "Did you know? The Sombrero Galaxy has a bright nucleus and a large central bulge with prominent dust lanes.",
+    "category": "astronomy",
+    "image": "images/sombrero_galaxy.jpg"
+  },
+  {
+    "id": 181,
+    "fact": "Did you know? Mercury has no atmosphere to retain heat, causing extreme temperature swings.",
+    "category": "planets",
+    "image": "images/mercury_temp.jpg"
+  },
+  {
+    "id": 182,
+    "fact": "Did you know? The Moon’s surface is covered with fine dust called regolith.",
+    "category": "planets",
+    "image": "images/moon_regolith.jpg"
+  },
+  {
+    "id": 183,
+    "fact": "Did you know? The Kepler Space Telescope discovered over 2,600 exoplanets during its mission.",
+    "category": "space-technology",
+    "image": "images/kepler.jpg"
+  },
+  {
+    "id": 184,
+    "fact": "Did you know? Astronauts in space must eat specially prepared foods to prevent spoilage and floating crumbs.",
+    "category": "astronauts",
+    "image": "images/space_food.jpg"
+  },
+  {
+    "id": 185,
+    "fact": "Did you know? The Pillars of Creation in the Eagle Nebula are 5 light-years tall.",
+    "category": "astronomy",
+    "image": "images/pillars_lightyears.jpg"
+  },
+  {
+    "id": 186,
+    "fact": "Did you know? Pluto is classified as a dwarf planet and has five known moons.",
+    "category": "planets",
+    "image": "images/pluto_moons.jpg"
+  },
+  {
+    "id": 187,
+    "fact": "Did you know? The first spacecraft to leave the solar system was Pioneer 10 in 1972.",
+    "category": "space-missions",
+    "image": "images/pioneer10.jpg"
+  },
+  {
+    "id": 188,
+    "fact": "Did you know? Dark energy is thought to make up about 68% of the universe and drives its accelerated expansion.",
+    "category": "cosmology",
+    "image": "images/dark_energy.jpg"
+  },
+  {
+    "id": 189,
+    "fact": "Did you know? Valentina Tereshkova was the first woman to fly in space in 1963.",
+    "category": "astronauts",
+    "image": "images/tereshkova.jpg"
+  },
+  {
+    "id": 190,
+    "fact": "Did you know? The Crab Nebula is the remnant of a supernova observed in 1054 AD.",
+    "category": "astronomy",
+    "image": "images/crab_nebula.jpg"
+  },
+  {
+    "id": 191,
+    "fact": "Did you know? Mars’ thin atmosphere is mostly carbon dioxide, with very little oxygen.",
+    "category": "planets",
+    "image": "images/mars_atmosphere.jpg"
+  },
+  {
+    "id": 192,
+    "fact": "Did you know? The Hubble Space Telescope helped discover that the universe’s expansion is accelerating.",
+    "category": "space-technology",
+    "image": "images/hubble_expansion.jpg"
+  },
+  {
+    "id": 193,
+    "fact": "Did you know? Gemini 4 mission in 1965 included the first American spacewalk by Ed White.",
+    "category": "space-missions",
+    "image": "images/gemini4.jpg"
+  },
+  {
+    "id": 194,
+    "fact": "Did you know? Black holes have gravitational fields so strong that even light cannot escape.",
+    "category": "cosmology",
+    "image": "images/black_hole.jpg"
+  },
+  {
+    "id": 195,
+    "fact": "Did you know? Astronauts exercise up to 2 hours per day in space to maintain muscle mass.",
+    "category": "astronauts",
+    "image": "images/space_exercise2.jpg"
+  },
+  {
+    "id": 196,
+    "fact": "Did you know? The Triangulum Galaxy (M33) is the third-largest in our Local Group of galaxies.",
+    "category": "astronomy",
+    "image": "images/triangulum.jpg"
+  },
+  {
+    "id": 197,
+    "fact": "Did you know? Jupiter’s Great Red Spot is a giant storm larger than Earth that has lasted for centuries.",
+    "category": "planets",
+    "image": "images/jupiter_red_spot.jpg"
+  },
+  {
+    "id": 198,
+    "fact": "Did you know? The James Webb Space Telescope observes infrared light to see early galaxies and forming stars.",
+    "category": "space-technology",
+    "image": "images/jwst_infrared.jpg"
+  },
+  {
+    "id": 199,
+    "fact": "Did you know? The first human-made object to impact a comet was the European Space Agency’s Giotto in 1986.",
+    "category": "space-missions",
+    "image": "images/giotto.jpg"
+  },
+  {
+    "id": 200,
+    "fact": "Did you know? Inflation theory suggests the universe expanded exponentially in the first fraction of a second.",
+    "category": "cosmology",
+    "image": "images/inflation.jpg"
+  },
+  {
+    "id": 201,
+    "fact": "Did you know? Astronauts’ bones lose density in space at a rate of about 1–2% per month.",
+    "category": "astronauts",
+    "image": "images/bone_loss.jpg"
+  },
+  {
+    "id": 202,
+    "fact": "Did you know? The Sombrero Galaxy has a supermassive black hole at its center weighing a billion solar masses.",
+    "category": "astronomy",
+    "image": "images/sombrero_blackhole.jpg"
+  },
+  {
+    "id": 203,
+    "fact": "Did you know? Neptune has the strongest winds in the solar system, reaching over 2,000 km/h.",
+    "category": "planets",
+    "image": "images/neptune_winds.jpg"
+  },
+  {
+    "id": 204,
+    "fact": "Did you know? The Mars Pathfinder mission in 1997 included the first successful rover, Sojourner.",
+    "category": "space-missions",
+    "image": "images/sojourner.jpg"
+  },
+  {
+    "id": 205,
+    "fact": "Did you know? Exoplanets are planets outside our solar system, many of which orbit distant stars.",
+    "category": "astronomy",
+    "image": "images/exoplanets.jpg"
+  },
+  {
+    "id": 206,
+    "fact": "Did you know? Saturn’s moon Titan has lakes of liquid methane and ethane on its surface.",
+    "category": "planets",
+    "image": "images/titan_lakes.jpg"
+  },
+  {
+    "id": 207,
+    "fact": "Did you know? SpaceX’s Dragon capsule can carry astronauts to the International Space Station.",
+    "category": "space-technology",
+    "image": "images/dragon_capsule.jpg"
+  },
+  {
+    "id": 208,
+    "fact": "Did you know? The first interstellar object detected passing through our solar system was ʻOumuamua in 2017.",
+    "category": "space-missions",
+    "image": "images/oumuamua.jpg"
+  },
+  {
+    "id": 209,
+    "fact": "Did you know? The Cosmic Background Explorer (COBE) measured the temperature of the early universe.",
+    "category": "cosmology",
+    "image": "images/cobe.jpg"
+  },
+  {
+    "id": 210,
+    "fact": "Did you know? Astronauts often report a floating sensation known as microgravity disorientation.",
+    "category": "astronauts",
+    "image": "images/microgravity.jpg"
+  },
+  {
+    "id": 211,
+    "fact": "Did you know? The Large Magellanic Cloud is a satellite galaxy of the Milky Way visible from the Southern Hemisphere.",
+    "category": "astronomy",
+    "image": "images/lmc.jpg"
+  },
+  {
+    "id": 212,
+    "fact": "Did you know? Mercury is the fastest planet in our solar system, orbiting the Sun in just 88 days.",
+    "category": "planets",
+    "image": "images/mercury_orbit.jpg"
+  },
+  {
+    "id": 213,
+    "fact": "Did you know? The Voyager spacecraft carry instruments that are still sending data from interstellar space.",
+    "category": "space-technology",
+    "image": "images/voyager_instruments.jpg"
+  },
+  {
+    "id": 214,
+    "fact": "Did you know? The first human to command a space station was Georgi Grechko on Salyut 4 in 1975.",
+    "category": "astronauts",
+    "image": "images/georgi_grechko.jpg"
+  },
+  {
+    "id": 215,
+    "fact": "Did you know? The Whirlpool Galaxy contains a companion galaxy NGC 5195 that interacts gravitationally.",
+    "category": "astronomy",
+    "image": "images/whirlpool_ngc5195.jpg"
+  },
+  {
+    "id": 216,
+    "fact": "Did you know? Mars has polar ice caps made of water and carbon dioxide ice.",
+    "category": "planets",
+    "image": "images/mars_icecaps.jpg"
+  },
+  {
+    "id": 217,
+    "fact": "Did you know? Apollo 13’s mission in 1970 was a safe failure due to an oxygen tank explosion.",
+    "category": "space-missions",
+    "image": "images/apollo13.jpg"
+  },
+  {
+    "id": 218,
+    "fact": "Did you know? Dark matter makes up about 27% of the universe but does not emit or absorb light.",
+    "category": "cosmology",
+    "image": "images/dark_matter.jpg"
+  },
+  {
+    "id": 219,
+    "fact": "Did you know? Astronauts often experience facial puffiness due to fluid shifts in microgravity.",
+    "category": "astronauts",
+    "image": "images/facial_puffiness.jpg"
+  },
+  {
+    "id": 220,
+    "fact": "Did you know? The Carina Nebula contains some of the most massive and luminous stars in our galaxy.",
+    "category": "astronomy",
+    "image": "images/carina_nebula.jpg"
+  },
+  {
+    "id": 221,
+    "fact": "Did you know? Venus rotates backward compared to most planets, with the Sun rising in the west.",
+    "category": "planets",
+    "image": "images/venus_rotation.jpg"
+  },
+  {
+    "id": 222,
+    "fact": "Did you know? The Curiosity Rover has been exploring Mars since 2012, analyzing soil and rocks.",
+    "category": "space-missions",
+    "image": "images/curiosity.jpg"
+  },
+  {
+    "id": 223,
+    "fact": "Did you know? Interstellar dust grains help form stars and planets by providing material for accumulation.",
+    "category": "cosmology",
+    "image": "images/interstellar_dust.jpg"
+  },
+  {
+    "id": 224,
+    "fact": "Did you know? Astronauts sometimes experience 'space motion sickness' in the first days of a mission.",
+    "category": "astronauts",
+    "image": "images/space_motion_sickness.jpg"
+  },
+  {
+    "id": 225,
+    "fact": "Did you know? The Eagle Nebula’s pillars are being eroded by ultraviolet light from nearby stars.",
+    "category": "astronomy",
+    "image": "images/eagle_uv.jpg"
+  },
+  {
+    "id": 226,
+    "fact": "Did you know? Mercury has almost no atmosphere, making its sky appear black even during daytime.",
+    "category": "planets",
+    "image": "images/mercury_sky.jpg"
+  },
+  {
+    "id": 227,
+    "fact": "Did you know? The International Space Station orbits Earth roughly every 90 minutes at 28,000 km/h.",
+    "category": "space-technology",
+    "image": "images/iss_orbit.jpg"
+  },
+  {
+    "id": 228,
+    "fact": "Did you know? The first human to spend over a year continuously in space was Valeri Polyakov aboard Mir.",
+    "category": "astronauts",
+    "image": "images/polyakov_mir.jpg"
+  },
+  {
+    "id": 229,
+    "fact": "Did you know? The Triangulum Galaxy contains about 40 billion stars.",
+    "category": "astronomy",
+    "image": "images/triangulum_stars.jpg"
+  },
+  {
+    "id": 230,
+    "fact": "Did you know? Saturn is less dense than water, meaning it would float if a giant pool existed.",
+    "category": "planets",
+    "image": "images/saturn_float2.jpg"
+  },
+  {
+    "id": 231,
+    "fact": "Did you know? The first photograph of Earth from space was taken in 1946 using a V-2 rocket.",
+    "category": "space-missions",
+    "image": "images/earth_1946.jpg"
+  },
+  {
+    "id": 232,
+    "fact": "Did you know? Comet tails always point away from the Sun due to the solar wind.",
+    "category": "astronomy",
+    "image": "images/comet_tail.jpg"
+  },
+  {
+    "id": 233,
+    "fact": "Did you know? Uranus rotates on its side, making its seasons extreme and long.",
+    "category": "planets",
+    "image": "images/uranus_rotation.jpg"
+  },
+  {
+    "id": 234,
+    "fact": "Did you know? The Space Shuttle’s solid rocket boosters were recovered and reused multiple times.",
+    "category": "space-technology",
+    "image": "images/shuttle_boosters.jpg"
+  },
+  {
+    "id": 235,
+    "fact": "Did you know? The first human-made object to orbit another planet was Mariner 9 around Mars in 1971.",
+    "category": "space-missions",
+    "image": "images/mariner9.jpg"
+  },
+  {
+    "id": 236,
+    "fact": "Did you know? Astronauts’ height can increase by up to 5 cm in microgravity due to spinal expansion.",
+    "category": "astronauts",
+    "image": "images/astronaut_height.jpg"
+  },
+  {
+    "id": 237,
+    "fact": "Did you know? The Andromeda Galaxy will collide with the Milky Way in about 4 billion years.",
+    "category": "astronomy",
+    "image": "images/andromeda_collision.jpg"
+  },
+  {
+    "id": 238,
+    "fact": "Did you know? Jupiter has at least 92 known moons, including the large Galilean moons.",
+    "category": "planets",
+    "image": "images/jupiter_moons.jpg"
+  },
+  {
+    "id": 239,
+    "fact": "Did you know? The first solar sail spacecraft, IKAROS, used sunlight for propulsion in 2010.",
+    "category": "space-technology",
+    "image": "images/ikaros.jpg"
+  },
+  {
+    "id": 240,
+    "fact": "Did you know? The first American to orbit Earth was John Glenn in 1962 aboard Friendship 7.",
+    "category": "astronauts",
+    "image": "images/john_glenn.jpg"
+  },
+  {
+    "id": 241,
+    "fact": "Did you know? Saturn’s rings are made mostly of ice particles with some rocky debris.",
+    "category": "planets",
+    "image": "images/saturn_rings.jpg"
+  },
+  {
+    "id": 242,
+    "fact": "Did you know? Voyager 2 is the only spacecraft to have visited Uranus and Neptune.",
+    "category": "space-missions",
+    "image": "images/voyager2.jpg"
+  },
+  {
+    "id": 243,
+    "fact": "Did you know? Cosmic rays are high-energy particles from outer space that constantly hit Earth.",
+    "category": "cosmology",
+    "image": "images/cosmic_rays.jpg"
+  },
+  {
+    "id": 244,
+    "fact": "Did you know? The first American woman in space was Sally Ride in 1983 aboard Challenger.",
+    "category": "astronauts",
+    "image": "images/sally_ride.jpg"
+  },
+  {
+    "id": 245,
+    "fact": "Did you know? The Orion Nebula is one of the brightest nebulae and can be seen with the naked eye.",
+    "category": "astronomy",
+    "image": "images/orion_nebula.jpg"
+  },
+  {
+    "id": 246,
+    "fact": "Did you know? Venus has a thick carbon dioxide atmosphere creating a runaway greenhouse effect.",
+    "category": "planets",
+    "image": "images/venus_greenhouse.jpg"
+  },
+  {
+    "id": 247,
+    "fact": "Did you know? The Huygens probe landed on Titan in 2005, sending back the first surface images.",
+    "category": "space-missions",
+    "image": "images/huygens_titan.jpg"
+  },
+  {
+    "id": 248,
+    "fact": "Did you know? The Event Horizon Telescope captured the first image of a black hole in 2019.",
+    "category": "space-technology",
+    "image": "images/blackhole_image.jpg"
+  },
+  {
+    "id": 249,
+    "fact": "Did you know? Astronauts experience fluid redistribution in microgravity, causing 'moon face'.",
+    "category": "astronauts",
+    "image": "images/moon_face.jpg"
+  },
+  {
+    "id": 250,
+    "fact": "Did you know? The Milky Way is a barred spiral galaxy with over 100 billion stars.",
+    "category": "astronomy",
+    "image": "images/milky_way.jpg"
+  },
+  {
+    "id": 251,
+    "fact": "Did you know? Mercury has a magnetic field, although it’s only about 1% as strong as Earth’s.",
+    "category": "planets",
+    "image": "images/mercury_magnetic.jpg"
+  },
+  {
+    "id": 252,
+    "fact": "Did you know? Sputnik 1 was the first artificial satellite, launched by the Soviet Union in 1957.",
+    "category": "space-missions",
+    "image": "images/sputnik1.jpg"
+  },
+  {
+    "id": 253,
+    "fact": "Did you know? Dark energy is causing the universe to expand at an accelerating rate.",
+    "category": "cosmology",
+    "image": "images/dark_energy2.jpg"
+  },
+  {
+    "id": 254,
+    "fact": "Did you know? The first human to walk in space was Alexei Leonov in 1965 during the Voskhod 2 mission.",
+    "category": "astronauts",
+    "image": "images/alexei_leonov.jpg"
+  },
+  {
+    "id": 255,
+    "fact": "Did you know? The Horsehead Nebula is a dark nebula in the Orion Molecular Cloud Complex.",
+    "category": "astronomy",
+    "image": "images/horsehead_nebula.jpg"
+  },
+  {
+    "id": 256,
+    "fact": "Did you know? Mars has the largest volcano in the solar system, Olympus Mons, nearly three times the height of Everest.",
+    "category": "planets",
+    "image": "images/olympus_mons.jpg"
+  },
+  {
+    "id": 257,
+    "fact": "Did you know? Space telescopes like Chandra X-ray Observatory observe the universe in X-ray light.",
+    "category": "space-technology",
+    "image": "images/chandra_xray.jpg"
+  },
+  {
+    "id": 258,
+    "fact": "Did you know? The Apollo 11 mission in 1969 was the first to land humans on the Moon.",
+    "category": "space-missions",
+    "image": "images/apollo11_landing.jpg"
+  },
+  {
+    "id": 259,
+    "fact": "Did you know? The universe is about 13.8 billion years old based on measurements of cosmic background radiation.",
+    "category": "cosmology",
+    "image": "images/universe_age.jpg"
+  },
+  {
+    "id": 260,
+    "fact": "Did you know? Astronauts’ taste changes in space due to fluid shifts affecting their sense of smell.",
+    "category": "astronauts",
+    "image": "images/space_taste.jpg"
+  },
+  {
+    "id": 261,
+    "fact": "Did you know? The Whirlpool Galaxy is approximately 23 million light-years away from Earth.",
+    "category": "astronomy",
+    "image": "images/whirlpool_distance.jpg"
+  },
+  {
+    "id": 262,
+    "fact": "Did you know? Jupiter emits more energy than it receives from the Sun due to internal heat.",
+    "category": "planets",
+    "image": "images/jupiter_heat.jpg"
+  },
+  {
+    "id": 263,
+    "fact": "Did you know? The Mars Reconnaissance Orbiter has been studying Mars since 2006 with high-resolution cameras.",
+    "category": "space-technology",
+    "image": "images/mro.jpg"
+  },
+  {
+    "id": 264,
+    "fact": "Did you know? Vostok 1 in 1961 made Yuri Gagarin the first human in space.",
+    "category": "space-missions",
+    "image": "images/vostok1.jpg"
+  },
+  {
+    "id": 265,
+    "fact": "Did you know? Dark matter cannot be seen directly but is inferred from its gravitational effects.",
+    "category": "cosmology",
+    "image": "images/dark_matter2.jpg"
+  },
+  {
+    "id": 266,
+    "fact": "Did you know? Astronauts’ hearts can become more spherical in microgravity due to reduced workload.",
+    "category": "astronauts",
+    "image": "images/heart_shape_space.jpg"
+  },
+  {
+    "id": 267,
+    "fact": "Did you know? The Eagle Nebula contains newborn stars forming in dense gas pillars.",
+    "category": "astronomy",
+    "image": "images/eagle_newborn_stars.jpg"
+  },
+  {
+    "id": 268,
+    "fact": "Did you know? Saturn has 82 confirmed moons, with Titan being the largest and geologically active.",
+    "category": "planets",
+    "image": "images/saturn_moons.jpg"
+  },
+  {
+    "id": 269,
+    "fact": "Did you know? SpaceX’s Starship is being designed for missions to the Moon and Mars.",
+    "category": "space-technology",
+    "image": "images/starship.jpg"
+  },
+  {
+    "id": 270,
+    "fact": "Did you know? Voyager 1 carries a golden record with sounds and images representing Earth.",
+    "category": "space-missions",
+    "image": "images/voyager1_golden.jpg"
+  },
+  {
+    "id": 271,
+    "fact": "Did you know? Cosmic inflation stretched space faster than the speed of light in the first moments after the Big Bang.",
+    "category": "cosmology",
+    "image": "images/cosmic_inflation.jpg"
+  },
+  {
+    "id": 272,
+    "fact": "Did you know? Astronauts’ vision can change in space due to increased intracranial pressure.",
+    "category": "astronauts",
+    "image": "images/vision_change.jpg"
+  },
+  {
+    "id": 273,
+    "fact": "Did you know? The Large Hadron Collider studies particles to help understand the early universe.",
+    "category": "space-technology",
+    "image": "images/lhc.jpg"
+  },
+  {
+    "id": 274,
+    "fact": "Did you know? The Milky Way is on a collision course with the Andromeda Galaxy in a few billion years.",
+    "category": "astronomy",
+    "image": "images/milkyway_andromeda.jpg"
+  },
+  {
+    "id": 275,
+    "fact": "Did you know? Mars has dust storms that can cover the entire planet for weeks.",
+    "category": "planets",
+    "image": "images/mars_dust_storm.jpg"
+  },
+  {
+    "id": 276,
+    "fact": "Did you know? The Curiosity Rover found evidence of ancient water on Mars.",
+    "category": "space-missions",
+    "image": "images/curiosity_water.jpg"
+  },
+  {
+    "id": 277,
+    "fact": "Did you know? The Cosmic Microwave Background is the afterglow of the Big Bang, detected across the universe.",
+    "category": "cosmology",
+    "image": "images/cmb.jpg"
+  },
+  {
+    "id": 278,
+    "fact": "Did you know? Astronauts grow taller in space, but return to normal height after returning to Earth.",
+    "category": "astronauts",
+    "image": "images/space_taller.jpg"
+  },
+  {
+    "id": 279,
+    "fact": "Did you know? The Orion Arm is the spiral arm of the Milky Way where our solar system resides.",
+    "category": "astronomy",
+    "image": "images/orion_arm.jpg"
+  },
+  {
+    "id": 280,
+    "fact": "Did you know? Neptune takes 164.8 Earth years to complete one orbit around the Sun.",
+    "category": "planets",
+    "image": "images/neptune_orbit.jpg"
+  },
+  {
+    "id": 281,
+    "fact": "Did you know? The James Webb Space Telescope can observe the universe in infrared, seeing through dust clouds.",
+    "category": "space-technology",
+    "image": "images/jwst.jpg"
+  },
+  {
+    "id": 282,
+    "fact": "Did you know? The first privately funded spacecraft to reach orbit was SpaceShipOne in 2004.",
+    "category": "space-missions",
+    "image": "images/spaceshipone.jpg"
+  },
+  {
+    "id": 283,
+    "fact": "Did you know? Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation.",
+    "category": "astronomy",
+    "image": "images/pulsar.jpg"
+  },
+  {
+    "id": 284,
+    "fact": "Did you know? Mercury has no atmosphere to retain heat, causing temperatures to swing drastically between day and night.",
+    "category": "planets",
+    "image": "images/mercury_temp.jpg"
+  },
+  {
+    "id": 285,
+    "fact": "Did you know? The Hubble Space Telescope has helped discover thousands of galaxies billions of light-years away.",
+    "category": "space-technology",
+    "image": "images/hubble_galaxies.jpg"
+  },
+  {
+    "id": 286,
+    "fact": "Did you know? Yuri Gagarin orbited Earth in 108 minutes during his historic flight in 1961.",
+    "category": "astronauts",
+    "image": "images/yuri_gagarin.jpg"
+  },
+  {
+    "id": 287,
+    "fact": "Did you know? The Kuiper Belt beyond Neptune contains many icy bodies including Pluto.",
+    "category": "astronomy",
+    "image": "images/kuiper_belt.jpg"
+  },
+  {
+    "id": 288,
+    "fact": "Did you know? Venus rotates in the opposite direction to most planets, a phenomenon called retrograde rotation.",
+    "category": "planets",
+    "image": "images/venus_retrograde.jpg"
+  },
+  {
+    "id": 289,
+    "fact": "Did you know? The Parker Solar Probe travels closer to the Sun than any spacecraft in history.",
+    "category": "space-technology",
+    "image": "images/parker_probe.jpg"
+  },
+  {
+    "id": 290,
+    "fact": "Did you know? Apollo 17, in 1972, was the last mission to send humans to the Moon.",
+    "category": "space-missions",
+    "image": "images/apollo17.jpg"
+  },
+  {
+    "id": 291,
+    "fact": "Did you know? The cosmic web is the large-scale structure of the universe, made of filaments and voids.",
+    "category": "cosmology",
+    "image": "images/cosmic_web.jpg"
+  },
+  {
+    "id": 292,
+    "fact": "Did you know? Astronauts experience bone density loss in microgravity, which requires regular exercise in space.",
+    "category": "astronauts",
+    "image": "images/bone_loss.jpg"
+  },
+  {
+    "id": 293,
+    "fact": "Did you know? The Eagle Nebula’s 'Pillars of Creation' are massive columns of gas and dust where stars form.",
+    "category": "astronomy",
+    "image": "images/pillars_of_creation.jpg"
+  },
+  {
+    "id": 294,
+    "fact": "Did you know? Mars has a day length similar to Earth, lasting about 24 hours and 37 minutes.",
+    "category": "planets",
+    "image": "images/mars_day.jpg"
+  },
+  {
+    "id": 295,
+    "fact": "Did you know? SpaceX’s Crew Dragon spacecraft is designed to carry astronauts to the ISS and back safely.",
+    "category": "space-technology",
+    "image": "images/crew_dragon.jpg"
+  },
+  {
+    "id": 296,
+    "fact": "Did you know? The first space tourists were Dennis Tito and Mark Shuttleworth, who paid to fly to the ISS.",
+    "category": "space-missions",
+    "image": "images/space_tourists.jpg"
+  },
+  {
+    "id": 297,
+    "fact": "Did you know? Cosmic background radiation provides a snapshot of the universe just 380,000 years after the Big Bang.",
+    "category": "cosmology",
+    "image": "images/cmb_snapshot.jpg"
+  },
+  {
+    "id": 298,
+    "fact": "Did you know? Astronauts’ muscles weaken in microgravity, which is why resistance training is essential in space.",
+    "category": "astronauts",
+    "image": "images/muscle_loss.jpg"
+  },
+  {
+    "id": 299,
+    "fact": "Did you know? The Triangulum Galaxy is a member of our local group of galaxies along with the Milky Way and Andromeda.",
+    "category": "astronomy",
+    "image": "images/triangulum.jpg"
+  },
+  {
+    "id": 300,
+    "fact": "Did you know? Neptune has supersonic winds reaching speeds of over 2,000 km/h, the fastest in the solar system.",
+    "category": "planets",
+    "image": "images/neptune_winds.jpg"
+  }
+]

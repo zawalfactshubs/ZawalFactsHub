@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Prioritize regular health checkups.",
+    "long": "Routine health checkups help detect potential health issues early, when they are easier to manage or treat. Screenings such as blood pressure checks, blood sugar tests, breast exams, and cervical screenings are essential for maintaining long-term health. Regular visits also allow you to discuss symptoms, lifestyle habits, and preventive care with a healthcare provider."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Maintain a balanced and nourishing diet.",
+    "long": "A balanced diet supports every system in the body, from hormones to digestion and immunity. Focus on whole foods such as fruits, vegetables, whole grains, lean proteins, and healthy fats. Proper nutrition supports energy levels, skin health, bone strength, and reproductive health while reducing the risk of chronic diseases."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Stay physically active throughout the week.",
+    "long": "Regular physical activity strengthens the heart, improves circulation, supports bone density, and enhances mental well-being. Activities such as walking, dancing, yoga, or strength training help regulate hormones, reduce stress, and improve overall body confidence. Consistency matters more than intensity."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Support your mental health daily.",
+    "long": "Mental health is a core part of overall well-being. Managing stress, acknowledging emotions, and seeking support when needed helps prevent burnout and anxiety. Practices like mindfulness, therapy, journaling, or talking with trusted people support emotional balance and resilience."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Get enough quality sleep each night.",
+    "long": "Sleep allows the body to repair tissues, regulate hormones, and restore energy. Poor sleep can affect mood, metabolism, immune function, and concentration. Creating a consistent bedtime routine and prioritizing rest supports both physical and emotional health."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Strengthen bone health early.",
+    "long": "Women are at higher risk of bone loss as they age. Consuming calcium-rich foods, getting enough vitamin D, and engaging in weight-bearing exercises help build and maintain strong bones. Protecting bone health early reduces the risk of fractures later in life."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Stay well hydrated daily.",
+    "long": "Proper hydration supports digestion, circulation, skin health, and temperature regulation. Drinking enough water helps reduce fatigue, headaches, and digestive discomfort. Hydration needs vary, but listening to thirst cues and maintaining steady intake is key."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Pay attention to menstrual health.",
+    "long": "Your menstrual cycle provides valuable information about your overall health. Tracking cycle length, flow, pain, and mood changes can help identify hormonal imbalances or underlying conditions. Persistent pain or irregularities should be discussed with a healthcare professional."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Support hormonal balance naturally.",
+    "long": "Hormonal health affects mood, metabolism, skin, and reproductive function. Balanced nutrition, stress management, regular movement, and adequate sleep all support hormone regulation. Avoiding extreme diets and chronic stress helps maintain stability."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Practice stress management techniques.",
+    "long": "Chronic stress can disrupt hormones, digestion, sleep, and immunity. Techniques such as deep breathing, meditation, stretching, or time in nature help calm the nervous system. Managing stress consistently supports long-term health."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Protect your heart health.",
+    "long": "Heart disease is a leading health risk for women. Maintaining healthy blood pressure, cholesterol levels, and physical activity reduces risk. Balanced eating, movement, and stress reduction all contribute to cardiovascular health."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Build and maintain muscle strength.",
+    "long": "Muscle mass supports metabolism, joint health, and posture. Strength training helps prevent age-related muscle loss and supports daily activities. Even light resistance exercises can make a significant difference over time."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Support digestive health.",
+    "long": "A healthy digestive system affects nutrient absorption, immunity, and energy levels. Eating fiber-rich foods, staying hydrated, and managing stress help promote regular digestion and gut balance."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Care for your skin from within.",
+    "long": "Skin health reflects internal health. Proper hydration, balanced nutrition, and adequate sleep support skin repair and elasticity. Protecting skin from excessive sun exposure also reduces premature aging."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Practice healthy posture daily.",
+    "long": "Good posture reduces strain on muscles and joints while improving breathing and confidence. Being mindful of posture during sitting, standing, and device use helps prevent chronic pain and fatigue."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Protect your reproductive health.",
+    "long": "Reproductive health involves regular screenings, awareness of symptoms, and informed choices. Understanding your body and seeking medical advice when changes occur supports long-term reproductive well-being."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Strengthen immune system habits.",
+    "long": "A strong immune system relies on sleep, nutrition, hydration, and stress management. Consistent healthy habits help the body defend against illness and recover more efficiently."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Maintain healthy blood sugar levels.",
+    "long": "Stable blood sugar supports energy, mood, and hormone balance. Eating balanced meals with protein, fiber, and healthy fats helps prevent energy crashes and long-term metabolic issues."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Pay attention to pelvic floor health.",
+    "long": "The pelvic floor supports bladder control, core stability, and reproductive organs. Exercises like Kegels and mindful movement help maintain strength and function, especially after childbirth or with aging."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Limit prolonged sitting.",
+    "long": "Extended sitting can negatively affect circulation, posture, and metabolism. Standing, stretching, or walking regularly throughout the day supports musculoskeletal and cardiovascular health."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Protect your eye health.",
+    "long": "Eye health can be affected by screen use, aging, and nutrition. Taking screen breaks, staying hydrated, and consuming vitamin-rich foods supports vision and reduces eye strain."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Support emotional boundaries.",
+    "long": "Emotional health improves when boundaries are respected. Learning to say no, managing emotional energy, and prioritizing self-care reduce stress and emotional exhaustion."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Maintain healthy relationships.",
+    "long": "Positive relationships support mental and emotional well-being. Open communication, mutual respect, and social connection reduce loneliness and promote psychological health."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Practice regular self-reflection.",
+    "long": "Self-reflection helps identify stressors, goals, and emotional needs. Taking time to reflect encourages personal growth and supports mental clarity."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Support brain health with stimulation.",
+    "long": "Mental stimulation keeps the brain active and resilient. Reading, learning new skills, and engaging in creative activities support cognitive health over time."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Listen to early body signals.",
+    "long": "Fatigue, pain, or mood changes are signals worth paying attention to. Addressing issues early prevents them from becoming chronic or severe."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Maintain healthy breathing habits.",
+    "long": "Deep, controlled breathing supports oxygen delivery, stress reduction, and nervous system balance. Practicing mindful breathing improves both physical and emotional health."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Limit excessive sugar intake.",
+    "long": "High sugar intake can affect energy levels, skin health, and metabolic balance. Moderation supports long-term wellness and reduces inflammation."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Protect hearing health.",
+    "long": "Hearing health is often overlooked. Avoiding prolonged exposure to loud noise and taking listening breaks supports long-term auditory function."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Practice regular movement flexibility.",
+    "long": "Flexibility supports joint health, posture, and injury prevention. Gentle stretching improves mobility and reduces stiffness over time."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Support healthy aging habits.",
+    "long": "Healthy aging involves balanced nutrition, movement, mental engagement, and emotional well-being. Small daily habits compound into long-term vitality."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Manage fatigue with rest and nutrition.",
+    "long": "Persistent fatigue often reflects lifestyle imbalance. Adequate sleep, nutrient-dense meals, and stress management restore energy levels naturally."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Protect kidney and urinary health.",
+    "long": "Staying hydrated, practicing good hygiene, and addressing symptoms early support urinary and kidney health. Ignoring discomfort can lead to complications."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Support thyroid health awareness.",
+    "long": "Thyroid health affects metabolism, mood, and energy. Being aware of symptoms like unexplained fatigue or weight changes helps with early detection."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Practice safe physical activity.",
+    "long": "Using proper form, warming up, and listening to your body prevents injury. Safe movement ensures long-term consistency and health benefits."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Reduce inflammation naturally.",
+    "long": "Inflammation can be influenced by diet, stress, and sleep. Anti-inflammatory foods, movement, and relaxation help reduce chronic inflammation."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Support healthy body image.",
+    "long": "A positive body image supports mental health and self-esteem. Focusing on strength, function, and well-being rather than appearance promotes lasting confidence."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Maintain oral and dental health.",
+    "long": "Oral health affects digestion, confidence, and overall health. Regular brushing, flossing, and dental checkups help prevent infections and discomfort."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Protect liver health through lifestyle.",
+    "long": "The liver plays a key role in detoxification and metabolism. Balanced eating, hydration, and limiting harmful substances support liver function."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Support healthy circulation.",
+    "long": "Good circulation delivers oxygen and nutrients throughout the body. Movement, hydration, and posture all contribute to circulatory health."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Maintain emotional resilience.",
+    "long": "Emotional resilience helps manage life challenges effectively. Self-care, support systems, and adaptive coping strategies strengthen resilience."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Practice moderation in all habits.",
+    "long": "Health thrives in balance. Moderation in eating, activity, and lifestyle choices prevents extremes that strain the body or mind."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Stay informed about your health.",
+    "long": "Health knowledge empowers better decisions. Staying informed helps you advocate for yourself and recognize when professional care is needed."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Respect rest as part of productivity.",
+    "long": "Rest supports recovery, focus, and emotional balance. Viewing rest as essential—not optional—improves long-term health and performance."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Cultivate daily self-care habits.",
+    "long": "Self-care does not have to be complex. Small, consistent actions like rest, nourishment, and kindness toward yourself build lasting health."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Trust your body and intuition.",
+    "long": "Your body provides valuable feedback every day. Trusting your instincts and responding with care supports holistic well-being."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Incorporate more fiber into your meals.",
+    "long": "Fiber promotes digestive health, stabilizes blood sugar, and helps maintain a healthy weight. Include fruits, vegetables, legumes, and whole grains daily."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Include both cardio and strength training.",
+    "long": "Combining cardio with strength training improves heart health, builds muscle, and supports metabolism. Aim for at least 150 minutes of moderate activity weekly."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Take short mindfulness breaks during the day.",
+    "long": "Even 5-10 minutes of mindfulness or meditation can reduce stress, increase focus, and improve emotional balance."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Use sunscreen daily.",
+    "long": "Protecting your skin from UV rays prevents premature aging, reduces the risk of skin cancer, and maintains skin health."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Track your menstrual cycle patterns.",
+    "long": "Tracking your cycle helps identify irregularities, understand fertility windows, and monitor reproductive health changes over time."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Create a consistent sleep schedule.",
+    "long": "Going to bed and waking up at the same time every day helps regulate circadian rhythms and improves sleep quality."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Monitor blood pressure regularly.",
+    "long": "Keeping track of blood pressure helps prevent cardiovascular issues and allows early intervention if readings are consistently high."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Reduce processed food intake.",
+    "long": "Minimizing processed foods lowers sugar, salt, and unhealthy fat intake, supporting heart health and weight management."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Incorporate stretching routines.",
+    "long": "Stretching improves flexibility, reduces muscle tension, and lowers the risk of injuries during workouts or daily activities."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Practice gratitude daily.",
+    "long": "Keeping a gratitude journal or reflecting on positive aspects of life can improve mood, reduce stress, and foster resilience."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Moisturize your skin regularly.",
+    "long": "Consistent moisturizing maintains skin hydration, elasticity, and barrier function, preventing dryness and irritation."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Understand your fertility signs.",
+    "long": "Observing signs like basal body temperature and cervical mucus can help with family planning and identifying potential reproductive health issues."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Limit screen time before bed.",
+    "long": "Reducing exposure to screens 1-2 hours before sleep prevents blue light from disrupting melatonin production and sleep quality."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Check cholesterol levels regularly.",
+    "long": "Monitoring cholesterol helps prevent heart disease and allows early lifestyle interventions if levels are high."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Include healthy fats in your diet.",
+    "long": "Sources like avocados, nuts, seeds, and olive oil support brain function, hormone balance, and heart health."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Engage in functional training.",
+    "long": "Exercises that mimic daily movements improve strength, coordination, and overall mobility, making everyday activities easier."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Connect with loved ones regularly.",
+    "long": "Strong social connections reduce stress, improve mood, and provide emotional support during challenging times."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Exfoliate your skin weekly.",
+    "long": "Gentle exfoliation removes dead skin cells, promotes skin renewal, and enhances the effectiveness of skincare products."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Schedule regular reproductive checkups.",
+    "long": "Routine gynecological visits help detect early issues, maintain reproductive health, and provide guidance on family planning."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Take short naps when needed.",
+    "long": "Brief naps (20-30 minutes) can improve alertness, memory, and mood without disrupting nighttime sleep."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Monitor blood sugar if at risk.",
+    "long": "Regular blood sugar checks can prevent the onset of diabetes or allow early management for better long-term health."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Eat more colorful vegetables and fruits.",
+    "long": "Different colors indicate diverse nutrients and antioxidants that support overall health, immunity, and skin health."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Incorporate balance exercises.",
+    "long": "Practicing balance routines helps prevent falls, improves coordination, and strengthens core muscles."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Limit multitasking.",
+    "long": "Focusing on one task at a time reduces stress, increases productivity, and improves cognitive function."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Stay hydrated for skin health.",
+    "long": "Adequate water intake maintains skin moisture, elasticity, and helps flush out toxins."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Discuss family planning openly.",
+    "long": "Open communication with your partner or healthcare provider ensures informed choices regarding reproductive goals and health."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Create a relaxing bedtime routine.",
+    "long": "Activities like reading, gentle stretching, or meditation before bed help signal your body that it’s time to sleep."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Maintain a healthy weight.",
+    "long": "A balanced weight reduces the risk of chronic conditions like diabetes, heart disease, and joint problems."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Include low-impact workouts.",
+    "long": "Activities like swimming, cycling, or walking reduce joint strain while providing cardiovascular benefits."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Include probiotic-rich foods.",
+    "long": "Probiotics support gut health, improve digestion, and strengthen immunity. Include yogurt, kefir, sauerkraut, or kimchi in your diet regularly."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Try interval training once a week.",
+    "long": "High-intensity interval training (HIIT) boosts metabolism, improves cardiovascular fitness, and burns calories efficiently."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Practice mindful eating.",
+    "long": "Paying attention to hunger cues, flavors, and textures improves digestion, prevents overeating, and enhances enjoyment of meals."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Incorporate antioxidants into your skincare.",
+    "long": "Ingredients like vitamin C and E help protect skin from free radical damage, brighten skin, and reduce signs of aging."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Understand ovulation cycles.",
+    "long": "Knowing your ovulation patterns helps with conception, family planning, and identifying potential reproductive health concerns."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Optimize your sleep environment.",
+    "long": "Keep your bedroom dark, quiet, and cool to enhance sleep quality and support circadian rhythms."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Understand signs of anemia.",
+    "long": "Fatigue, pale skin, and dizziness can indicate anemia. Regular blood tests and iron-rich foods support prevention and early treatment."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Limit alcohol consumption.",
+    "long": "Excessive alcohol affects liver, metabolism, and hormone balance. Moderate drinking or abstaining supports long-term health."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Include core-strengthening exercises.",
+    "long": "Strong core muscles improve posture, balance, and reduce the risk of back injuries. Include planks, bridges, or Pilates exercises."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Practice digital detoxes.",
+    "long": "Taking breaks from social media and screens reduces stress, improves sleep, and enhances mental clarity."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Protect lips from sun exposure.",
+    "long": "Use SPF lip balm to prevent dryness, sunburn, and premature aging of the lips."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Discuss menopause symptoms early.",
+    "long": "Awareness of hot flashes, mood changes, and sleep disturbances allows for proactive management and comfort during menopause."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Avoid heavy meals before bed.",
+    "long": "Eating large or spicy meals close to bedtime can disrupt digestion and sleep quality. Opt for light snacks if needed."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Know your family medical history.",
+    "long": "Understanding hereditary risks for conditions like diabetes, heart disease, or cancer enables proactive prevention and screening."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Include vitamin D sources.",
+    "long": "Vitamin D supports bone health, immunity, and mood regulation. Sunlight, fortified foods, or supplements are effective sources."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Practice functional mobility exercises.",
+    "long": "Mobility drills improve joint range of motion, reduce stiffness, and support everyday activities with ease."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Journal your thoughts regularly.",
+    "long": "Writing about feelings and experiences improves self-awareness, reduces stress, and helps process emotions."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Incorporate facial massage.",
+    "long": "Gentle facial massage improves circulation, reduces tension, and promotes healthy skin glow."
+  },
+  {
+    "category": "Reproductive Health & Fertility",
+    "short": "Get screened for STIs regularly.",
+    "long": "Routine STI screening supports sexual health, prevents complications, and promotes informed reproductive decisions."
+  },
+  {
+    "category": "Sleep & Rest",
+    "short": "Avoid caffeine late in the day.",
+    "long": "Caffeine can disrupt sleep cycles and reduce sleep quality. Limit intake to morning or early afternoon."
+  },
+  {
+    "category": "Chronic Conditions Awareness",
+    "short": "Learn about early signs of osteoporosis.",
+    "long": "Bone density decreases silently over time. Early screening and weight-bearing exercise help prevent fractures and bone loss."
+  },
+  {
+    "category": "Nutrition & Diet",
+    "short": "Incorporate magnesium-rich foods.",
+    "long": "Magnesium supports muscle function, nerve health, and bone strength. Include nuts, seeds, leafy greens, and whole grains."
+  },
+  {
+    "category": "Fitness & Exercise",
+    "short": "Add low-impact cardio sessions.",
+    "long": "Activities like swimming, rowing, or cycling improve cardiovascular health without stressing joints."
+  },
+  {
+    "category": "Mental Health & Mindfulness",
+    "short": "Practice breathing exercises under stress.",
+    "long": "Controlled breathing helps regulate the nervous system, reduce anxiety, and improve focus during high-pressure situations."
+  },
+  {
+    "category": "Skin & Beauty Care",
+    "short": "Use gentle cleansers suitable for your skin type.",
+    "long": "Proper cleansing removes impurities without stripping natural oils, maintaining healthy skin barrier and hydration."
+  }
+]

@@ -1,0 +1,70 @@
+.game-header {
+  text-align: center;
+  padding: 1.5rem 1rem .5rem;
+}
+
+.quiz-tabs {
+  display: flex;
+  gap: .5rem;
+  overflow-x: auto;
+  padding: 1rem;
+  background: #0f1a1b;
+  border-bottom: 1px solid rgba(255, 255, 255, .1);
+}
+
+.quiz-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tab {
+  padding: .5rem 1rem;
+  border: none;
+  border-radius: 999px;
+  background: #1c2b2d;
+  color: #fff;
+  font-size: .9rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tab.active {
+  background: #CD7F32;
+}
+
+.quiz-box {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #162224;
+  border-radius: 18px;
+  text-align: center;
+}
+
+.options {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.options button {
+  padding: 1rem;
+  border: none;
+  border-radius: 12px;
+  background: #1c2b2d;
+  color: #fff;
+  cursor: pointer;
+}
+
+.options button:hover {
+  background: #24383b;
+}
+
+.next {
+  margin-top: 1.5rem;
+  padding: .7rem 2rem;
+  border: none;
+  border-radius: 999px;
+  background: #CD7F32;
+  color: #fff;
+  font-weight: 700;
+}

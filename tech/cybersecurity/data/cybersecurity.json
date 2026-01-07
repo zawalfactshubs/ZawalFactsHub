@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Cybersecurity",
+    "short": "Use strong, unique passwords.",
+    "long": "Strong passwords should be long, complex, and unique for every account. This prevents attackers from using leaked credentials to access multiple services."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Enable multi-factor authentication.",
+    "long": "Multi-factor authentication adds an extra layer of security by requiring a second verification step, making accounts far harder to compromise."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Keep software up to date.",
+    "long": "Regular updates patch known vulnerabilities. Outdated software is one of the most common entry points for cyberattacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Avoid clicking unknown links.",
+    "long": "Suspicious links in emails or messages may lead to phishing sites or malware downloads. Always verify the sender before clicking."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use a password manager.",
+    "long": "Password managers generate and store complex passwords securely, reducing the risk of reuse and weak credentials."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Encrypt sensitive data.",
+    "long": "Encryption protects data by converting it into unreadable format, ensuring confidentiality even if data is stolen."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure your Wi-Fi network.",
+    "long": "Use strong encryption like WPA3, change default router credentials, and disable unused features to prevent unauthorized access."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Beware of phishing emails.",
+    "long": "Phishing emails often impersonate trusted sources to steal credentials or spread malware. Look for spelling errors and suspicious requests."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Limit admin privileges.",
+    "long": "Grant users only the permissions they need. Limiting admin access reduces the damage caused by compromised accounts."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Back up data regularly.",
+    "long": "Regular backups protect against ransomware and data loss, allowing quick recovery without paying attackers."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use antivirus and anti-malware tools.",
+    "long": "Security software detects, blocks, and removes malicious programs before they cause harm."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Avoid public Wi-Fi for sensitive tasks.",
+    "long": "Public networks are often unsecured, making it easier for attackers to intercept data or launch man-in-the-middle attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use a VPN on untrusted networks.",
+    "long": "VPNs encrypt internet traffic, protecting data from eavesdropping on public or untrusted networks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Disable unused services.",
+    "long": "Unused services and ports increase the attack surface. Disabling them reduces potential entry points."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor account activity.",
+    "long": "Regularly reviewing login history and activity helps detect unauthorized access early."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use HTTPS websites.",
+    "long": "HTTPS encrypts data between your browser and the website, protecting sensitive information from interception."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Verify software sources.",
+    "long": "Download software only from trusted sources to avoid malware disguised as legitimate applications."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Protect against ransomware.",
+    "long": "Use backups, updated software, and email filtering to reduce the risk of ransomware attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Lock devices when not in use.",
+    "long": "Automatic screen locks prevent unauthorized access if devices are lost or left unattended."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use firewall protection.",
+    "long": "Firewalls filter incoming and outgoing traffic, blocking unauthorized access to systems and networks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Avoid sharing sensitive information online.",
+    "long": "Oversharing personal data on social media can help attackers craft targeted attacks or identity theft."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Regularly audit security settings.",
+    "long": "Periodic reviews ensure that security configurations remain effective and up to date."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use secure file sharing methods.",
+    "long": "Encrypted file-sharing tools prevent unauthorized access to sensitive documents."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Train users on security awareness.",
+    "long": "Human error is a major security risk. Training helps users recognize threats and follow best practices."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Implement access logging.",
+    "long": "Logs help track system access and identify suspicious activity during investigations."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use strong authentication methods.",
+    "long": "Biometrics, tokens, and MFA improve authentication security beyond passwords alone."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Separate work and personal accounts.",
+    "long": "Using different accounts reduces the risk of personal compromises affecting work systems."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure mobile devices.",
+    "long": "Enable encryption, screen locks, and remote wipe features to protect data on smartphones."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Be cautious with email attachments.",
+    "long": "Malicious attachments can install malware. Open attachments only from verified sources."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use intrusion detection systems.",
+    "long": "IDS tools monitor network traffic and alert administrators to suspicious behavior."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Segment networks.",
+    "long": "Network segmentation limits how far attackers can move if they gain access to one part of the system."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure APIs properly.",
+    "long": "Authentication, authorization, and rate limiting protect APIs from abuse and data leaks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use least privilege principle.",
+    "long": "Users and systems should only have the minimum access necessary to perform their tasks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor for data breaches.",
+    "long": "Early detection of breaches minimizes damage and speeds up incident response."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Disable macros in documents.",
+    "long": "Macros are commonly abused to deliver malware. Disable them unless absolutely necessary."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Apply security patches promptly.",
+    "long": "Delaying patches leaves systems vulnerable to known exploits actively used by attackers."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Protect cloud resources.",
+    "long": "Configure cloud security settings carefully to prevent data exposure or unauthorized access."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use secure coding practices.",
+    "long": "Input validation and secure design prevent common vulnerabilities like SQL injection and XSS."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Limit data retention.",
+    "long": "Storing data longer than necessary increases risk. Retain only what is needed."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Verify identity before sharing data.",
+    "long": "Always confirm requests for sensitive information to prevent social engineering attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Protect against insider threats.",
+    "long": "Monitoring and access controls reduce the risk of malicious or accidental insider actions."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use secure boot mechanisms.",
+    "long": "Secure boot ensures that only trusted software runs during system startup."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Perform regular penetration testing.",
+    "long": "Testing systems for vulnerabilities helps identify weaknesses before attackers do."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure backups properly.",
+    "long": "Backups should be encrypted and isolated to prevent attackers from tampering with them."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor system logs.",
+    "long": "Analyzing logs helps detect suspicious activity and supports incident investigations."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Restrict USB and external devices.",
+    "long": "External devices can introduce malware. Restrict or scan them before use."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Develop an incident response plan.",
+    "long": "A clear response plan ensures quick, organized action during security incidents."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Continuously improve security posture.",
+    "long": "Cyber threats evolve constantly. Regular assessments and improvements keep defenses strong."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use email filtering solutions.",
+    "long": "Advanced email filters reduce spam, phishing attempts, and malicious attachments before they reach users’ inboxes."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Change default device credentials.",
+    "long": "Default usernames and passwords are widely known. Changing them immediately prevents easy unauthorized access."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Enable automatic security updates.",
+    "long": "Automatic updates ensure critical security patches are applied quickly without relying on manual intervention."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use DNS filtering services.",
+    "long": "DNS filtering blocks access to malicious or suspicious websites before connections are established."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Protect against brute-force attacks.",
+    "long": "Rate limiting, CAPTCHA, and account lockouts prevent attackers from guessing passwords repeatedly."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Harden operating system settings.",
+    "long": "Disabling unnecessary features and services reduces vulnerabilities and limits attack vectors."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use secure email authentication.",
+    "long": "Protocols like SPF, DKIM, and DMARC help prevent email spoofing and impersonation attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Restrict remote access services.",
+    "long": "Limit remote access to trusted users and networks to reduce exposure to external attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor dark web leaks.",
+    "long": "Tracking leaked credentials on the dark web helps identify compromised accounts early."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use application whitelisting.",
+    "long": "Whitelisting allows only approved applications to run, blocking unauthorized or malicious software."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure DNS configurations.",
+    "long": "Misconfigured DNS can be hijacked for phishing or redirection attacks. Proper configuration reduces risk."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Implement network monitoring.",
+    "long": "Continuous network monitoring helps detect unusual traffic patterns that may indicate attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Restrict access to sensitive folders.",
+    "long": "Limiting file system access prevents unauthorized data exposure and accidental deletions."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use endpoint detection and response tools.",
+    "long": "EDR solutions provide real-time monitoring and rapid response to endpoint threats."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure IoT devices.",
+    "long": "IoT devices often lack strong security. Update firmware and isolate them on separate networks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Apply zero-trust principles.",
+    "long": "Zero-trust assumes no device or user is trusted by default, reducing lateral movement by attackers."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Encrypt backups offline.",
+    "long": "Offline encrypted backups protect data from ransomware that targets connected storage."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Limit third-party integrations.",
+    "long": "Third-party apps can introduce vulnerabilities. Grant access only when absolutely necessary."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use secure session management.",
+    "long": "Secure cookies, session timeouts, and regeneration reduce session hijacking risks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Validate DNS certificates.",
+    "long": "DNSSEC ensures DNS responses are authentic and have not been tampered with."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor failed login attempts.",
+    "long": "Multiple failed login attempts may indicate brute-force attacks and should trigger alerts."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Protect against clickjacking.",
+    "long": "Security headers like X-Frame-Options prevent attackers from tricking users into clicking hidden elements."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure database access.",
+    "long": "Restrict database access to trusted IPs and users to prevent unauthorized queries."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use encryption for data at rest.",
+    "long": "Encrypting stored data ensures it remains unreadable if storage systems are compromised."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Apply least exposure networking.",
+    "long": "Expose only required services to the internet to minimize attack surfaces."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure email forwarding rules.",
+    "long": "Attackers may create hidden forwarding rules to steal emails. Regular reviews prevent abuse."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use hardware security keys.",
+    "long": "Physical security keys provide strong protection against phishing and account takeovers."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Restrict admin login locations.",
+    "long": "Limiting admin access to specific IPs or regions reduces the risk of unauthorized access."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor certificate expiration.",
+    "long": "Expired certificates can break security protections and expose systems to interception."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Enable audit trails.",
+    "long": "Audit trails record changes and actions, supporting accountability and investigations."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure configuration backups.",
+    "long": "Backing up system configurations allows quick recovery after security incidents."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Limit access to admin panels.",
+    "long": "Restricting admin dashboards reduces exposure to brute-force and exploitation attempts."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use sandboxing for unknown files.",
+    "long": "Sandbox environments isolate suspicious files, preventing malware from affecting systems."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure container environments.",
+    "long": "Containers should be scanned and configured securely to prevent image-based attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Protect against credential stuffing.",
+    "long": "Monitoring login patterns helps detect automated attacks using leaked credentials."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Limit clipboard access.",
+    "long": "Some malware monitors clipboards for sensitive data. Restricting access improves security."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use secure deletion methods.",
+    "long": "Secure deletion prevents recovery of sensitive data from storage devices."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Apply security headers on websites.",
+    "long": "Headers like HSTS and CSP add protection against common web-based attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor system integrity.",
+    "long": "File integrity monitoring detects unauthorized changes to critical system files."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Restrict administrative scripts.",
+    "long": "Limiting execution of admin scripts reduces the risk of privilege escalation."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure email recovery options.",
+    "long": "Weak recovery emails can be exploited to hijack accounts. Keep them protected."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Use tamper-resistant logging.",
+    "long": "Tamper-resistant logs ensure attackers cannot erase traces of malicious activity."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Validate software dependencies.",
+    "long": "Third-party libraries can contain vulnerabilities. Regular validation reduces supply chain risks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure virtualization platforms.",
+    "long": "Misconfigured virtual machines can expose sensitive systems. Harden hypervisor security."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Apply rate limiting to APIs.",
+    "long": "Rate limiting prevents abuse, denial-of-service attacks, and data scraping."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Monitor configuration drift.",
+    "long": "Unexpected configuration changes may indicate compromise or mismanagement."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Secure identity federation.",
+    "long": "Properly configuring SSO and identity providers prevents authentication bypass attacks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Restrict access to logs.",
+    "long": "Logs may contain sensitive data. Limiting access prevents information leaks."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Regularly review trust relationships.",
+    "long": "Outdated trust relationships between systems can be exploited. Review them frequently."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Continuously test disaster recovery.",
+    "long": "Testing recovery plans ensures systems can be restored quickly after cyber incidents."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Isolate critical systems.",
+    "long": "Separating critical systems from general networks limits the impact of a breach and prevents attackers from accessing high-value assets."
+  },
+  {
+    "category": "Cybersecurity",
+    "short": "Continuously assess third-party risk.",
+    "long": "Vendors and partners can introduce vulnerabilities. Regular risk assessments help ensure third-party security meets required standards."
+  }
+]

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coming Soon - Zawal Facts Hub</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    /* Basic reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    body {
+      background: linear-gradient(135deg, #f5f5f5, #e0d7c8);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      text-align: center;
+      color: #333;
+      padding: 2rem;
+    }
+
+    .coming-soon-container {
+      background-color: #fff;
+      border-radius: 16px;
+      padding: 3rem 2rem;
+      max-width: 600px;
+      width: 100%;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .coming-soon-container img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1.5rem;
+      border: 4px solid var(--accent, #cd7f32);
+    }
+
+    h1 {
+      font-size: 2rem;
+      color: #cd7f32;
+      margin-bottom: 1rem;
+    }
+
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      line-height: 1.5;
+    }
+
+    .explore-btn {
+      display: inline-block;
+      padding: 0.8rem 2rem;
+      font-size: 1rem;
+      background-color: #cd7f32;
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .explore-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    }
+
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(20px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+
+    footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    footer a {
+      color: #cd7f32;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="coming-soon-container">
+    <!-- Placeholder for your image -->
+    <img src="placeholder.png" alt="Coming Soon Image" id="coming-soon-img">
+
+    <h1>Exciting Things Are Coming Soon!</h1>
+    <p>
+      More amazing content and new sections of Zawal Facts Hub are under development by our talented developer, <strong>Abdullahi Bala Danbauchi</strong>. 
+      Stay tuned and explore the content we already have while we prepare something special for you.
+    </p>
+
+    <!-- Button opens in new tab -->
+  <a href="index.html" class="explore-btn">Back To Home</a>
+    <footer>
+      &copy; 2025 Zawal Facts Hub • All rights reserved.
+      <br>
+      <a href="/contact.html">Contact</a> | 
+      <a href="/privacy.html">Privacy Policy</a>
+    </footer>
+  </div>
+
+</body>
+</html>

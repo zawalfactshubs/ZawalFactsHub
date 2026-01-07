@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zawal Facts Hub - Science Facts</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>
+      <img src="../../logo.png" alt="Zawal Facts Hub Logo">
+      Zawal Facts Hub
+    </h1>
+
+    <div class="hamburger" id="hamburger">☰</div>
+
+    <nav class="nav-menu" id="nav-menu">
+      <a href="/index.html">Home</a>
+      <a href="../facts.html">Facts</a>
+      <a href="/motivation/motivation.html">Motivation</a>
+      <a href="/health/health.html">Health Tips</a>
+      <a href="../tech/tech.html">Tech Tips</a>
+      <a href="../tutorials/tutorials.html">Life Hacks</a>
+      <a href="/about.html">About</a>
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="privacy/contact.html">Contact Us</a>
+      <a href="/premium.html">Premium Facts</a>
+    </nav>
+  </header>
+
+  <!-- Science Fact of the Day -->
+  <section class="fact-of-day">
+    <h2>Science Fact of the Day</h2>
+
+    <div class="fact-card" id="fact-card">
+      <p id="science-fact-text"
+         style="margin-top:10px;font-size:1.2rem;font-weight:500;">
+        Loading...
+      </p>
+    </div>
+
+    <button id="generate-science-fact"
+      style="margin-top:10px;padding:10px 20px;border:none;border-radius:8px;background:#CD7F32;color:#F5F5F5;font-weight:700;cursor:pointer;">
+      Generate Random Fact
+    </button>
+  </section>
+
+  <!-- Search Bar -->
+  <div class="search-bar">
+    <input type="text" id="science-search-input" placeholder="Search science facts...">
+    <button onclick="searchScienceFacts()">Search</button>
+  </div>
+
+  <p id="science-no-results"
+     class="no-results"
+     style="display:none;text-align:center;margin-top:1rem;color:#CD7F32;">
+    No results found.
+  </p>
+
+  <div class="categories">
+  <a class="category" href="/index.html">Home</a>
+  <a class="category" href="../facts.html">Facts</a>
+  <a class="category" href="/motivation/motivation.html">Motivation</a>
+  <a class="category" href="/health/health.html">Health Tips</a>
+  <a class="category" href="/tech/tech.html">Tech Tips</a>
+  <a class="category" href="/tutorials.html">Life Hacks</a>
+</div>
+
+  <!-- Science Facts Grid -->
+  <section class="posts" id="science-facts-grid"></section>
+
+  <!-- Share Modal -->
+  <div id="share-modal"
+       style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.7);justify-content:center;align-items:center;z-index:1000;">
+    <div style="background:#1C2B2D;padding:20px;border-radius:12px;width:90%;max-width:400px;color:#F5F5F5;position:relative;">
+      <span style="position:absolute;top:10px;right:15px;font-size:24px;cursor:pointer;"
+            onclick="closeShareModal()">✖</span>
+
+      <h3 style="text-align:center;margin-bottom:15px;">Share this Fact</h3>
+      <div id="share-links" style="display:flex;flex-direction:column;gap:10px;"></div>
+    </div>
+  </div>
+
+  <!-- JS -->
+  <script src="science.js"></script>
+  <script src="../../main.js" defer></script>
+    <!-- Include the menu JS & CSS -->
+  <link rel="stylesheet" href="../../menu.css">
+  <script src="../../menu.js"></script>
+  <script src="/stats.js"></script>
+  <script src="/lazyload.js" defer></script>
+</body>
+</html>

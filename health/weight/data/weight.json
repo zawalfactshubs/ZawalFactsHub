@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Healthy Balance",
+    "short": "Weight management is about balance, not extremes.",
+    "long": "Sustainable weight control comes from balanced eating, regular activity, and healthy routines. Extreme dieting often leads to burnout and weight regain."
+  },
+  {
+    "category": "Nutrition",
+    "short": "Focus on nutrient-dense foods.",
+    "long": "Foods rich in protein, fiber, vitamins, and minerals support satiety and metabolism, helping you manage weight more effectively."
+  },
+  {
+    "category": "Portion Control",
+    "short": "Watch portion sizes.",
+    "long": "Even healthy foods can lead to weight gain if portions are too large. Mindful portion control helps regulate calorie intake without deprivation."
+  },
+  {
+    "category": "Physical Activity",
+    "short": "Move your body consistently.",
+    "long": "Regular physical activity burns calories, builds muscle, and improves metabolism. Consistency matters more than intensity."
+  },
+  {
+    "category": "Metabolism",
+    "short": "Build habits that support metabolism.",
+    "long": "Strength training, adequate protein, and proper sleep help maintain a healthy metabolic rate and support long-term weight goals."
+  },
+  {
+    "category": "Hydration",
+    "short": "Drink water to support weight control.",
+    "long": "Water helps control appetite, supports digestion, and may prevent overeating caused by mistaking thirst for hunger."
+  },
+  {
+    "category": "Sleep",
+    "short": "Sleep affects your weight.",
+    "long": "Poor sleep disrupts hunger hormones, increasing cravings and appetite. Quality sleep supports better weight regulation."
+  },
+  {
+    "category": "Consistency",
+    "short": "Consistency beats perfection.",
+    "long": "Small, consistent habits over time create lasting weight changes. Progress matters more than short-term perfection."
+  },
+  {
+    "category": "Mindful Eating",
+    "short": "Eat with awareness.",
+    "long": "Mindful eating helps you recognize hunger and fullness cues, reducing emotional and overeating patterns."
+  },
+  {
+    "category": "Long-Term Health",
+    "short": "Think long-term, not quick fixes.",
+    "long": "Healthy weight management is a lifelong process. Sustainable habits protect physical health, mental wellbeing, and confidence."
+  },
+  {
+    "category": "Meal Planning",
+    "short": "Plan your meals ahead.",
+    "long": "Creating a meal plan helps prevent impulsive eating and ensures balanced nutrition throughout the week. Planning meals allows for portion control, variety in nutrients, and reduces reliance on fast or processed foods, which supports consistent weight management."
+  },
+  {
+    "category": "Track Your Intake",
+    "short": "Monitor what you eat.",
+    "long": "Keeping a food journal or using tracking apps helps you understand your eating patterns, calorie intake, and nutrient balance. Awareness is key to making informed adjustments and achieving weight goals sustainably."
+  },
+  {
+    "category": "Fiber Intake",
+    "short": "Eat more fiber-rich foods.",
+    "long": "High-fiber foods like vegetables, fruits, legumes, and whole grains increase satiety, regulate digestion, and help control blood sugar levels. Adequate fiber intake supports weight management and overall metabolic health."
+  },
+  {
+    "category": "Protein Timing",
+    "short": "Distribute protein across meals.",
+    "long": "Eating protein at each meal supports muscle maintenance, improves satiety, and boosts metabolism. Balanced protein intake helps prevent muscle loss during weight loss and contributes to more sustainable fat loss."
+  },
+  {
+    "category": "Healthy Snacking",
+    "short": "Choose smart snacks.",
+    "long": "Opt for nutrient-dense snacks like nuts, fruits, or yogurt instead of processed, high-sugar foods. Healthy snacks maintain energy levels, prevent overeating at meals, and support better blood sugar control."
+  },
+  {
+    "category": "Mindful Grocery Shopping",
+    "short": "Shop with purpose.",
+    "long": "Making a list and sticking to it reduces impulse buys of unhealthy foods. Focusing on whole, minimally processed foods at the store sets you up for success in managing weight and creating healthy meals at home."
+  },
+  {
+    "category": "Limit Sugary Drinks",
+    "short": "Avoid liquid calories.",
+    "long": "Sugary beverages contribute extra calories without promoting fullness. Replacing soda, juices, and sweetened coffee drinks with water, herbal tea, or black coffee helps control calorie intake and supports weight goals."
+  },
+  {
+    "category": "Strength Training",
+    "short": "Build muscle to burn more calories.",
+    "long": "Muscle mass increases basal metabolic rate, allowing you to burn more calories at rest. Regular resistance training combined with proper nutrition promotes fat loss while preserving lean body mass."
+  },
+  {
+    "category": "Cardio Exercise",
+    "short": "Include cardiovascular activity.",
+    "long": "Aerobic exercises like walking, cycling, or swimming increase calorie burn, improve cardiovascular health, and support weight management. Combining cardio with strength training produces optimal results."
+  },
+  {
+    "category": "Meal Prep",
+    "short": "Prepare meals in advance.",
+    "long": "Batch cooking and preparing meals ahead ensures you have healthy options ready, reducing reliance on takeout and fast foods. This strategy helps maintain calorie control and balanced nutrition throughout the week."
+  },
+  {
+    "category": "Limit Processed Foods",
+    "short": "Choose whole foods over processed.",
+    "long": "Highly processed foods often contain excess sugar, sodium, and unhealthy fats. Prioritizing whole foods improves nutrient intake, reduces empty calories, and supports sustainable weight management."
+  },
+  {
+    "category": "Track Progress",
+    "short": "Monitor your weight and habits.",
+    "long": "Tracking metrics like weight, measurements, or progress photos helps you evaluate what works and make necessary adjustments. Regular monitoring keeps motivation high and allows for data-driven decision making."
+  },
+  {
+    "category": "Healthy Breakfast",
+    "short": "Start the day with a balanced meal.",
+    "long": "A nutrient-rich breakfast with protein, healthy fats, and fiber stabilizes blood sugar, prevents overeating later in the day, and boosts energy. Skipping breakfast can lead to increased cravings and unplanned snacking."
+  },
+  {
+    "category": "Mindset",
+    "short": "Focus on lifestyle, not diets.",
+    "long": "Shifting focus from temporary diets to long-term lifestyle changes encourages sustainable habits. Mindset change promotes consistency, reduces stress, and supports lasting weight management."
+  },
+  {
+    "category": "Healthy Fats",
+    "short": "Include beneficial fats.",
+    "long": "Healthy fats from sources like avocados, olive oil, nuts, and fatty fish improve satiety, support hormone balance, and aid in nutrient absorption. Proper fat intake contributes to sustainable weight control."
+  },
+  {
+    "category": "Meal Spacing",
+    "short": "Time your meals appropriately.",
+    "long": "Spacing meals 3–5 hours apart helps regulate appetite and energy levels. Proper meal timing prevents overeating and supports stable blood sugar, which is essential for effective weight management."
+  },
+  {
+    "category": "Reduce Late-Night Eating",
+    "short": "Avoid snacking late at night.",
+    "long": "Eating late in the evening can lead to excess calorie intake and disturb digestion. Finishing meals earlier allows your body to rest and process food efficiently, supporting better weight control."
+  },
+  {
+    "category": "Avoid Skipping Meals",
+    "short": "Don’t skip meals to lose weight.",
+    "long": "Skipping meals can slow metabolism, trigger overeating, and disrupt energy levels. Balanced regular meals support metabolism, maintain muscle mass, and promote long-term weight management."
+  },
+  {
+    "category": "Hydration Before Meals",
+    "short": "Drink water before eating.",
+    "long": "Consuming a glass of water before meals can increase satiety and reduce calorie intake. Proper hydration also aids digestion and supports metabolic function during weight management."
+  },
+  {
+    "category": "Balanced Snacks",
+    "short": "Include protein and fiber in snacks.",
+    "long": "Combining protein and fiber in snacks improves satiety, prevents energy crashes, and reduces overeating at subsequent meals. Examples include apple slices with nut butter or yogurt with berries."
+  },
+  {
+    "category": "Stress Eating Awareness",
+    "short": "Recognize emotional eating triggers.",
+    "long": "Understanding when stress, boredom, or emotions drive eating helps you respond appropriately. Developing alternative coping strategies like walking, journaling, or deep breathing supports healthy weight habits."
+  },
+  {
+    "category": "Chew Food Thoroughly",
+    "short": "Eat slowly and mindfully.",
+    "long": "Taking time to chew food properly increases satiety signals to the brain, improves digestion, and reduces the risk of overeating. Mindful eating promotes a healthier relationship with food."
+  },
+  {
+    "category": "Limit Alcohol",
+    "short": "Reduce calorie-dense drinks.",
+    "long": "Alcohol contributes empty calories and can impair judgment, leading to overeating. Limiting alcohol intake supports calorie control and long-term weight management."
+  },
+  {
+    "category": "Consistent Meal Timing",
+    "short": "Eat at consistent times daily.",
+    "long": "Regular meal timing helps regulate metabolism, maintain energy levels, and control appetite. A predictable eating schedule can support fat loss and prevent unplanned snacking."
+  },
+  {
+    "category": "Track Macronutrients",
+    "short": "Balance protein, carbs, and fats.",
+    "long": "Understanding macronutrient intake helps optimize energy, satiety, and metabolism. Balancing macronutrients prevents nutrient deficiencies and supports sustainable weight management."
+  },
+  {
+    "category": "Include Vegetables in Every Meal",
+    "short": "Prioritize vegetables daily.",
+    "long": "Vegetables are nutrient-dense, low-calorie, and high in fiber, which helps fullness and digestion. Including vegetables in every meal supports overall health and aids weight control."
+  },
+  {
+    "category": "Smart Dining Out",
+    "short": "Make healthy choices when eating out.",
+    "long": "Opt for grilled or baked dishes, ask for dressings on the side, and prioritize vegetables. Being mindful while dining out helps maintain calorie control and supports consistent weight management habits."
+  },
+  {
+    "category": "Reduce Refined Carbs",
+    "short": "Limit white bread, pasta, and pastries.",
+    "long": "Refined carbohydrates can spike blood sugar and increase cravings. Choosing whole grains and fiber-rich alternatives stabilizes energy, reduces hunger, and supports long-term weight management."
+  },
+  {
+    "category": "Use Smaller Plates",
+    "short": "Control portions visually.",
+    "long": "Smaller plates can trick the brain into feeling satisfied with less food. Visual cues combined with mindful eating can help prevent overeating and support calorie management."
+  },
+  {
+    "category": "Incorporate High-Intensity Workouts",
+    "short": "Boost calorie burn efficiently.",
+    "long": "Short bursts of high-intensity interval training (HIIT) increase metabolic rate, improve cardiovascular health, and enhance fat loss. Combining HIIT with steady-state cardio and strength training produces optimal weight management results."
+  },
+  {
+    "category": "Avoid Liquid Calories",
+    "short": "Skip sugary drinks and juices.",
+    "long": "Liquid calories do not trigger fullness the same way solid foods do. Replacing these beverages with water, unsweetened tea, or black coffee reduces calorie intake and supports sustainable weight control."
+  },
+  {
+    "category": "Mindful Indulgence",
+    "short": "Enjoy treats in moderation.",
+    "long": "Completely restricting favorite foods can lead to binge eating. Mindful, occasional indulgences prevent feelings of deprivation while maintaining overall caloric balance."
+  },
+  {
+    "category": "Regular Weigh-Ins",
+    "short": "Track weight consistently.",
+    "long": "Weekly weigh-ins help monitor progress, identify trends, and adjust habits. Avoid daily obsessing, but consistent tracking allows for informed decisions about diet and activity."
+  },
+  {
+    "category": "Accountability",
+    "short": "Share your goals with someone.",
+    "long": "Having a friend, family member, or coach aware of your goals provides support and accountability. External motivation helps reinforce habits and improves adherence to a weight management plan."
+  },
+  {
+    "category": "Sleep for Weight Control",
+    "short": "Prioritize quality sleep.",
+    "long": "Adequate sleep regulates hunger hormones like ghrelin and leptin, reduces cravings, and improves decision-making around food. Consistent sleep supports both fat loss and muscle retention."
+  },
+  {
+    "category": "Gradual Changes",
+    "short": "Implement small, sustainable changes.",
+    "long": "Making incremental changes in diet, activity, and habits prevents burnout and promotes long-term adherence. Gradual improvements are more effective than drastic, short-term fixes."
+  },
+  {
+    "category": "Plan for Social Events",
+    "short": "Prepare for meals and snacks in social settings.",
+    "long": "Social gatherings often include high-calorie foods. Planning ahead, eating a healthy snack beforehand, or making mindful choices at the event helps maintain consistency and avoid overindulgence."
+  },
+  {
+    "category": "Hydration During Exercise",
+    "short": "Drink water when active.",
+    "long": "Proper hydration during workouts supports performance, reduces fatigue, and prevents mistaking thirst for hunger. Drinking water regularly ensures optimal metabolic function and calorie burning."
+  },
+  {
+    "category": "Meal Composition",
+    "short": "Balance each meal with macros.",
+    "long": "Including protein, complex carbohydrates, and healthy fats in every meal improves satiety, energy levels, and nutrient intake. Balanced meals reduce cravings and support consistent weight management."
+  },
+  {
+    "category": "Adjust Caloric Intake",
+    "short": "Tailor calories to goals.",
+    "long": "Understanding your energy needs allows for effective weight management. Whether aiming to lose, maintain, or gain weight, adjusting caloric intake based on activity level and goals ensures sustainable results."
+  },
+  {
+    "category": "Limit High-Calorie Condiments",
+    "short": "Be mindful of sauces and dressings.",
+    "long": "Condiments like mayonnaise, ketchup, and creamy dressings add calories quickly. Using them sparingly or choosing lighter alternatives supports better calorie control."
+  },
+  {
+    "category": "Stay Active Throughout the Day",
+    "short": "Incorporate movement outside workouts.",
+    "long": "Non-exercise activity like walking, taking stairs, or standing breaks contributes significantly to calorie expenditure. Increasing daily movement supports metabolism and complements structured exercise."
+  },
+  {
+    "category": "Celebrate Non-Scale Wins",
+    "short": "Focus on more than just the number.",
+    "long": "Notice improvements in strength, endurance, clothing fit, or energy levels. Recognizing non-scale achievements keeps motivation high and supports long-term adherence to healthy habits."
+  },
+  {
+    "category": "Meal Variety",
+    "short": "Rotate foods and recipes.",
+    "long": "Eating a wide variety of foods ensures nutrient diversity, reduces boredom, and supports sustainable eating habits. Trying new vegetables, proteins, and grains keeps meals enjoyable and satisfying."
+  },
+  {
+    "category": "Limit Late-Night Snacking",
+    "short": "Avoid unnecessary nighttime calories.",
+    "long": "Even small snacks late at night can add up and disrupt weight goals. Planning satisfying evening meals and limiting post-dinner snacking supports overall calorie management."
+  },
+  {
+    "category": "Plan for Setbacks",
+    "short": "Expect occasional slip-ups.",
+    "long": "Recognizing that setbacks are normal prevents discouragement. Developing a plan to get back on track maintains motivation and consistency, which is more important than perfection."
+  },
+  {
+    "category": "Cook at Home",
+    "short": "Control ingredients and portions.",
+    "long": "Preparing meals at home allows you to choose fresh, whole ingredients and manage portion sizes. Home cooking reduces exposure to hidden sugars, fats, and excess calories found in restaurant meals."
+  },
+  {
+    "category": "Limit Eating While Distracted",
+    "short": "Focus on meals without distractions.",
+    "long": "Eating while watching TV, working, or scrolling on devices often leads to overeating. Mindful attention to meals improves satiety recognition and supports long-term weight management."
+  },
+  {
+    "category": "Use Smaller Serving Utensils",
+    "short": "Serve appropriate portions.",
+    "long": "Using smaller spoons, bowls, or plates can help control portion sizes visually, reducing the risk of overeating while still enjoying meals and maintaining satisfaction."
+  },
+  {
+    "category": "Incorporate Daily Movement Goals",
+    "short": "Set achievable activity targets.",
+    "long": "Tracking steps, active minutes, or daily movement goals encourages consistent physical activity. Meeting small daily targets builds momentum and supports sustainable weight management."
+  },
+  {
+    "category": "Balance Treats with Nutrient-Dense Foods",
+    "short": "Enjoy treats without guilt.",
+    "long": "Incorporating occasional indulgences while prioritizing nutrient-rich foods prevents feelings of deprivation. This balance supports adherence, psychological wellbeing, and long-term weight success."
+  },
+  {
+    "category": "Set Realistic Goals",
+    "short": "Set achievable weight goals.",
+    "long": "Focus on gradual, realistic changes rather than rapid weight loss. Small, attainable goals reduce frustration, increase motivation, and support long-term sustainable results in both weight and health."
+  },
+  {
+    "category": "Track Macronutrients",
+    "short": "Monitor carbs, fats, and protein.",
+    "long": "Understanding your macronutrient intake helps optimize energy, satiety, and metabolic function. Balancing protein, complex carbs, and healthy fats supports fat loss while preserving muscle mass."
+  },
+  {
+    "category": "Include Lean Proteins",
+    "short": "Choose low-fat protein sources.",
+    "long": "Lean proteins like chicken, turkey, fish, tofu, and legumes provide essential amino acids for muscle maintenance while minimizing excess calories. Adequate protein supports metabolism and fullness."
+  },
+  {
+    "category": "Increase Non-Exercise Activity",
+    "short": "Move more throughout the day.",
+    "long": "Walking, taking stairs, stretching breaks, or standing more often increases daily calorie expenditure. These small, consistent movements complement structured exercise for better weight control."
+  },
+  {
+    "category": "Plan Grocery Trips",
+    "short": "Shop smart and strategically.",
+    "long": "Making a grocery list focused on whole, minimally processed foods reduces impulse purchases. Planning trips and sticking to a shopping strategy ensures healthy options are always available at home."
+  },
+  {
+    "category": "Use Healthy Cooking Methods",
+    "short": "Choose baking, grilling, or steaming.",
+    "long": "Cooking methods impact calorie content. Baking, grilling, steaming, or air-frying reduce added fats compared to frying, supporting healthier meals and better weight management."
+  },
+  {
+    "category": "Stay Patient",
+    "short": "Weight change takes time.",
+    "long": "Sustainable weight loss or gain occurs gradually. Being patient and consistent with habits reduces stress, prevents burnout, and promotes long-term success instead of quick, unsustainable fixes."
+  },
+  {
+    "category": "Avoid Extreme Diets",
+    "short": "Skip fad diets and extreme restrictions.",
+    "long": "Extreme diets can lead to nutrient deficiencies, muscle loss, and rebound weight gain. Focus on balanced, varied eating patterns that are enjoyable and sustainable for long-term results."
+  },
+  {
+    "category": "Practice Meal Mindfulness",
+    "short": "Eat slowly and attentively.",
+    "long": "Pay attention to hunger and fullness cues, chew thoroughly, and savor flavors. Mindful eating reduces overeating, improves digestion, and strengthens your relationship with food."
+  },
+  {
+    "category": "Include Resistance Training",
+    "short": "Build strength to support metabolism.",
+    "long": "Resistance training maintains and increases lean muscle, which burns more calories at rest. Consistent strength exercises help prevent weight regain and improve body composition."
+  },
+  {
+    "category": "Monitor Stress Levels",
+    "short": "Manage stress to avoid weight gain.",
+    "long": "Chronic stress elevates cortisol, which can increase appetite and fat storage, particularly around the abdomen. Stress management techniques like meditation, yoga, or deep breathing can support weight goals."
+  },
+  {
+    "category": "Limit Highly Processed Snacks",
+    "short": "Choose whole foods instead.",
+    "long": "Processed snacks are often high in sugar, salt, and unhealthy fats. Swapping them for fruits, nuts, or vegetables reduces unnecessary calories and supports more consistent weight management."
+  },
+  {
+    "category": "Cook with Herbs and Spices",
+    "short": "Enhance flavor without extra calories.",
+    "long": "Using herbs and spices adds taste and aroma without adding fats or sugars. Flavorful meals increase satisfaction, making it easier to stick to healthy eating patterns."
+  },
+  {
+    "category": "Eat Protein Early",
+    "short": "Include protein in breakfast.",
+    "long": "Starting the day with protein helps regulate appetite, stabilize blood sugar, and improve energy. High-protein breakfasts can reduce snacking and overeating later in the day."
+  },
+  {
+    "category": "Hydrate with Water-Rich Foods",
+    "short": "Eat foods with high water content.",
+    "long": "Fruits and vegetables like watermelon, cucumber, and oranges support hydration, fullness, and low-calorie intake. Water-rich foods complement overall fluid intake and weight management."
+  },
+  {
+    "category": "Include Omega-3 Fats",
+    "short": "Consume fatty fish or flaxseeds.",
+    "long": "Omega-3 fatty acids support heart health, reduce inflammation, and may aid in appetite regulation. Incorporating sources like salmon, chia seeds, or walnuts benefits both weight and overall wellness."
+  },
+  {
+    "category": "Use Smaller Portions When Eating Out",
+    "short": "Control restaurant meal sizes.",
+    "long": "Restaurant portions are often larger than necessary. Sharing meals, ordering half portions, or saving leftovers helps manage calorie intake without feeling deprived."
+  },
+  {
+    "category": "Avoid Sugary Breakfast Cereals",
+    "short": "Choose whole grains instead.",
+    "long": "Sugary cereals spike blood sugar and lead to early cravings. Opt for oatmeal, whole-grain toast, or eggs for sustained energy and appetite control."
+  },
+  {
+    "category": "Plan Exercise Around Food",
+    "short": "Coordinate workouts with meals.",
+    "long": "Timing meals and exercise strategically can improve energy, performance, and fat utilization. Eating a balanced snack before activity and a protein-rich meal after supports muscle maintenance and recovery."
+  },
+  {
+    "category": "Use a Support System",
+    "short": "Involve friends or family.",
+    "long": "Having accountability partners provides motivation, encouragement, and social support. Sharing goals with others increases consistency and adherence to weight management strategies."
+  },
+  {
+    "category": "Set Step Goals",
+    "short": "Track daily movement with steps.",
+    "long": "Daily step targets encourage consistent low-intensity activity that contributes to calorie burn. Incremental increases in steps improve metabolic health and support weight goals."
+  },
+  {
+    "category": "Plan for Holidays",
+    "short": "Prepare strategies for festive eating.",
+    "long": "Special occasions can challenge healthy habits. Planning ahead, moderating portions, and choosing nutrient-dense foods ensures you enjoy celebrations without compromising weight goals."
+  },
+  {
+    "category": "Embrace Non-Scale Victories",
+    "short": "Celebrate improvements beyond weight.",
+    "long": "Improvements in fitness, energy, mood, or clothing fit are important indicators of progress. Focusing only on scale numbers can be demotivating, whereas acknowledging non-scale achievements supports long-term adherence."
+  },
+  {
+    "category": "Avoid Emotional Eating",
+    "short": "Identify triggers and alternatives.",
+    "long": "Recognize when emotions drive eating rather than hunger. Engaging in stress relief, social support, or hobbies instead of snacking helps break unhealthy cycles and promotes consistent weight control."
+  },
+  {
+    "category": "Include Healthy Breakfast Fats",
+    "short": "Add nuts or avocado in the morning.",
+    "long": "Healthy fats at breakfast increase satiety, provide essential nutrients, and stabilize blood sugar. Balanced morning meals set the tone for better appetite control throughout the day."
+  },
+  {
+    "category": "Focus on Long-Term Habits",
+    "short": "Prioritize sustainable changes.",
+    "long": "Temporary diets may provide quick results but often fail long-term. Developing consistent, realistic habits around food, exercise, and lifestyle ensures lasting weight management."
+  },
+  {
+    "category": "Avoid Eating While Distracted",
+    "short": "Focus fully on meals.",
+    "long": "Watching TV, scrolling on devices, or multitasking while eating can lead to overeating. Mindful attention helps recognize fullness, improves digestion, and reinforces a healthy relationship with food."
+  },
+  {
+    "category": "Include Resistance Bands",
+    "short": "Use bands for strength exercises.",
+    "long": "Resistance bands provide a portable, versatile way to build muscle. Strength training with bands supports metabolism, fat loss, and overall functional fitness."
+  },
+  {
+    "category": "Avoid Late-Night Carbs",
+    "short": "Limit heavy carbs before bed.",
+    "long": "Eating high-carb meals late can spike insulin and promote fat storage. Focus on balanced dinners with protein and vegetables to support metabolism and uninterrupted sleep."
+  },
+  {
+    "category": "Increase Daily NEAT",
+    "short": "Boost non-exercise activity thermogenesis.",
+    "long": "Small movements like fidgeting, walking, or household chores increase daily calorie burn. Prioritizing NEAT complements structured workouts and aids sustainable weight management."
+  },
+  {
+    "category": "Incorporate Interval Training",
+    "short": "Alternate intensity during workouts.",
+    "long": "High-intensity intervals boost calorie expenditure and improve cardiovascular fitness. Combining interval training with steady-state exercise promotes fat loss while preserving lean muscle."
+  },
+  {
+    "category": "Prepare Healthy Snacks",
+    "short": "Have nutritious options ready.",
+    "long": "Cut vegetables, portion nuts, or pre-make yogurt parfaits to prevent reliance on processed snacks. Ready-to-eat healthy options support consistent calorie control and satiety."
+  },
+  {
+    "category": "Limit Added Salt",
+    "short": "Reduce sodium in meals.",
+    "long": "Excess salt can cause water retention and cravings for processed foods. Using herbs, spices, and natural flavorings enhances taste without adding unnecessary calories or compromising weight goals."
+  },
+  {
+    "category": "Mindful Alcohol Consumption",
+    "short": "Track alcohol intake carefully.",
+    "long": "Alcohol adds empty calories and can lower inhibitions, increasing food intake. Moderation and tracking intake are crucial for maintaining progress in weight management."
+  },
+  {
+    "category": "Focus on Protein Post-Workout",
+    "short": "Refuel with protein after exercise.",
+    "long": "Consuming protein after workouts aids muscle recovery, maintains lean mass, and supports metabolism. This helps maximize the benefits of exercise while promoting sustainable fat loss."
+  },
+  {
+    "category": "Visualize Success",
+    "short": "Use mental imagery to stay motivated.",
+    "long": "Visualizing healthy behaviors, progress, and desired outcomes reinforces positive habits. Mental rehearsal enhances commitment and helps maintain consistency in long-term weight management."
+  },
+  {
+    "category": "Maintain Consistency Over Perfection",
+    "short": "Prioritize regular habits over flawless days.",
+    "long": "Daily consistency matters more than occasional perfect choices. Building a pattern of mostly healthy choices leads to sustainable weight loss, improved health, and long-term behavioral change."
+  },
+  {
+    "category": "Reward Healthy Choices",
+    "short": "Celebrate progress non-food ways.",
+    "long": "Rewarding yourself with experiences like a walk, massage, or new workout gear reinforces positive behaviors. Non-food rewards encourage habit formation without adding unnecessary calories."
+  },
+  {
+    "category": "Track Physical Measurements",
+    "short": "Monitor waist, hips, and body composition.",
+    "long": "Tracking measurements provides a fuller picture than weight alone. Changes in body composition and inches lost indicate fat loss and muscle gain, keeping motivation high and informing adjustments."
+  }
+]

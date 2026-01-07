@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - Zawal Facts Hub</title>
+
+  <!-- MAIN SITE CSS -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style2.css">
+
+
+  <!-- CONTACT PAGE ONLY CSS -->
+  <link rel="stylesheet" href="contact.css">
+
+  <!-- FONTS -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="contact-page">
+
+<!-- HEADER -->
+<header>
+  <h1>
+    <img src="logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+
+  <nav id="nav-menu" class="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="/facts/facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech/tech.html">Tech Tips</a>
+    <a href="/tutorials/tutorials.html">Life Hacks</a>
+    <a href="/quiz/quiz-home.html">Quizzes</a>
+    <a href="/premium-facts.html">Premium Facts</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html" class="active">Contact</a>
+  </nav>
+</header>
+
+<!-- CONTACT PAGE HEADER -->
+<div class="contact-header">
+  <h1>Contact Us</h1>
+  <p>We’re here to help — reach out anytime.</p>
+</div>
+
+<!-- CONTACT CONTAINER -->
+<main class="contact-container">
+
+  <!-- CONTACT INFO BOXES -->
+  <div class="contact-grid">
+
+    <div class="contact-card">
+      <h3>Email Support</h3>
+      <p>Have questions or issues? Send us an email anytime.</p>
+      <a href="#" data-department="Support" class="contact-btn">
+        support@zawalfactshub.com
+      </a>
+    </div>
+
+    <div class="contact-card">
+      <h3>Business / Partnerships</h3>
+      <p>For business deals, partnerships, sponsorships and more.</p>
+      <a href="#" data-department="Business" class="contact-btn">
+        business@zawalfactshub.com
+      </a>
+    </div>
+
+    <div class="contact-card">
+      <h3>Report an Issue</h3>
+      <p>Found a bug? Broken link? Wrong fact? Let us know.</p>
+      <a href="#" data-department="Report" class="contact-btn">
+        report@zawalfactshub.com
+      </a>
+    </div>
+
+  </div>
+
+  <!-- CONTACT FORM (FORMSPREE READY) -->
+  <div class="contact-form-box">
+    <h2>Send Us a Message</h2>
+    <p>Fill out the form below and we’ll respond as soon as possible.</p>
+
+    <form action="https://formspree.io/f/xqardbyk" method="POST" class="contact-form">
+
+      <input type="text" name="name" placeholder="Your Name" required>
+
+      <input type="email" name="email" placeholder="Your Email" required>
+
+      <select name="department" class="form-select" required>
+        <option value="">Select Type</option>
+        <option value="Support">Support</option>
+        <option value="Business">Business / Partnerships</option>
+        <option value="Report">Report an Issue</option>
+      </select>
+
+      <textarea name="message" rows="5" placeholder="Type your message..." required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </div>
+
+</main>
+
+<!-- FOOTER -->
+<!-- FUTURISTIC SOCIAL COMBO -->
+<footer>
+<section class="social-combo">
+  <h2>Connect With Us</h2>
+  <p class="combo-text">
+    Join our channels for daily facts, tips, and motivation:
+  </p>
+  
+<div class="social-logos">
+  <a href="https://www.tiktok.com/@zawal.facts.hub"
+     target="_blank"
+     class="social-icon tiktok">
+    <img src="images/tiktok-logo.png" alt="Zawal Facts Hub on TikTok">
+  </a>
+
+   <a href="https://www.facebook.com/share/17wGHjgNps/?mibextid=wwXIfr"
+   target="_blank"
+   class="social-icon facebook">
+  <img src="images/facebooklogo.png" alt="Zawal Facts Hub on Facebook">
+</a>
+
+     <a href="https://pin.it/5H5wylnsD" target="_blank" class="social-icon pinterest">
+     <img src="images/pinterest-logo.png" alt="Pinterest">
+   </a>
+   <a href="https://whatsapp.com/channel/0029Vb7c5c63rZZg6lenhs3m"
+   target="_blank"
+   class="social-icon whatsapp">
+  <img src="images/whatsapp-logo.png" alt="WhatsApp Channel">
+</a>
+  </div>
+</section>
+
+<div class="footer-links" style="text-align: center;">
+  <a href="about.html">About</a>
+  <a href="privacy.html">Privacy Policy</a>
+  <a href="contact.html">Contact</a>
+</div>
+
+<p class="copy" style="text-align:center;">© 2025 Zawal Facts Hub • All rights reserved.</p>
+</footer>
+<!-- HAMBURGER MENU SCRIPT -->
+<script>
+  const hamburger = document.getElementById("hamburger");
+  const navMenu = document.getElementById("nav-menu");
+
+  hamburger.addEventListener("click", () => {
+    navMenu.classList.toggle("open");
+  });
+</script>
+
+<!-- NEWSLETTER FORM -->
+<script>
+  function subscribe(event) {
+    event.preventDefault();
+    const email = document.getElementById("subscriber-email").value;
+    if (email) alert(`Thank you! ${email} has been subscribed.`);
+    document.getElementById("subscriber-email").value = "";
+  }
+</script>
+
+<!-- AUTO-RESET CONTACT FORM ON PAGE LOAD -->
+<script>
+  window.addEventListener("load", function() {
+    const form = document.querySelector(".contact-form");
+    if (form) form.reset();
+  });
+</script>
+
+<!-- SCROLL + AUTO-SELECT DEPARTMENT -->
+<script>
+  const contactButtons = document.querySelectorAll(".contact-btn[data-department]");
+  const formSelect = document.querySelector(".contact-form select");
+
+  contactButtons.forEach(button => {
+    button.addEventListener("click", (e) => {
+      e.preventDefault();
+      const department = button.getAttribute("data-department");
+
+      document.querySelector(".contact-form-box")
+        .scrollIntoView({ behavior: "smooth" });
+
+      setTimeout(() => {
+        formSelect.value = department;
+      }, 300);
+    });
+  });
+</script>
+<!-- Include the menu JS & CSS -->
+<link rel="stylesheet" href="menu.css">
+<script src="menu.js"></script>
+<script src="lazyload.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+/* BASIC RESET */
+.social-combo {
+  text-align: center;
+  margin: 20px auto;
+}
+
+/* TEXT ONLY */
+.social-combo h2,
+.social-combo p {
+  color: bronze;
+}
+
+/* SIMPLE ICON LAYOUT */
+.social-logos {
+  display: block;
+}
+
+/* LINKS */
+.social-logos a {
+  display: inline-block;
+  margin: 10px;
+}
+
+/* IMAGES — NO RESTRICTIONS */
+.social-logos img {
+  width: 60px;
+  height: auto;
+  max-width: 100%;
+  display: inline-block;
+}

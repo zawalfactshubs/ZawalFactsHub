@@ -1,0 +1,992 @@
+[
+  {
+    "category": "Personal Growth",
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Whether you think you can or think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "What gets scheduled gets done.",
+    "author": "Michael Hyatt"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude turns what we have into enough.",
+    "author": "Aesop"
+  },
+  {
+    "category": "Purpose",
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Motivation gets you started; habit keeps you going.",
+    "author": "Jim Ryun"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "A positive attitude gives you power over your circumstances.",
+    "author": "Joyce Meyer"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Rock bottom became the solid foundation on which I rebuilt my life.",
+    "author": "J.K. Rowling"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Don't aim for success if you want it; just do what you love and believe in.",
+    "author": "David Frost"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence comes not from always being right but from not fearing to be wrong.",
+    "author": "Peter T. Mcintyre"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+    "author": "Stephen Covey"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Wear gratitude like a cloak and it will feed every corner of your life.",
+    "author": "Rumi"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Efforts and courage are not enough without purpose and direction.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Small daily improvements over time lead to stunning results.",
+    "author": "Robin Sharma"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Do not be embarrassed by your failures, learn from them and start again.",
+    "author": "Richard Branson"
+  },
+  {
+    "category": "Confidence",
+    "quote": "With realization of one's own potential and self-confidence, one can build a better world.",
+    "author": "Dalai Lama"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Focus on being productive, not busy.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is not only the greatest of virtues, but the parent of all others.",
+    "author": "Cicero"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your purpose in life is to find your purpose and give your whole heart and soul to it.",
+    "author": "Buddha"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "You can't use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "The only limits in life are the ones you make.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Opportunities don't happen, you create them.",
+    "author": "Chris Grosser"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Simplicity boils down to two steps: Identify the essential. Eliminate the rest.",
+    "author": "Leo Babauta"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is the fairest blossom which springs from the soul.",
+    "author": "Henry Ward Beecher"
+  },
+  {
+    "category": "Purpose",
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Don't be satisfied with stories, how things have gone with others. Unfold your own myth.",
+    "author": "Rumi"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Excellence is not a skill, it's an attitude.",
+    "author": "Ralph Marston"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Happiness is not something ready-made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Strength does not come from winning. Your struggles develop your strengths.",
+    "author": "Arnold Schwarzenegger"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Self-confidence is the memory of success.",
+    "author": "David Storey"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Discipline is choosing between what you want now and what you want most.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Start each day with a grateful heart.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Live your life with purpose and passion.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Dream, then do.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Be so good they can't ignore you.",
+    "author": "Steve Martin"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Today is a new day. Embrace it.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+    "author": "Mary Anne Radmacher"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Believe in yourself and all that you are.",
+    "author": "Christian D. Larson"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is the sign of noble souls.",
+    "author": "Aesop"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your work is to discover your world and then with all your heart give yourself to it.",
+    "author": "Buddha"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "The secret to creativity is knowing how to hide your sources.",
+    "author": "Albert Einstein"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Hard times build strong people.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Optimism is the faith that leads to achievement.",
+    "author": "Helen Keller"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Time is what we want most, but what we use worst.",
+    "author": "William Penn"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is the inward feeling of kindness received.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Do what you love, love what you do.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Every artist was first an amateur.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Every day may not be good, but there's something good in every day.",
+    "author": "Alice Morse Earle"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The comeback is always stronger than the setback.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Don't wait until everything is just right. It will never be perfect.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Do the hard jobs first. The easy jobs will take care of themselves.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Let us be grateful to people who make us happy; they are the charming gardeners.",
+    "author": "Marcel Proust"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "The desire to create is one of the deepest yearnings of the human soul.",
+    "author": "Dieter F. Uchtdorf"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Strength grows in the moments when you think you can’t go on but you keep going anyway.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "The early morning has gold in its mouth.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Every morning we are born again. What we do today is what matters most.",
+    "author": "Buddha"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Rise up, start fresh, see the bright opportunity in each new day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "An idea that is not dangerous is unworthy of being called an idea at all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+    "author": "William Butler Yeats"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Start your day with positive thoughts.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.",
+    "author": "Charles Dickens"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Your morning sets up the success of your day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Act as if you have already achieved it, and it will manifest.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Morning is wonderful. Its only drawback is that it comes at such an inconvenient time of day.",
+    "author": "Glen Cook"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "A grateful heart is a magnet for miracles.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "George Lorimer"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "In the morning, start your day with creativity and curiosity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Each morning we are given a new chance to succeed.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Every morning is a blank canvas… it is whatever you make out of it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "The breeze at dawn has secrets to tell you. Don’t go back to sleep.",
+    "author": "Rumi"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Morning is the perfect time to reflect on your potential.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Make your mornings productive and your days successful.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Begin each day with a grateful heart and watch your world transform.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Morning is a reminder that life is meant for progress.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Early morning creativity can set the tone for your day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The morning was full of sunlight and hope.",
+    "author": "Kate Chopin"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Your future is created by what you do today, not tomorrow.",
+    "author": "Robert Kiyosaki"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The greatest glory in living lies not in never falling, but in rising every morning after a fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Good morning! Remember: every morning brings new possibilities.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Wake up with courage and confidence.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "The way you start your morning determines the rest of your day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "A morning filled with gratitude starts a day full of blessings.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Each morning is a chance to live purposefully.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Morning light sparks innovative ideas.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Rise early, work hard, strike oil.",
+    "author": "J. Paul Getty"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Good morning! Start with a smile.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Every morning starts a new chapter in life’s book.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Wake up early and tackle the day before it tackles you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Morning is the perfect time to empower yourself.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Plan your morning, plan your success.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Appreciate the new day, for it is a gift.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Begin your day with intention.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Morning inspiration fuels all-day creativity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The morning steals the night’s shadows.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Morning brings hope, energy, and opportunity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Each morning is a new battlefield—conquer it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Early risers get a head start on life.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Morning confidence carries through the day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Win the morning, win the day.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Morning reflection makes the day brighter.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Wake up with a purpose and passion.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Start your morning with a creative spark.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Morning energy is the fuel for growth.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Rise up and attack the day with enthusiasm.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The sun rises even after the darkest night.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Morning habits determine evening results.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence starts with your first morning thought.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Mornings are for action, not excuses.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Morning gratitude sets a positive tone for the day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Start your day with intention, not inertia.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Morning routines inspire innovation.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Strength grows in the moments when you think you can’t go on but you keep going anyway.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "The early morning has gold in its mouth.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Every morning we are born again. What we do today is what matters most.",
+    "author": "Buddha"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Rise up, start fresh, see the bright opportunity in each new day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "An idea that is not dangerous is unworthy of being called an idea at all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+    "author": "William Butler Yeats"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Start your day with positive thoughts.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The sun himself is weak when he first rises, and gathers strength and courage as the day gets on.",
+    "author": "Charles Dickens"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Your morning sets up the success of your day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Act as if you have already achieved it, and it will manifest.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Morning is wonderful. Its only drawback is that it comes at such an inconvenient time of day.",
+    "author": "Glen Cook"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "A grateful heart is a magnet for miracles.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "George Lorimer"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "In the morning, start your day with creativity and curiosity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Each morning we are given a new chance to succeed.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Every morning is a blank canvas… it is whatever you make out of it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "The breeze at dawn has secrets to tell you. Don’t go back to sleep.",
+    "author": "Rumi"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Morning is the perfect time to reflect on your potential.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Make your mornings productive and your days successful.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Begin each day with a grateful heart and watch your world transform.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Morning is a reminder that life is meant for progress.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Early morning creativity can set the tone for your day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The morning was full of sunlight and hope.",
+    "author": "Kate Chopin"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Your future is created by what you do today, not tomorrow.",
+    "author": "Robert Kiyosaki"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The greatest glory in living lies not in never falling, but in rising every morning after a fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Good morning! Remember: every morning brings new possibilities.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Wake up with courage and confidence.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "The way you start your morning determines the rest of your day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "A morning filled with gratitude starts a day full of blessings.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Each morning is a chance to live purposefully.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Morning light sparks innovative ideas.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Rise early, work hard, strike oil.",
+    "author": "J. Paul Getty"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Good morning! Start with a smile.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Every morning starts a new chapter in life’s book.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Wake up early and tackle the day before it tackles you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Morning is the perfect time to empower yourself.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Plan your morning, plan your success.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Appreciate the new day, for it is a gift.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Begin your day with intention.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Morning inspiration fuels all-day creativity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The morning steals the night’s shadows.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Morning brings hope, energy, and opportunity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Each morning is a new battlefield—conquer it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Early risers get a head start on life.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Morning confidence carries through the day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Win the morning, win the day.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Morning reflection makes the day brighter.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Wake up with a purpose and passion.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Start your morning with a creative spark.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Morning energy is the fuel for growth.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset & Positivity",
+    "quote": "Rise up and attack the day with enthusiasm.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The sun rises even after the darkest night.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Morning habits determine evening results.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence starts with your first morning thought.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Focus & Productivity",
+    "quote": "Mornings are for action, not excuses.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Morning gratitude sets a positive tone for the day.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Start your day with intention, not inertia.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity / Innovation",
+    "quote": "Morning routines inspire innovation.",
+    "author": "Unknown"
+  }
+]

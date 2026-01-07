@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zawal Quiz</title>
+
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="quiz-home.css">
+</head>
+<body>
+
+<!-- HEADER (same site-wide header) -->
+<header>
+  <h1>
+    <img src="/logo.png" alt="Zawal Logo">
+    Zawal Quiz
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+  <nav class="nav-menu" id="nav-menu">
+    <a href="../index.html">Home</a>
+    <a href="../facts/facts.html">Facts</a>
+    <a href="../motivation/motivation.html">Motivation</a>
+    <a href="../health/health.html">Health Tips</a>
+    <a href="../tech.html">Tech Tips</a>
+    <a href="../tutorials.html">Life Hacks</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section class="quiz-hero">
+  <h2>Play & Learn</h2>
+  <p>Test your brain with fun, smart quizzes</p>
+</section>
+
+<!-- QUIZ CARDS -->
+<section class="quiz-grid">
+  
+  <!-- FACTS -->
+  <div class="quiz-card">
+    <a href="facts.html" class="card-link">
+      <div class="flip">
+        <div class="front">
+          <img src="../facts.jpg">
+          <h3>Facts Quiz</h3>
+        </div>
+        <div class="back">
+          <p>Human • Animal • Science • History</p>
+          <button>Start Quiz</button>
+        </div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- MOTIVATION -->
+  <div class="quiz-card">
+    <a href="motivation.html" class="card-link">
+      <div class="flip">
+        <div class="front">
+          <img src="../motivation.jpg">
+          <h3>Motivation Quiz</h3>
+        </div>
+        <div class="back">
+          <p>Success • Life • Mindset</p>
+          <button>Start Quiz</button>
+        </div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- HEALTH -->
+  <div class="quiz-card">
+    <a href="health.html" class="card-link">
+      <div class="flip">
+        <div class="front">
+          <img src="../health.jpg">
+          <h3>Health Quiz</h3>
+        </div>
+        <div class="back">
+          <p>Men • Women • Habits</p>
+          <button>Start Quiz</button>
+        </div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- TECH -->
+  <div class="quiz-card">
+    <a href="tech.html" class="card-link">
+      <div class="flip">
+        <div class="front">
+          <img src="../tech.jpg">
+          <h3>Tech Quiz</h3>
+        </div>
+        <div class="back">
+          <p>AI • Coding • Internet</p>
+          <button>Start Quiz</button>
+        </div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- LIFE HACKS -->
+  <div class="quiz-card">
+    <a href="lifehacks.html" class="card-link">
+      <div class="flip">
+        <div class="front">
+          <img src="../lifehack.jpg">
+          <h3>Life Hacks Quiz</h3>
+        </div>
+        <div class="back">
+          <p>Productivity • Money • Home</p>
+          <button>Start Quiz</button>
+        </div>
+      </div>
+    </a>
+  </div>
+  
+</section>
+<script>
+/* Hamburger */
+hamburger.onclick = () => nav-menu.classList.toggle("open");
+
+/* Navigate */
+function go(type){
+  window.location.href = `quiz-category.html?type=${type}`;
+}
+</script>
+
+</body>
+</html> 

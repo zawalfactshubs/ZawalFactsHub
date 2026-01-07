@@ -1,0 +1,502 @@
+[
+  {
+    "category": "Future Tech",
+    "short": "AI will become more autonomous.",
+    "long": "Future AI systems will operate with far less human supervision, making complex decisions on their own based on real-time data, past experiences, and learned patterns. These autonomous systems could manage businesses, transportation networks, cybersecurity defenses, and even scientific research, increasing efficiency while reducing human workload and error."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Quantum computing will solve impossible problems.",
+    "long": "Quantum computers will use quantum bits to perform calculations that are practically impossible for classical computers. This will enable breakthroughs in cryptography, drug discovery, financial modeling, and climate simulations by solving problems that would otherwise take thousands of years to compute."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Brain-computer interfaces will evolve.",
+    "long": "Brain-computer interfaces will allow direct communication between the human brain and machines. This technology could enable people to control devices, type messages, or operate vehicles using only their thoughts, offering life-changing solutions for individuals with paralysis or neurological disorders."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart cities will be fully automated.",
+    "long": "Smart cities will rely on interconnected sensors, AI systems, and real-time analytics to manage traffic, energy consumption, waste disposal, and emergency services automatically. These systems will reduce congestion, lower pollution levels, and improve overall urban living conditions."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Robots will assist daily life.",
+    "long": "Robots will move beyond factories and become common in homes, hospitals, and public spaces. They will assist with cleaning, caregiving, deliveries, customer service, and household chores, helping people save time and supporting aging populations."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Augmented reality will replace screens.",
+    "long": "Augmented reality technology will project digital information directly into the user’s field of vision through glasses or lenses. This could reduce dependence on phones, monitors, and televisions, creating a more immersive, hands-free way to interact with digital content."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Self-driving cars will dominate roads.",
+    "long": "Autonomous vehicles will use AI, sensors, and real-time mapping to navigate roads without human drivers. These cars could dramatically reduce traffic accidents, improve fuel efficiency, and transform transportation systems worldwide."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital humans will emerge.",
+    "long": "Digital humans powered by AI will interact with people in realistic ways, displaying emotions, speech, and decision-making abilities. They may serve as virtual assistants, teachers, entertainers, or customer service representatives."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Biotechnology will extend lifespan.",
+    "long": "Advances in biotechnology, such as gene editing and regenerative medicine, could slow aging and repair damaged cells. These breakthroughs may extend human lifespan while improving overall health and resistance to disease."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Neural implants will restore abilities.",
+    "long": "Neural implants will connect directly to the nervous system to restore lost abilities such as sight, hearing, or movement. This technology could help people recover from spinal injuries, strokes, and neurological disorders."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Holographic communication will rise.",
+    "long": "Holographic communication will allow people to interact through realistic three-dimensional projections. This technology could replace traditional video calls, making remote meetings and conversations feel more natural and immersive."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Space tourism will expand.",
+    "long": "Commercial space companies will make space travel accessible to civilians. As technology advances and costs decrease, more people will experience space flights, orbital stays, and potentially lunar tourism."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Energy storage will improve.",
+    "long": "Next-generation batteries and energy storage systems will store electricity more efficiently, safely, and sustainably. These improvements will support renewable energy adoption and reduce dependence on fossil fuels."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI doctors will assist healthcare.",
+    "long": "AI-powered medical systems will analyze patient records, medical images, and research data to assist doctors in diagnosing diseases earlier and recommending personalized treatment plans with greater accuracy."
+  },
+  {
+    "category": "Future Tech",
+    "short": "3D printing will build homes.",
+    "long": "Large-scale 3D printers will construct homes quickly using cost-effective and sustainable materials. This technology could significantly reduce housing costs and provide rapid shelter in disaster-stricken areas."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Wearable tech will become invisible.",
+    "long": "Wearable technology will become smaller and seamlessly integrated into clothing, skin, or accessories. These devices will continuously monitor health, location, and environmental conditions without being noticeable."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital twins will mirror reality.",
+    "long": "Digital twins will be virtual replicas of physical systems, cities, or even humans. These models will allow organizations to simulate scenarios, predict outcomes, and optimize performance before making real-world changes."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI creativity will rival humans.",
+    "long": "AI systems will generate music, art, films, and literature with creativity comparable to humans. These systems will analyze styles, emotions, and cultural trends to produce original creative works."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart implants will monitor health.",
+    "long": "Implanted sensors will continuously monitor vital signs such as heart rate, glucose levels, and hydration. These implants will alert users and doctors to health issues before symptoms become severe."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Voice interfaces will dominate.",
+    "long": "Voice and gesture-based interfaces will replace keyboards and touchscreens. People will interact with technology more naturally through speech, eye movement, and hand gestures."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Fusion energy may become real.",
+    "long": "Fusion energy technology aims to replicate the power of the sun to produce clean, nearly limitless energy. If successful, fusion reactors could provide a sustainable solution to global energy demands."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI tutors will personalize education.",
+    "long": "AI-powered tutors will adapt lessons to each student’s learning style, pace, and strengths. This personalized approach could improve educational outcomes and make learning more accessible worldwide."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Synthetic organs will save lives.",
+    "long": "Lab-grown organs created using bioengineering techniques will reduce organ transplant shortages. These synthetic organs could be tailored to patients, lowering rejection risks."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Robotic surgeons will improve precision.",
+    "long": "Robotic surgery systems will assist doctors by performing highly precise movements during complex procedures. This will reduce human error, shorten recovery times, and improve surgical outcomes."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Metaverse will reshape work.",
+    "long": "The metaverse will create virtual workspaces where people collaborate, attend meetings, and build projects in immersive digital environments, reducing the need for physical offices."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI companions will be common.",
+    "long": "AI companions will interact with people daily, offering conversation, assistance, and emotional support. These systems may help reduce loneliness and improve mental well-being."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Nanotechnology will transform medicine.",
+    "long": "Nanotechnology will enable tiny machines to deliver drugs directly to diseased cells, improving treatment accuracy and reducing side effects for patients."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart fabrics will adapt to weather.",
+    "long": "Smart fabrics will automatically adjust temperature, ventilation, and insulation based on environmental conditions, improving comfort and energy efficiency."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will predict natural disasters.",
+    "long": "AI models will analyze environmental data to predict natural disasters such as earthquakes, floods, and hurricanes earlier, helping communities prepare and save lives."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Wireless power will expand.",
+    "long": "Wireless power technology will allow devices to charge without cables through electromagnetic fields, reducing clutter and improving convenience."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI-generated movies will appear.",
+    "long": "AI systems will create films by generating scripts, visuals, music, and editing automatically. This could lower production costs and enable personalized storytelling."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Personal data vaults will grow.",
+    "long": "Personal data vaults will give users full control over their digital information, allowing them to decide who can access their data and even earn money from it."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart implants may enhance memory.",
+    "long": "Cognitive implants could enhance memory, focus, and learning by supporting brain functions digitally, potentially improving education and productivity."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Robotic farming will increase food supply.",
+    "long": "Robots and AI-powered systems will automate planting, harvesting, and monitoring crops, increasing agricultural efficiency and helping feed growing populations."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI language translation will be instant.",
+    "long": "Real-time AI translation will eliminate language barriers by instantly translating speech and text, enabling seamless global communication."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Autonomous drones will deliver goods.",
+    "long": "Autonomous drones will transport packages quickly and efficiently, especially in remote or congested areas, transforming logistics and delivery services."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart roads will communicate with cars.",
+    "long": "Smart road infrastructure will exchange data with vehicles to improve traffic flow, reduce accidents, and optimize navigation in real time."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI ethics systems will be required.",
+    "long": "Governments and organizations will implement AI ethics frameworks to ensure transparency, fairness, and accountability in automated decision-making systems."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital IDs will replace physical cards.",
+    "long": "Digital identity systems will securely store personal identification data, reducing the need for physical cards and simplifying verification processes."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Human-AI collaboration will increase.",
+    "long": "AI will increasingly act as a collaborative partner, enhancing human creativity, decision-making, and productivity rather than replacing people."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart glasses will replace phones.",
+    "long": "Smart glasses will display information directly in the user’s field of view, enabling communication, navigation, and media consumption without handheld devices."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will manage personal finances.",
+    "long": "AI systems will automatically manage budgeting, saving, investing, and expense tracking, helping individuals make smarter financial decisions."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Virtual reality therapy will expand.",
+    "long": "Virtual reality will be widely used in mental health treatment, helping patients manage anxiety, PTSD, and phobias through controlled immersive experiences."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will design new materials.",
+    "long": "AI algorithms will accelerate material discovery by simulating and testing properties digitally, leading to stronger, lighter, and more sustainable materials."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Emotion-aware AI will emerge.",
+    "long": "Emotion-aware AI systems will recognize facial expressions, voice tones, and body language to respond appropriately, improving human-computer interaction."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart homes will think ahead.",
+    "long": "Smart homes will predict user needs by learning habits and preferences, automatically adjusting lighting, temperature, security, and energy usage."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI governance will be global.",
+    "long": "International cooperation will establish global rules and standards for AI development to ensure safety, fairness, and ethical use worldwide."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Human enhancement tech will rise.",
+    "long": "Human enhancement technologies will improve physical strength, cognitive abilities, and sensory perception, blurring the line between biology and technology."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will become more autonomous.",
+    "long": "Future AI systems will not only assist humans but will be capable of making independent decisions, managing complex workflows, and performing tasks without direct supervision. They may learn from experiences, adapt to new challenges, and even collaborate with other AI agents to achieve goals efficiently."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Quantum computing will solve impossible problems.",
+    "long": "Quantum computers will leverage principles of quantum mechanics, such as superposition and entanglement, to solve highly complex problems that classical computers cannot handle. This could revolutionize fields like cryptography, material science, and drug discovery by providing solutions in seconds that would take traditional systems millennia."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Brain-computer interfaces will evolve.",
+    "long": "Advanced brain-computer interfaces will allow humans to communicate directly with machines using thoughts and neural signals. This technology could restore lost functions, enhance memory or learning, and create entirely new ways for humans to interact with digital systems."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart cities will be fully automated.",
+    "long": "Cities will integrate AI and IoT systems to manage traffic, energy, waste, and public safety autonomously. Sensors and predictive analytics will optimize resource allocation, reduce pollution, and improve urban living conditions by responding dynamically to the needs of residents."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Robots will assist daily life.",
+    "long": "Robots will become part of everyday life, performing household chores, assisting in healthcare, helping the elderly, and performing tasks that are repetitive or dangerous. Their presence will enhance productivity and allow humans to focus on creative or strategic activities."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Augmented reality will replace screens.",
+    "long": "AR glasses and contact lenses will overlay digital information onto the real world, replacing traditional screens. Users will interact with virtual interfaces seamlessly, from navigation and communication to work and entertainment, creating a mixed-reality environment."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Self-driving cars will dominate roads.",
+    "long": "Autonomous vehicles equipped with AI and sensor technologies will navigate streets safely and efficiently. They will reduce accidents caused by human error, optimize traffic flow, and transform urban mobility, potentially changing the way cities are designed and reducing the need for personal car ownership."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital humans will emerge.",
+    "long": "AI-generated avatars and digital personas will interact with humans realistically, simulating emotions, conversations, and social behaviors. They could serve as personal assistants, virtual companions, teachers, or entertainers, providing lifelike interactions in virtual spaces."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Biotechnology will extend lifespan.",
+    "long": "Advances in genetics, regenerative medicine, and gene editing could dramatically extend human lifespans. By repairing damaged cells, combating diseases, and slowing the aging process, biotechnology may enable healthier, longer lives and revolutionize healthcare."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Neural implants will restore abilities.",
+    "long": "Implants interfacing with the nervous system could restore lost sensory or motor functions, such as vision, hearing, or movement. They may also enhance cognition, memory, or learning capabilities, blurring the line between human biology and technology."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Holographic communication will rise.",
+    "long": "3D holographic projections will replace traditional video calls, creating immersive communication experiences. People could interact as lifelike projections, making remote meetings, education, and entertainment feel more realistic and engaging."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Space tourism will expand.",
+    "long": "Commercial spaceflight will make space travel accessible to civilians. Tourists may experience orbital flights, lunar visits, or stays in space hotels, creating a new industry and offering unique perspectives of Earth and beyond."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Energy storage will improve.",
+    "long": "Breakthroughs in battery technology and energy storage systems will allow for more efficient, long-lasting, and scalable storage of renewable energy. This will support grid stability, reduce dependence on fossil fuels, and enable widespread adoption of clean energy solutions."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI doctors will assist healthcare.",
+    "long": "AI-driven diagnostic tools and virtual medical assistants will help doctors analyze complex data, detect diseases early, and create personalized treatment plans. This integration of AI into healthcare will improve accuracy, efficiency, and accessibility of medical services."
+  },
+  {
+    "category": "Future Tech",
+    "short": "3D printing will build homes.",
+    "long": "Advanced 3D printing techniques will allow construction of entire houses quickly, cheaply, and with reduced waste. This technology could address housing shortages, enable custom designs, and revolutionize the construction industry."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Wearable tech will become invisible.",
+    "long": "Devices embedded in clothing, skin, or even tattoos will monitor health, provide augmented reality experiences, and deliver notifications seamlessly. These wearables will operate invisibly, integrating into daily life without disrupting normal activities."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital twins will mirror reality.",
+    "long": "Virtual replicas of physical systems, from factories to cities, will simulate real-world processes in real time. Digital twins will allow predictive maintenance, optimization, and testing of changes before they are implemented, reducing risk and improving efficiency."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI creativity will rival humans.",
+    "long": "Artificial intelligence will generate original art, music, literature, and design. By analyzing styles, trends, and patterns, AI will produce creative works that may rival human output, transforming industries and democratizing creative expression."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart implants will monitor health.",
+    "long": "Internal sensors and implants will continuously track vital signs, detect anomalies, and alert users or healthcare providers to potential health issues in real time. This will enable proactive and personalized healthcare management."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Voice interfaces will dominate.",
+    "long": "Natural language processing and voice recognition will make interacting with devices as simple as speaking. Typing, touchscreens, and keyboards may become obsolete as AI understands commands, answers questions, and controls environments through voice alone."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Fusion energy may become real.",
+    "long": "Fusion reactors, harnessing the same process that powers the sun, could provide nearly limitless clean energy. This breakthrough would drastically reduce reliance on fossil fuels, mitigate climate change, and transform global energy systems."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI tutors will personalize education.",
+    "long": "Artificial intelligence will create adaptive learning programs tailored to individual students. By analyzing progress, strengths, and weaknesses, AI tutors will optimize instruction, making education more effective, personalized, and accessible worldwide."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Synthetic organs will save lives.",
+    "long": "Lab-grown or 3D-printed organs will address transplant shortages, allowing patients to receive organs without waiting for donors. These synthetic organs could be customized for each individual, reducing rejection risks and improving outcomes."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Robotic surgeons will improve precision.",
+    "long": "Surgical robots guided by AI will perform complex procedures with higher precision than human hands alone. This technology will minimize errors, reduce recovery times, and expand the possibilities of minimally invasive surgery."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Metaverse will reshape work.",
+    "long": "Virtual environments will provide immersive workplaces where employees can collaborate, socialize, and interact in ways that blend physical and digital experiences. The metaverse may redefine office culture, remote work, and global collaboration."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI companions will be common.",
+    "long": "Intelligent virtual assistants and companions will provide emotional support, personalized advice, and interactive experiences. These AI entities may be used for mental health support, education, or daily task management, becoming integral to everyday life."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Nanotechnology will transform medicine.",
+    "long": "Nanoscale machines and devices will deliver drugs precisely to diseased cells, repair tissues, and detect diseases at the molecular level. Nanotechnology will make treatments more effective, targeted, and minimally invasive."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart fabrics will adapt to weather.",
+    "long": "Clothing made from intelligent materials will automatically adjust to temperature, humidity, and environmental conditions. These smart fabrics could heat, cool, or protect the wearer dynamically, enhancing comfort and efficiency."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will predict natural disasters.",
+    "long": "AI systems will analyze massive amounts of environmental data to anticipate earthquakes, floods, hurricanes, and other natural disasters. Early warning systems will save lives, minimize damage, and help communities prepare more effectively."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Wireless power will expand.",
+    "long": "Devices will increasingly rely on wireless energy transmission, eliminating the need for cords and batteries. From smartphones to electric vehicles, wireless power will make charging seamless, flexible, and ubiquitous."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI-generated movies will appear.",
+    "long": "Artificial intelligence will write scripts, design sets, generate characters, and produce entire films. Personalized movies may adapt to viewers’ preferences, creating a new era of interactive, AI-driven entertainment."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Personal data vaults will grow.",
+    "long": "Individuals will have secure digital vaults to store, manage, and monetize their personal information. AI-driven systems will help protect privacy, provide transparency, and allow people to control how their data is used."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart implants may enhance memory.",
+    "long": "Neural implants could boost human memory capacity, improve recall, and facilitate faster learning. This technology may enable cognitive enhancements for education, work, or creative problem-solving, fundamentally changing human potential."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Robotic farming will increase food supply.",
+    "long": "Automated machinery, AI-driven monitoring, and robotics will make agriculture more efficient. Crops will be planted, harvested, and maintained with minimal human labor, boosting yields, reducing waste, and ensuring food security."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI language translation will be instant.",
+    "long": "Real-time AI translation will break down language barriers, enabling seamless communication across the globe. People will converse naturally in different languages, enhancing international collaboration, travel, and education."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Autonomous drones will deliver goods.",
+    "long": "AI-controlled drones will transport packages quickly and efficiently, reducing reliance on traditional delivery systems. They will navigate urban environments, optimize delivery routes, and provide faster, cost-effective logistics."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart roads will communicate with cars.",
+    "long": "Roads embedded with sensors and AI will interact with vehicles to provide real-time traffic updates, optimize routes, and enhance safety. Connected infrastructure will enable smarter, more efficient transportation networks."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI ethics systems will be required.",
+    "long": "As AI becomes more autonomous, governance frameworks and ethical AI systems will be necessary to ensure fairness, transparency, and safety. Regulators and organizations will develop standards to manage AI behavior responsibly."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital IDs will replace physical cards.",
+    "long": "All forms of identification may become digital, stored securely on devices or in the cloud. AI-driven verification will streamline authentication for banking, travel, healthcare, and government services, reducing fraud and improving convenience."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Human-AI collaboration will increase.",
+    "long": "AI will act as an intelligent partner rather than just a tool, assisting humans in decision-making, problem-solving, and creative work. This collaboration will enhance productivity, innovation, and learning across all industries."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart glasses will replace phones.",
+    "long": "Wearable AR glasses will display information, notifications, and interactive content directly in view. Users will access communication, navigation, and media without needing handheld devices, transforming mobile technology and human-computer interaction."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will manage personal finances.",
+    "long": "Intelligent financial assistants will analyze spending, suggest investments, automate savings, and optimize budgeting. AI-driven finance will make personal money management more efficient, accurate, and personalized."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Virtual reality therapy will expand.",
+    "long": "VR will be increasingly used to treat mental health conditions such as anxiety, PTSD, and phobias. Immersive simulations will create safe therapeutic environments, enhancing treatment efficacy and accessibility."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will design new materials.",
+    "long": "Machine learning will accelerate the discovery of new materials with specific properties, from stronger alloys to advanced polymers. This will enable rapid innovation in manufacturing, construction, medicine, and technology."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Emotion-aware AI will emerge.",
+    "long": "AI systems will be able to detect, interpret, and respond to human emotions through voice, facial expressions, and physiological signals. Emotion-aware AI will enhance human-computer interactions, customer service, and mental health applications."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart homes will think ahead.",
+    "long": "Homes will integrate AI, IoT devices, and predictive analytics to anticipate residents' needs. Lights, temperature, appliances, and security systems will adjust automatically based on habits, weather, and schedules, creating a fully adaptive living environment."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI governance will be global.",
+    "long": "As AI technologies impact every aspect of society, international frameworks and regulations will guide responsible development and deployment. Governments and organizations will collaborate to ensure AI is safe, ethical, and aligned with global interests."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Human enhancement tech will rise.",
+    "long": "Technologies like genetic engineering, neural implants, exoskeletons, and cognitive enhancements will augment human abilities. This will improve physical strength, mental acuity, and sensory perception, creating new opportunities for work, learning, and health."
+  },
+  {
+    "category": "Future Tech",
+    "short": "AI will write most software code.",
+    "long": "AI-powered coding assistants will handle the majority of software development, from writing, testing, and debugging code to creating entire applications autonomously. This will accelerate development cycles and reduce reliance on manual programming skills."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Smart contact lenses will display data.",
+    "long": "Contact lenses embedded with AR technology will overlay real-time information directly into the user's vision. Notifications, navigation prompts, health metrics, and augmented content will appear seamlessly without the need for external screens."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Digital immortality will be explored.",
+    "long": "AI models may preserve human personalities, memories, and behaviors digitally, creating virtual representations that can interact with the living. This could allow future generations to experience conversations and insights from people long after they’ve passed."
+  },
+  {
+    "category": "Future Tech",
+    "short": "Cities will use predictive policing AI.",
+    "long": "Advanced AI systems will analyze crime patterns, environmental data, and social trends to predict where crimes are likely to occur. Law enforcement can then deploy resources proactively, potentially preventing incidents before they happen while raising ethical and privacy considerations."
+  }
+]

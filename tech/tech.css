@@ -1,0 +1,139 @@
+/* ============================= */
+/* GLOBAL TECH STYLES FOR ALL SUBCATEGORIES */
+/* ============================= */
+
+/* LOAD MORE BUTTON */
+.load-more {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #CD7F32;
+  color: #1C2B2D;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.load-more:hover {
+  opacity: 0.9;
+}
+
+/* === TECH CARD - Modern, Minimalist, Futuristic === */
+.tech-card {
+  background: linear-gradient(145deg, #1C2B2D, #2B3B42);
+  color: #E5E7EB;
+  border-radius: 16px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 12px 24px rgba(28, 43, 45, 0.4);
+  border: 1px solid rgba(205, 127, 50, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  backdrop-filter: blur(4px);
+  margin-bottom: 20px;
+}
+
+.tech-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 16px 32px rgba(205, 127, 50, 0.5);
+}
+
+.tech-text {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 18px;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+}
+
+.tech-card .card-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.tech-card .card-buttons button {
+  flex: 1;
+  padding: 10px;
+  background: linear-gradient(135deg, #CD7F32, #FFD066);
+  color: #1C2B2D;
+  border: none;
+  border-radius: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 10px rgba(205, 127, 50, 0.3);
+}
+
+.tech-card .card-buttons button:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 8px 16px rgba(205, 127, 50, 0.5);
+  background: linear-gradient(135deg, #FFD066, #CD7F32);
+}
+
+/* OPTIONAL: uniform card headings */
+.tech-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+  color: #FFD066;
+}
+.posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+.tech-short {
+  font-size: 1.5rem;       /* slightly larger than normal text */
+  font-weight: 700;        /* bold */
+  margin-bottom: 0.5rem;   /* spacing before long tip */
+  color: #FFD066;          /* optional: highlight color */
+}
+/* ============================= */
+/* BUTTONS: LOAD MORE & GENERATE TIP */
+/* ============================= */
+.load-more,
+.generate-tip {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #CD7F32;
+  color: #1C2B2D;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.load-more:hover,
+.generate-tip:hover {
+  opacity: 0.9;
+}
+/* ============================= */
+/* COMPACT TIP OF THE DAY CARD */
+/* ============================= */
+
+.fact-of-day .tip-of-day-card {
+  padding: 12px !important;
+  max-width: 520px;
+  margin: 0 auto 10px;
+}
+
+/* Kill height expansion */
+.fact-of-day .tip-of-day-card .card-content {
+  padding: 0 !important;
+}
+
+/* Force short text */
+.fact-of-day .tip-of-day-card .tip-text {
+  font-size: 1rem !important;
+  line-height: 1.35;
+  margin: 0;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;   /* 👈 ONLY 2 LINES */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

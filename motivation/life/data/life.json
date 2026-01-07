@@ -1,0 +1,1434 @@
+[
+  {
+    "category": "Personal Growth",
+    "quote": "Discipline is choosing what you want most over what you want now.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "The goal isn't more money. The goal is financial freedom.",
+    "author": "Tony Robbins"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your mind is a garden. Your thoughts are the seeds.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Leadership",
+    "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
+  },
+  {
+    "category": "Productivity",
+    "quote": "What gets scheduled gets done.",
+    "author": "Michael Hyatt"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your network is your net worth.",
+    "author": "Porter Gale"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Sometimes the best ideas come while eating a sandwich.",
+    "author": "Anonymous"
+  },
+  
+  {
+    "category": "Personal Growth",
+    "quote": "Small daily improvements are the key to staggering long-term results.",
+    "author": "Robin Sharma"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Hard work beats talent when talent doesn't work hard.",
+    "author": "Tim Notke"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Do not save what is left after spending; instead spend what is left after saving.",
+    "author": "Warren Buffett"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Whether you think you can or think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  
+  {
+    "category": "Leadership",
+    "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+    "author": "Simon Sinek"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs"
+  },
+  {
+    "category": "Productivity",
+    "quote": "If you don't prioritize your life, someone else will.",
+    "author": "Greg McKeown"
+  },
+  {
+    "category": "Networking",
+    "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+    "author": "African Proverb"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Half of success is just showing up. The other half is coffee.",
+    "author": "Anonymous"
+  },
+  
+  {
+    "category": "Personal Growth",
+    "quote": "Motivation gets you started; habit keeps you going.",
+    "author": "Jim Ryun"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "The more you learn, the more you earn.",
+    "author": "Warren Buffett"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Rock bottom became the solid foundation on which I rebuilt my life.",
+    "author": "J.K. Rowling"
+  },
+  {
+    "category": "Mindset",
+    "quote": "A positive attitude gives you power over your circumstances.",
+    "author": "Joyce Meyer"
+  },
+  
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is the sum of small efforts repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude turns what we have into enough.",
+    "author": "Aesop"
+  },
+  {
+    "category": "Purpose",
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  
+  {
+    "category": "Personal Growth",
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Your wealth can only grow to the extent you grow yourself.",
+    "author": "T. Harv Eker"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The comeback is always stronger than the setback.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Mindset",
+    "quote": "The only limits in life are the ones you make.",
+    "author": "Anonymous"
+  },
+  
+  {
+    "category": "Leadership",
+    "quote": "A genuine leader is not a searcher for consensus but a molder of consensus.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "category": "Creativity",
+    "quote": "You can't use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Focus on being productive, not busy.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "category": "Networking",
+    "quote": "Surround yourself with people who lift you higher.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Life is short. Smile while you still have teeth.",
+    "author": "Anonymous"
+  },
+  
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Enjoy the little things, for one day you may look back and realize they were the big things.",
+    "author": "Robert Brault"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your purpose is not something you find; it's something you build.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Health is the greatest wealth.",
+    "author": "Virgil"
+  },
+  {
+    "category": "Confidence",
+    "quote": "You are stronger than you think.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Discipline is doing what needs to be done even when you don’t feel like doing it.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Mindset",
+    "quote": "What you focus on expands.",
+    "author": "Tony Robbins"
+  },
+  {
+    "category": "Leadership",
+    "quote": "To command is to serve, nothing more and nothing less.",
+    "author": "André Malraux"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Dreams don’t work unless you do.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Every child is an artist. The problem is staying an artist when you grow up.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Believe you deserve it and the universe will serve it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Never depend on a single income; make investments to create a second source.",
+    "author": "Warren Buffett"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Failure is not the opposite of success; it’s part of success.",
+    "author": "Arianna Huffington"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "A healthy outside starts from the inside.",
+    "author": "Robert Urich"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is doing ordinary things extraordinarily well.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Networking",
+    "quote": "The fastest way to improve your life is to improve your circle.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude turns what we have into enough.",
+    "author": "Aesop"
+  },
+  {
+    "category": "Purpose",
+    "quote": "The meaning of life is to give life meaning.",
+    "author": "Viktor Frankl"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "If Monday had a face, I’d punch it.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your direction is more important than your speed.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "If you can't change the situation, change yourself.",
+    "author": "Max DePree"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Success is not for the lazy.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Leadership",
+    "quote": "A leader is a dealer in hope.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Storms make trees take deeper roots.",
+    "author": "Dolly Parton"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Wealth is not about having a lot of money; it’s about having a lot of options.",
+    "author": "Chris Rock"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "category": "Creativity",
+    "quote": "You can’t use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Wear your confidence like armor.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+    "author": "Jane Goodall"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Your body can stand almost anything. It’s your mind you have to convince.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your relationships determine your opportunities.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Productivity",
+    "quote": "The key is not to prioritize your schedule but to schedule your priorities.",
+    "author": "Stephen Covey"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Start each day with a thankful heart.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "I’m multitasking: I can listen, ignore, and forget all at once.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your mind is your greatest weapon—train it well.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "People buy into the leader before they buy into the vision.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Be better than you were yesterday.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Great things come from hard work and perseverance.",
+    "author": "Kobe Bryant"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The comeback is always stronger than the setback.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is a series of small wins.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity takes courage.",
+    "author": "Henri Matisse"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "The best investment you can make is in yourself.",
+    "author": "Warren Buffett"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence is built by doing the things you’re afraid to do.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Find your why and you’ll find your way.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Move your body. It’s a privilege.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your vibe attracts your tribe.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Productivity",
+    "quote": "One hour of focus beats five hours of distraction.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "The more grateful you are, the more present you become.",
+    "author": "Eckhart Tolle"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Be the kind of person your dog thinks you are.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your life moves in the direction of your strongest thoughts.",
+    "author": "Craig Groeschel"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is not something you chase; it is something you attract.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Leadership",
+    "quote": "Leadership is about making others better as a result of your presence.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Growth happens when you step outside your comfort zone and stay there long enough to learn.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your mind will always believe what you tell it. Feed it faith, feed it truth, feed it positivity.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Work until your idols become your rivals.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "A great leader’s courage to fulfill his vision comes from passion, not position.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity is seeing what everyone else has seen, and thinking what no one else has thought.",
+    "author": "Albert Szent-Györgyi"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "You may encounter many defeats, but you must not be defeated.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "The secret to getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is the sum of small efforts repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  {
+    "category": "Networking",
+    "quote": "Surround yourself with those who lift you higher.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Productivity is never an accident. It is always the result of commitment to excellence.",
+    "author": "Paul J. Meyer"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your purpose is not what you do; it’s what happens in others when you do it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is a magnet for miracles.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Take care of your body. It’s the only place you have to live.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence comes not from always being right but from not fearing to be wrong.",
+    "author": "Peter T. McIntyre"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Life is short. Smile while you still have teeth.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your reality is created by your thoughts—use them wisely.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Be willing to be a beginner every single morning.",
+    "author": "Meister Eckhart"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "The harder you work for something, the greater you’ll feel when you achieve it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "True leaders don’t create followers; they create more leaders.",
+    "author": "Tom Peters"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "You never know how strong you are until being strong is your only choice.",
+    "author": "Bob Marley"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+    "author": "Scott Adams"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Rich people plan for three generations. Poor people plan for Saturday night.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is not final; failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "category": "Networking",
+    "quote": "Build relationships before you need them.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Done is better than perfect.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "The struggle ends when gratitude begins.",
+    "author": "Neale Donald Walsch"
+  },
+  {
+    "category": "Purpose",
+    "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Your health is an investment, not an expense.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Believe in your infinite potential.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "If you think nobody cares if you’re alive, try missing a few payments.",
+    "author": "Earl Wilson"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The best investment you can make is in improving yourself.",
+    "author": "Warren Buffett"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Skill is only developed by hours and hours of work.",
+    "author": "Usain Bolt"
+  },
+  {
+    "category": "Leadership",
+    "quote": "Leaders become great not because of their power, but because of their ability to empower others.",
+    "author": "John C. Maxwell"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Out of difficulties grow miracles.",
+    "author": "Jean de La Bruyère"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Originality is nothing but judicious imitation.",
+    "author": "Voltaire"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "You must gain control over your money or the lack of it will forever control you.",
+    "author": "Dave Ramsey"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is focusing the full power of all you are on what you have a burning desire to achieve.",
+    "author": "Wilfred Peterson"
+  },
+  {
+    "category": "Networking",
+    "quote": "The quality of your life is the quality of your relationships.",
+    "author": "Tony Robbins"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Success is often the result of taking the initiative.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is the healthiest of all human emotions.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "category": "Purpose",
+    "quote": "If you can't figure out your purpose, figure out your passion. Your passion will lead you to your purpose.",
+    "author": "Bishop T.D. Jakes"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Healthy habits are learned in the same way unhealthy ones are—through practice.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "category": "Confidence",
+    "quote": "You are braver than you believe and stronger than you seem.",
+    "author": "A.A. Milne"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Common sense is like deodorant. The people who need it most never use it.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Don’t wish for it. Work for it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "A strong mind makes a strong life.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The biggest room in the world is the room for improvement.",
+    "author": "Helmut Schmidt"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Success is the reward of hard work, not luck.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your mindset determines your future more than your talents do.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The comeback is always stronger than the setback.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "A leader is a dealer in hope.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity doesn’t wait for perfect moments.",
+    "author": "Bruce Garrabrandt"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Financial freedom is not a number. It’s a mindset.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Chase the vision, not the money. The money will follow.",
+    "author": "Tony Hsieh"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude turns what we have into enough.",
+    "author": "Aesop"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your purpose becomes clear when you stop chasing applause and start pursuing meaning.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence is built by doing the things you fear.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "A healthy mind lives in a healthy body.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Focus on being productive, not busy.",
+    "author": "Tim Ferriss"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your relationships today are your opportunities tomorrow.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "I’m not procrastinating. I’m prioritizing my relaxation.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "If you want to change your life, change your habits.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Push yourself; no one else is going to do it for you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "A powerful mindset creates a powerful life.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Strength grows in the moments when you think you can’t go on but keep going anyway.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "You can’t lead others if you can’t lead yourself.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Every artist was first an amateur.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Save money and money will save you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is created by daily habits, not once-in-a-lifetime moments.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Let gratitude be your way of life.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "A life without purpose is like a ship without a compass.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "The moment you doubt whether you can fly, you cease forever to be able to do it.",
+    "author": "J.M. Barrie"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Your body hears everything your mind says.",
+    "author": "Naomi Judd"
+  },
+  {
+    "category": "Productivity",
+    "quote": "You become what you do consistently.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Connections become bridges to opportunities.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Life is too short to match your socks.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Become the person who would make your future self proud.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Discipline turns dreams into results.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your life is only as good as your mindset.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "A river cuts through rock not because of its power but because of its persistence.",
+    "author": "Jim Watkins"
+  },
+  {
+    "category": "Leadership",
+    "quote": "Leadership is the capacity to translate vision into reality.",
+    "author": "Warren Bennis"
+  },
+  {
+    "category": "Creativity",
+    "quote": "You can’t use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Wealth is not about having a lot of money; it’s about having a lot of options.",
+    "author": "Chris Rock"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is loving yourself, loving what you do, and loving how you do it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Be thankful for what you have; you’ll end up having more.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Don’t ask what the world needs. Ask what makes you come alive.",
+    "author": "Howard Thurman"
+  },
+  {
+    "category": "Confidence",
+    "quote": "With confidence, you have won before you have started.",
+    "author": "Marcus Garvey"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Wellness is the natural state of my body.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Don’t count the hours—make the hours count.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your circle should inspire you, not drain you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "My brain has too many tabs open.",
+    "author": "Anonymous"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Small improvements over time lead to massive transformations.",
+       "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Do the work no one else is willing to do.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Mindset is what separates the best from the rest.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Growth begins at the end of your comfort zone.",
+    "author": "Neale Donald Walsch"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "The work you do today builds the life you live tomorrow.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Think bigger. You can’t create a life you can’t imagine.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "category": "Leadership",
+    "quote": "Leadership is practiced not in words but in attitude and actions.",
+    "author": "Harold Geneen"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Money grows when you understand how to manage it, not when you chase it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success happens when your dreams become bigger than your excuses.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "The more grateful you are, the more beauty you see.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your purpose is the compass that keeps you from getting lost.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence is not 'they will like me.' Confidence is 'I’ll be fine if they don’t.'",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Your body is your most valuable asset — invest in it daily.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "The key to productivity is to remove distractions, not add tasks.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your network is your net worth — invest wisely.",
+    "author": "Porter Gale"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Life is short. Smile while you still have teeth.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Becoming better is a daily decision, not a yearly resolution.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Work until your idols become your rivals.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your reality is shaped by what you think consistently.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Every struggle you face is training for the moment you’ve been praying for.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "To lead is to serve — without service, leadership fails.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity thrives in environments of curiosity, not fear.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Spend less than you earn, invest the difference, repeat forever.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Your success story begins the moment you refuse to quit.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is the fastest way to shift your energy.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Purpose fuels persistence.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Talk to yourself like someone you love.",
+    "author": "Brené Brown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "If you don’t make time for wellness, you’ll be forced to make time for illness.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Small wins every day beat one big win someday.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Great relationships are built on value, not convenience.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "I’m on a seafood diet. I see food and I eat it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Your future needs you. Your past does not.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Your work ethic sets your baseline — raise it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your thoughts are architects of your destiny.",
+    "author": "David O. McKay"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "There is no failure except quitting.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Leadership",
+    "quote": "Leadership is about making others better as a result of your presence.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Ideas are easy. Execution is everything.",
+    "author": "John Doerr"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "The goal isn’t more money. The goal is more freedom.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success favors the prepared mind.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude softens even the hardest days.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Purpose",
+    "quote": "The world needs what only you can give.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Your confidence grows when you follow through on your own promises.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Take care of your body — you only get one.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "A clear mind gets more done.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Surround yourself with people who stretch your vision.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "If life gives you lemons, add salt and call it a snack.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Learn to rest, not to quit.",
+    "author": "Banksy"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Consistency is the partner of mastery.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Success starts with believing you can.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Every day is a chance to be better than yesterday.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Success is a byproduct of hard work and perseverance.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your attitude determines your altitude.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "The greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius"
+  },
+  {
+    "category": "Leadership",
+    "quote": "Leaders inspire others to dream more, learn more, and do more.",
+    "author": "John Quincy Adams"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Innovation comes from the courage to try and fail.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Financial freedom begins with knowing where every dollar goes.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Dreams without goals remain dreams.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is the heart’s memory.",
+    "author": "French Proverb"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your life’s purpose is hidden in plain sight — look closely.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Self-confidence is the best outfit; rock it and own it.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "A strong body fuels a strong mind.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Plan your work and work your plan.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your connections can either lift you or limit you; choose wisely.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "I’m not lazy; I’m just on energy-saving mode.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Your habits will determine your future.",
+    "author": "Jack Canfield"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Work hard in silence; let your success be the noise.",
+    "author": "Frank Ocean"
+  },
+  {
+    "category": "Mindset",
+    "quote": "You become what you believe.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Failure is only the opportunity to begin again, more intelligently.",
+    "author": "Henry Ford"
+  },
+  {
+    "category": "Leadership",
+    "quote": "A good leader takes a little more than their share of the blame, a little less than their share of the credit.",
+    "author": "Arnold H. Glasow"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Creativity is contagious — pass it on.",
+    "author": "Albert Einstein"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Invest in yourself first; the returns last a lifetime.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Small steps in the right direction lead to big results.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+    "author": "Melody Beattie"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Purpose is the reason you journey; passion is the fire that lights the way.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Confidence comes from being prepared and knowing your value.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Healthy habits are the building blocks of success.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Focus is the bridge between goals and accomplishments.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Build meaningful connections, not just contacts.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "I’m multitasking: I can listen, ignore, and forget all at once.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "The best project you’ll ever work on is you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "Success doesn’t come to you — you go to it.",
+    "author": "Marva Collins"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Your perception shapes your reality.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t.",
+    "author": "Rikki Rogers"
+  },
+  {
+    "category": "Leadership",
+    "quote": "The best leaders lead by example, not by command.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Creativity",
+    "quote": "Innovation is seeing what everyone has seen and thinking what no one has thought.",
+    "author": "Dr. Albert Szent-Györgyi"
+  },
+  {
+    "category": "Wealth & Finance",
+    "quote": "Don’t let money control you; control your relationship with money.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Success & Achievement",
+    "quote": "Success is not measured by what you accomplish, but by the opposition you have encountered.",
+    "author": "Booker T. Washington"
+  },
+  {
+    "category": "Gratitude",
+    "quote": "Gratitude is not only the greatest of virtues but the parent of all others.",
+    "author": "Cicero"
+  },
+  {
+    "category": "Purpose",
+    "quote": "Your purpose is the intersection of your passion and the world’s need.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Confidence",
+    "quote": "Don’t wait until everything is just right. Confidence comes by starting.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Health Motivation",
+    "quote": "Movement is medicine for the body, mind, and soul.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Productivity",
+    "quote": "Prioritize your energy, not your time.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Networking",
+    "quote": "Your influence is determined by the company you keep.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Fun / Weird",
+    "quote": "Life is short. Smile while you still have teeth.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Personal Growth",
+    "quote": "Push yourself because no one else is going to do it for you.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Career & Work Ethic",
+    "quote": "The harder you work, the luckier you get.",
+    "author": "Gary Player"
+  },
+  {
+    "category": "Mindset",
+    "quote": "Change your mindset, change your life.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Resilience / Failure",
+    "quote": "Tough times never last, but tough people do.",
+    "author": "Robert H. Schuller"
+  }
+]

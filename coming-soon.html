@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Coming Soon | Zawal Facts Hub</title>
+  <meta name="description" content="Interactive quizzes are coming soon to Zawal Facts Hub. Test your knowledge in facts, motivation, health, tech tips, and life hacks.">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header>
+  <h1>
+    <img src="../logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+  <div class="hamburger" id="hamburger">☰</div>
+  <nav class="nav-menu" id="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="../facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">health Tips</a>
+    <a href="../tech.html">Tech Tips</a>
+    <a href="../tutorials.html">Life Hacks</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html">Contact Us</a>
+    <a href="/premium-facts.html">Premium Facts</a>
+  </nav>
+</header>
+
+<!-- CATEGORIES -->
+<div class="categories">
+  <a class="category" href="../index.html">Home</a>
+  <a class="category" href="../facts/facts.html">Facts</a>
+  <a class="category" href="../motivation/motivation.html">Motivation</a>
+  <a class="category" href="../tech/tech.html">Tech Tips</a>
+  <a class="category" href="../health/health.html">Health Tips</a>
+  <a class="category" href="../tutorials.html">Life Hacks</a>
+</div>
+
+<!-- COMING SOON -->
+<section class="fact-of-day" style="max-width:850px;">
+  <span class="did-you-know">🧠 Quiz Mode</span>
+
+  <h2 style="margin-top:1rem;">Interactive Quiz Section — Coming Soon</h2>
+
+  <p style="margin-top:1.2rem; font-size:1.1rem;">
+    We’re building a powerful and fun quiz system that lets you test your
+    knowledge across multiple categories on <strong>Zawal Facts Hub</strong>.
+  </p>
+
+  <p style="margin-top:1rem; opacity:0.9;">
+    <strong>Quiz Categories will include:</strong><br><br>
+
+    • <strong>Facts:</strong> Humans, Animals, Plants, Nature, Science, Space<br>
+    • <strong>Motivation:</strong> Success, Life, Hustle, Strength, Mindset<br>
+    • <strong>Health Tips:</strong> Men, Women, Immunity, Hydration, Wellness<br>
+    • <strong>Tech Tips:</strong> Gadgets, AI, Cloud, Internet, Digital Tools<br>
+    • <strong>Life Hacks:</strong> Daily tricks, productivity & smart solutions
+  </p>
+
+  <p style="margin-top:1rem; opacity:0.85;">
+    This feature is currently under development and will be available very soon.
+    Get ready to learn, play, and challenge yourself 🚀
+  </p>
+
+  <a href="../index.html" class="generate-fact" style="margin-top:2rem; display:inline-block;">
+    ← Back to Home
+  </a>
+</section>
+
+<!-- FOOTER -->
+<footer class="modern-footer">
+  <p class="copy">© 2025 Zawal Facts Hub • All rights reserved.</p>
+</footer>
+
+<script>
+  const hamburger = document.getElementById("hamburger");
+  const navMenu = document.getElementById("nav-menu");
+  if (hamburger) {
+    hamburger.addEventListener("click", () => navMenu.classList.toggle("open"));
+  }
+</script>
+<!-- Include the menu JS & CSS -->
+<link rel="stylesheet" href="menu.css">
+<script src="menu.js"></script>
+<script src="lazyload.js" defer></script>
+</body>
+</html>

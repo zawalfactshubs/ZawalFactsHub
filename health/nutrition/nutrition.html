@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Nutrition & Healthy Eating | Zawal Facts Hub</title>
+  <meta name="description" content="Practical nutrition tips covering healthy eating, balanced diets, vitamins, and long-term wellness.">
+
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="../health2.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>
+    <img src="/logo.png" alt="Zawal Facts Hub Logo">
+    Zawal Facts Hub
+  </h1>
+
+  <div class="hamburger" id="hamburger">☰</div>
+  <nav class="nav-menu" id="nav-menu">
+    <a href="/index.html">Home</a>
+    <a href="/facts/facts.html">Facts</a>
+    <a href="/motivation/motivation.html">Motivation</a>
+    <a href="/health/health.html">Health Tips</a>
+    <a href="/tech/tech.html">Tech Tips</a>
+    <a href="/tutorials.html">Life Hacks</a>
+    <a href="/about.html">About</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/contact.html">Contact Us</a>
+    <a href="/premium-facts.html">Premium Facts</a>
+  </nav>
+</header>
+
+
+
+<!-- NUTRITION TIP OF THE DAY -->
+<section class="fact-of-day">
+  <h2>Today’s Nutrition Tip</h2>
+
+  <div class="card nutrition-card health-card" id="nutrition-tip-card">
+    <div class="card-content">
+      <p id="nutrition-tip-text" class="nutrition-text health-text">Loading...</p>
+    </div>
+  </div>
+
+  <button id="generate-nutrition-tip" class="generate-fact">
+    New Nutrition Tip
+  </button>
+</section>
+
+<!-- SEARCH -->
+<div class="search-bar">
+  <input type="text" id="nutrition-search-input" placeholder="Search nutrition tips...">
+  <button onclick="searchNutritionTips()">Search</button>
+</div>
+
+<p id="nutrition-no-results" class="no-results"
+   style="display:none;text-align:center;margin-top:1rem;color:#CD7F32;">
+  No results found.
+</p>
+  <!-- Categories -->
+  <div class="categories">
+    <a class="category" href="../index.html">Home</a>
+    <a class="category" href="../facts.html">Facts</a>
+    <a class="category" href="/motivation/motivation.html">Motivation</a>
+    <a class="category" href="/tech/tech.html">Tech Tips</a>
+    <a class="category" href="/health/health.html">Health Tips</a>
+    <a class="category" href="../tutorials.html">Life Hacks</a>
+  </div>
+<!-- TIPS GRID -->
+<section class="posts" id="nutrition-tips-grid"></section>
+
+<script src="nutrition.js"></script>
+  <script src="../../main.js" defer></script>
+    <!-- Include the menu JS & CSS -->
+  <link rel="stylesheet" href="../../menu.css">
+  <script src="../../menu.js"></script>
+  <script src="/stats.js"></script>
+  <script src="/lazyload.js" defer></script>
+</body>
+</html>
