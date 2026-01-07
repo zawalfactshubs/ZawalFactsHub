@@ -377,12 +377,10 @@ if (isHomePage && !sessionStorage.getItem(loaderShownKey)) {
   const rateBtn = document.getElementById("rate-btn");
   if (likeBtn) likeBtn.onclick = () => increment("likes");
   if (rateBtn) rateBtn.onclick = () => increment("ratings");
-
   // Load stats on page load
   updateStats();
 </script>
 <!-- Include the menu JS & CSS -->
-
 <script src="menu.js"></script>
 <script src="lazyload.js" defer></script>
 <script src="stats.js"></script>
